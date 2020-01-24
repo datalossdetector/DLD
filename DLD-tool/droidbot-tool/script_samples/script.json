@@ -1,0 +1,37 @@
+{
+    "views": {
+        "text1": {
+            "resource_id": ".*editText",
+            "class": ".*EditText"
+        },
+        "text2": {
+            "resource_id": ".*editText3",
+            "class": ".*EditText"
+        }
+    },
+    "states": {
+        "state": {
+            "views": ["text1", "text2"]
+        }
+    },
+    "operations": {
+        "operation1": [
+            {
+                "event_type": "set_text",
+                "target_view": "text1",
+                "text": "sample@email.com"
+            },
+            {
+                "event_type": "set_text",
+                "target_view": "text2",
+                "text": "sample_password"
+            },
+            {
+                "event_type": "exit"
+            }
+        ]
+    },
+    "main": {
+        "state": ["operation1"]
+    }
+}
