@@ -1,0 +1,89 @@
+{
+  "stop_state": "f2cb170a2f36b8f01a4427e5278bc173", 
+  "event_str": "FillUIEvent(state=381cd1172766ff86bdeca2967a5c7acf, views=['4f8571db0c25a6b41b1dd5acd557383c', '0778e2a1299f04942823cefc03f280ad'])", 
+  "tag": "2019-06-16_060829", 
+  "event": {
+    "views_str": [
+      "4f8571db0c25a6b41b1dd5acd557383c", 
+      "0778e2a1299f04942823cefc03f280ad"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 6, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.isoron.uhabits:id/checkbox", 
+        "is_password": false, 
+        "parent": 3, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": false, 
+        "view_str": "4f8571db0c25a6b41b1dd5acd557383c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            108
+          ], 
+          [
+            1032, 
+            204
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.isoron.uhabits:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.isoron.uhabits:id/checkbox", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": false, 
+        "view_str": "0778e2a1299f04942823cefc03f280ad", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            252
+          ], 
+          [
+            1032, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.isoron.uhabits:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "381cd1172766ff86bdeca2967a5c7acf"
+}

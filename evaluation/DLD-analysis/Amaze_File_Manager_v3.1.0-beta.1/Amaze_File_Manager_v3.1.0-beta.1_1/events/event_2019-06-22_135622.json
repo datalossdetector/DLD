@@ -1,0 +1,165 @@
+{
+  "stop_state": "eca7a084b2b616fadcf7a57945ea33bc", 
+  "event_str": "FillUIEvent(state=9a5e271be85e3bdf682fb0f017c57262, views=['a1fbed3b941f96959c3a60163e56f52a', '769c993ace4962e833aa76f24541c315', '1966be07736bbeebb819b6f6156c514f', '8aa3f57a2d5471f67609df00d0534275'])", 
+  "tag": "2019-06-22_135622", 
+  "event": {
+    "views_str": [
+      "a1fbed3b941f96959c3a60163e56f52a", 
+      "769c993ace4962e833aa76f24541c315", 
+      "1966be07736bbeebb819b6f6156c514f", 
+      "8aa3f57a2d5471f67609df00d0534275"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.amaze.filemanager:id/editText", 
+        "text": "Server: IP Addr. or IP Addr./SharedFolder", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.amaze.filemanager:id/editText", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": true, 
+        "view_str": "a1fbed3b941f96959c3a60163e56f52a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            670
+          ], 
+          [
+            932, 
+            806
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.amaze.filemanager:id/editText[text]Server: IP Addr. or IP Addr./SharedFolder[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.amaze.filemanager:id/editText3", 
+        "text": "Username", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.amaze.filemanager:id/editText3", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": true, 
+        "view_str": "769c993ace4962e833aa76f24541c315", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            806
+          ], 
+          [
+            932, 
+            942
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.amaze.filemanager:id/editText3[text]Username[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.amaze.filemanager:id/editText2", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.amaze.filemanager:id/editText2", 
+        "is_password": true, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": true, 
+        "view_str": "1966be07736bbeebb819b6f6156c514f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            942
+          ], 
+          [
+            932, 
+            1078
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.amaze.filemanager:id/editText2[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.amaze.filemanager:id/checkBox2", 
+        "text": "Anonymous", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "785*96", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.amaze.filemanager:id/checkBox2", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "8aa3f57a2d5471f67609df00d0534275", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            1078
+          ], 
+          [
+            932, 
+            1174
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.amaze.filemanager:id/checkBox2[text]Anonymous[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9a5e271be85e3bdf682fb0f017c57262"
+}

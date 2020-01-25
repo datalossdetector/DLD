@@ -1,0 +1,51 @@
+{
+  "stop_state": "83f408a0880a55411fda596ff6ec2683", 
+  "event_str": "FillUIEvent(state=b6da2354325b1d2943db3322a5812289, views=['d5ec887e2ab9a92d4d950eec7da3d6ed'])", 
+  "tag": "2019-06-17_074314", 
+  "event": {
+    "views_str": [
+      "d5ec887e2ab9a92d4d950eec7da3d6ed"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "Be there in about 10 minutes.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "d5ec887e2ab9a92d4d950eec7da3d6ed", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            839
+          ], 
+          [
+            945, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]Be there in about 10 minutes.[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b6da2354325b1d2943db3322a5812289"
+}

@@ -1,0 +1,89 @@
+{
+  "stop_state": "49fa7661dfe3f9697bd74b63b5b00678", 
+  "event_str": "FillUIEvent(state=29fe5b7c148504984e281d8304c7a5ee, views=['7966acaea37dedab4fd1c6afd1ab3205', '7966acaea37dedab4fd1c6afd1ab3205'])", 
+  "tag": "2019-06-18_055455", 
+  "event": {
+    "views_str": [
+      "7966acaea37dedab4fd1c6afd1ab3205", 
+      "7966acaea37dedab4fd1c6afd1ab3205"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "test12test1233", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "282*99", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "7966acaea37dedab4fd1c6afd1ab3205", 
+        "enabled": true, 
+        "bounds": [
+          [
+            531, 
+            1134
+          ], 
+          [
+            813, 
+            1233
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Cerca in Wikipedia [alt-f]", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "243*63", 
+        "checked": false, 
+        "temp_id": 219, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 218, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "7966acaea37dedab4fd1c6afd1ab3205", 
+        "enabled": true, 
+        "bounds": [
+          [
+            744, 
+            354
+          ], 
+          [
+            987, 
+            417
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "29fe5b7c148504984e281d8304c7a5ee"
+}

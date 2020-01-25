@@ -1,0 +1,89 @@
+{
+  "stop_state": "4c18c5183a464aa113bcc5972177ce78", 
+  "event_str": "FillUIEvent(state=32ddd8bf42e9bdeda3e40e869a2ebaa5, views=['051eef2de14c8348ae8a7f7f60620138', '11a11c675ba2b1fb153ac76dbc1c648c'])", 
+  "tag": "2019-06-10_044508", 
+  "event": {
+    "views_str": [
+      "051eef2de14c8348ae8a7f7f60620138", 
+      "11a11c675ba2b1fb153ac76dbc1c648c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/checkbox_custom_reminder_pattern", 
+        "text": "Custom pattern", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "632*201", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.github.quarck.calnotify:id/checkbox_custom_reminder_pattern", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "051eef2de14c8348ae8a7f7f60620138", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            537
+          ], 
+          [
+            707, 
+            738
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.github.quarck.calnotify:id/checkbox_custom_reminder_pattern[text]Custom pattern[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "10", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*144", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": true, 
+        "view_str": "11a11c675ba2b1fb153ac76dbc1c648c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            244, 
+            936
+          ], 
+          [
+            436, 
+            1080
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]10[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "32ddd8bf42e9bdeda3e40e869a2ebaa5"
+}

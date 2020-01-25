@@ -1,0 +1,279 @@
+{
+  "stop_state": "b2d1aa736ef519d9fd1302232e08fa64", 
+  "event_str": "FillUIEvent(state=b2d1aa736ef519d9fd1302232e08fa64, views=['4167cd099e6c3f0b22a163498a36e13c', '3953e5b98dd082695ce4a36eea621abc', 'd5b48aa9617090674ccdca5a9e5d9b49', '3953e5b98dd082695ce4a36eea621abc', '4167cd099e6c3f0b22a163498a36e13c', '3953e5b98dd082695ce4a36eea621abc', 'd5b48aa9617090674ccdca5a9e5d9b49'])", 
+  "tag": "2019-06-22_134835", 
+  "event": {
+    "views_str": [
+      "4167cd099e6c3f0b22a163498a36e13c", 
+      "3953e5b98dd082695ce4a36eea621abc", 
+      "d5b48aa9617090674ccdca5a9e5d9b49", 
+      "3953e5b98dd082695ce4a36eea621abc", 
+      "4167cd099e6c3f0b22a163498a36e13c", 
+      "3953e5b98dd082695ce4a36eea621abc", 
+      "d5b48aa9617090674ccdca5a9e5d9b49"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*8", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "4167cd099e6c3f0b22a163498a36e13c", 
+        "enabled": false, 
+        "bounds": [
+          [
+            892, 
+            240
+          ], 
+          [
+            1032, 
+            248
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "3953e5b98dd082695ce4a36eea621abc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            570
+          ], 
+          [
+            1032, 
+            651
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "d5b48aa9617090674ccdca5a9e5d9b49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            815
+          ], 
+          [
+            1032, 
+            896
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "3953e5b98dd082695ce4a36eea621abc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1008
+          ], 
+          [
+            1032, 
+            1089
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "4167cd099e6c3f0b22a163498a36e13c", 
+        "enabled": false, 
+        "bounds": [
+          [
+            892, 
+            1225
+          ], 
+          [
+            1032, 
+            1306
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "3953e5b98dd082695ce4a36eea621abc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1495
+          ], 
+          [
+            1032, 
+            1576
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*11", 
+        "checked": false, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.amaze.filemanager", 
+        "long_clickable": false, 
+        "view_str": "d5b48aa9617090674ccdca5a9e5d9b49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1765
+          ], 
+          [
+            1032, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b2d1aa736ef519d9fd1302232e08fa64"
+}

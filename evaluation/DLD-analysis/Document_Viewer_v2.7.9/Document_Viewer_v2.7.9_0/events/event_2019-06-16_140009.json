@@ -1,0 +1,50 @@
+{
+  "stop_state": "8bbe5e4a9cd32d20002710b2b4be7c85", 
+  "event_str": "SetTextEvent(state=863b7421b302c25ab84237e41315b6ed, view=1153a3366a49d83ba52b618ef84565a6, text=HelloWorld)", 
+  "tag": "2019-06-16_140009", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "/sdcard/Download", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*136", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.sufficientlysecure.viewer", 
+      "long_clickable": true, 
+      "view_str": "1153a3366a49d83ba52b618ef84565a6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          839
+        ], 
+        [
+          945, 
+          975
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]/sdcard/Download[enabled,,]"
+    }
+  }, 
+  "start_state": "863b7421b302c25ab84237e41315b6ed"
+}

@@ -1,0 +1,89 @@
+{
+  "stop_state": "d0d68a90b861ba5bd0669b4ddb548109", 
+  "event_str": "FillUIEvent(state=d0d68a90b861ba5bd0669b4ddb548109, views=['4e0fd0c2ae4f133bd8b043a75c78125c', '6fcc56cc2aad19a4b13fe86d7578dcd4'])", 
+  "tag": "2019-06-10_034119", 
+  "event": {
+    "views_str": [
+      "4e0fd0c2ae4f133bd8b043a75c78125c", 
+      "6fcc56cc2aad19a4b13fe86d7578dcd4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/radio_button_day_before", 
+        "text": "On the day before", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "520*163", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_day_before", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "4e0fd0c2ae4f133bd8b043a75c78125c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            1278
+          ], 
+          [
+            655, 
+            1441
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_day_before[text]On the day before[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/radio_button_day_of_event", 
+        "text": "On the day of event", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "559*119", 
+        "checked": true, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_day_of_event", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "6fcc56cc2aad19a4b13fe86d7578dcd4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            1441
+          ], 
+          [
+            694, 
+            1560
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_day_of_event[text]On the day of event[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "d0d68a90b861ba5bd0669b4ddb548109"
+}

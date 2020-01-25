@@ -1,0 +1,51 @@
+{
+  "stop_state": "0d5663a1db0c094a48b4d19be18aedcb", 
+  "event_str": "FillUIEvent(state=fc2f4a7189292ba34d80b7796c992317, views=['e0ce97a4c861e72d9b18cfd8f07eb319'])", 
+  "tag": "2019-06-16_073325", 
+  "event": {
+    "views_str": [
+      "e0ce97a4c861e72d9b18cfd8f07eb319"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/end_conversation_checkbox", 
+        "text": "End this conversation afterwards", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "710*96", 
+        "checked": true, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/end_conversation_checkbox", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "e0ce97a4c861e72d9b18cfd8f07eb319", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            1046
+          ], 
+          [
+            857, 
+            1142
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/end_conversation_checkbox[text]End this conversation afterwards[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "fc2f4a7189292ba34d80b7796c992317"
+}

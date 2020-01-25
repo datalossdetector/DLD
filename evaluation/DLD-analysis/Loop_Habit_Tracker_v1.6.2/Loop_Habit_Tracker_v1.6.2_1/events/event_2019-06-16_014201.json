@@ -1,0 +1,50 @@
+{
+  "stop_state": "cc9e3893d33d3e099b8ec1348dd7c801", 
+  "event_str": "SetTextEvent(state=cc9e3893d33d3e099b8ec1348dd7c801, view=5a03384c8c85562856ba21c414746659, text=HelloWorld)", 
+  "tag": "2019-06-16_014201", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.isoron.uhabits:id/tvDescription", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*128", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.isoron.uhabits", 
+      "long_clickable": true, 
+      "view_str": "5a03384c8c85562856ba21c414746659", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          707
+        ], 
+        [
+          960, 
+          835
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "cc9e3893d33d3e099b8ec1348dd7c801"
+}

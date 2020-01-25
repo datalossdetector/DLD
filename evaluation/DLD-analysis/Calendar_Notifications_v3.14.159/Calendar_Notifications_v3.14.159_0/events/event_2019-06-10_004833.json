@@ -1,0 +1,49 @@
+{
+  "stop_state": "1b65a17ed2e82ea95b6f841d48812fa8", 
+  "event_str": "TouchEvent(state=1ff4bcd8a7f3ed1f7ed3c9bdd53630f6, view=039d8c3fcfbc40a2264166a19cf0cb36)", 
+  "tag": "2019-06-10_004833", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/summary", 
+      "text": "Marshmallow and above only!\nThis would trigger app to use setAlarmClock API call when scheduling reminders and snoozed events\nThis would increase reminders time accuracy\nAs a side effect, user would see 'alarm' icon on UI when there are snoozed events or active reminders", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*400", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/summary", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": false, 
+      "view_str": "039d8c3fcfbc40a2264166a19cf0cb36", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          574
+        ], 
+        [
+          888, 
+          974
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/summary[text]None[enabled,,]"
+    }, 
+    "id": 20, 
+    "event_type": "touch"
+  }, 
+  "start_state": "1ff4bcd8a7f3ed1f7ed3c9bdd53630f6"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "64600fdba75e77095c87746ecdac128a", 
+  "event_str": "FillUIEvent(state=24a2b1f3968e869f4a01bed3fbbc0adc, views=['74725c59db757ae653b4b7c8cd859378'])", 
+  "tag": "2019-06-15_121641", 
+  "event": {
+    "views_str": [
+      "74725c59db757ae653b4b7c8cd859378"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.diary:id/text", 
+        "text": "test123\ntest123test123\nHelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*1536", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.diary:id/text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": true, 
+        "view_str": "74725c59db757ae653b4b7c8cd859378", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            240
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.diary:id/text[text]test123\ntest123test123\nHelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "24a2b1f3968e869f4a01bed3fbbc0adc"
+}

@@ -1,0 +1,203 @@
+{
+  "stop_state": "0a25a1e3404ac45166817495c3650ee7", 
+  "event_str": "FillUIEvent(state=b3c8cd7c6190b695cdaed1b7655ff4d1, views=['f2eb48374f33107f591a081b0cb5179e', '457d23e592d1c6b28358ccffb0f53a73', '457d23e592d1c6b28358ccffb0f53a73', 'edb6fee839144aab350f42bd5ec4e527', '0363edf2d13598688f8c41beac45e5c0'])", 
+  "tag": "2019-06-14_225433", 
+  "event": {
+    "views_str": [
+      "f2eb48374f33107f591a081b0cb5179e", 
+      "457d23e592d1c6b28358ccffb0f53a73", 
+      "457d23e592d1c6b28358ccffb0f53a73", 
+      "edb6fee839144aab350f42bd5ec4e527", 
+      "0363edf2d13598688f8c41beac45e5c0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.knirirr.beecount:id/newprojName", 
+        "text": "HelloWorldHellotest123test123World", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*127", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/newprojName", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "f2eb48374f33107f591a081b0cb5179e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            15, 
+            255
+          ], 
+          [
+            1065, 
+            382
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/newprojName[text]HelloWorldHellotest123test123World[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123test123HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1070*107", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "457d23e592d1c6b28358ccffb0f53a73", 
+        "enabled": true, 
+        "bounds": [
+          [
+            5, 
+            546
+          ], 
+          [
+            1075, 
+            653
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123test123HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123test123HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1070*107", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "457d23e592d1c6b28358ccffb0f53a73", 
+        "enabled": true, 
+        "bounds": [
+          [
+            5, 
+            663
+          ], 
+          [
+            1075, 
+            770
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123test123HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1070*107", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "edb6fee839144aab350f42bd5ec4e527", 
+        "enabled": true, 
+        "bounds": [
+          [
+            5, 
+            780
+          ], 
+          [
+            1075, 
+            887
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Item no. 4", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1070*107", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "0363edf2d13598688f8c41beac45e5c0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            5, 
+            897
+          ], 
+          [
+            1075, 
+            1004
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]Item no. 4[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b3c8cd7c6190b695cdaed1b7655ff4d1"
+}

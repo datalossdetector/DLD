@@ -1,0 +1,50 @@
+{
+  "stop_state": "e770e6e2067c04bde9fed0fb56fea262", 
+  "event_str": "LongTouchEvent(state=cc2b2fdd3ef62eb02d6c144d4f6785de, view=ee11f0ae0a2976947916c7a0d9ea6d7d, duration=2000)", 
+  "tag": "2019-07-08_221516", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/message_body", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "163*65", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]eu.siacs.conversations:id/message_body", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "ee11f0ae0a2976947916c7a0d9ea6d7d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          688, 
+          1470
+        ], 
+        [
+          851, 
+          1535
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]eu.siacs.conversations:id/message_body[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "cc2b2fdd3ef62eb02d6c144d4f6785de"
+}

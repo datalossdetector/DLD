@@ -1,0 +1,89 @@
+{
+  "stop_state": "3679e41de89c2c977f385886571816ce", 
+  "event_str": "FillUIEvent(state=6959b309d057787394601c87b5d0f8ff, views=['f7859182875fb5432bd04f35879e4f22', 'c3718002e35396b6524291013c1ea57b'])", 
+  "tag": "2019-06-08_053755", 
+  "event": {
+    "views_str": [
+      "f7859182875fb5432bd04f35879e4f22", 
+      "c3718002e35396b6524291013c1ea57b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/author", 
+        "text": "Yazar", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*148", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/author", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "f7859182875fb5432bd04f35879e4f22", 
+        "enabled": true, 
+        "bounds": [
+          [
+            15, 
+            231
+          ], 
+          [
+            1065, 
+            379
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/author[text]Yazar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/title", 
+        "text": "Kitap ad\u0131", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*148", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/title", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "c3718002e35396b6524291013c1ea57b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            15, 
+            379
+          ], 
+          [
+            1065, 
+            527
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/title[text]Kitap ad\u0131[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6959b309d057787394601c87b5d0f8ff"
+}

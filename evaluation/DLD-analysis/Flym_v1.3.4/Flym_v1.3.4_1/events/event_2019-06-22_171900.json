@@ -1,0 +1,127 @@
+{
+  "stop_state": "295f298c963ae8ee24e3338182cf0e2e", 
+  "event_str": "FillUIEvent(state=8f35847792d5d6355fac2d81ed82be36, views=['bd328e04c0c852e8cbdc30411faaffbd', '602fb0877c989b8e4b8b280dadd676d7', 'b0e24caf231288620881dcbf134ff05f'])", 
+  "tag": "2019-06-22_171900", 
+  "event": {
+    "views_str": [
+      "bd328e04c0c852e8cbdc30411faaffbd", 
+      "602fb0877c989b8e4b8b280dadd676d7", 
+      "b0e24caf231288620881dcbf134ff05f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "net.fred.feedex:id/feed_title", 
+        "text": "(optional)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]net.fred.feedex:id/feed_title", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "net.fred.feedex", 
+        "long_clickable": true, 
+        "view_str": "bd328e04c0c852e8cbdc30411faaffbd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            319
+          ], 
+          [
+            1050, 
+            437
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]net.fred.feedex:id/feed_title[text](optional)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "net.fred.feedex:id/feed_url", 
+        "text": "(website or feed)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "939*118", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]net.fred.feedex:id/feed_url", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "net.fred.feedex", 
+        "long_clickable": true, 
+        "view_str": "602fb0877c989b8e4b8b280dadd676d7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            585
+          ], 
+          [
+            969, 
+            703
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]net.fred.feedex:id/feed_url[text](website or feed)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "net.fred.feedex:id/retrieve_fulltext", 
+        "text": "Retrieve the full text", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "519*96", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]net.fred.feedex:id/retrieve_fulltext", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "net.fred.feedex", 
+        "long_clickable": false, 
+        "view_str": "b0e24caf231288620881dcbf134ff05f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            531, 
+            703
+          ], 
+          [
+            1050, 
+            799
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]net.fred.feedex:id/retrieve_fulltext[text]Retrieve the full text[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "8f35847792d5d6355fac2d81ed82be36"
+}

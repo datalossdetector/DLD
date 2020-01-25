@@ -1,0 +1,51 @@
+{
+  "stop_state": "62766fed09d8ef58b386120c762528f9", 
+  "event_str": "FillUIEvent(state=05a91fafef6a7d9b3e9938ab75bf6c8d, views=['b567c770f2d92b235c0921db861adc97'])", 
+  "tag": "2019-06-14_172239", 
+  "event": {
+    "views_str": [
+      "b567c770f2d92b235c0921db861adc97"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/search_src_text", 
+        "text": "   Search iTunes", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "864*108", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/search_src_text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "b567c770f2d92b235c0921db861adc97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            100
+          ], 
+          [
+            1056, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/search_src_text[text]   Search iTunes[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "05a91fafef6a7d9b3e9938ab75bf6c8d"
+}

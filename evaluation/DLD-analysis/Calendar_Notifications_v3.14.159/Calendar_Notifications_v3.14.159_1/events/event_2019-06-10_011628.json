@@ -1,0 +1,51 @@
+{
+  "stop_state": "50b3afe36237334e7ed59405b2d7f844", 
+  "event_str": "FillUIEvent(state=ce6d01dc1416f3873c9f249f1236c060, views=['4b0dc315384e4ac854d6e856deb25df3'])", 
+  "tag": "2019-06-10_011628", 
+  "event": {
+    "views_str": [
+      "4b0dc315384e4ac854d6e856deb25df3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "4b0dc315384e4ac854d6e856deb25df3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            272
+          ], 
+          [
+            1032, 
+            368
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "ce6d01dc1416f3873c9f249f1236c060"
+}

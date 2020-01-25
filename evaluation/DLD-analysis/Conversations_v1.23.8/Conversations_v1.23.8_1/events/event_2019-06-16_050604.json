@@ -1,0 +1,89 @@
+{
+  "stop_state": "60a5761ded2f01326b794470e9b4d450", 
+  "event_str": "FillUIEvent(state=4c8aab65dbbbad65a5f28524893589e5, views=['9a42b3b26de1282671e3f051a01da8e1', '748c44113375d3ad83b17bf4b77105c8'])", 
+  "tag": "2019-06-16_050604", 
+  "event": {
+    "views_str": [
+      "9a42b3b26de1282671e3f051a01da8e1", 
+      "748c44113375d3ad83b17bf4b77105c8"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/presence_status_message", 
+        "text": "Status message", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*128", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/presence_status_message", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "9a42b3b26de1282671e3f051a01da8e1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            312
+          ], 
+          [
+            1008, 
+            440
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/presence_status_message[text]Status message[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/all_accounts", 
+        "text": "Set for all accounts on this device", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "812*96", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/all_accounts", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "748c44113375d3ad83b17bf4b77105c8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            656
+          ], 
+          [
+            884, 
+            752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/all_accounts[text]Set for all accounts on this device[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4c8aab65dbbbad65a5f28524893589e5"
+}

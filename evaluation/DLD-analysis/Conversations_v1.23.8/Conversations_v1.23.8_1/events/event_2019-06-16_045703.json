@@ -1,0 +1,127 @@
+{
+  "stop_state": "e91ccd97ec6c19844e85ea71bb8fc57e", 
+  "event_str": "FillUIEvent(state=c5fb1a2785cdeac679c33f61f131afad, views=['046a11fdf70442b293bac0aac3c8ed04', '43abb26def452021386afc776816804a', '71c00283f69371657a3715ff0a995aef'])", 
+  "tag": "2019-06-16_045703", 
+  "event": {
+    "views_str": [
+      "046a11fdf70442b293bac0aac3c8ed04", 
+      "43abb26def452021386afc776816804a", 
+      "71c00283f69371657a3715ff0a995aef"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 6, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/radio", 
+        "is_password": false, 
+        "parent": 3, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "046a11fdf70442b293bac0aac3c8ed04", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            252
+          ], 
+          [
+            1032, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/radio[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/radio", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "43abb26def452021386afc776816804a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            396
+          ], 
+          [
+            1032, 
+            492
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/radio[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/radio", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]android:id/radio", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "71c00283f69371657a3715ff0a995aef", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            540
+          ], 
+          [
+            1032, 
+            636
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]android:id/radio[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c5fb1a2785cdeac679c33f61f131afad"
+}

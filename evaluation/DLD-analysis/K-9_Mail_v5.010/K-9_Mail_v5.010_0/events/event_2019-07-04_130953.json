@@ -1,0 +1,165 @@
+{
+  "stop_state": "077afb594734d7e583a261a97d103c47", 
+  "event_str": "FillUIEvent(state=9f07d15249cc36226db8f866e50b593e, views=['8a6f041c8c4121af0363f5da02195603', 'd36b5845b1de35bf810524ded90c16d3', '4a255ed5770495704efa8523f9b3cc17', '517dc3b20b8bd5c0e9b7934cbf334184'])", 
+  "tag": "2019-07-04_130953", 
+  "event": {
+    "views_str": [
+      "8a6f041c8c4121af0363f5da02195603", 
+      "d36b5845b1de35bf810524ded90c16d3", 
+      "4a255ed5770495704efa8523f9b3cc17", 
+      "517dc3b20b8bd5c0e9b7934cbf334184"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/subject", 
+        "text": "Fwd: HelloWorldHelloWorHelloWorldHelloWorldld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1044*118", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "8a6f041c8c4121af0363f5da02195603", 
+        "enabled": true, 
+        "bounds": [
+          [
+            18, 
+            307
+          ], 
+          [
+            1062, 
+            425
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]Fwd: HelloWorldHelloWorHelloWorldHelloWorldld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/message_content", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*244", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "d36b5845b1de35bf810524ded90c16d3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            440
+          ], 
+          [
+            1080, 
+            684
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/quoted_text", 
+        "text": "\n-------- Original Message --------\nFrom: stagedataloss1@tiscali.it\nSent: July 4, 2019 6:01:59 AM EDT\nTo: HelloWorldHelloHelloWorldWorld\nCc: HelloWorld\nSubject: HelloWorldHelloWorHelloWorldHelloWorldld\n\nHelloWorldHelloWorld\n-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*937", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/quoted_text", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "4a255ed5770495704efa8523f9b3cc17", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            684
+          ], 
+          [
+            1080, 
+            1621
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/quoted_text[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/lower_signature", 
+        "text": "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*155", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "517dc3b20b8bd5c0e9b7934cbf334184", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1621
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9f07d15249cc36226db8f866e50b593e"
+}

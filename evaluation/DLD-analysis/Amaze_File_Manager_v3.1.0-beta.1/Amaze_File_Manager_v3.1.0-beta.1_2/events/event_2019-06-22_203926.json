@@ -1,0 +1,50 @@
+{
+  "stop_state": "2d3610ae3650344e986b3021dd86acd5", 
+  "event_str": "SetTextEvent(state=16f294019ddd5d865a758855126310d8, view=304b45c8df9ddb7a6f4e2073fe0366a3, text=HelloWorld)", 
+  "tag": "2019-06-22_203926", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/input", 
+      "text": "Enter Name", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "785*128", 
+      "checked": false, 
+      "temp_id": 9, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.amaze.filemanager", 
+      "long_clickable": true, 
+      "view_str": "304b45c8df9ddb7a6f4e2073fe0366a3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          147, 
+          857
+        ], 
+        [
+          932, 
+          985
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/input[text]Enter Name[enabled,,]"
+    }
+  }, 
+  "start_state": "16f294019ddd5d865a758855126310d8"
+}

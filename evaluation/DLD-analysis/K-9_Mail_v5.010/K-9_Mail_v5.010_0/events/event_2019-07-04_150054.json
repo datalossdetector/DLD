@@ -1,0 +1,127 @@
+{
+  "stop_state": "33e8027b4052970265742a64be05b5b2", 
+  "event_str": "FillUIEvent(state=33e8027b4052970265742a64be05b5b2, views=['8acbc24c41451310c45f2ff1b18d0977', 'd36b5845b1de35bf810524ded90c16d3', '517dc3b20b8bd5c0e9b7934cbf334184'])", 
+  "tag": "2019-07-04_150054", 
+  "event": {
+    "views_str": [
+      "8acbc24c41451310c45f2ff1b18d0977", 
+      "d36b5845b1de35bf810524ded90c16d3", 
+      "517dc3b20b8bd5c0e9b7934cbf334184"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/subject", 
+        "text": "Fwd: SocketTimeouttest123Exception: failed to connect to mail.tiscali.it/213.205.34.37 (port 993) after 30000ms", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1044*-1201", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "8acbc24c41451310c45f2ff1b18d0977", 
+        "enabled": true, 
+        "bounds": [
+          [
+            18, 
+            216
+          ], 
+          [
+            1062, 
+            -985
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/message_content", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*-942", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "d36b5845b1de35bf810524ded90c16d3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            216
+          ], 
+          [
+            1080, 
+            -726
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/lower_signature", 
+        "text": "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*-416", 
+        "checked": false, 
+        "temp_id": 106, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "517dc3b20b8bd5c0e9b7934cbf334184", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            2192
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "33e8027b4052970265742a64be05b5b2"
+}

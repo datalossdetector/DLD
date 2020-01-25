@@ -1,0 +1,50 @@
+{
+  "stop_state": "5a44988266a8e87f27d9e0c121614710", 
+  "event_str": "SetTextEvent(state=da9c1b8427354a05fcbe1e3bc79bbf71, view=e97235d5e103676927a7a5d06b7bf6b1, text=HelloWorld)", 
+  "tag": "2019-06-17_074703", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "Sorry, I can't make it. We'll have to reschedule.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*199", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "ws.xsoh.etar", 
+      "long_clickable": true, 
+      "view_str": "e97235d5e103676927a7a5d06b7bf6b1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          808
+        ], 
+        [
+          945, 
+          1007
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]Sorry, I can't make it. We'll have to reschedule.[enabled,,]"
+    }
+  }, 
+  "start_state": "da9c1b8427354a05fcbe1e3bc79bbf71"
+}

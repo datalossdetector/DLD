@@ -1,0 +1,355 @@
+{
+  "stop_state": "b487778f3c6a713357c0d20dcd8463ed", 
+  "event_str": "FillUIEvent(state=b487778f3c6a713357c0d20dcd8463ed, views=['cce98994901c1d9be536152499144d52', '191730f919ea7012000c1aa6319db4be', 'ec1ca53155ac352ad4bca5ccea23f46c', 'ec1ca53155ac352ad4bca5ccea23f46c', 'a3f1863f85902921f096d07849941c76', 'a3f1863f85902921f096d07849941c76', 'a3f1863f85902921f096d07849941c76', 'a3f1863f85902921f096d07849941c76', '7966acaea37dedab4fd1c6afd1ab3205'])", 
+  "tag": "2019-06-18_060738", 
+  "event": {
+    "views_str": [
+      "cce98994901c1d9be536152499144d52", 
+      "191730f919ea7012000c1aa6319db4be", 
+      "ec1ca53155ac352ad4bca5ccea23f46c", 
+      "ec1ca53155ac352ad4bca5ccea23f46c", 
+      "a3f1863f85902921f096d07849941c76", 
+      "a3f1863f85902921f096d07849941c76", 
+      "a3f1863f85902921f096d07849941c76", 
+      "a3f1863f85902921f096d07849941c76", 
+      "7966acaea37dedab4fd1c6afd1ab3205"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Show changes of new accounts only", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "983*72", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "cce98994901c1d9be536152499144d52", 
+        "enabled": true, 
+        "bounds": [
+          [
+            287, 
+            614
+          ], 
+          [
+            1270, 
+            686
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "IP address or username:", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "684*72", 
+        "checked": true, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "191730f919ea7012000c1aa6319db4be", 
+        "enabled": true, 
+        "bounds": [
+          [
+            287, 
+            706
+          ], 
+          [
+            971, 
+            778
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "31.156.145.64", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1419*88", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "ec1ca53155ac352ad4bca5ccea23f46c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            267, 
+            790
+          ], 
+          [
+            1686, 
+            878
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "test123", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "783*88", 
+        "checked": false, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 55, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "ec1ca53155ac352ad4bca5ccea23f46c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            515, 
+            966
+          ], 
+          [
+            1298, 
+            1054
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Only show edits that are latest revisions", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1067*71", 
+        "checked": false, 
+        "temp_id": 62, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 61, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "a3f1863f85902921f096d07849941c76", 
+        "enabled": true, 
+        "bounds": [
+          [
+            283, 
+            1062
+          ], 
+          [
+            1350, 
+            1133
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Only show edits that are page creations", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1059*72", 
+        "checked": false, 
+        "temp_id": 64, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 61, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "a3f1863f85902921f096d07849941c76", 
+        "enabled": true, 
+        "bounds": [
+          [
+            283, 
+            1153
+          ], 
+          [
+            1342, 
+            1225
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Hide minor edits", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "488*72", 
+        "checked": false, 
+        "temp_id": 66, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 61, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "a3f1863f85902921f096d07849941c76", 
+        "enabled": true, 
+        "bounds": [
+          [
+            283, 
+            1245
+          ], 
+          [
+            771, 
+            1317
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Hide probably good edits", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "703*72", 
+        "checked": false, 
+        "temp_id": 68, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 61, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "a3f1863f85902921f096d07849941c76", 
+        "enabled": true, 
+        "bounds": [
+          [
+            783, 
+            1245
+          ], 
+          [
+            1486, 
+            1317
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "test123", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "480*82", 
+        "checked": false, 
+        "temp_id": 160, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 159, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "7966acaea37dedab4fd1c6afd1ab3205", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1286, 
+            0
+          ], 
+          [
+            1766, 
+            82
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b487778f3c6a713357c0d20dcd8463ed"
+}

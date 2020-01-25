@@ -1,0 +1,51 @@
+{
+  "stop_state": "96e90b098c418eb73cb0a5d61897900c", 
+  "event_str": "FillUIEvent(state=59dbf8224a2a2c897d58a8f368582e6c, views=['e4fb63c282b2ce5ed055e891c1adc498'])", 
+  "tag": "2019-06-15_180619", 
+  "event": {
+    "views_str": [
+      "e4fb63c282b2ce5ed055e891c1adc498"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "Diary", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": true, 
+        "view_str": "e4fb63c282b2ce5ed055e891c1adc498", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            839
+          ], 
+          [
+            945, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]Diary[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "59dbf8224a2a2c897d58a8f368582e6c"
+}

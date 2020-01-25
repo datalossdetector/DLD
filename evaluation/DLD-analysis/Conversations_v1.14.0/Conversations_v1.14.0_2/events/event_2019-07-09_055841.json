@@ -1,0 +1,89 @@
+{
+  "stop_state": "5bf5dfdd3670d3288a69a974bd9a868e", 
+  "event_str": "FillUIEvent(state=9e9612e0796f9e000964db53e3479234, views=['4df3efd0842c2ca219a962ccb4668ec9', 'dfdbd0f0cf1a75a03bdcfac685f48b48'])", 
+  "tag": "2019-07-09_055841", 
+  "event": {
+    "views_str": [
+      "4df3efd0842c2ca219a962ccb4668ec9", 
+      "dfdbd0f0cf1a75a03bdcfac685f48b48"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/jid", 
+        "text": "room@conference.example.com", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "786*120", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/jid", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "4df3efd0842c2ca219a962ccb4668ec9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            940
+          ], 
+          [
+            933, 
+            1060
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/jid[text]room@conference.example.com[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/bookmark", 
+        "text": "Save as bookmark", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "439*96", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/bookmark", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "dfdbd0f0cf1a75a03bdcfac685f48b48", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            1084
+          ], 
+          [
+            586, 
+            1180
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/bookmark[text]Save as bookmark[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "9e9612e0796f9e000964db53e3479234"
+}

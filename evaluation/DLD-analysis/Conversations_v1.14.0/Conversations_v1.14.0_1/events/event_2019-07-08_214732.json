@@ -1,0 +1,89 @@
+{
+  "stop_state": "41c579c9a579701418d7dd58159bedb5", 
+  "event_str": "FillUIEvent(state=786b362642a3a18379a16e74df125108, views=['776fe099ddd8109d736be49fb89e553e', 'cb45498ca46e46aea3848cc5a954b74d'])", 
+  "tag": "2019-07-08_214732", 
+  "event": {
+    "views_str": [
+      "776fe099ddd8109d736be49fb89e553e", 
+      "cb45498ca46e46aea3848cc5a954b74d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_jid", 
+        "text": "helloworld@conversations.im", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "672*120", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_jid", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "776fe099ddd8109d736be49fb89e553e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            336, 
+            369
+          ], 
+          [
+            1008, 
+            489
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_jid[text]helloworld@conversations.im[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "672*120", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password", 
+        "is_password": true, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "cb45498ca46e46aea3848cc5a954b74d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            336, 
+            570
+          ], 
+          [
+            1008, 
+            690
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "786b362642a3a18379a16e74df125108"
+}

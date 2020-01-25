@@ -1,0 +1,51 @@
+{
+  "stop_state": "d0416d1cd2d7b679ffd2a44a36ebf255", 
+  "event_str": "FillUIEvent(state=e646859d0915747abc2fd3189ade967d, views=['bbe38f9631452fae6e77f8026c88e9da'])", 
+  "tag": "2019-06-17_003605", 
+  "event": {
+    "views_str": [
+      "bbe38f9631452fae6e77f8026c88e9da"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.gateshipone.malp:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "552*108", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/search_src_text", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.gateshipone.malp", 
+        "long_clickable": true, 
+        "view_str": "bbe38f9631452fae6e77f8026c88e9da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            100
+          ], 
+          [
+            792, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e646859d0915747abc2fd3189ade967d"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "528a7cfb4856f108d750e88a4bae3a19", 
+  "event_str": "FillUIEvent(state=953f2fc2132448d01df8e60e6bba2bca, views=['fb51f1bc987b15bb6f24d40470174f88'])", 
+  "tag": "2019-06-14_134825", 
+  "event": {
+    "views_str": [
+      "fb51f1bc987b15bb6f24d40470174f88"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/etxtFeedurl", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtFeedurl", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "fb51f1bc987b15bb6f24d40470174f88", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1161
+          ], 
+          [
+            1032, 
+            1297
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtFeedurl[text]test123test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "953f2fc2132448d01df8e60e6bba2bca"
+}

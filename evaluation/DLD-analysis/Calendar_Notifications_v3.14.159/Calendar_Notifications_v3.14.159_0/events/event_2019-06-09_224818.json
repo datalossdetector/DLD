@@ -1,0 +1,49 @@
+{
+  "stop_state": "3ae37470c994feeb9f0c6034735eea67", 
+  "event_str": "TouchEvent(state=e691fb3047f7ed9ad374be68d3c5569b, view=039d8c3fcfbc40a2264166a19cf0cb36)", 
+  "tag": "2019-06-09_224818", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/summary", 
+      "text": "Number of max allowed notifications to be displayed at any time by the app simultaneously\n\nNote: upper number is limited to 8 to avoid potential SystemUI crashes that happen on some devices when app is posting too many notifications", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*302", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/summary", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": false, 
+      "view_str": "039d8c3fcfbc40a2264166a19cf0cb36", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          607
+        ], 
+        [
+          1032, 
+          909
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/summary[text]None[enabled,,]"
+    }, 
+    "id": 21, 
+    "event_type": "touch"
+  }, 
+  "start_state": "e691fb3047f7ed9ad374be68d3c5569b"
+}

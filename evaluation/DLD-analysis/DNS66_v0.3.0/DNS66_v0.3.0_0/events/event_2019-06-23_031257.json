@@ -1,0 +1,50 @@
+{
+  "stop_state": "a0f2a5d3c4812a158d811477f56a7e72", 
+  "event_str": "SetTextEvent(state=293c338b392b5c9f75fabbc94b434b7d, view=af2828963dc697ca6f86794bbea30b3f, text=HelloWorld)", 
+  "tag": "2019-06-23_031257", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.jak_linux.dns66:id/location", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*136", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.jak_linux.dns66:id/location", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.jak_linux.dns66", 
+      "long_clickable": true, 
+      "view_str": "af2828963dc697ca6f86794bbea30b3f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          490
+        ], 
+        [
+          1032, 
+          626
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.jak_linux.dns66:id/location[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "293c338b392b5c9f75fabbc94b434b7d"
+}

@@ -1,0 +1,53 @@
+{
+  "stop_state": "3809bcf14cf17c5f8c4a3dec7ce900b4", 
+  "event_str": "ScrollEvent(state=66c1fa40e1e5727da15cd8b6fb07e64d, view=94970c349843151ab51c76c20cd56e99, direction=UP)", 
+  "tag": "2019-06-16_081708", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/messages_view", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        29
+      ], 
+      "size": "1080*1013", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]eu.siacs.conversations:id/messages_view", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": true, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "94970c349843151ab51c76c20cd56e99", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          240
+        ], 
+        [
+          1080, 
+          1253
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]eu.siacs.conversations:id/messages_view[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "66c1fa40e1e5727da15cd8b6fb07e64d"
+}

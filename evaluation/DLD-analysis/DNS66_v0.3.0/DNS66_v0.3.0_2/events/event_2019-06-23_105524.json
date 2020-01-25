@@ -1,0 +1,50 @@
+{
+  "stop_state": "a30e9c40ca1dd2c7028c785947f9f6fa", 
+  "event_str": "SetTextEvent(state=4d470af7f8707397da24fd88b00be71c, view=56c66271be32c235208a2fc0b261418a, text=HelloWorld)", 
+  "tag": "2019-06-23_105524", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 13, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.jak_linux.dns66:id/title", 
+      "text": "Adaway hosts file", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*136", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.jak_linux.dns66:id/title", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.jak_linux.dns66", 
+      "long_clickable": true, 
+      "view_str": "56c66271be32c235208a2fc0b261418a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          321
+        ], 
+        [
+          1032, 
+          457
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.jak_linux.dns66:id/title[text]Adaway hosts file[enabled,,]"
+    }
+  }, 
+  "start_state": "4d470af7f8707397da24fd88b00be71c"
+}

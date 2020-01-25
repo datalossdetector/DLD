@@ -1,0 +1,127 @@
+{
+  "stop_state": "01a08d4f8830f5eb75d44c2dea0bc8bf", 
+  "event_str": "FillUIEvent(state=01a08d4f8830f5eb75d44c2dea0bc8bf, views=['2579547e9b7833f3f638c82f0e637338', '2579547e9b7833f3f638c82f0e637338', 'd377edcbb11689346cdc3c36ae0d4419'])", 
+  "tag": "2019-06-15_122950", 
+  "event": {
+    "views_str": [
+      "2579547e9b7833f3f638c82f0e637338", 
+      "2579547e9b7833f3f638c82f0e637338", 
+      "d377edcbb11689346cdc3c36ae0d4419"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*120", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": false, 
+        "view_str": "2579547e9b7833f3f638c82f0e637338", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            2523
+          ], 
+          [
+            960, 
+            2643
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Limited to 200 characters", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*240", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": false, 
+        "view_str": "2579547e9b7833f3f638c82f0e637338", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            2874
+          ], 
+          [
+            960, 
+            3114
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "List my name on the public donor list.", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "657*42", 
+        "checked": true, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": false, 
+        "view_str": "d377edcbb11689346cdc3c36ae0d4419", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            3153
+          ], 
+          [
+            789, 
+            3195
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "01a08d4f8830f5eb75d44c2dea0bc8bf"
+}

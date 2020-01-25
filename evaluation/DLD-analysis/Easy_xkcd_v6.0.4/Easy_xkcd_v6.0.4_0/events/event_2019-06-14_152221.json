@@ -1,0 +1,52 @@
+{
+  "stop_state": "d2670787a5e45c4c13f0bb42fbb687f6", 
+  "event_str": "TouchEvent(state=cc211ecc2314c9c0ef5234ead81775ea, view=ec2a71a980e2dc81b7def0f138b4833f)", 
+  "tag": "2019-06-14_152221", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/select_dialog_listview", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        9, 
+        10
+      ], 
+      "size": "930*336", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 2, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/select_dialog_listview", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "de.tap.easy_xkcd", 
+      "long_clickable": false, 
+      "view_str": "ec2a71a980e2dc81b7def0f138b4833f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          739
+        ], 
+        [
+          1005, 
+          1075
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]android:id/select_dialog_listview[text]None[enabled,,]"
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "cc211ecc2314c9c0ef5234ead81775ea"
+}

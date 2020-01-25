@@ -1,0 +1,89 @@
+{
+  "stop_state": "793e70bfc2fe73a1d7d898e371b57a7b", 
+  "event_str": "FillUIEvent(state=793e70bfc2fe73a1d7d898e371b57a7b, views=['47309c3f944318abe6811f4721de17d0', '5e36e2ea6ffbed68f46e03fd01d6b097'])", 
+  "tag": "2019-07-09_020732", 
+  "event": {
+    "views_str": [
+      "47309c3f944318abe6811f4721de17d0", 
+      "5e36e2ea6ffbed68f46e03fd01d6b097"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/details_send_presence", 
+        "text": "Preemptively grant subscription request", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "672*122", 
+        "checked": true, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/details_send_presence", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "47309c3f944318abe6811f4721de17d0", 
+        "enabled": false, 
+        "bounds": [
+          [
+            336, 
+            424
+          ], 
+          [
+            1008, 
+            546
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/details_send_presence[text]Preemptively grant subscription request[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/details_receive_presence", 
+        "text": "Ask for presence updates", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "638*96", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/details_receive_presence", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "5e36e2ea6ffbed68f46e03fd01d6b097", 
+        "enabled": false, 
+        "bounds": [
+          [
+            336, 
+            546
+          ], 
+          [
+            974, 
+            642
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/details_receive_presence[text]Ask for presence updates[,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "793e70bfc2fe73a1d7d898e371b57a7b"
+}

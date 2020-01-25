@@ -1,0 +1,49 @@
+{
+  "stop_state": "367b4e8f7609cc31070f8c907806795a", 
+  "event_str": "TouchEvent(state=367b4e8f7609cc31070f8c907806795a, view=9f2501695d04fed89f60be289e581f7f)", 
+  "tag": "2019-06-17_231830", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ee.aegrel.gadgetbridge:id/discovery_hint", 
+      "text": "Make your device discoverable. Currently connected devices will likely not be discovered. Activate location (e.g. GPS) on Android 6+. Disable Privacy Guard for Gadgetbridge, because it may crash and reboot your phone. If no device is found after a few minutes, try again after rebooting your mobile device.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*302", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]ee.aegrel.gadgetbridge:id/discovery_hint", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "ee.aegrel.gadgetbridge", 
+      "long_clickable": true, 
+      "view_str": "9f2501695d04fed89f60be289e581f7f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          1266
+        ], 
+        [
+          1032, 
+          1568
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]ee.aegrel.gadgetbridge:id/discovery_hint[text]None[enabled,,]"
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "367b4e8f7609cc31070f8c907806795a"
+}

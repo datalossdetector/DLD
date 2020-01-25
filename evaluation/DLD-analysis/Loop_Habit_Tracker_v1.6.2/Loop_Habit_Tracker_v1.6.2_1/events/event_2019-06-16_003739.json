@@ -1,0 +1,89 @@
+{
+  "stop_state": "db47cd89f230065137f7b2aed6ab8043", 
+  "event_str": "FillUIEvent(state=d69eeb352743917b1e1a8c908844dcda, views=['5f9791372d19875c9923aea998a1833f', '4ab8e429b21721a4ab7d65c05d0cb9c6'])", 
+  "tag": "2019-06-16_003739", 
+  "event": {
+    "views_str": [
+      "5f9791372d19875c9923aea998a1833f", 
+      "4ab8e429b21721a4ab7d65c05d0cb9c6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvName", 
+        "text": "HelloWorldtest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "763*128", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvName", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "5f9791372d19875c9923aea998a1833f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            605
+          ], 
+          [
+            883, 
+            733
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvName[text]HelloWorldtest123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvDescription", 
+        "text": "test123HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*128", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "4ab8e429b21721a4ab7d65c05d0cb9c6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            733
+          ], 
+          [
+            960, 
+            861
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription[text]test123HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d69eeb352743917b1e1a8c908844dcda"
+}

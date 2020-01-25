@@ -1,0 +1,51 @@
+{
+  "stop_state": "7dea49c217b494d2d0b147982273cbf9", 
+  "event_str": "FillUIEvent(state=1a8e3a7cbcd71a0ef0f4610f13a5235d, views=['06a4f23f065b18d27f0fffc315ce3892'])", 
+  "tag": "2019-07-09_000515", 
+  "event": {
+    "views_str": [
+      "06a4f23f065b18d27f0fffc315ce3892"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/search_field", 
+        "text": "Search for contacts or groups", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "738*136", 
+        "checked": false, 
+        "temp_id": 6, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/search_field", 
+        "is_password": false, 
+        "parent": 5, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "06a4f23f065b18d27f0fffc315ce3892", 
+        "enabled": true, 
+        "bounds": [
+          [
+            183, 
+            88
+          ], 
+          [
+            921, 
+            224
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/search_field[text]Search for contacts or groups[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1a8e3a7cbcd71a0ef0f4610f13a5235d"
+}

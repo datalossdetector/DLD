@@ -1,0 +1,51 @@
+{
+  "stop_state": "09093b9b4a2cc5a322c4ba93afefadd3", 
+  "event_str": "FillUIEvent(state=05a5c61c024de565ed4b5ff5eae0d4b8, views=['dc3cbbdd627d3a8c40da32343cd5b9da'])", 
+  "tag": "2019-06-15_074034", 
+  "event": {
+    "views_str": [
+      "dc3cbbdd627d3a8c40da32343cd5b9da"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.llamacorp.equate:id/textDisplay", 
+        "text": "Convert 1) cmHg to:", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1047*162", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.llamacorp.equate", 
+        "long_clickable": true, 
+        "view_str": "dc3cbbdd627d3a8c40da32343cd5b9da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            6, 
+            359
+          ], 
+          [
+            1053, 
+            521
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay[text]Convert 1) cmHg to:[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "05a5c61c024de565ed4b5ff5eae0d4b8"
+}

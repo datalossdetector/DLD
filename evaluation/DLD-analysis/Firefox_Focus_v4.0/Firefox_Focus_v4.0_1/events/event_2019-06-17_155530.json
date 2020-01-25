@@ -1,0 +1,50 @@
+{
+  "stop_state": "ea99368d6e4a266b5fd06f67493040a3", 
+  "event_str": "SetTextEvent(state=8a17a0d91298ca6d7099d20e590c1ddb, view=46604ba4abc1911bb51294b739e018a1, text=HelloWorld)", 
+  "tag": "2019-06-17_155530", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mozilla.klar:id/urlView", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "912*120", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.mozilla.klar", 
+      "long_clickable": true, 
+      "view_str": "46604ba4abc1911bb51294b739e018a1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          99
+        ], 
+        [
+          936, 
+          219
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "8a17a0d91298ca6d7099d20e590c1ddb"
+}

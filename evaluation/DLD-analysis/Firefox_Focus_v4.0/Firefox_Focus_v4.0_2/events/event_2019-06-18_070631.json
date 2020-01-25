@@ -1,0 +1,203 @@
+{
+  "stop_state": "c5e72b86fa930ae198b3f48c7bcb0697", 
+  "event_str": "FillUIEvent(state=c5e72b86fa930ae198b3f48c7bcb0697, views=['efe29fe49d003043c2d1a221c8e75549', 'efe29fe49d003043c2d1a221c8e75549', 'efe29fe49d003043c2d1a221c8e75549', 'efe29fe49d003043c2d1a221c8e75549', 'efe29fe49d003043c2d1a221c8e75549'])", 
+  "tag": "2019-06-18_070631", 
+  "event": {
+    "views_str": [
+      "efe29fe49d003043c2d1a221c8e75549", 
+      "efe29fe49d003043c2d1a221c8e75549", 
+      "efe29fe49d003043c2d1a221c8e75549", 
+      "efe29fe49d003043c2d1a221c8e75549", 
+      "efe29fe49d003043c2d1a221c8e75549"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Enter your username", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*144", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            909
+          ], 
+          [
+            1032, 
+            1053
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*141", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": true, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1047
+          ], 
+          [
+            1032, 
+            1188
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*144", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": true, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1182
+          ], 
+          [
+            1032, 
+            1326
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Enter your email address", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*144", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1320
+          ], 
+          [
+            1032, 
+            1464
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Enter the text you see on the image", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*141", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            51, 
+            1839
+          ], 
+          [
+            1035, 
+            1980
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c5e72b86fa930ae198b3f48c7bcb0697"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "ec8fd0c4e8d1b9e6c27a438d35fe41a4", 
+  "event_str": "FillUIEvent(state=83cf1f42594e3cab518fa7592c43ef60, views=['8784e913ac49b59541e3e9b4c3b6e926'])", 
+  "tag": "2019-06-16_224055", 
+  "event": {
+    "views_str": [
+      "8784e913ac49b59541e3e9b4c3b6e926"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ws.xsoh.etar:id/search_src_text", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "576*108", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/search_src_text", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "8784e913ac49b59541e3e9b4c3b6e926", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            102
+          ], 
+          [
+            816, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/search_src_text[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "83cf1f42594e3cab518fa7592c43ef60"
+}

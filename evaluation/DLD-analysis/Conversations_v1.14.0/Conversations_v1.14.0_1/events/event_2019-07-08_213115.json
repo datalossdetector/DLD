@@ -1,0 +1,165 @@
+{
+  "stop_state": "11318ecf496c21281235c5761ba481df", 
+  "event_str": "FillUIEvent(state=8f4dccb3b84ec8459d6022f4775716c3, views=['981e1c2a296370bb58747203c0e71e8a', 'cb45498ca46e46aea3848cc5a954b74d', 'abb108b346ba0529183c3fed89dc7f97', 'f804ed791971f864481ef9a3b4d935d2'])", 
+  "tag": "2019-07-08_213115", 
+  "event": {
+    "views_str": [
+      "981e1c2a296370bb58747203c0e71e8a", 
+      "cb45498ca46e46aea3848cc5a954b74d", 
+      "abb108b346ba0529183c3fed89dc7f97", 
+      "f804ed791971f864481ef9a3b4d935d2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_jid", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*120", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_jid", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "981e1c2a296370bb58747203c0e71e8a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            369
+          ], 
+          [
+            1008, 
+            489
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_jid[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*120", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password", 
+        "is_password": true, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "cb45498ca46e46aea3848cc5a954b74d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            570
+          ], 
+          [
+            1008, 
+            690
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_register_new", 
+        "text": "Register new account on server", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "679*96", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/account_register_new", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": false, 
+        "view_str": "abb108b346ba0529183c3fed89dc7f97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            714
+          ], 
+          [
+            751, 
+            810
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]eu.siacs.conversations:id/account_register_new[text]Register new account on server[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_password_confirm", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*120", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password_confirm", 
+        "is_password": true, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "f804ed791971f864481ef9a3b4d935d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            834
+          ], 
+          [
+            1008, 
+            954
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password_confirm[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "8f4dccb3b84ec8459d6022f4775716c3"
+}

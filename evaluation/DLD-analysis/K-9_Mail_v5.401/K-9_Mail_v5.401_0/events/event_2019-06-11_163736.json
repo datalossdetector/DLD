@@ -1,0 +1,50 @@
+{
+  "stop_state": "a953cc45e354de87bbc0e5820ce51dc0", 
+  "event_str": "SetTextEvent(state=a953cc45e354de87bbc0e5820ce51dc0, view=9e0aa4a5c05017e350b450b399af3b86, text=HelloWorld)", 
+  "tag": "2019-06-11_163736", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "00", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "192*144", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 18, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": true, 
+      "view_str": "9e0aa4a5c05017e350b450b399af3b86", 
+      "enabled": true, 
+      "bounds": [
+        [
+          563, 
+          878
+        ], 
+        [
+          755, 
+          1022
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]00[enabled,,]"
+    }
+  }, 
+  "start_state": "a953cc45e354de87bbc0e5820ce51dc0"
+}

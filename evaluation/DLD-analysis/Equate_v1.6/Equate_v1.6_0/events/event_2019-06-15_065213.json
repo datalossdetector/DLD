@@ -1,0 +1,51 @@
+{
+  "stop_state": "4c9d480d0921fff23785cb66a5940508", 
+  "event_str": "FillUIEvent(state=a42d3bc14ab55741b8fb684ccccd39ad, views=['2e6802f2bcdc7f01a286b211eb6c0ad3'])", 
+  "tag": "2019-06-15_065213", 
+  "event": {
+    "views_str": [
+      "2e6802f2bcdc7f01a286b211eb6c0ad3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.llamacorp.equate:id/textDisplay", 
+        "text": "Convert 11 MW to:", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1047*162", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.llamacorp.equate", 
+        "long_clickable": true, 
+        "view_str": "2e6802f2bcdc7f01a286b211eb6c0ad3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            6, 
+            762
+          ], 
+          [
+            1053, 
+            924
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay[text]Convert 11 MW to:[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a42d3bc14ab55741b8fb684ccccd39ad"
+}

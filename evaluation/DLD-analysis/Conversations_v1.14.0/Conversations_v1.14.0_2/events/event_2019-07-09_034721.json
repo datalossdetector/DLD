@@ -1,0 +1,50 @@
+{
+  "stop_state": "0a6c4a9b1838960d879a26b07f49f6dd", 
+  "event_str": "SetTextEvent(state=0a6c4a9b1838960d879a26b07f49f6dd, view=f804ed791971f864481ef9a3b4d935d2, text=HelloWorld)", 
+  "tag": "2019-07-09_034721", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/account_password_confirm", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*123", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password_confirm", 
+      "is_password": true, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "f804ed791971f864481ef9a3b4d935d2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          1035
+        ], 
+        [
+          1008, 
+          1158
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password_confirm[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "0a6c4a9b1838960d879a26b07f49f6dd"
+}

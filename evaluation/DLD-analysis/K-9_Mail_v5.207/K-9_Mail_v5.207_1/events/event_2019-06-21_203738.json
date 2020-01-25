@@ -1,0 +1,127 @@
+{
+  "stop_state": "14a02cfd7a88173c5fb3057fa91da37f", 
+  "event_str": "FillUIEvent(state=14a02cfd7a88173c5fb3057fa91da37f, views=['8acbc24c41451310c45f2ff1b18d0977', '4a396c6c9995fcf5425c85c55a5f3fdb', '517dc3b20b8bd5c0e9b7934cbf334184'])", 
+  "tag": "2019-06-21_203738", 
+  "event": {
+    "views_str": [
+      "8acbc24c41451310c45f2ff1b18d0977", 
+      "4a396c6c9995fcf5425c85c55a5f3fdb", 
+      "517dc3b20b8bd5c0e9b7934cbf334184"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/subject", 
+        "text": "Re: [nearform/graphqtest123test123l-hooks] Function returned from useMutation and useManualQuery is not memoized  (#234)", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*-12", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "8acbc24c41451310c45f2ff1b18d0977", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            216
+          ], 
+          [
+            1044, 
+            204
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/message_content", 
+        "text": "@olistic sorry for the confusion, I oversimplified my example to highlight main issue. Problem is: we can't use useManualQuery and useMutation inside useEffect because it creates infinite render. Here are two more examples:\ntest123\nUsing `useManualQuery`:\n```jsx\nfunction UserProfile({test123 id = null }) {\n  const [getUser, { data, loading }] = useManualQuery(`\n    query getUser($id: Int!) {\n      user(id: $id) {\n        login\n      }\n    }\n  `)\n\n  useEffect(() => {\n    if (id) {\n      getUser({ variables: { id } })\n    }\n  }, [id, getUser])\n\n  return (\n    <div>\n      <h1>{id ? (loading ? 'Loading...' : data.login) : 'New User'}</h1>\n    </div>\n  )\n}\n```\n\nUsing `useMutation`\n```jsx\nfunction UserProfile() {\n  const [data, setData] = useState('')\n  const [savingStarted, setSavingStarted] = useState(false)\n  const [saveData] = useMutation(`\n    mutation saveData($data: String!) {\n      saveData(data: $data) {\n        id\n      }\n    }\n  `)\n\n  useEffect(() => {\n    if (savingStarted) {\n      let timer = setTimeout(\n        () => saveData({ variables: { data } }).then(() => setSavingStarted(false)),\n        5000,\n      )\n      return () => clearTimeout(timer)\n    }\n  }, [data, saveData, savingStarted])\n\n  return (\n    <div>\n      <input\n        value={data}\n        onChange={event => setData(event.target.value)}\n        readOnly={savingStarted}\n      />\n      <button type=\"button\" onClick={() => setSavingStarted(!savingStarted)}>\n        {savingStarted ? \"I've changed my mind. Cancel\" : 'Save'}\n      </button>\n    </div>\n  )\n}\n```\n\nOf course all of it can be solved using custom hook:\n```jsx\nfunction useUnchangingManualQuery(query) {\n  const [fetch, result] = useManualQuery(query)\n  const latestFetch = useRef(fetch)\n  latestFetch.current = fetch\n  return [latestFetch.current, result] \n}\n```\n\nBut I think current behaviour is unintuitive and actually is a bug\n\n-- \nYou are receiving this because you commented.\nReply to this email directly or view it on GitHub:\nhttps://github.com/nearform/graphql-hooks/issues/234#issuecomment-500197404", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*1560", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "4a396c6c9995fcf5425c85c55a5f3fdb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            216
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/lower_signature", 
+        "text": "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*-4921", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "517dc3b20b8bd5c0e9b7934cbf334184", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            6697
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "14a02cfd7a88173c5fb3057fa91da37f"
+}

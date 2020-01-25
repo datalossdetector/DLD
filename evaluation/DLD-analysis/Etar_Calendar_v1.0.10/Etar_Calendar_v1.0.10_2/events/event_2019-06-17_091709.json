@@ -1,0 +1,51 @@
+{
+  "stop_state": "cadb149c6e3aa763da281c73755d9f96", 
+  "event_str": "FillUIEvent(state=791565fa55d2a43eb3f70e9bcfcc4b9b, views=['fde81f34e485e5765d4e834992f366ab'])", 
+  "tag": "2019-06-17_091709", 
+  "event": {
+    "views_str": [
+      "fde81f34e485e5765d4e834992f366ab"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ws.xsoh.etar:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "576*108", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/search_src_text", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "fde81f34e485e5765d4e834992f366ab", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            102
+          ], 
+          [
+            816, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "791565fa55d2a43eb3f70e9bcfcc4b9b"
+}

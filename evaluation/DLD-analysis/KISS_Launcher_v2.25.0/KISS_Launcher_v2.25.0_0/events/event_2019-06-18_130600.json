@@ -1,0 +1,57 @@
+{
+  "stop_state": "b8eb58cb55a1b30cc2e9b4381b26a3e1", 
+  "event_str": "LongTouchEvent(state=e7bf46c879e5d4461861e5c1036d2567, view=0e9e2368377c64806a63a9f3bf94e52f, duration=2000)", 
+  "tag": "2019-06-18_130600", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        6, 
+        9, 
+        12, 
+        15, 
+        18, 
+        21
+      ], 
+      "size": "1020*1320", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 6, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/list", 
+      "is_password": false, 
+      "parent": 4, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "fr.neamar.kiss", 
+      "long_clickable": true, 
+      "view_str": "0e9e2368377c64806a63a9f3bf94e52f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          30, 
+          72
+        ], 
+        [
+          1050, 
+          1392
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]android:id/list[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "e7bf46c879e5d4461861e5c1036d2567"
+}

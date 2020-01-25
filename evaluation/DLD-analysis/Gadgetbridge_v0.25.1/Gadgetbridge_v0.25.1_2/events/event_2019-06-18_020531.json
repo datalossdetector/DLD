@@ -1,0 +1,51 @@
+{
+  "stop_state": "c7e66082ae6d16822309a68a9e97191a", 
+  "event_str": "FillUIEvent(state=3104b791884bb465ce1a783f9cc1ce42, views=['b93abaf0d8212bd292305a9cd3426c98'])", 
+  "tag": "2019-06-18_020531", 
+  "event": {
+    "views_str": [
+      "b93abaf0d8212bd292305a9cd3426c98"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "5", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ee.aegrel.gadgetbridge", 
+        "long_clickable": true, 
+        "view_str": "b93abaf0d8212bd292305a9cd3426c98", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            839
+          ], 
+          [
+            945, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]5[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3104b791884bb465ce1a783f9cc1ce42"
+}

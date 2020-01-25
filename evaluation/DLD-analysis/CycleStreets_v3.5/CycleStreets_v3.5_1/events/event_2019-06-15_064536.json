@@ -1,0 +1,51 @@
+{
+  "stop_state": "0828ea323318a936e207f481865badd4", 
+  "event_str": "FillUIEvent(state=58f80c9e4ff8c4d9df5460b81c8ae622, views=['fecd89e8a5d1921240c113d02f5c3f47'])", 
+  "tag": "2019-06-15_064536", 
+  "event": {
+    "views_str": [
+      "fecd89e8a5d1921240c113d02f5c3f47"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "net.cyclestreets:id/name", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "746*118", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/name", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "net.cyclestreets", 
+        "long_clickable": true, 
+        "view_str": "fecd89e8a5d1921240c113d02f5c3f47", 
+        "enabled": true, 
+        "bounds": [
+          [
+            316, 
+            1514
+          ], 
+          [
+            1062, 
+            1632
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/name[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "58f80c9e4ff8c4d9df5460b81c8ae622"
+}

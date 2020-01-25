@@ -1,0 +1,49 @@
+{
+  "stop_state": "191727b0247b2300576b552e8381770b", 
+  "event_str": "TouchEvent(state=191727b0247b2300576b552e8381770b, view=5d91c6e9b7e1c0959bd51fc8da589fe7)", 
+  "tag": "2019-06-10_040908", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "As part of normal operation, this app receives and stores information about events fired by Android Calendar\n\nNo such information ever leaves application:\n\n* it is not transmitted anywhere\n\n* not shared with anyone\n\n* not provided to any 3rd party\n\nAll event details are removed once event is dismissed\n\nIf user has enabled option to keep recently dismissed events - such information is removed as soon as timeout passes or history is cleared explicitly", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*1270", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": false, 
+      "view_str": "5d91c6e9b7e1c0959bd51fc8da589fe7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          288
+        ], 
+        [
+          1032, 
+          1558
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]"
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "191727b0247b2300576b552e8381770b"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "a325f2ec5f0917701325347ecf6e92e8", 
+  "event_str": "FillUIEvent(state=11e1d77a6ae7e7874ea84cf3d92eb72f, views=['b9c35ccb470367680a7f2d45e0fd4a70', '46446fcd416973b527a371b1a7518706', '9d65f0947e9cae6cf9b2dc115164c1c4', 'e2f792b05309376c8cba196b9f515260'])", 
+  "tag": "2019-06-08_065812", 
+  "event": {
+    "views_str": [
+      "b9c35ccb470367680a7f2d45e0fd4a70", 
+      "46446fcd416973b527a371b1a7518706", 
+      "9d65f0947e9cae6cf9b2dc115164c1c4", 
+      "e2f792b05309376c8cba196b9f515260"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/read", 
+        "text": "Bu kitab\u0131 okudunuz mu?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*96", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/read", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "b9c35ccb470367680a7f2d45e0fd4a70", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            390
+          ], 
+          [
+            1050, 
+            486
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/read[text]Bu kitab\u0131 okudunuz mu?[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/notes", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/notes", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "46446fcd416973b527a371b1a7518706", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            781
+          ], 
+          [
+            1050, 
+            899
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/notes[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/signed", 
+        "text": "Bu kitap imzal\u0131 m\u0131?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*96", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "9d65f0947e9cae6cf9b2dc115164c1c4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            899
+          ], 
+          [
+            1050, 
+            995
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed[text]Bu kitap imzal\u0131 m\u0131?[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/location", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "e2f792b05309376c8cba196b9f515260", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1460
+          ], 
+          [
+            1050, 
+            1578
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "11e1d77a6ae7e7874ea84cf3d92eb72f"
+}

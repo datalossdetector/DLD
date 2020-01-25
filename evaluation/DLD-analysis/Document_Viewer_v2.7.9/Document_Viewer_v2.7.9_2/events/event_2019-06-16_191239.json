@@ -1,0 +1,127 @@
+{
+  "stop_state": "70a6c7f3806ed2f712842941dfe2f763", 
+  "event_str": "FillUIEvent(state=b1bf323b70340835945f7dd7ab559c62, views=['776bbdbe4f30d7078e67b925bbd9299e', '72fd9aadd0e0450a311036a1c2ec4acd', 'ef0b173889baea6857c6cfd04ce37c2f'])", 
+  "tag": "2019-06-16_191239", 
+  "event": {
+    "views_str": [
+      "776bbdbe4f30d7078e67b925bbd9299e", 
+      "72fd9aadd0e0450a311036a1c2ec4acd", 
+      "ef0b173889baea6857c6cfd04ce37c2f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/editAlias", 
+        "text": "Flibusta", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "929*136", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editAlias", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": true, 
+        "view_str": "776bbdbe4f30d7078e67b925bbd9299e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            795
+          ], 
+          [
+            1004, 
+            931
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editAlias[text]Flibusta[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/editURL", 
+        "text": "http://flibusta.net/opds", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "929*136", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editURL", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": true, 
+        "view_str": "72fd9aadd0e0450a311036a1c2ec4acd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            988
+          ], 
+          [
+            1004, 
+            1124
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editURL[text]http://flibusta.net/opds[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/checkAuth", 
+        "text": "Authorization required", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "899*96", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.sufficientlysecure.viewer:id/checkAuth", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": false, 
+        "view_str": "ef0b173889baea6857c6cfd04ce37c2f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            1124
+          ], 
+          [
+            1004, 
+            1220
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.sufficientlysecure.viewer:id/checkAuth[text]Authorization required[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b1bf323b70340835945f7dd7ab559c62"
+}

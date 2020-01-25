@@ -1,0 +1,50 @@
+{
+  "stop_state": "1f7a35d601b90605a8c467d83ee26fc9", 
+  "event_str": "SetTextEvent(state=a429ed8181d240abbb39588e1aee9e08, view=aef34c420ab8e1fac84da8ac42e249d0, text=HelloWorld)", 
+  "tag": "2019-07-04_121503", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fsck.k9:id/bcc", 
+      "text": "HelloWorld, ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "882*118", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.MultiAutoCompleteTextView[resource_id]com.fsck.k9:id/bcc", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.MultiAutoCompleteTextView", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": true, 
+      "view_str": "aef34c420ab8e1fac84da8ac42e249d0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          18, 
+          557
+        ], 
+        [
+          900, 
+          675
+        ]
+      ], 
+      "signature": "[class]android.widget.MultiAutoCompleteTextView[resource_id]com.fsck.k9:id/bcc[text]HelloWorld, [enabled,,]"
+    }
+  }, 
+  "start_state": "a429ed8181d240abbb39588e1aee9e08"
+}

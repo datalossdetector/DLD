@@ -1,0 +1,127 @@
+{
+  "stop_state": "93ed3cccdf44dc18d03a643d9725b946", 
+  "event_str": "FillUIEvent(state=30be7ecfaeef0894dea8ab06eda19193, views=['9f43a30855de8f01a29fad0d3b20a958', '8379e2e934c0a50719588e0ce3c3e0c4', 'c4749306fef70ea9f19d056e4decca9a'])", 
+  "tag": "2019-06-23_082013", 
+  "event": {
+    "views_str": [
+      "9f43a30855de8f01a29fad0d3b20a958", 
+      "8379e2e934c0a50719588e0ce3c3e0c4", 
+      "c4749306fef70ea9f19d056e4decca9a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/switch_onboot", 
+        "text": "Automatically start on boot OFF", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "0*153", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.jak_linux.dns66:id/switch_onboot", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "9f43a30855de8f01a29fad0d3b20a958", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1455
+          ], 
+          [
+            0, 
+            1608
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.jak_linux.dns66:id/switch_onboot[text]Automatically start on boot OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/host_enabled", 
+        "text": "Enable Domain Filtering OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*153", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.jak_linux.dns66:id/host_enabled", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "8379e2e934c0a50719588e0ce3c3e0c4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            240
+          ], 
+          [
+            1080, 
+            393
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.jak_linux.dns66:id/host_enabled[text]Enable Domain Filtering OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/dns_enabled", 
+        "text": "Enable custom DNS servers ON", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "0*153", 
+        "checked": true, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.jak_linux.dns66:id/dns_enabled", 
+        "is_password": false, 
+        "parent": 44, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "c4749306fef70ea9f19d056e4decca9a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1080, 
+            240
+          ], 
+          [
+            1080, 
+            393
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.jak_linux.dns66:id/dns_enabled[text]Enable custom DNS servers ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "30be7ecfaeef0894dea8ab06eda19193"
+}

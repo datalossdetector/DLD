@@ -1,0 +1,51 @@
+{
+  "stop_state": "ce6d04eca471464b5f7ef778c6ba16e2", 
+  "event_str": "FillUIEvent(state=7a8655ebaa063ac61db98f79e7b82f09, views=['e3933f7fede043796faa8a7e1b90c3d8'])", 
+  "tag": "2019-06-09_223651", 
+  "event": {
+    "views_str": [
+      "e3933f7fede043796faa8a7e1b90c3d8"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "3", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": true, 
+        "view_str": "e3933f7fede043796faa8a7e1b90c3d8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            835
+          ], 
+          [
+            945, 
+            971
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]3[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7a8655ebaa063ac61db98f79e7b82f09"
+}

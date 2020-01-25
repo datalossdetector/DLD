@@ -1,0 +1,49 @@
+{
+  "stop_state": "9c960afef6b500b24dae85e6b8d91137", 
+  "event_str": "TouchEvent(state=393e023c5eca5d40fe342fd3b8378007, view=15fc47bc9cbcbbec93a815249fd0a716)", 
+  "tag": "2019-07-04_145016", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fsck.k9:id/preview", 
+      "text": "To: K9-Mail version: 5.010 Device make: Genymotion Device model: Google Nexus 5 Android version: 6.0 com.fsck.k9.mail.MessagingException: Unable to get IMAP prefix at com.fsck.k9.mail.store.ImapStore$ImapFolder.getPrefixedName(ImapStore.java:844) at com.fsck.k9.mail.store.ImapStore$ImapFolder.exists(ImapStore.java:1062) at com.fsck.k9.controller.MessagingController.processPendingAppend(MessagingController.java:2071) at com.fsck.k9.controller.MessagingController.processPendingCommandsSynchronous(MessagingControl", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "924*104", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.fsck.k9:id/preview", 
+      "is_password": false, 
+      "parent": 46, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": false, 
+      "view_str": "15fc47bc9cbcbbec93a815249fd0a716", 
+      "enabled": true, 
+      "bounds": [
+        [
+          147, 
+          890
+        ], 
+        [
+          1071, 
+          994
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.fsck.k9:id/preview[text]None[enabled,,]"
+    }, 
+    "id": 65, 
+    "event_type": "touch"
+  }, 
+  "start_state": "393e023c5eca5d40fe342fd3b8378007"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "4c9ec483eed3dce10da5ee0de8f731fe", 
+  "event_str": "FillUIEvent(state=5ed4c2ef1bfbe75f24dca6c220b21222, views=['7d3e484896c56e9da8cb83c078d84ddd'])", 
+  "tag": "2019-06-15_193626", 
+  "event": {
+    "views_str": [
+      "7d3e484896c56e9da8cb83c078d84ddd"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "Search\u2026", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "576*108", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": true, 
+        "view_str": "7d3e484896c56e9da8cb83c078d84ddd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            102
+          ], 
+          [
+            768, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]Search\u2026[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5ed4c2ef1bfbe75f24dca6c220b21222"
+}

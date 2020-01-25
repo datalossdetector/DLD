@@ -1,0 +1,165 @@
+{
+  "stop_state": "0eaa2e081c4ec5b3a7987a477638db84", 
+  "event_str": "FillUIEvent(state=0eaa2e081c4ec5b3a7987a477638db84, views=['6facf02b5bc73a96115fdd7e26658644', '6bff0d022532cdb410c12b83eae4238a', '6bff0d022532cdb410c12b83eae4238a', '6bff0d022532cdb410c12b83eae4238a'])", 
+  "tag": "2019-06-14_121330", 
+  "event": {
+    "views_str": [
+      "6facf02b5bc73a96115fdd7e26658644", 
+      "6bff0d022532cdb410c12b83eae4238a", 
+      "6bff0d022532cdb410c12b83eae4238a", 
+      "6bff0d022532cdb410c12b83eae4238a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "6facf02b5bc73a96115fdd7e26658644", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            883
+          ], 
+          [
+            1032, 
+            964
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/checkbox[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "6bff0d022532cdb410c12b83eae4238a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1153
+          ], 
+          [
+            1032, 
+            1234
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/checkbox[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "6bff0d022532cdb410c12b83eae4238a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1472
+          ], 
+          [
+            1032, 
+            1553
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/checkbox[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": "ON", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-15", 
+        "checked": true, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 44, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "6bff0d022532cdb410c12b83eae4238a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1791
+          ], 
+          [
+            1032, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/checkbox[text]ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "0eaa2e081c4ec5b3a7987a477638db84"
+}

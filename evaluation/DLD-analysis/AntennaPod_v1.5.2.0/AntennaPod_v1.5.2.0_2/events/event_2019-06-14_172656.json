@@ -1,0 +1,54 @@
+{
+  "stop_state": "da8e64a05a136489f6f17caf99e1236e", 
+  "event_str": "LongTouchEvent(state=b801573c2843e056d907937f9d6c4346, view=ea2306055191bb4cebf30e84706b67ca, duration=2000)", 
+  "tag": "2019-06-14_172656", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        33, 
+        34, 
+        35
+      ], 
+      "size": "840*144", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.RelativeLayout[resource_id]None", 
+      "is_password": false, 
+      "parent": 28, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.RelativeLayout", 
+      "scrollable": false, 
+      "package": "de.danoeh.antennapod.debug", 
+      "long_clickable": true, 
+      "view_str": "ea2306055191bb4cebf30e84706b67ca", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          239
+        ], 
+        [
+          840, 
+          383
+        ]
+      ], 
+      "signature": "[class]android.widget.RelativeLayout[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "b801573c2843e056d907937f9d6c4346"
+}

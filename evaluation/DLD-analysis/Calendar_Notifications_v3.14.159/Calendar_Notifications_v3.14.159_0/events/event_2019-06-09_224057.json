@@ -1,0 +1,89 @@
+{
+  "stop_state": "21c980803c746ada3a0f922a9d528335", 
+  "event_str": "FillUIEvent(state=21c980803c746ada3a0f922a9d528335, views=['04edca9157c810740df85e1d37b7b9fc', '9d4e27d15456d9315d48e875c81d18b5'])", 
+  "tag": "2019-06-09_224057", 
+  "event": {
+    "views_str": [
+      "04edca9157c810740df85e1d37b7b9fc", 
+      "9d4e27d15456d9315d48e875c81d18b5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/radio_button_compact_view", 
+        "text": "Compact view", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1035*-125", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_compact_view", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "04edca9157c810740df85e1d37b7b9fc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            15, 
+            240
+          ], 
+          [
+            1050, 
+            115
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_compact_view[text]Compact view[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/radio_button_card_view", 
+        "text": "Card view", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1035*96", 
+        "checked": true, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_card_view", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "9d4e27d15456d9315d48e875c81d18b5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            15, 
+            782
+          ], 
+          [
+            1050, 
+            878
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.github.quarck.calnotify:id/radio_button_card_view[text]Card view[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "21c980803c746ada3a0f922a9d528335"
+}

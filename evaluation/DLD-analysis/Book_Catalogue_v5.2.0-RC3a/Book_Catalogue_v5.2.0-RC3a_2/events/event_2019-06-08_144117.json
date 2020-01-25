@@ -1,0 +1,203 @@
+{
+  "stop_state": "fe9b231025aa20790155009b845415f0", 
+  "event_str": "FillUIEvent(state=21ae5406c3be87e917456e2368ac1447, views=['a90a10d1a0193e471fc3850fbdbd18f0', 'fbb8d3d734515f31081e0686cfaf9161', 'c27116216d990b40b9ffd177bee8cf92', '7325d4f53db8db53af7992781373ec2b', '59c7eabb7d1852c5bc27b9d0eafba813'])", 
+  "tag": "2019-06-08_144117", 
+  "event": {
+    "views_str": [
+      "a90a10d1a0193e471fc3850fbdbd18f0", 
+      "fbb8d3d734515f31081e0686cfaf9161", 
+      "c27116216d990b40b9ffd177bee8cf92", 
+      "7325d4f53db8db53af7992781373ec2b", 
+      "59c7eabb7d1852c5bc27b9d0eafba813"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/title", 
+        "text": "Pro Android Flashtest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/title", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "a90a10d1a0193e471fc3850fbdbd18f0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            648
+          ], 
+          [
+            1050, 
+            766
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/title[text]Pro Android Flashtest123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/format", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "876*118", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/format", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "fbb8d3d734515f31081e0686cfaf9161", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1024
+          ], 
+          [
+            906, 
+            1142
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/format[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/genre", 
+        "text": "Computers / Web / test123Web Programming", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/genre", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "c27116216d990b40b9ffd177bee8cf92", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1199
+          ], 
+          [
+            1050, 
+            1317
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/genre[text]Computers / Web / test123Web Programming[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/language", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/language", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "7325d4f53db8db53af7992781373ec2b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1374
+          ], 
+          [
+            1050, 
+            1492
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/language[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/anthology", 
+        "text": "\u0395\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03b1\u03bd\u03b8\u03bf\u03bb\u03bf\u03b3\u03af\u03b1;", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "785*96", 
+        "checked": true, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/anthology", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "59c7eabb7d1852c5bc27b9d0eafba813", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1492
+          ], 
+          [
+            815, 
+            1588
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/anthology[text]\u0395\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03b1\u03bd\u03b8\u03bf\u03bb\u03bf\u03b3\u03af\u03b1;[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "21ae5406c3be87e917456e2368ac1447"
+}

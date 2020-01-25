@@ -1,0 +1,241 @@
+{
+  "stop_state": "be8200fe606ce1c4927d703d482e2854", 
+  "event_str": "FillUIEvent(state=ad2e0337b5f9c70cda41c6191bc82a62, views=['3df9588095625a852b6cc57d70cb5cab', '853dce686e571d73f86d8312f6f3021f', '0e90ebaa049f5fd748bb32a778327cca', 'a295da894366912165a61e1af023bf8c', '75fc76464f24935111f0a31e15ece69b', '0180a16b1c5e662406a4cd7f261f3319'])", 
+  "tag": "2019-06-17_134628", 
+  "event": {
+    "views_str": [
+      "3df9588095625a852b6cc57d70cb5cab", 
+      "853dce686e571d73f86d8312f6f3021f", 
+      "0e90ebaa049f5fd748bb32a778327cca", 
+      "a295da894366912165a61e1af023bf8c", 
+      "75fc76464f24935111f0a31e15ece69b", 
+      "0180a16b1c5e662406a4cd7f261f3319"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Google", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": true, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "3df9588095625a852b6cc57d70cb5cab", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            264
+          ], 
+          [
+            1080, 
+            408
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Google[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Yahoo", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "853dce686e571d73f86d8312f6f3021f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            408
+          ], 
+          [
+            1080, 
+            552
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Yahoo[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Amazon.com", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "0e90ebaa049f5fd748bb32a778327cca", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            552
+          ], 
+          [
+            1080, 
+            696
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Amazon.com[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "DuckDuckGo", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "a295da894366912165a61e1af023bf8c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            696
+          ], 
+          [
+            1080, 
+            840
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]DuckDuckGo[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Twitter", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "75fc76464f24935111f0a31e15ece69b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            840
+          ], 
+          [
+            1080, 
+            984
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Twitter[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Wikipedia", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "0180a16b1c5e662406a4cd7f261f3319", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            984
+          ], 
+          [
+            1080, 
+            1128
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Wikipedia[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ad2e0337b5f9c70cda41c6191bc82a62"
+}

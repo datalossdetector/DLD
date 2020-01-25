@@ -1,0 +1,203 @@
+{
+  "stop_state": "3ec3ebcef4b78403122ece651a04c665", 
+  "event_str": "FillUIEvent(state=e433a61615ed10005c6ea3127e1aedba, views=['8c13dc03b2c29bd8dd75f349ac98f591', 'd35043aed38825641806880a0fc5a5f7', 'c4dd389cf67d11fe008dc665af8bbc81', '8857da6b746ba323d0c7158716c0643e', '38dd12ef7132061f8b2d434c7b73770e'])", 
+  "tag": "2019-07-01_105143", 
+  "event": {
+    "views_str": [
+      "8c13dc03b2c29bd8dd75f349ac98f591", 
+      "d35043aed38825641806880a0fc5a5f7", 
+      "c4dd389cf67d11fe008dc665af8bbc81", 
+      "8857da6b746ba323d0c7158716c0643e", 
+      "38dd12ef7132061f8b2d434c7b73770e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "andrompd.org.andrompd:id/fragment_profile_profilename", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_profilename", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "andrompd.org.andrompd", 
+        "long_clickable": true, 
+        "view_str": "8c13dc03b2c29bd8dd75f349ac98f591", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            297
+          ], 
+          [
+            1032, 
+            433
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_profilename[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "andrompd.org.andrompd:id/fragment_profile_hostname", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_hostname", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "andrompd.org.andrompd", 
+        "long_clickable": true, 
+        "view_str": "d35043aed38825641806880a0fc5a5f7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            514
+          ], 
+          [
+            1032, 
+            650
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_hostname[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "andrompd.org.andrompd:id/fragment_profile_password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_password", 
+        "is_password": true, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "andrompd.org.andrompd", 
+        "long_clickable": true, 
+        "view_str": "c4dd389cf67d11fe008dc665af8bbc81", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            731
+          ], 
+          [
+            1032, 
+            867
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_password[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "andrompd.org.andrompd:id/fragment_profile_port", 
+        "text": "6600", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_port", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "andrompd.org.andrompd", 
+        "long_clickable": true, 
+        "view_str": "8857da6b746ba323d0c7158716c0643e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            948
+          ], 
+          [
+            1032, 
+            1084
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]andrompd.org.andrompd:id/fragment_profile_port[text]6600[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "andrompd.org.andrompd:id/fragment_profile_autoconnect", 
+        "text": "Connect automatically: OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*81", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]andrompd.org.andrompd:id/fragment_profile_autoconnect", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "andrompd.org.andrompd", 
+        "long_clickable": false, 
+        "view_str": "38dd12ef7132061f8b2d434c7b73770e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1108
+          ], 
+          [
+            1032, 
+            1189
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]andrompd.org.andrompd:id/fragment_profile_autoconnect[text]Connect automatically: OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e433a61615ed10005c6ea3127e1aedba"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "611a0b42c105d37066fdd748917183c7", 
+  "event_str": "SetTextEvent(state=5f94c82ab41fdf0f789f10351e9c4a65, view=84c98a7ec0b5c6e2f9a61ccdeb4cc7a1, text=HelloWorld)", 
+  "tag": "2019-06-21_203326", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fsck.k9:id/subject", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1008*133", 
+      "checked": false, 
+      "temp_id": 37, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+      "is_password": false, 
+      "parent": 36, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": true, 
+      "view_str": "84c98a7ec0b5c6e2f9a61ccdeb4cc7a1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          36, 
+          864
+        ], 
+        [
+          1044, 
+          997
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "5f94c82ab41fdf0f789f10351e9c4a65"
+}

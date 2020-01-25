@@ -1,0 +1,127 @@
+{
+  "stop_state": "ae85edd311e3205ce57fb754b1f62c73", 
+  "event_str": "FillUIEvent(state=ae85edd311e3205ce57fb754b1f62c73, views=['8acbc24c41451310c45f2ff1b18d0977', '4a396c6c9995fcf5425c85c55a5f3fdb', '517dc3b20b8bd5c0e9b7934cbf334184'])", 
+  "tag": "2019-07-04_145240", 
+  "event": {
+    "views_str": [
+      "8acbc24c41451310c45f2ff1b18d0977", 
+      "4a396c6c9995fcf5425c85c55a5f3fdb", 
+      "517dc3b20b8bd5c0e9b7934cbf334184"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/subject", 
+        "text": "SocketTimeoutException: failed to connect to mail.tiscali.it/213.205.34.37 (port 993) after 30000ms", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1044*-15", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "8acbc24c41451310c45f2ff1b18d0977", 
+        "enabled": true, 
+        "bounds": [
+          [
+            18, 
+            216
+          ], 
+          [
+            1062, 
+            201
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/message_content", 
+        "text": "test123K9-Mail version: 5.010\nDevice make: Genymotion\nDevice model: Google Nexus 5\nAndroid version: 6.0\n\ncom.fsck.k9.mail.MessagingException: Unable to get IMAP prefix\n\tat com.fsck.k9.mail.test123store.ImapStore$ImapFolder.getPrefixedName(ImapStore.java:844)\n\tat com.fsck.k9.mail.store.ImapStore$ImapFolder.exists(ImapStore.java:1062)\n\tat com.fsck.k9.controller.MessagingController.processPendingAppend(MessagingController.java:2071)\n\tat com.fsck.k9.controller.MessagingController.processPendingCommandsSynchronous(MessagingController.java:1987)\n\tat com.fsck.k9.controller.MessagingController.access$1000(MessagingController.java:111)\n\tat com.fsck.k9.controller.MessagingController$12.run(MessagingController.java:1935)\n\tat com.fsck.k9.controller.MessagingController.run(MessagingController.java:435)\n\tat java.lang.Thread.run(Thread.java:818)\nCaused by: java.net.SocketTimeoutException: failed to connect to mail.tiscali.it/213.205.34.37 (port 993) after 30000ms\n\tat libcore.io.IoBridge.connectErrno(IoBridge.java:169)\n\tat libcore.io.IoBridge.connect(IoBridge.java:122)\n\tat java.net.PlainSocketImpl.connect(PlainSocketImpl.java:183)\n\tat java.net.PlainSocketImpl.connect(PlainSocketImpl.java:452)\n\tat java.net.Socket.connect(Socket.java:884)\n\tat com.fsck.k9.mail.store.ImapStore$ImapConnection.open(ImapStore.java:2445)\n\tat com.fsck.k9.mail.store.ImapStore$ImapFolder.getPrefixedName(ImapStore.java:842)\n\t... 7 more\n", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*1560", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "4a396c6c9995fcf5425c85c55a5f3fdb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            216
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/lower_signature", 
+        "text": "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*-2149", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "517dc3b20b8bd5c0e9b7934cbf334184", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            3925
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ae85edd311e3205ce57fb754b1f62c73"
+}

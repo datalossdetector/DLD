@@ -1,0 +1,127 @@
+{
+  "stop_state": "f3539b09211b7efc60042097ae66d3cb", 
+  "event_str": "FillUIEvent(state=f3539b09211b7efc60042097ae66d3cb, views=['8acbc24c41451310c45f2ff1b18d0977', 'f1ea2f2d84c5397a9057e04b8805afac', '517dc3b20b8bd5c0e9b7934cbf334184'])", 
+  "tag": "2019-06-21_161618", 
+  "event": {
+    "views_str": [
+      "8acbc24c41451310c45f2ff1b18d0977", 
+      "f1ea2f2d84c5397a9057e04b8805afac", 
+      "517dc3b20b8bd5c0e9b7934cbf334184"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/subject", 
+        "text": "Fwd: Re: [GitHub] A ptest123HelloWorldtest123ersonal access token has been added to your account", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*-601", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "8acbc24c41451310c45f2ff1b18d0977", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            216
+          ], 
+          [
+            1044, 
+            -385
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/message_content", 
+        "text": "test123test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*-345", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "f1ea2f2d84c5397a9057e04b8805afac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            216
+          ], 
+          [
+            1080, 
+            -129
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/lower_signature", 
+        "text": "-- test123test123test123\nSent from my Androitest123d device with K-9 Mail. Please excuse my brevity.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*244", 
+        "checked": false, 
+        "temp_id": 78, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "517dc3b20b8bd5c0e9b7934cbf334184", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1532
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f3539b09211b7efc60042097ae66d3cb"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "efdda9f73a4f7df8e0d2564906c691be", 
+  "event_str": "FillUIEvent(state=187228593a8afee15bb004681eb9d07b, views=['e5c31c21f7570e77a950b037428da2ba'])", 
+  "tag": "2019-06-22_143621", 
+  "event": {
+    "views_str": [
+      "e5c31c21f7570e77a950b037428da2ba"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "net.fred.feedex", 
+        "long_clickable": false, 
+        "view_str": "e5c31c21f7570e77a950b037428da2ba", 
+        "enabled": true, 
+        "bounds": [
+          [
+            969, 
+            282
+          ], 
+          [
+            1065, 
+            378
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "187228593a8afee15bb004681eb9d07b"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "63c3703c6bcd1c101768552f1ad532c3", 
+  "event_str": "FillUIEvent(state=0cc18589fbc9db347fb7c92b835ebcb4, views=['234ba782f11ef02515247acc75cc42bb'])", 
+  "tag": "2019-06-17_203132", 
+  "event": {
+    "views_str": [
+      "234ba782f11ef02515247acc75cc42bb"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.android.settings", 
+        "long_clickable": false, 
+        "view_str": "234ba782f11ef02515247acc75cc42bb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            880, 
+            283
+          ], 
+          [
+            1020, 
+            364
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "0cc18589fbc9db347fb7c92b835ebcb4"
+}

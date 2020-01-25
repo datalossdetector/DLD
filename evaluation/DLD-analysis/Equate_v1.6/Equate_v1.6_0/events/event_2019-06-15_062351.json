@@ -1,0 +1,51 @@
+{
+  "stop_state": "62c29bf34dcafcbf385c54c9cc0be292", 
+  "event_str": "FillUIEvent(state=590389d2c8596a627ffd701169add3df, views=['169505eee85d0613f0936646bde505ba'])", 
+  "tag": "2019-06-15_062351", 
+  "event": {
+    "views_str": [
+      "169505eee85d0613f0936646bde505ba"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.llamacorp.equate:id/textDisplay", 
+        "text": "Convert 5 kWh to:", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1047*162", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.llamacorp.equate", 
+        "long_clickable": true, 
+        "view_str": "169505eee85d0613f0936646bde505ba", 
+        "enabled": true, 
+        "bounds": [
+          [
+            6, 
+            359
+          ], 
+          [
+            1053, 
+            521
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay[text]Convert 5 kWh to:[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "590389d2c8596a627ffd701169add3df"
+}

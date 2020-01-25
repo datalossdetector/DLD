@@ -1,0 +1,89 @@
+{
+  "stop_state": "256c9c0e543d550d1d6d09afeba4b37f", 
+  "event_str": "FillUIEvent(state=88055c9cee5405ade22801026376fed4, views=['825d6a0c94f4535e234cd0c2a9689fcf', '226f54f292c76017f2aa31860ee60a87'])", 
+  "tag": "2019-06-15_043936", 
+  "event": {
+    "views_str": [
+      "825d6a0c94f4535e234cd0c2a9689fcf", 
+      "226f54f292c76017f2aa31860ee60a87"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "net.cyclestreets:id/username", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1056*118", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/username", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "net.cyclestreets", 
+        "long_clickable": true, 
+        "view_str": "825d6a0c94f4535e234cd0c2a9689fcf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            12, 
+            505
+          ], 
+          [
+            1068, 
+            623
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/username[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "net.cyclestreets:id/password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1056*118", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/password", 
+        "is_password": true, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "net.cyclestreets", 
+        "long_clickable": true, 
+        "view_str": "226f54f292c76017f2aa31860ee60a87", 
+        "enabled": true, 
+        "bounds": [
+          [
+            12, 
+            680
+          ], 
+          [
+            1068, 
+            798
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/password[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "88055c9cee5405ade22801026376fed4"
+}

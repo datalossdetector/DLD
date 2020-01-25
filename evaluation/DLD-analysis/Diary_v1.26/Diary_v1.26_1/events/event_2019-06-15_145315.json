@@ -1,0 +1,51 @@
+{
+  "stop_state": "1163e860f64e49fe8cabc3f8019a722f", 
+  "event_str": "FillUIEvent(state=1163e860f64e49fe8cabc3f8019a722f, views=['5259d14aa9675afbc8eaf43aeffe0f77'])", 
+  "tag": "2019-06-15_145315", 
+  "event": {
+    "views_str": [
+      "5259d14aa9675afbc8eaf43aeffe0f77"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.billthefarmer.diary:id/text", 
+        "text": "# Diary\n---\n### Android personal diary.\n\n* Entries saved in plain text files\n* Browse entries\n* English, Catalan, Spanish, Italian, Japanese, German, French, Polish\n  and simplified Chinese\n* Choice of date picker calendars\n* Diary entries may use markdown \n* Display mediaHelloWtest123test123orld storedHelloWorldHelloWorld in diary folders\n* Display [OpenStreetMap](http://www.openstreetmap.org) maps\n* Add media from media providers\n* Receive media from other apps\n* Receive geo uris from other apps\n* Incremental search of diary entries\n* Add events to calendar\n* Dark or light theme for editing\n\n## Toolbar\nThe toolbar icons are, from left to right:\n\n* **Previous** - show the previous entry or today\n* **Next** - show the next entry or today if next\n* **Today** - show today's entry\n* **Go to date** - show a date picker calendar to select a new date\n* **Search** - Incremental search of diary entry\n* **Find all** - Find all diary entries containing search text\n* **Add media** - show a media picker to select media\n* **Edit styles** - show an editor to edit the custom styles\n* **Settings** - show the settings\n\nDepending on the device and orientation, some items may be on the\nmenu.\n\n## Swipe left and right\nSwipe left and right in the diary page will show the next or previous\nday, or in the custom calendar will show the next or previous month.\n\n## Swipe up and down\nSwipe up and down with two fingers in the diary page will show the\nprevious or next month, or in the custom calendar will show the\nprevious or next year.\n\n## Editing\nIn markdown mode the **Edit** button floating above the page allows\nediting entries. The **Accept** button restores the formatted view. A\nlong touch on the button hides it until the device is rotated or a\nlong touch on the page.\n\nSee [Markdown](https://daringfireball.net/projects/markdown) for\nmarkdown syntax.\n\n## Search\nYou may search diary entries, the search will update as text is\nentered into the search field. Use the search widget or keyboard\naction button for find next.\n\n## Find all\nYou may find all diary entries that contain the current search\ntext. This menu item will only appear while the search widget is\nactive. A dialog will pop up with a list of matching entries. Touch an\nentry to open that entry. You may repeat this or refine the search\ntext to find the desired entry.\n\n## Text\nYou may receive text clips from another app. A date picker will pop\nup. The text will be appended to the entry selected.\n\n## Media\nYou may store media in the diary storage folders and reference them in\ndiary entries, so markdown text `![cat](cat.jpg)` will display\n`cat.jpg` stored in the current month folder which is\n`Diary/<year>/<month>` on the sdcard. You may either add media from\nmedia providers like file managers or image managers or receive media\nsent by other apps. Media added will be added at the current cursor\nposition. Media sent by other apps will pop up a date picker. The\nmedia will be appended to the selected page. Content URIs\n(`content://`) sent by some media providers and apps will be resolved\nto file URIs (`file:///`) if possible. Media will be added using\nmarkdown image syntax (`![<name>](<url>)`), which will be parsed into\nan HTML5 media player, text clips will be added as above, URLs will be\nadded as a link.\n\n## Links\nYou may put links in diary pages, so\n`[DuckDuckGo](https://duckduckgo.com)` will show a link to\nDuckDuckGo. Links will be followed if touched. Use the back button in\nthe toolbar or the navigation bar to return to the diary page. Links\nto other diary pages may either be a relative reference to the entry\nfile `[Sunday](25.txt)`, or use a date URI\n`[Whenever](date:17/10/2017)`. Use your local convention for short\nform numeric dates (UK: `dd/mm/yyyy`, US: `mm/dd/yyyy`). Use the back\nbutton to return. The back button may be used to retrace your path\nthrough diary entries and external web pages. Use the **Today** button\nto clear the navigation entries.\n\n## Maps\nYou may put [OpenStreetMap](http://www.openstreetmap.org) maps in\ndiary pages with the syntax `[<lat>,<lng>]`, or\n`[osm:<lat>,<lng>]`. Because of differing conventions in different\nlocales, the app parser will accept a comma or a dot (`[,.]`) for the\ndecimal point, and a comma or a semicolon (`[,;]`) for the co-ordinate\nseparator. Use the correct convention for your locale. Geo uris\nreceived from other apps will be converted to `[osm](<lat>,<lng>)`\nsyntax in the diary entry. Diary entries using `[<lat>,<lng>]` syntax\nwill be converted to geo uri syntax. **Caution** - geo uris use a\nperiod (`[.]`) for a decimal point and a comma (`[,]`) for the\nco-ordinate separator regardless of locale.\n\n## Events\nYou may add an event to the calendar by adding a line to a diary entry\nwhich begins with an 'at' symbol followed by a time and an event\ntitle.\n\n    @ 10:30 Dentist\n\nAn event will be added to the calendar when the entry is saved. A\ncolon will be added after the 'at' symbol when the event has been\nadded.\n\n    @:10:30 Dentist\n\nUse the Calendar app to remove or edit events. Do not remove the colon\nfrom the diary entry or the event will be added again.\n\n## Styles\nYou may add custom styles to the markdown formatting by placing a\n`styles.css` file in the `Diary/css` folder, which will replace the\nbuilt in styles file which simply limits the width of images to the\npage width. Use the built in editor to create a styles file.\n\n**Caution** - There is no such thing as a markdown syntax error, but\nsyntax errors in a styles file may cause unpredictable results and\naffect all diary pages. See\n[CSS Tutorial](https://www.w3schools.com/Css).\n\nYou may include the built in styles file with an `@import` statement\n`@import \"file:///android_asset/styles.css\";` or\n`@import url(\"file:///android_asset/styles.css\");`, which should be on\nthe first line.\n\n## Settings\n* **Use custom calendar** - Use custom calendar that shows diary\n  entries rather than date picker calendar\n* **Use markdown** - Use markdown formatting for diary entries\n* **Folder** - Change diary entry storage folder. Caution - diary\n  entries and styles will not be moved\n* **Copy images** - Copy images to current folder\n* **Dark theme** - Use dark theme for editing\n* **About** - Show app version, licence and credits\n", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*1536", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.diary:id/text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": true, 
+        "view_str": "5259d14aa9675afbc8eaf43aeffe0f77", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            240
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.billthefarmer.diary:id/text[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1163e860f64e49fe8cabc3f8019a722f"
+}

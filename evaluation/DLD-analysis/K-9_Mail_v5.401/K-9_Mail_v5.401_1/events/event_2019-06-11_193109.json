@@ -1,0 +1,49 @@
+{
+  "stop_state": "320ce58d569f928ce661d7690562ba60", 
+  "event_str": "TouchEvent(state=c2f482b4e32005ac3c753b4b40ffdd38, view=833b351e4bc95a7e66816fa839c88502)", 
+  "tag": "2019-06-11_193109", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fsck.k9:id/preview", 
+      "text": "Re: [nayuki/QR-Code-generator] Make it possible to compile with GNU dialect of ISO C90 (#60) I enjoy being able to declare variables anywhere in a function. In particular, I declare variables at their point of first usage. This is in line with all the other language ports of this library (e.g. C++, Rust, Java). C89 code breaks this principle and makes code ugly. Also, I believe I use a couple of other C99 features in the code. Hence, I cannot condone your proposed changes.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "654*90", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.fsck.k9:id/preview", 
+      "is_password": false, 
+      "parent": 40, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": false, 
+      "view_str": "833b351e4bc95a7e66816fa839c88502", 
+      "enabled": true, 
+      "bounds": [
+        [
+          303, 
+          635
+        ], 
+        [
+          957, 
+          725
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.fsck.k9:id/preview[text]None[enabled,,]"
+    }, 
+    "id": 58, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c2f482b4e32005ac3c753b4b40ffdd38"
+}

@@ -1,0 +1,89 @@
+{
+  "stop_state": "daa0415d88ff7e946ae77c846c8ccc34", 
+  "event_str": "FillUIEvent(state=daa0415d88ff7e946ae77c846c8ccc34, views=['907a538c70d369dc2301d2689f4f3135', '7966acaea37dedab4fd1c6afd1ab3205'])", 
+  "tag": "2019-06-18_054812", 
+  "event": {
+    "views_str": [
+      "907a538c70d369dc2301d2689f4f3135", 
+      "7966acaea37dedab4fd1c6afd1ab3205"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Altro", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "201*120", 
+        "checked": true, 
+        "temp_id": 955, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 954, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "907a538c70d369dc2301d2689f4f3135", 
+        "enabled": true, 
+        "bounds": [
+          [
+            519, 
+            -2679
+          ], 
+          [
+            720, 
+            -2559
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "test12test123test123test123test1233", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "243*63", 
+        "checked": false, 
+        "temp_id": 968, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 967, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "7966acaea37dedab4fd1c6afd1ab3205", 
+        "enabled": true, 
+        "bounds": [
+          [
+            744, 
+            -2640
+          ], 
+          [
+            987, 
+            -2577
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "daa0415d88ff7e946ae77c846c8ccc34"
+}

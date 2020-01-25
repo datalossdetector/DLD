@@ -1,0 +1,165 @@
+{
+  "stop_state": "fe1bc0611a1d57946773d55d745d4faa", 
+  "event_str": "FillUIEvent(state=f7576080c1aa47898870bd803585dcd1, views=['32664ca9f70d512185052d2cb6460949', '46446fcd416973b527a371b1a7518706', '84f359cca189dd6997e2cf562d156b1b', 'e2f792b05309376c8cba196b9f515260'])", 
+  "tag": "2019-06-08_112642", 
+  "event": {
+    "views_str": [
+      "32664ca9f70d512185052d2cb6460949", 
+      "46446fcd416973b527a371b1a7518706", 
+      "84f359cca189dd6997e2cf562d156b1b", 
+      "e2f792b05309376c8cba196b9f515260"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/read", 
+        "text": "Avez-vous lu ce livre ?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*96", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/read", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "32664ca9f70d512185052d2cb6460949", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            390
+          ], 
+          [
+            1050, 
+            486
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/read[text]Avez-vous lu ce livre ?[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/notes", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/notes", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "46446fcd416973b527a371b1a7518706", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            781
+          ], 
+          [
+            1050, 
+            899
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/notes[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/signed", 
+        "text": "Ce livre est il d\u00e9dicac\u00e9 ?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*96", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "84f359cca189dd6997e2cf562d156b1b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            899
+          ], 
+          [
+            1050, 
+            995
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed[text]Ce livre est il d\u00e9dicac\u00e9 ?[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/location", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "e2f792b05309376c8cba196b9f515260", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1460
+          ], 
+          [
+            1050, 
+            1578
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f7576080c1aa47898870bd803585dcd1"
+}

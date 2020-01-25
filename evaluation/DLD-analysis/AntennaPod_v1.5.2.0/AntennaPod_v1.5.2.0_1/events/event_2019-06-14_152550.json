@@ -1,0 +1,56 @@
+{
+  "stop_state": "cd8195923774c5027c32b9a44a404a4d", 
+  "event_str": "LongTouchEvent(state=ca25933d2b94a72c2809bb2aa5c022d3, view=b9b22743329c46228bf2a3a3d88d68a2, duration=2000)", 
+  "tag": "2019-06-14_152550", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 28, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        21, 
+        27, 
+        36, 
+        44, 
+        52
+      ], 
+      "size": "1080*1368", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/list", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": true, 
+      "package": "de.danoeh.antennapod.debug", 
+      "long_clickable": true, 
+      "view_str": "b9b22743329c46228bf2a3a3d88d68a2", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          240
+        ], 
+        [
+          1080, 
+          1608
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]android:id/list[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "ca25933d2b94a72c2809bb2aa5c022d3"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "582e5c295e090bb6b72fe41f353e12da", 
+  "event_str": "FillUIEvent(state=aab74e8ffc436ef218825faebd3d6e6f, views=['362302149a5fdd66310d87f9ef11a5e2', 'fb5b7cb04c087a97a76f052a5894a9d2', 'd82631e93a62a84a846dcc56a237986a', '7e5c963432c54f7a547b7fe7eedbab48'])", 
+  "tag": "2019-06-17_035943", 
+  "event": {
+    "views_str": [
+      "362302149a5fdd66310d87f9ef11a5e2", 
+      "fb5b7cb04c087a97a76f052a5894a9d2", 
+      "d82631e93a62a84a846dcc56a237986a", 
+      "7e5c963432c54f7a547b7fe7eedbab48"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.gateshipone.malp:id/fragment_profile_profilename", 
+        "text": "New Profile", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/fragment_profile_profilename", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.gateshipone.malp", 
+        "long_clickable": true, 
+        "view_str": "362302149a5fdd66310d87f9ef11a5e2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            297
+          ], 
+          [
+            1032, 
+            433
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/fragment_profile_profilename[text]New Profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.gateshipone.malp:id/fragment_profile_hostname", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/fragment_profile_hostname", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.gateshipone.malp", 
+        "long_clickable": true, 
+        "view_str": "fb5b7cb04c087a97a76f052a5894a9d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            514
+          ], 
+          [
+            1032, 
+            650
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/fragment_profile_hostname[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.gateshipone.malp:id/fragment_profile_password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/fragment_profile_password", 
+        "is_password": true, 
+        "parent": 25, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.gateshipone.malp", 
+        "long_clickable": true, 
+        "view_str": "d82631e93a62a84a846dcc56a237986a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            731
+          ], 
+          [
+            1032, 
+            867
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.gateshipone.malp:id/fragment_profile_password[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "6600", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "768*144", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.gateshipone.malp", 
+        "long_clickable": true, 
+        "view_str": "7e5c963432c54f7a547b7fe7eedbab48", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1089
+          ], 
+          [
+            816, 
+            1233
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]6600[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "aab74e8ffc436ef218825faebd3d6e6f"
+}

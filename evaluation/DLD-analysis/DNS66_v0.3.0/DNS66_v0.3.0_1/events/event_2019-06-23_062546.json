@@ -1,0 +1,507 @@
+{
+  "stop_state": "1be8069084c17a0ef4d85a7c86b132e4", 
+  "event_str": "FillUIEvent(state=1be8069084c17a0ef4d85a7c86b132e4, views=['cf5f428d89db3fb3ddd9c809853e4841', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620', 'dd53e0b9d1d287eb6d98249ee5c66620'])", 
+  "tag": "2019-06-23_062546", 
+  "event": {
+    "views_str": [
+      "cf5f428d89db3fb3ddd9c809853e4841", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620", 
+      "dd53e0b9d1d287eb6d98249ee5c66620"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*4", 
+        "checked": true, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "cf5f428d89db3fb3ddd9c809853e4841", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            267
+          ], 
+          [
+            228, 
+            271
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            295
+          ], 
+          [
+            228, 
+            391
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            415
+          ], 
+          [
+            228, 
+            511
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            535
+          ], 
+          [
+            228, 
+            631
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            655
+          ], 
+          [
+            228, 
+            751
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            775
+          ], 
+          [
+            228, 
+            871
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            895
+          ], 
+          [
+            228, 
+            991
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1015
+          ], 
+          [
+            228, 
+            1111
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1135
+          ], 
+          [
+            228, 
+            1231
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1255
+          ], 
+          [
+            228, 
+            1351
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1375
+          ], 
+          [
+            228, 
+            1471
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1495
+          ], 
+          [
+            228, 
+            1591
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.jak_linux.dns66:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox", 
+        "is_password": false, 
+        "parent": 44, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.jak_linux.dns66", 
+        "long_clickable": false, 
+        "view_str": "dd53e0b9d1d287eb6d98249ee5c66620", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1615
+          ], 
+          [
+            228, 
+            1711
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.jak_linux.dns66:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1be8069084c17a0ef4d85a7c86b132e4"
+}

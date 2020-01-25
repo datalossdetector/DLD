@@ -1,0 +1,53 @@
+{
+  "stop_state": "87598732f5adbd9a2f8880073178f9d0", 
+  "event_str": "ScrollEvent(state=9345df5af9de82afb7658a817fb26ad0, view=3be26c72da6e92212c97dae85eac3ed0, direction=UP)", 
+  "tag": "2019-06-14_181445", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": "", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        25
+      ], 
+      "size": "1080*1257", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.webkit.WebView[resource_id]None", 
+      "is_password": false, 
+      "parent": 23, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": false, 
+      "class": "android.webkit.WebView", 
+      "scrollable": true, 
+      "package": "de.danoeh.antennapod.debug", 
+      "long_clickable": false, 
+      "view_str": "3be26c72da6e92212c97dae85eac3ed0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          245
+        ], 
+        [
+          1080, 
+          1502
+        ]
+      ], 
+      "signature": "[class]android.webkit.WebView[resource_id]None[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "9345df5af9de82afb7658a817fb26ad0"
+}

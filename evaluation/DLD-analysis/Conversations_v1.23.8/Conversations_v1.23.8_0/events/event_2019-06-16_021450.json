@@ -1,0 +1,51 @@
+{
+  "stop_state": "8806397742542d63a87ffb38c6dec771", 
+  "event_str": "FillUIEvent(state=d4185be106fe561ced506ffa39510cd3, views=['7aaf6b514d38842cfdf4e7b757346be5'])", 
+  "tag": "2019-06-16_021450", 
+  "event": {
+    "views_str": [
+      "7aaf6b514d38842cfdf4e7b757346be5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/textinput", 
+        "text": "Send unencrypted message", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*145", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "7aaf6b514d38842cfdf4e7b757346be5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1631
+          ], 
+          [
+            936, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput[text]Send unencrypted message[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d4185be106fe561ced506ffa39510cd3"
+}

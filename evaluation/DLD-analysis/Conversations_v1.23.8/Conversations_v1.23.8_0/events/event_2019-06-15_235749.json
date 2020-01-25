@@ -1,0 +1,51 @@
+{
+  "stop_state": "82d040b564584e98d4efd26c1ed6cec5", 
+  "event_str": "FillUIEvent(state=138029062841595f52c52a565053743b, views=['6e453b2e6cef557b905b8a749d9d11fd'])", 
+  "tag": "2019-06-15_235749", 
+  "event": {
+    "views_str": [
+      "6e453b2e6cef557b905b8a749d9d11fd"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/subject", 
+        "text": "The subject of this group chat", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "786*120", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/subject", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "6e453b2e6cef557b905b8a749d9d11fd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            988
+          ], 
+          [
+            933, 
+            1108
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/subject[text]The subject of this group chat[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "138029062841595f52c52a565053743b"
+}

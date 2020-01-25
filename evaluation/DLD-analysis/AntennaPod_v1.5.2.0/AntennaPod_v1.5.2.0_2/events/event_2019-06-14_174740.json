@@ -1,0 +1,279 @@
+{
+  "stop_state": "79b503774ad5eeef78a712551966bf38", 
+  "event_str": "FillUIEvent(state=433788b0f25c9d3257e8c13884fdb8f9, views=['e026e9720608dab05021b8f5b8ef3324', 'ac2c32f510105f4bb35ed147fe5f5402', '1dc276b23538903002be994a3bdcb351', '041a0b684d4fd24913eb22be6f6a1e48', 'c67b51c9e9c74e11d6f51b3a4e800a37', 'af4655583f769e156d24f3afbf8cddc8', '19bc10b214b65dc6ab6c6a4a567db333'])", 
+  "tag": "2019-06-14_174740", 
+  "event": {
+    "views_str": [
+      "e026e9720608dab05021b8f5b8ef3324", 
+      "ac2c32f510105f4bb35ed147fe5f5402", 
+      "1dc276b23538903002be994a3bdcb351", 
+      "041a0b684d4fd24913eb22be6f6a1e48", 
+      "c67b51c9e9c74e11d6f51b3a4e800a37", 
+      "af4655583f769e156d24f3afbf8cddc8", 
+      "19bc10b214b65dc6ab6c6a4a567db333"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/cbxKeepUpdated", 
+        "text": "Keep Updated", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*96", 
+        "checked": false, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbxKeepUpdated", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "e026e9720608dab05021b8f5b8ef3324", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            583
+          ], 
+          [
+            1032, 
+            679
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbxKeepUpdated[text]Keep Updated[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/etxtUsername", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "420*136", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtUsername", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "ac2c32f510105f4bb35ed147fe5f5402", 
+        "enabled": true, 
+        "bounds": [
+          [
+            437, 
+            930
+          ], 
+          [
+            857, 
+            1066
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtUsername[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/etxtPassword", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "420*136", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtPassword", 
+        "is_password": true, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "1dc276b23538903002be994a3bdcb351", 
+        "enabled": true, 
+        "bounds": [
+          [
+            437, 
+            1066
+          ], 
+          [
+            857, 
+            1202
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtPassword[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/cbxAutoDownload", 
+        "text": "Include in auto downloads", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*96", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbxAutoDownload", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "041a0b684d4fd24913eb22be6f6a1e48", 
+        "enabled": false, 
+        "bounds": [
+          [
+            48, 
+            1323
+          ], 
+          [
+            1032, 
+            1419
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbxAutoDownload[text]Include in auto downloads[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/radio_filter_include", 
+        "text": "Include", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "231*96", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.danoeh.antennapod.debug:id/radio_filter_include", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "c67b51c9e9c74e11d6f51b3a4e800a37", 
+        "enabled": false, 
+        "bounds": [
+          [
+            303, 
+            1646
+          ], 
+          [
+            534, 
+            1742
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.danoeh.antennapod.debug:id/radio_filter_include[text]Include[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/radio_filter_exclude", 
+        "text": "Exclude", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "242*96", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.danoeh.antennapod.debug:id/radio_filter_exclude", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "af4655583f769e156d24f3afbf8cddc8", 
+        "enabled": false, 
+        "bounds": [
+          [
+            534, 
+            1646
+          ], 
+          [
+            776, 
+            1742
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.danoeh.antennapod.debug:id/radio_filter_exclude[text]Exclude[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/etxtEpisodeFilterText", 
+        "text": "Single words \n\"Multiple Words\"", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*34", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtEpisodeFilterText", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "19bc10b214b65dc6ab6c6a4a567db333", 
+        "enabled": false, 
+        "bounds": [
+          [
+            48, 
+            1742
+          ], 
+          [
+            1032, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtEpisodeFilterText[text]Single words \n\"Multiple Words\"[,,]"
+      }
+    ]
+  }, 
+  "start_state": "433788b0f25c9d3257e8c13884fdb8f9"
+}

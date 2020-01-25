@@ -1,0 +1,51 @@
+{
+  "stop_state": "fb74688537cc4b82aed394c87402e8a9", 
+  "event_str": "FillUIEvent(state=550a112e8d24a52a716fc21789fe3bac, views=['19bdfb5f1a8602c590bbb06ee68bc974'])", 
+  "tag": "2019-07-08_164433", 
+  "event": {
+    "views_str": [
+      "19bdfb5f1a8602c590bbb06ee68bc974"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/input", 
+        "text": "Enter the text from the image above", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "834*120", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/input", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "19bdfb5f1a8602c590bbb06ee68bc974", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            949
+          ], 
+          [
+            957, 
+            1069
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/input[text]Enter the text from the image above[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "550a112e8d24a52a716fc21789fe3bac"
+}

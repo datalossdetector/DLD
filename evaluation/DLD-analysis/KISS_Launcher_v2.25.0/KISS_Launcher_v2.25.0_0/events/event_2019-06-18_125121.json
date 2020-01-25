@@ -1,0 +1,50 @@
+{
+  "stop_state": "fb3aead4938008f6cc58a0c7e56139b8", 
+  "event_str": "SetTextEvent(state=d861551555251e8d76306889308beb38, view=47dbb1bba32fba4d7cad159cf83a114e, text=HelloWorld)", 
+  "tag": "2019-06-18_125121", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "fr.neamar.kiss:id/searchEditText", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "741*65", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]fr.neamar.kiss:id/searchEditText", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "fr.neamar.kiss", 
+      "long_clickable": true, 
+      "view_str": "47dbb1bba32fba4d7cad159cf83a114e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          165, 
+          1653
+        ], 
+        [
+          906, 
+          1718
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]fr.neamar.kiss:id/searchEditText[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "d861551555251e8d76306889308beb38"
+}

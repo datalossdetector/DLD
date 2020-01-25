@@ -1,0 +1,49 @@
+{
+  "stop_state": "14a02cfd7a88173c5fb3057fa91da37f", 
+  "event_str": "TouchEvent(state=14a02cfd7a88173c5fb3057fa91da37f, view=4a396c6c9995fcf5425c85c55a5f3fdb)", 
+  "tag": "2019-06-21_203839", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fsck.k9:id/message_content", 
+      "text": "test123\n  const [getUser, { data, loading }] = useManualQuery(`\n    query getUser($id: Int!) {\n      user(id: $id) {\n        login\n      }\n    }\n  `)\n\n  useEffect(() => {\n    if (id) {test123\n      getUser({ variables: { id } })\n    }\n  }, [id, getUser])\n\n  return (\n    <div>\n      <h1>{id ? (loading ? 'Loading...' : data.login) : 'New User'}</h1>\n    </div>\n  )\n}\n```\n\nUsing `useMutation`\n```jsx\nfunction UserProfile() {\n  const [data, setData] = useState('')\n  const [savingStarted, setSavingStarted] = useState(false)\n  const [saveData] = useMutation(`\n    mutation saveData($data: String!) {\n      saveData(data: $data) {\n        id\n      }\n    }\n  `)\n\n  useEffect(() => {\n    if (savingStarted) {\n      let timer = setTimeout(\n        () => saveData({ variables: { data } }).then(() => setSavingStarted(false)),\n        5000,\n      )\n      return () => clearTimeout(timer)\n    }\n  }, [data, saveData, savingStarted])\n\n  return (\n    <div>\n      <input\n        value={data}\n        onChange={event => setData(event.target.value)}\n        readOnly={savingStarted}\n      />\n      <button type=\"button\" onClick={() => setSavingStarted(!savingStarted)}>\n        {savingStarted ? \"I've changed my mind. Cancel\" : 'Save'}\n      </button>\n    </div>\n  )\n}\n```\n\nOf course all of it can be solved using custom hook:\n```jsx\nfunction useUnchangingManualQuery(query) {\n  const [fetch, result] = useManualQuery(query)\n  const latestFetch = useRef(fetch)\n  latestFetch.current = fetch\n  return [latestFetch.current, result] \n}\n```\n\nBut I think current behaviour is unintuitive and actually is a bug\n\n-- \nYou are receiving this because you commented.\nReply to this email directly or view it on GitHub:\nhttps://github.com/nearform/graphql-hooks/issues/234#issuecomment-500197404", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1560", 
+      "checked": false, 
+      "temp_id": 36, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": true, 
+      "view_str": "4a396c6c9995fcf5425c85c55a5f3fdb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          216
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]None[enabled,,]"
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "14a02cfd7a88173c5fb3057fa91da37f"
+}

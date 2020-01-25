@@ -1,0 +1,50 @@
+{
+  "stop_state": "428307e64f8a34896ac7323523ffd8fb", 
+  "event_str": "SetTextEvent(state=ce10109ea969d3399884e51b120d9428, view=50864409b5678c0fdfc74b1bc82e424b, text=HelloWorld)", 
+  "tag": "2019-06-15_062017", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 86, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.llamacorp.equate:id/textDisplay", 
+      "text": "12", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1047*162", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay", 
+      "is_password": false, 
+      "parent": 8, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.llamacorp.equate", 
+      "long_clickable": true, 
+      "view_str": "50864409b5678c0fdfc74b1bc82e424b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          6, 
+          359
+        ], 
+        [
+          1053, 
+          521
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay[text]12[enabled,,]"
+    }
+  }, 
+  "start_state": "ce10109ea969d3399884e51b120d9428"
+}

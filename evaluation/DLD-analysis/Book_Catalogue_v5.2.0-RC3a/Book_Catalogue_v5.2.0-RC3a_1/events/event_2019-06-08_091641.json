@@ -1,0 +1,89 @@
+{
+  "stop_state": "ff0ea593457611927aabe81c645d9460", 
+  "event_str": "FillUIEvent(state=bdbda3720b4af51fc4b0d59ebf123142, views=['9d65f0947e9cae6cf9b2dc115164c1c4', 'e2f792b05309376c8cba196b9f515260'])", 
+  "tag": "2019-06-08_091641", 
+  "event": {
+    "views_str": [
+      "9d65f0947e9cae6cf9b2dc115164c1c4", 
+      "e2f792b05309376c8cba196b9f515260"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/signed", 
+        "text": "Bu kitap imzal\u0131 m\u0131?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*96", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "9d65f0947e9cae6cf9b2dc115164c1c4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            392
+          ], 
+          [
+            1050, 
+            488
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed[text]Bu kitap imzal\u0131 m\u0131?[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/location", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "e2f792b05309376c8cba196b9f515260", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            953
+          ], 
+          [
+            1050, 
+            1071
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "bdbda3720b4af51fc4b0d59ebf123142"
+}

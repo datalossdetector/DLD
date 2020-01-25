@@ -1,0 +1,49 @@
+{
+  "stop_state": "049b2efeb533b4238779b382eb152959", 
+  "event_str": "TouchEvent(state=badf0613267370d3d5e3c3aad0d76143, view=039d8c3fcfbc40a2264166a19cf0cb36)", 
+  "tag": "2019-06-10_033653", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/summary", 
+      "text": "Would allow creating events without leaving the app. Currently only non-repeating events are supported and only limited amount of fields are editable. This application would monitor newly created event to make sure it would not disappear on sync", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*302", 
+      "checked": false, 
+      "temp_id": 26, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/summary", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": false, 
+      "view_str": "039d8c3fcfbc40a2264166a19cf0cb36", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          518
+        ], 
+        [
+          888, 
+          820
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/summary[text]None[enabled,,]"
+    }, 
+    "id": 13, 
+    "event_type": "touch"
+  }, 
+  "start_state": "badf0613267370d3d5e3c3aad0d76143"
+}

@@ -1,0 +1,89 @@
+{
+  "stop_state": "f485b5e7f967de350b8d29165ff41409", 
+  "event_str": "FillUIEvent(state=af6cb9ade7a900ba2926c117549b1de1, views=['86ae4bc5af56d6b70f890abd57a58e79', '69d227eb3127ea8bf546eb5e2fb07e19'])", 
+  "tag": "2019-06-17_023749", 
+  "event": {
+    "views_str": [
+      "86ae4bc5af56d6b70f890abd57a58e79", 
+      "69d227eb3127ea8bf546eb5e2fb07e19"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ws.xsoh.etar:id/title", 
+        "text": "Event name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*144", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/title", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "86ae4bc5af56d6b70f890abd57a58e79", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            396
+          ], 
+          [
+            1044, 
+            540
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/title[text]Event name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ws.xsoh.etar:id/description", 
+        "text": "Description", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*144", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/description", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "69d227eb3127ea8bf546eb5e2fb07e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            1529
+          ], 
+          [
+            1044, 
+            1673
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/description[text]Description[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "af6cb9ade7a900ba2926c117549b1de1"
+}

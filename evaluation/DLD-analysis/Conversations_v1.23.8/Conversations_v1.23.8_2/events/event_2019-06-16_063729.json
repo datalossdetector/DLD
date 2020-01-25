@@ -1,0 +1,50 @@
+{
+  "stop_state": "b1f363270abe4b62ddfc90b42be47654", 
+  "event_str": "LongTouchEvent(state=fe08fddc674c92510d21536bd338aa22, view=812770f3d5245dacd24bfaf38ed2a06f, duration=2000)", 
+  "tag": "2019-06-16_063729", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 26, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/snackbar_action", 
+      "text": "Enable", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "321*161", 
+      "checked": false, 
+      "temp_id": 52, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]eu.siacs.conversations:id/snackbar_action", 
+      "is_password": false, 
+      "parent": 50, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "812770f3d5245dacd24bfaf38ed2a06f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          735, 
+          1206
+        ], 
+        [
+          1056, 
+          1367
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]eu.siacs.conversations:id/snackbar_action[text]Enable[enabled,,]"
+    }
+  }, 
+  "start_state": "fe08fddc674c92510d21536bd338aa22"
+}

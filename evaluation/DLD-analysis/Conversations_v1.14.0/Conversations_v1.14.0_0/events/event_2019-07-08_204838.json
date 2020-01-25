@@ -1,0 +1,50 @@
+{
+  "stop_state": "18935fc09ed681e3408c893c0e16d525", 
+  "event_str": "SetTextEvent(state=3e1b7534fa65de74e0099800252d41e0, view=b5f7c3014eef649bc269e10ede98d582, text=HelloWorld)", 
+  "tag": "2019-07-08_204838", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/hostname", 
+      "text": "Server- or .onion-Address", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "748*128", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/hostname", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "b5f7c3014eef649bc269e10ede98d582", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          811
+        ], 
+        [
+          820, 
+          939
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/hostname[text]Server- or .onion-Address[enabled,,]"
+    }
+  }, 
+  "start_state": "3e1b7534fa65de74e0099800252d41e0"
+}

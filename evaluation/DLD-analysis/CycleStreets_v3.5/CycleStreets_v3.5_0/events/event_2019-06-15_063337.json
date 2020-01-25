@@ -1,0 +1,51 @@
+{
+  "stop_state": "e485ee9311db2d1890c91aae181d5b1c", 
+  "event_str": "FillUIEvent(state=ce86c11a5abbe5688818a3c0a94046d0, views=['fbad1b78295fa9ed88165e3f05745a38'])", 
+  "tag": "2019-06-15_063337", 
+  "event": {
+    "views_str": [
+      "fbad1b78295fa9ed88165e3f05745a38"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "net.cyclestreets:id/routeNumber", 
+        "text": "Route number", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "876*118", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/routeNumber", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "net.cyclestreets", 
+        "long_clickable": true, 
+        "view_str": "fbad1b78295fa9ed88165e3f05745a38", 
+        "enabled": true, 
+        "bounds": [
+          [
+            102, 
+            796
+          ], 
+          [
+            978, 
+            914
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/routeNumber[text]Route number[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ce86c11a5abbe5688818a3c0a94046d0"
+}

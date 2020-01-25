@@ -1,0 +1,50 @@
+{
+  "stop_state": "15f15a05e8de0e237f430bed7bf02130", 
+  "event_str": "SetTextEvent(state=31ac3df4c4a29de41b3c346c21d52805, view=d9ee2f28e6edf95681cfd3d621e205e1, text=HelloWorld)", 
+  "tag": "2019-06-16_050240", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.isoron.uhabits:id/tvDescription", 
+      "text": "Question (Did you \u2026 today?)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*128", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.isoron.uhabits", 
+      "long_clickable": true, 
+      "view_str": "d9ee2f28e6edf95681cfd3d621e205e1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          733
+        ], 
+        [
+          960, 
+          861
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription[text]Question (Did you \u2026 today?)[enabled,,]"
+    }
+  }, 
+  "start_state": "31ac3df4c4a29de41b3c346c21d52805"
+}

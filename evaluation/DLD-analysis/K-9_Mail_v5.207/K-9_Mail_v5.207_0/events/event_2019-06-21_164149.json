@@ -1,0 +1,50 @@
+{
+  "stop_state": "68b714b8abadae0c68b7e92eae2ab0e1", 
+  "event_str": "SetTextEvent(state=9114399bdb7e92bd81e11b9288479979, view=4b2d6ddfec51ece4c7db24cb0a0e76f0, text=test123)", 
+  "tag": "2019-06-21_164149", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "test123", 
+    "y": null, 
+    "x": null, 
+    "id": 0, 
+    "view": {
+      "content_description": "Type your name (displays on outgoing messages):", 
+      "resource_id": "com.fsck.k9:id/account_name", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1014*118", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/account_name", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": true, 
+      "view_str": "4b2d6ddfec51ece4c7db24cb0a0e76f0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          18, 
+          922
+        ], 
+        [
+          1032, 
+          1040
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/account_name[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "9114399bdb7e92bd81e11b9288479979"
+}

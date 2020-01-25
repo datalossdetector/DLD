@@ -1,0 +1,50 @@
+{
+  "stop_state": "ae9291e4850a2a94c3e7dde586262052", 
+  "event_str": "SetTextEvent(state=e64adfb8a83b8826fd842636312f3711, view=cd0ff15add45313dec029cfc790e61f5, text=HelloWorld)", 
+  "tag": "2019-06-17_114421", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "792*108", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+      "is_password": false, 
+      "parent": 21, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.gateshipone.malp", 
+      "long_clickable": true, 
+      "view_str": "cd0ff15add45313dec029cfc790e61f5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          144, 
+          256
+        ], 
+        [
+          936, 
+          364
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "e64adfb8a83b8826fd842636312f3711"
+}

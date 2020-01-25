@@ -1,0 +1,203 @@
+{
+  "stop_state": "c2bc2da3278665d740922b8df649fc5b", 
+  "event_str": "FillUIEvent(state=70a6c7f3806ed2f712842941dfe2f763, views=['94a5c20fd0fc3e24771a1074d1cfec9a', 'feda590ad80f86695bff130bd401e38e', '74509c21c4cea2649f92eec8baec8a2b', '6c0aaa9cbc9fd7294fab9377474317ba', 'c1bc4d87002b553c8137154e15f714aa'])", 
+  "tag": "2019-06-16_191246", 
+  "event": {
+    "views_str": [
+      "94a5c20fd0fc3e24771a1074d1cfec9a", 
+      "feda590ad80f86695bff130bd401e38e", 
+      "74509c21c4cea2649f92eec8baec8a2b", 
+      "6c0aaa9cbc9fd7294fab9377474317ba", 
+      "c1bc4d87002b553c8137154e15f714aa"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/editAlias", 
+        "text": "Flibustatest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "929*136", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editAlias", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": true, 
+        "view_str": "94a5c20fd0fc3e24771a1074d1cfec9a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            602
+          ], 
+          [
+            1004, 
+            738
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editAlias[text]Flibustatest123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/editURL", 
+        "text": "http://flibusta.net/test123opds", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "929*136", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editURL", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": true, 
+        "view_str": "feda590ad80f86695bff130bd401e38e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            795
+          ], 
+          [
+            1004, 
+            931
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editURL[text]http://flibusta.net/test123opds[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/checkAuth", 
+        "text": "Authorization required", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "899*96", 
+        "checked": true, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.sufficientlysecure.viewer:id/checkAuth", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": false, 
+        "view_str": "74509c21c4cea2649f92eec8baec8a2b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            931
+          ], 
+          [
+            1004, 
+            1027
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.sufficientlysecure.viewer:id/checkAuth[text]Authorization required[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/editUsername", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "929*136", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editUsername", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": true, 
+        "view_str": "6c0aaa9cbc9fd7294fab9377474317ba", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1084
+          ], 
+          [
+            1004, 
+            1220
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editUsername[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.sufficientlysecure.viewer:id/editPassword", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "929*136", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editPassword", 
+        "is_password": true, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.sufficientlysecure.viewer", 
+        "long_clickable": true, 
+        "view_str": "c1bc4d87002b553c8137154e15f714aa", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1277
+          ], 
+          [
+            1004, 
+            1413
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.sufficientlysecure.viewer:id/editPassword[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "70a6c7f3806ed2f712842941dfe2f763"
+}

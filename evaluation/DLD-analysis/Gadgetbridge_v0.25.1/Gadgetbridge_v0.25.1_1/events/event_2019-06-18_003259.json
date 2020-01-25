@@ -1,0 +1,50 @@
+{
+  "stop_state": "94df9a4d5a47841dae942f32238b16e4", 
+  "event_str": "SetTextEvent(state=b5f8f3dd1bca9cc205268fb76504c759, view=4c3013845a19bd1f9b0aaed6b1a33801, text=HelloWorld)", 
+  "tag": "2019-06-18_003259", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*136", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "ee.aegrel.gadgetbridge", 
+      "long_clickable": true, 
+      "view_str": "4c3013845a19bd1f9b0aaed6b1a33801", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          835
+        ], 
+        [
+          945, 
+          971
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "b5f8f3dd1bca9cc205268fb76504c759"
+}

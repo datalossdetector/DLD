@@ -1,0 +1,127 @@
+{
+  "stop_state": "6e6e04be7c06a039cc23a14ce966e3c1", 
+  "event_str": "FillUIEvent(state=e256b10ef8a53e742abca55e8de4f6d8, views=['86ae4bc5af56d6b70f890abd57a58e79', '26bca2d45fa1e8a17ebd58e496a075a0', '57a7cf08584f7fc387e6188f9666dc97'])", 
+  "tag": "2019-06-17_003335", 
+  "event": {
+    "views_str": [
+      "86ae4bc5af56d6b70f890abd57a58e79", 
+      "26bca2d45fa1e8a17ebd58e496a075a0", 
+      "57a7cf08584f7fc387e6188f9666dc97"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ws.xsoh.etar:id/title", 
+        "text": "Event name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*144", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/title", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "86ae4bc5af56d6b70f890abd57a58e79", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            396
+          ], 
+          [
+            1044, 
+            540
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/title[text]Event name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ws.xsoh.etar:id/location", 
+        "text": "Location", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*144", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/location", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": true, 
+        "view_str": "26bca2d45fa1e8a17ebd58e496a075a0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            540
+          ], 
+          [
+            1044, 
+            684
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ws.xsoh.etar:id/location[text]Location[enabled,,]"
+      }, 
+      {
+        "content_description": "All day event", 
+        "resource_id": "ws.xsoh.etar:id/is_all_day", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*72", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ws.xsoh.etar:id/is_all_day", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ws.xsoh.etar", 
+        "long_clickable": false, 
+        "view_str": "57a7cf08584f7fc387e6188f9666dc97", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1098
+          ], 
+          [
+            144, 
+            1170
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ws.xsoh.etar:id/is_all_day[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e256b10ef8a53e742abca55e8de4f6d8"
+}

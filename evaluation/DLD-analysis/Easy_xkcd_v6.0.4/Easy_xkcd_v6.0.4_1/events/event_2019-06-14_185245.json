@@ -1,0 +1,89 @@
+{
+  "stop_state": "44ba393dcd436940002ea2eee8b35858", 
+  "event_str": "FillUIEvent(state=3b66b75ba17fb5f1abe3b7b4de8e30e6, views=['1b40e541e05631dee6fdd70c358f3285', '5462480ed9d9ae8dec6ff4f452609530'])", 
+  "tag": "2019-06-14_185245", 
+  "event": {
+    "views_str": [
+      "1b40e541e05631dee6fdd70c358f3285", 
+      "5462480ed9d9ae8dec6ff4f452609530"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.tap.easy_xkcd:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.tap.easy_xkcd:id/checkbox", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.tap.easy_xkcd", 
+        "long_clickable": false, 
+        "view_str": "1b40e541e05631dee6fdd70c358f3285", 
+        "enabled": true, 
+        "bounds": [
+          [
+            924, 
+            252
+          ], 
+          [
+            1020, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.tap.easy_xkcd:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.tap.easy_xkcd:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.tap.easy_xkcd:id/checkbox", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.tap.easy_xkcd", 
+        "long_clickable": false, 
+        "view_str": "5462480ed9d9ae8dec6ff4f452609530", 
+        "enabled": true, 
+        "bounds": [
+          [
+            924, 
+            396
+          ], 
+          [
+            1020, 
+            492
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.tap.easy_xkcd:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "3b66b75ba17fb5f1abe3b7b4de8e30e6"
+}

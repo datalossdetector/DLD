@@ -1,0 +1,51 @@
+{
+  "stop_state": "58d13e76aa1d66ad9e57c75302eb2788", 
+  "event_str": "FillUIEvent(state=371504dd970c292dedfbdc508c2ab773, views=['3722635b842a14fafbb9a2c65ebd5769'])", 
+  "tag": "2019-07-04_213820", 
+  "event": {
+    "views_str": [
+      "3722635b842a14fafbb9a2c65ebd5769"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "HelloWo", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "764*108", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "3722635b842a14fafbb9a2c65ebd5769", 
+        "enabled": true, 
+        "bounds": [
+          [
+            175, 
+            88
+          ], 
+          [
+            939, 
+            196
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]HelloWo[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "371504dd970c292dedfbdc508c2ab773"
+}

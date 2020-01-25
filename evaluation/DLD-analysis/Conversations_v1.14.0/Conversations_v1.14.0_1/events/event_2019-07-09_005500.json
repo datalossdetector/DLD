@@ -1,0 +1,50 @@
+{
+  "stop_state": "ae21ead770a380179cdbefa3cc76d298", 
+  "event_str": "LongTouchEvent(state=3f2400451f6a0aff799779504f028574, view=91541998ffd47ef2e91af9da50835527, duration=2000)", 
+  "tag": "2019-07-09_005500", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/textinput", 
+      "text": "HelloWorldHelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*145", 
+      "checked": false, 
+      "temp_id": 43, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput", 
+      "is_password": false, 
+      "parent": 42, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "91541998ffd47ef2e91af9da50835527", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1631
+        ], 
+        [
+          936, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput[text]HelloWorldHelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "3f2400451f6a0aff799779504f028574"
+}

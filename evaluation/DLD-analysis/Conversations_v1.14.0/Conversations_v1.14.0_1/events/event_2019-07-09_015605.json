@@ -1,0 +1,50 @@
+{
+  "stop_state": "2ed8eaca8cec27694d904afa7bdfe5fc", 
+  "event_str": "SetTextEvent(state=79cadd71c81320eea2d9e3a3f325e37d, view=d32ca2019f36164e6ab52bbc9f7c3d55, text=HelloWorld)", 
+  "tag": "2019-07-09_015605", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 35, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/textinput", 
+      "text": "Send OTR encrypted message", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*145", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput", 
+      "is_password": false, 
+      "parent": 49, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "d32ca2019f36164e6ab52bbc9f7c3d55", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1631
+        ], 
+        [
+          936, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput[text]Send OTR encrypted message[enabled,,]"
+    }
+  }, 
+  "start_state": "79cadd71c81320eea2d9e3a3f325e37d"
+}

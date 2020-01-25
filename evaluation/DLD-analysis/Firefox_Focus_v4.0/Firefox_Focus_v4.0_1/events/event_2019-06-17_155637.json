@@ -1,0 +1,50 @@
+{
+  "stop_state": "8a17a0d91298ca6d7099d20e590c1ddb", 
+  "event_str": "SetTextEvent(state=a7fcb76f3bfbcc9d48efe2a0abb484cf, view=2e429e6669c21e11769962a46526473e, text=HelloWorld)", 
+  "tag": "2019-06-17_155637", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.mozilla.klar:id/urlView", 
+      "text": "Cari atau masukkan alamat", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "912*120", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.mozilla.klar", 
+      "long_clickable": true, 
+      "view_str": "2e429e6669c21e11769962a46526473e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          99
+        ], 
+        [
+          936, 
+          219
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView[text]Cari atau masukkan alamat[enabled,,]"
+    }
+  }, 
+  "start_state": "a7fcb76f3bfbcc9d48efe2a0abb484cf"
+}

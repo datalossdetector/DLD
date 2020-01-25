@@ -1,0 +1,469 @@
+{
+  "stop_state": "e79abcc70ebaba71a2b0055a02f93bb1", 
+  "event_str": "FillUIEvent(state=e79abcc70ebaba71a2b0055a02f93bb1, views=['7966acaea37dedab4fd1c6afd1ab3205', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612'])", 
+  "tag": "2019-06-18_071003", 
+  "event": {
+    "views_str": [
+      "7966acaea37dedab4fd1c6afd1ab3205", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "684*102", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 49, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "7966acaea37dedab4fd1c6afd1ab3205", 
+        "enabled": true, 
+        "bounds": [
+          [
+            150, 
+            1752
+          ], 
+          [
+            834, 
+            1854
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Start a new topic", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*147", 
+        "checked": false, 
+        "temp_id": 185, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            7095
+          ], 
+          [
+            1032, 
+            7242
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"The lua binary lua is not executable\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 195, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            7992
+          ], 
+          [
+            1032, 
+            8091
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"Installing Extension:Echo has messed up something\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 203, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            8778
+          ], 
+          [
+            1032, 
+            8877
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"reset password\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 214, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            9675
+          ], 
+          [
+            1032, 
+            9774
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"Are Github and Phab-something really the only ways to access the dev forum?\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 256, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            11442
+          ], 
+          [
+            1032, 
+            11541
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"PHP access question\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 328, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            17256
+          ], 
+          [
+            1032, 
+            17355
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"PHP Access Question (2nd try with explanation)\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 382, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            21645
+          ], 
+          [
+            1032, 
+            21744
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"Session loss bug?\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 482, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            26025
+          ], 
+          [
+            1032, 
+            26124
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"Tools to Help Manage Wiki\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 545, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            28893
+          ], 
+          [
+            1032, 
+            28992
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"[RESOLVED] How i can delete User?\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 780, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            47847
+          ], 
+          [
+            1032, 
+            47946
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Reply to \"Extension LDAPAuth:  Authentication against AD Group members\"", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*99", 
+        "checked": false, 
+        "temp_id": 804, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            49806
+          ], 
+          [
+            1032, 
+            49905
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e79abcc70ebaba71a2b0055a02f93bb1"
+}

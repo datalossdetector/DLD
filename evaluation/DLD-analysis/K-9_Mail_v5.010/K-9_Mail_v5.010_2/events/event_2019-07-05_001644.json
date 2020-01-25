@@ -1,0 +1,89 @@
+{
+  "stop_state": "b618c0de3e92d747421a62294f254230", 
+  "event_str": "FillUIEvent(state=6ac850567256a9bec725c4dcd78da9ea, views=['93c382c679bc94bdd5c0e41f66517105', 'ff01b51ea440b8cec0303cd577fabc08'])", 
+  "tag": "2019-07-05_001644", 
+  "event": {
+    "views_str": [
+      "93c382c679bc94bdd5c0e41f66517105", 
+      "ff01b51ea440b8cec0303cd577fabc08"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/flagged_bottom_right", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "114*96", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/flagged_bottom_right", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": false, 
+        "view_str": "93c382c679bc94bdd5c0e41f66517105", 
+        "enabled": true, 
+        "bounds": [
+          [
+            966, 
+            290
+          ], 
+          [
+            1080, 
+            386
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/flagged_bottom_right[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/flagged_bottom_right", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "114*96", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/flagged_bottom_right", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": false, 
+        "view_str": "ff01b51ea440b8cec0303cd577fabc08", 
+        "enabled": true, 
+        "bounds": [
+          [
+            966, 
+            491
+          ], 
+          [
+            1080, 
+            587
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/flagged_bottom_right[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6ac850567256a9bec725c4dcd78da9ea"
+}

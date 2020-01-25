@@ -1,0 +1,50 @@
+{
+  "stop_state": "c0e05ce04cd4ae5de420544b4d64df66", 
+  "event_str": "SetTextEvent(state=e3421e98f68e3ccb438344715e6ef695, view=d08e5bc31fec8bd9234870a8fc650d61, text=HelloWorld)", 
+  "tag": "2019-06-23_141411", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.jak_linux.dns66:id/location", 
+      "text": "http://winhelp2002.HelloWorldmvps.org/hosts.txt", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*136", 
+      "checked": false, 
+      "temp_id": 17, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.jak_linux.dns66:id/location", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.jak_linux.dns66", 
+      "long_clickable": true, 
+      "view_str": "d08e5bc31fec8bd9234870a8fc650d61", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          490
+        ], 
+        [
+          1032, 
+          626
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.jak_linux.dns66:id/location[text]http://winhelp2002.HelloWorldmvps.org/hosts.txt[enabled,,]"
+    }
+  }, 
+  "start_state": "e3421e98f68e3ccb438344715e6ef695"
+}

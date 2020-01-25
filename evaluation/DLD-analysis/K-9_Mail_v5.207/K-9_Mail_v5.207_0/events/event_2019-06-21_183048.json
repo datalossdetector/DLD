@@ -1,0 +1,203 @@
+{
+  "stop_state": "026922132addc72fab5644307b516eb3", 
+  "event_str": "FillUIEvent(state=eb7ad58983e8960d786e0d10ef39bbff, views=['9b0245c46860f02c5ba1e9b7a3234c66', '0e7776c4c3403c1ef36551b05f87da3d', '6e278a9a462b752e002f3614f0277b17', 'bc685ae82553b748638d5293e15b3cd4', 'da91c9cab2b6ebfcb894a6606d67cdb0'])", 
+  "tag": "2019-06-21_183048", 
+  "event": {
+    "views_str": [
+      "9b0245c46860f02c5ba1e9b7a3234c66", 
+      "0e7776c4c3403c1ef36551b05f87da3d", 
+      "6e278a9a462b752e002f3614f0277b17", 
+      "bc685ae82553b748638d5293e15b3cd4", 
+      "da91c9cab2b6ebfcb894a6606d67cdb0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/description", 
+        "text": "Initial identitytest123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*118", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/description", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "9b0245c46860f02c5ba1e9b7a3234c66", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            273
+          ], 
+          [
+            1050, 
+            391
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/description[text]Initial identitytest123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/name", 
+        "text": "test123test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*118", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/name", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "0e7776c4c3403c1ef36551b05f87da3d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            448
+          ], 
+          [
+            1050, 
+            566
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/name[text]test123test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/email", 
+        "text": "stagedataloss@tisctest123ali.it", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*118", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/email", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "6e278a9a462b752e002f3614f0277b17", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            623
+          ], 
+          [
+            1050, 
+            741
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/email[text]stagedataloss@tisctest123ali.it[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/reply_to", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1050*118", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/reply_to", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "bc685ae82553b748638d5293e15b3cd4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            798
+          ], 
+          [
+            1050, 
+            916
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/reply_to[text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/signature_use", 
+        "text": "Use Signature", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1050*96", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/signature_use", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": false, 
+        "view_str": "da91c9cab2b6ebfcb894a6606d67cdb0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            916
+          ], 
+          [
+            1050, 
+            1012
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/signature_use[text]Use Signature[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "eb7ad58983e8960d786e0d10ef39bbff"
+}

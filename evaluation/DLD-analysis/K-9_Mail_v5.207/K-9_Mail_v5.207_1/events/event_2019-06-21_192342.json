@@ -1,0 +1,127 @@
+{
+  "stop_state": "ff5907404531bec5058f6ad858e327c7", 
+  "event_str": "FillUIEvent(state=aaccb6b3aed2ab662b96dd7a431902a9, views=['8acbc24c41451310c45f2ff1b18d0977', '2d02d276d561270e9f5d77f7727efb17', '517dc3b20b8bd5c0e9b7934cbf334184'])", 
+  "tag": "2019-06-21_192342", 
+  "event": {
+    "views_str": [
+      "8acbc24c41451310c45f2ff1b18d0977", 
+      "2d02d276d561270e9f5d77f7727efb17", 
+      "517dc3b20b8bd5c0e9b7934cbf334184"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/subject", 
+        "text": "Re: Delivery Success: Re: Progetti per l\u2019estaHelloWorldte st123te? Realizzali con Findomestic.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*133", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "8acbc24c41451310c45f2ff1b18d0977", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            558
+          ], 
+          [
+            1044, 
+            691
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/subject[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/message_content", 
+        "text": "Message text", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*244", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "2d02d276d561270e9f5d77f7727efb17", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            703
+          ], 
+          [
+            1080, 
+            947
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/message_content[text]Message text[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/lower_signature", 
+        "text": "-- \nSent from my Android device with K-9 Mail. Please excuse my brevity.", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*244", 
+        "checked": false, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "517dc3b20b8bd5c0e9b7934cbf334184", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1532
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.fsck.k9:id/lower_signature[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "aaccb6b3aed2ab662b96dd7a431902a9"
+}

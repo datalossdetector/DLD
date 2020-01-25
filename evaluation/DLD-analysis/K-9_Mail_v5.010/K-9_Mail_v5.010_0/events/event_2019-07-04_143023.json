@@ -1,0 +1,51 @@
+{
+  "stop_state": "84c04dfcbf88213b66093036e123bfb1", 
+  "event_str": "FillUIEvent(state=639a13659d5ef4fae398034a542cf220, views=['5a8bc9700f301cbe6158ad26cda6a0fc'])", 
+  "tag": "2019-07-04_143023", 
+  "event": {
+    "views_str": [
+      "5a8bc9700f301cbe6158ad26cda6a0fc"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.fsck.k9:id/selected_checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "108*199", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/selected_checkbox", 
+        "is_password": false, 
+        "parent": 25, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": false, 
+        "view_str": "5a8bc9700f301cbe6158ad26cda6a0fc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            218
+          ], 
+          [
+            144, 
+            417
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.fsck.k9:id/selected_checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "639a13659d5ef4fae398034a542cf220"
+}

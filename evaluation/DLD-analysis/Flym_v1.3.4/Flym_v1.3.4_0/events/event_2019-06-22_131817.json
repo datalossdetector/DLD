@@ -1,0 +1,50 @@
+{
+  "stop_state": "dc4cfd5d8e43efa4441441392d12ac0c", 
+  "event_str": "SetTextEvent(state=8f35847792d5d6355fac2d81ed82be36, view=bd328e04c0c852e8cbdc30411faaffbd, text=HelloWorld)", 
+  "tag": "2019-06-22_131817", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "net.fred.feedex:id/feed_title", 
+      "text": "(optional)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1020*118", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]net.fred.feedex:id/feed_title", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "net.fred.feedex", 
+      "long_clickable": true, 
+      "view_str": "bd328e04c0c852e8cbdc30411faaffbd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          30, 
+          319
+        ], 
+        [
+          1050, 
+          437
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]net.fred.feedex:id/feed_title[text](optional)[enabled,,]"
+    }
+  }, 
+  "start_state": "8f35847792d5d6355fac2d81ed82be36"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "47a62ff16f4b921a8a7e1ff0bf862b3c", 
+  "event_str": "FillUIEvent(state=e6c1cac0e889fc212400a24bc4f68d8c, views=['26a8102430fc7e3ce64389e54194f5ad', 'b6e37762d79801fee24ee670ef3a3d01', 'b175b5747ed0d3423244510efd4b12a0', '5a2f8f194c73e7c28051b712f5b81bbf'])", 
+  "tag": "2019-06-10_034748", 
+  "event": {
+    "views_str": [
+      "26a8102430fc7e3ce64389e54194f5ad", 
+      "b6e37762d79801fee24ee670ef3a3d01", 
+      "b175b5747ed0d3423244510efd4b12a0", 
+      "5a2f8f194c73e7c28051b712f5b81bbf"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/add_event_title", 
+        "text": "Title", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*330", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/add_event_title", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": true, 
+        "view_str": "26a8102430fc7e3ce64389e54194f5ad", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            72
+          ], 
+          [
+            1080, 
+            402
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/add_event_title[text]Title[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/switch_all_day", 
+        "text": "All day OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "936*169", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.github.quarck.calnotify:id/switch_all_day", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": false, 
+        "view_str": "b6e37762d79801fee24ee670ef3a3d01", 
+        "enabled": true, 
+        "bounds": [
+          [
+            144, 
+            676
+          ], 
+          [
+            1080, 
+            845
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.github.quarck.calnotify:id/switch_all_day[text]All day OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/event_location", 
+        "text": "Add location", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*169", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/event_location", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": true, 
+        "view_str": "b175b5747ed0d3423244510efd4b12a0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            144, 
+            1234
+          ], 
+          [
+            1080, 
+            1403
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/event_location[text]Add location[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.github.quarck.calnotify:id/event_note", 
+        "text": "Add note", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*102", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/event_note", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.github.quarck.calnotify", 
+        "long_clickable": true, 
+        "view_str": "5a2f8f194c73e7c28051b712f5b81bbf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            144, 
+            1674
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/event_note[text]Add note[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e6c1cac0e889fc212400a24bc4f68d8c"
+}

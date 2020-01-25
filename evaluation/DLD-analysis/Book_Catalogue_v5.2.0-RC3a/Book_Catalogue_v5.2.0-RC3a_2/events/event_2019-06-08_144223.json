@@ -1,0 +1,89 @@
+{
+  "stop_state": "0faaeee4bf775005fd99a4758b83576e", 
+  "event_str": "FillUIEvent(state=fc13645d8c8637aa2c21f180e4efd2b1, views=['5c37aa8664beb2fd05d6e8e46393fbfc', 'e2f792b05309376c8cba196b9f515260'])", 
+  "tag": "2019-06-08_144223", 
+  "event": {
+    "views_str": [
+      "5c37aa8664beb2fd05d6e8e46393fbfc", 
+      "e2f792b05309376c8cba196b9f515260"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/signed", 
+        "text": "\u0388\u03b9\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03c5\u03c0\u03bf\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03ad\u03bd\u03bf", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*96", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "5c37aa8664beb2fd05d6e8e46393fbfc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            392
+          ], 
+          [
+            1050, 
+            488
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/signed[text]\u0388\u03b9\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03c5\u03c0\u03bf\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03ad\u03bd\u03bf[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/location", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "e2f792b05309376c8cba196b9f515260", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            953
+          ], 
+          [
+            1050, 
+            1071
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/location[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "fc13645d8c8637aa2c21f180e4efd2b1"
+}

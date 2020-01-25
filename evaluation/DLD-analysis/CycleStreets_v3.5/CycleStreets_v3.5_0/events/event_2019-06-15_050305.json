@@ -1,0 +1,50 @@
+{
+  "stop_state": "633f8f3eb5affdb569a5b52877b71409", 
+  "event_str": "SetTextEvent(state=0db345badef9f5c3f7f52ce4f47e1123, view=55670832b1557c4828b3211621f534eb, text=HelloWorld)", 
+  "tag": "2019-06-15_050305", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "net.cyclestreets:id/name", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "746*118", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/name", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "net.cyclestreets", 
+      "long_clickable": true, 
+      "view_str": "55670832b1557c4828b3211621f534eb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          316, 
+          1514
+        ], 
+        [
+          1062, 
+          1632
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]net.cyclestreets:id/name[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "0db345badef9f5c3f7f52ce4f47e1123"
+}

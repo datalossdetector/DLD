@@ -1,0 +1,50 @@
+{
+  "stop_state": "a210564aa23c2f5196e66b9cdb8236ad", 
+  "event_str": "SetTextEvent(state=f467a37a3d53ab00502f8377b7da83ad, view=547867fc6c409eb072afe7ac4255655a, text=HelloWorld)", 
+  "tag": "2019-06-08_115208", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 18, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.eleybourn.bookcatalogue:id/isbn", 
+      "text": "ISBN", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1050*148", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/isbn", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.eleybourn.bookcatalogue", 
+      "long_clickable": true, 
+      "view_str": "547867fc6c409eb072afe7ac4255655a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          15, 
+          231
+        ], 
+        [
+          1065, 
+          379
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/isbn[text]ISBN[enabled,,]"
+    }
+  }, 
+  "start_state": "f467a37a3d53ab00502f8377b7da83ad"
+}

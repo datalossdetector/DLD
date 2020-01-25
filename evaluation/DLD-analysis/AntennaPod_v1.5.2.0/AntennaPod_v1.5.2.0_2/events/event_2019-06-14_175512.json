@@ -1,0 +1,51 @@
+{
+  "stop_state": "4e6cb803490c34bf2bc7aead515cc9f8", 
+  "event_str": "FillUIEvent(state=4e6cb803490c34bf2bc7aead515cc9f8, views=['a11cd8b89f60e4a5a8d305285ad31c20'])", 
+  "tag": "2019-06-14_175512", 
+  "event": {
+    "views_str": [
+      "a11cd8b89f60e4a5a8d305285ad31c20"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/stereo_to_mono", 
+        "text": "Downmix: Stereo to mono [Sonic only]", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "785*106", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/stereo_to_mono", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "a11cd8b89f60e4a5a8d305285ad31c20", 
+        "enabled": false, 
+        "bounds": [
+          [
+            147, 
+            1141
+          ], 
+          [
+            932, 
+            1247
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/stereo_to_mono[text]Downmix: Stereo to mono [Sonic only][,,]"
+      }
+    ]
+  }, 
+  "start_state": "4e6cb803490c34bf2bc7aead515cc9f8"
+}

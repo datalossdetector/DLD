@@ -1,0 +1,50 @@
+{
+  "stop_state": "6397d82ff217fa4de9e4f4680841faef", 
+  "event_str": "SetTextEvent(state=e6c1cac0e889fc212400a24bc4f68d8c, view=b175b5747ed0d3423244510efd4b12a0, text=HelloWorld)", 
+  "tag": "2019-06-10_020529", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 20, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.github.quarck.calnotify:id/event_location", 
+      "text": "Add location", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*169", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/event_location", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": true, 
+      "view_str": "b175b5747ed0d3423244510efd4b12a0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          144, 
+          1234
+        ], 
+        [
+          1080, 
+          1403
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.github.quarck.calnotify:id/event_location[text]Add location[enabled,,]"
+    }
+  }, 
+  "start_state": "e6c1cac0e889fc212400a24bc4f68d8c"
+}

@@ -1,0 +1,89 @@
+{
+  "stop_state": "a953cc45e354de87bbc0e5820ce51dc0", 
+  "event_str": "FillUIEvent(state=a953cc45e354de87bbc0e5820ce51dc0, views=['b2acb6e553d3e70b36aaa4a221c1d51b', '9e0aa4a5c05017e350b450b399af3b86'])", 
+  "tag": "2019-06-11_163244", 
+  "event": {
+    "views_str": [
+      "b2acb6e553d3e70b36aaa4a221c1d51b", 
+      "9e0aa4a5c05017e350b450b399af3b86"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "21", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*144", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "b2acb6e553d3e70b36aaa4a221c1d51b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            325, 
+            878
+          ], 
+          [
+            517, 
+            1022
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]21[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "00", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*144", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "9e0aa4a5c05017e350b450b399af3b86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            563, 
+            878
+          ], 
+          [
+            755, 
+            1022
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]00[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a953cc45e354de87bbc0e5820ce51dc0"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "1d01b9f4c9ce02c83272d6dfdeea465e", 
+  "event_str": "SetTextEvent(state=ceedac2ef5e2bc9c56f1b5a377d773c3, view=49dd7854ea12984b2bed44a9f3464cf5, text=HelloWorld)", 
+  "tag": "2019-06-16_173425", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "/sdcard/DownloHelloWorldad", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*136", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.sufficientlysecure.viewer", 
+      "long_clickable": true, 
+      "view_str": "49dd7854ea12984b2bed44a9f3464cf5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          839
+        ], 
+        [
+          945, 
+          975
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]/sdcard/DownloHelloWorldad[enabled,,]"
+    }
+  }, 
+  "start_state": "ceedac2ef5e2bc9c56f1b5a377d773c3"
+}

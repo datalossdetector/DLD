@@ -1,0 +1,51 @@
+{
+  "stop_state": "38d53be81d5280d447518cc7d3b72c6b", 
+  "event_str": "FillUIEvent(state=38d53be81d5280d447518cc7d3b72c6b, views=['245719678987c3abfd2c0a28f48d9dca'])", 
+  "tag": "2019-06-17_112356", 
+  "event": {
+    "views_str": [
+      "245719678987c3abfd2c0a28f48d9dca"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*-22", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.gateshipone.malp", 
+        "long_clickable": false, 
+        "view_str": "245719678987c3abfd2c0a28f48d9dca", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            240
+          ], 
+          [
+            1032, 
+            218
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "38d53be81d5280d447518cc7d3b72c6b"
+}

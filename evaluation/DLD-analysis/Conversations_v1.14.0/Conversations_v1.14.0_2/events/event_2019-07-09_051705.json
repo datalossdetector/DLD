@@ -1,0 +1,50 @@
+{
+  "stop_state": "7b2a3b89a8a2d0d758865ab25ff6bbf6", 
+  "event_str": "SetTextEvent(state=1cf75bf4190da76cae6b81b4b6246273, view=6a8fb80ffbe55e1c6329576986bc9b23, text=HelloWorld)", 
+  "tag": "2019-07-09_051705", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 13, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/hostname", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "748*120", 
+      "checked": false, 
+      "temp_id": 21, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/hostname", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "6a8fb80ffbe55e1c6329576986bc9b23", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          774
+        ], 
+        [
+          820, 
+          894
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/hostname[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "1cf75bf4190da76cae6b81b4b6246273"
+}

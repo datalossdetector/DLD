@@ -1,0 +1,49 @@
+{
+  "stop_state": "2aabd064a8a5a0d7c535021c40252e11", 
+  "event_str": "TouchEvent(state=2aabd064a8a5a0d7c535021c40252e11, view=9c26a5ffaa2642345112e3e277861108)", 
+  "tag": "2019-06-08_013307", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "\u00a1Atenci\u00f3n! La importaci\u00f3n de datos puede actualizar los datos de libros existentes con nueva informaci\u00f3n si el ID del fichero de importaci\u00f3n existe ya en la base de datos. Esto puede ser aceptable si se modifica un campo de un fichero exportado. Si crea un registro para un nuevo libro, compruebe que el campo ID est\u00e1 en blanco.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*751", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.eleybourn.bookcatalogue", 
+      "long_clickable": false, 
+      "view_str": "9c26a5ffaa2642345112e3e277861108", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          574
+        ], 
+        [
+          1005, 
+          1325
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]"
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2aabd064a8a5a0d7c535021c40252e11"
+}

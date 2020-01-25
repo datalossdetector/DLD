@@ -1,0 +1,127 @@
+{
+  "stop_state": "e5f29bc6c648878e499f8464ee887942", 
+  "event_str": "FillUIEvent(state=b973f7e8f4ca7c1dda9b619e19aafc38, views=['c4cdb2de6db635d3e2dde263860c8e17', 'c4cdb2de6db635d3e2dde263860c8e17', 'c5477665b4e92ff1df61f91ada9a977b'])", 
+  "tag": "2019-06-15_151427", 
+  "event": {
+    "views_str": [
+      "c4cdb2de6db635d3e2dde263860c8e17", 
+      "c4cdb2de6db635d3e2dde263860c8e17", 
+      "c5477665b4e92ff1df61f91ada9a977b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Map Notes", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "261*51", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": false, 
+        "view_str": "c4cdb2de6db635d3e2dde263860c8e17", 
+        "enabled": false, 
+        "bounds": [
+          [
+            60, 
+            1464
+          ], 
+          [
+            321, 
+            1515
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": "Map Data", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "237*51", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": false, 
+        "view_str": "c4cdb2de6db635d3e2dde263860c8e17", 
+        "enabled": false, 
+        "bounds": [
+          [
+            60, 
+            1533
+          ], 
+          [
+            297, 
+            1584
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": "Public GPS Traces", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*51", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.billthefarmer.diary", 
+        "long_clickable": false, 
+        "view_str": "c5477665b4e92ff1df61f91ada9a977b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1602
+          ], 
+          [
+            459, 
+            1653
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b973f7e8f4ca7c1dda9b619e19aafc38"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "51e9d53dec61045f63ae9b0db56e5edd", 
+  "event_str": "FillUIEvent(state=90b134836d246b0a096f321a64e5eeca, views=['ef839cb0de091a5e0f480ff712235a83'])", 
+  "tag": "2019-06-18_080952", 
+  "event": {
+    "views_str": [
+      "ef839cb0de091a5e0f480ff712235a83"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mozilla.klar:id/urlView", 
+        "text": "https://www.europeana.eu/portal/en/exhibitions/pioneers", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*120", 
+        "checked": false, 
+        "temp_id": 128, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView", 
+        "is_password": false, 
+        "parent": 127, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": true, 
+        "view_str": "ef839cb0de091a5e0f480ff712235a83", 
+        "enabled": true, 
+        "bounds": [
+          [
+            24, 
+            99
+          ], 
+          [
+            936, 
+            219
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "90b134836d246b0a096f321a64e5eeca"
+}

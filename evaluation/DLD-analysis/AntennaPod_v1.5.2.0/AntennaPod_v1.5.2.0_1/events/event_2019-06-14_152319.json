@@ -1,0 +1,127 @@
+{
+  "stop_state": "1230b120d2de8d25a59716c3863e58a3", 
+  "event_str": "FillUIEvent(state=ac4aa0e8d0c59dd1c31332af3ec96546, views=['07dfae9e90a02643afc49be5b7097e29', '3aaf4445c854659578636508a675077d', '4d570c1430a1ab87ce30cf3fd557283c'])", 
+  "tag": "2019-06-14_152319", 
+  "event": {
+    "views_str": [
+      "07dfae9e90a02643afc49be5b7097e29", 
+      "3aaf4445c854659578636508a675077d", 
+      "4d570c1430a1ab87ce30cf3fd557283c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/etxtTime", 
+        "text": "15", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "126*136", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtTime", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "07dfae9e90a02643afc49be5b7097e29", 
+        "enabled": true, 
+        "bounds": [
+          [
+            326, 
+            714
+          ], 
+          [
+            452, 
+            850
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtTime[text]15[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/cbShakeToReset", 
+        "text": "Shake to reset timer", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "469*96", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbShakeToReset", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "3aaf4445c854659578636508a675077d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            215, 
+            963
+          ], 
+          [
+            684, 
+            1059
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbShakeToReset[text]Shake to reset timer[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/cbVibrate", 
+        "text": "Vibrate", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "229*96", 
+        "checked": true, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbVibrate", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": false, 
+        "view_str": "4d570c1430a1ab87ce30cf3fd557283c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            215, 
+            1059
+          ], 
+          [
+            444, 
+            1155
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.danoeh.antennapod.debug:id/cbVibrate[text]Vibrate[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "ac4aa0e8d0c59dd1c31332af3ec96546"
+}

@@ -1,0 +1,52 @@
+{
+  "stop_state": "6d58acb6ad3c7c13c66d93338886e98d", 
+  "event_str": "LongTouchEvent(state=b667455213692e8d38beb0318c80a939, view=fb0950bf4da3ea8b6770999c75613f91, duration=2000)", 
+  "tag": "2019-06-16_033741", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/account_list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        12
+      ], 
+      "size": "1080*201", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]eu.siacs.conversations:id/account_list", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "fb0950bf4da3ea8b6770999c75613f91", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          240
+        ], 
+        [
+          1080, 
+          441
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]eu.siacs.conversations:id/account_list[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "b667455213692e8d38beb0318c80a939"
+}

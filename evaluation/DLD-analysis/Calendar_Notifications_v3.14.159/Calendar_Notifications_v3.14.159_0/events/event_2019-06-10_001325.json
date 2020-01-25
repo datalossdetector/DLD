@@ -1,0 +1,49 @@
+{
+  "stop_state": "8005798db271856f229a303b6457b691", 
+  "event_str": "TouchEvent(state=8005798db271856f229a303b6457b691, view=963c349589559f609a4bffe461ad5cfe)", 
+  "tag": "2019-06-10_001325", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "To enable notifications on your Android Wear device, enable 'Allow notification Swipe' setting under 'Notification settings' \n\nThis would switch this app to use regular notification instead of ongoing notifications, and it would get picked by Android Wear automatically. \n\nTo protect from accidentally dismissing the notification it is possible to use 'Snooze on swipe' option (same location), it would chnage behavior of swiping off notification from dismissing the event to snoozing with #1st snooze preset", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*1313", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": false, 
+      "view_str": "963c349589559f609a4bffe461ad5cfe", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          247
+        ], 
+        [
+          1005, 
+          1560
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]None[text]None[enabled,,]"
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "8005798db271856f229a303b6457b691"
+}

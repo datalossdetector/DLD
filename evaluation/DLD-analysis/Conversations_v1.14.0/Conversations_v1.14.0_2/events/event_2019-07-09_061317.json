@@ -1,0 +1,165 @@
+{
+  "stop_state": "b69f13d3a6b44cc23b5edf343c727e35", 
+  "event_str": "FillUIEvent(state=6eb0cc1257cebfd92f7f2125804cd41a, views=['f4859b1b9089b1ec33c9cbe99d7ebb55', 'cb45498ca46e46aea3848cc5a954b74d', 'b5f7c3014eef649bc269e10ede98d582', '8db57f69b6a4fea93a4dee04852f5b70'])", 
+  "tag": "2019-07-09_061317", 
+  "event": {
+    "views_str": [
+      "f4859b1b9089b1ec33c9cbe99d7ebb55", 
+      "cb45498ca46e46aea3848cc5a954b74d", 
+      "b5f7c3014eef649bc269e10ede98d582", 
+      "8db57f69b6a4fea93a4dee04852f5b70"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_jid", 
+        "text": "helloworldhelloworld@conversations.im", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "672*120", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_jid", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "f4859b1b9089b1ec33c9cbe99d7ebb55", 
+        "enabled": true, 
+        "bounds": [
+          [
+            336, 
+            369
+          ], 
+          [
+            1008, 
+            489
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_jid[text]helloworldhelloworld@conversations.im[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/account_password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "672*120", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password", 
+        "is_password": true, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "cb45498ca46e46aea3848cc5a954b74d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            336, 
+            570
+          ], 
+          [
+            1008, 
+            690
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/account_password[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/hostname", 
+        "text": "Server- or .onion-Address", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "537*120", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/hostname", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "b5f7c3014eef649bc269e10ede98d582", 
+        "enabled": true, 
+        "bounds": [
+          [
+            336, 
+            771
+          ], 
+          [
+            873, 
+            891
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/hostname[text]Server- or .onion-Address[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/port", 
+        "text": "5222", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "135*120", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/port", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "8db57f69b6a4fea93a4dee04852f5b70", 
+        "enabled": true, 
+        "bounds": [
+          [
+            873, 
+            771
+          ], 
+          [
+            1008, 
+            891
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/port[text]5222[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6eb0cc1257cebfd92f7f2125804cd41a"
+}

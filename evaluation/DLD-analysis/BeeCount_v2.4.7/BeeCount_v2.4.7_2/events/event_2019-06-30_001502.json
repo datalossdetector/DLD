@@ -1,0 +1,50 @@
+{
+  "stop_state": "e1cd7658775160d4aa3fc2fdd8d27c2f", 
+  "event_str": "SetTextEvent(state=2db5f9e28f214626739a8f1938236020, view=d3caeb3d5ddb06fcc6df7827349796f1, text=HelloWorld)", 
+  "tag": "2019-06-30_001502", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 61, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.knirirr.beecount:id/countName", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "812*150", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/countName", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.knirirr.beecount", 
+      "long_clickable": true, 
+      "view_str": "d3caeb3d5ddb06fcc6df7827349796f1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          30, 
+          705
+        ], 
+        [
+          842, 
+          855
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/countName[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "2db5f9e28f214626739a8f1938236020"
+}

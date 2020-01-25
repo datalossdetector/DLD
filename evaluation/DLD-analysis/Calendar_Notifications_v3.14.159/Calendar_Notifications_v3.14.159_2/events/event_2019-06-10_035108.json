@@ -1,0 +1,50 @@
+{
+  "stop_state": "209bf019f68c23bf0cffbcb7f5b276cc", 
+  "event_str": "SetTextEvent(state=209bf019f68c23bf0cffbcb7f5b276cc, view=f22804bbb465cc03c051c42a3b0608fc, text=HelloWorld)", 
+  "tag": "2019-06-10_035108", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "8", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "192*144", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": true, 
+      "view_str": "f22804bbb465cc03c051c42a3b0608fc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          444, 
+          898
+        ], 
+        [
+          636, 
+          1042
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]8[enabled,,]"
+    }
+  }, 
+  "start_state": "209bf019f68c23bf0cffbcb7f5b276cc"
+}

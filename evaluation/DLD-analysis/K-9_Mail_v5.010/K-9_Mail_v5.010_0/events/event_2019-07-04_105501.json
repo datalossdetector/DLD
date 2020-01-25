@@ -1,0 +1,51 @@
+{
+  "stop_state": "a3e0245d15a18a080935effc2d301668", 
+  "event_str": "FillUIEvent(state=5be54849d0e28f900ae82ce3b0a8ce9a, views=['22371e26e75a84368e937c12b8b244e6'])", 
+  "tag": "2019-07-04_105501", 
+  "event": {
+    "views_str": [
+      "22371e26e75a84368e937c12b8b244e6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "   Search", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "877*108", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.fsck.k9", 
+        "long_clickable": true, 
+        "view_str": "22371e26e75a84368e937c12b8b244e6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            175, 
+            88
+          ], 
+          [
+            1052, 
+            196
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]   Search[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5be54849d0e28f900ae82ce3b0a8ce9a"
+}

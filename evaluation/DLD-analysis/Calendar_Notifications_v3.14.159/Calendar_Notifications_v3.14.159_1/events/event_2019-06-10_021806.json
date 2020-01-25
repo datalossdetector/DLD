@@ -1,0 +1,50 @@
+{
+  "stop_state": "32ddd8bf42e9bdeda3e40e869a2ebaa5", 
+  "event_str": "LongTouchEvent(state=7c90ee4a3dbfe2f131ad106e40420caf, view=ad79e59fdf30b8ebbb9a56c986edcc04, duration=2000)", 
+  "tag": "2019-06-10_021806", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "4", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "192*144", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": true, 
+      "view_str": "ad79e59fdf30b8ebbb9a56c986edcc04", 
+      "enabled": true, 
+      "bounds": [
+        [
+          244, 
+          936
+        ], 
+        [
+          436, 
+          1080
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]4[enabled,,]"
+    }
+  }, 
+  "start_state": "7c90ee4a3dbfe2f131ad106e40420caf"
+}

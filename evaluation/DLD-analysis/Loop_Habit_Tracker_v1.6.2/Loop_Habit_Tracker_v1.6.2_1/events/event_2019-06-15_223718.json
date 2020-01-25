@@ -1,0 +1,89 @@
+{
+  "stop_state": "e474f498abd6241a99dbd51538ea8115", 
+  "event_str": "FillUIEvent(state=b2d297673897157074a3393c16c06743, views=['7e91e2e4b9b7394122f28f53a6441041', '48f4cf6a3e79fa21d9ee5fe7b8e56164'])", 
+  "tag": "2019-06-15_223718", 
+  "event": {
+    "views_str": [
+      "7e91e2e4b9b7394122f28f53a6441041", 
+      "48f4cf6a3e79fa21d9ee5fe7b8e56164"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvName", 
+        "text": "Name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "763*128", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvName", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "7e91e2e4b9b7394122f28f53a6441041", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            659
+          ], 
+          [
+            883, 
+            787
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvName[text]Name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvDescription", 
+        "text": "Question (Did you \u2026 today?)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*128", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "48f4cf6a3e79fa21d9ee5fe7b8e56164", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            787
+          ], 
+          [
+            960, 
+            915
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription[text]Question (Did you \u2026 today?)[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b2d297673897157074a3393c16c06743"
+}

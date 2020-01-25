@@ -1,0 +1,1989 @@
+{
+  "stop_state": "f090649a8ddc467b67393ab0e54cf15c", 
+  "event_str": "FillUIEvent(state=b6e07506504b61bb5fb06cea1e866931, views=['469811c93840e609f986c8f8d24edbf9', '469811c93840e609f986c8f8d24edbf9', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '530b207ecd02372ede8a7ac86b9344ec', '83a4317aba84202b8b6744e5a1d6c04e', '7966acaea37dedab4fd1c6afd1ab3205'])", 
+  "tag": "2019-06-18_064456", 
+  "event": {
+    "views_str": [
+      "469811c93840e609f986c8f8d24edbf9", 
+      "469811c93840e609f986c8f8d24edbf9", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "530b207ecd02372ede8a7ac86b9344ec", 
+      "83a4317aba84202b8b6744e5a1d6c04e", 
+      "7966acaea37dedab4fd1c6afd1ab3205"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": true, 
+        "temp_id": 89, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "469811c93840e609f986c8f8d24edbf9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            879, 
+            2829
+          ], 
+          [
+            918, 
+            2871
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": true, 
+        "temp_id": 123, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 116, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "469811c93840e609f986c8f8d24edbf9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            3303
+          ], 
+          [
+            855, 
+            3345
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 158, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 151, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            4107
+          ], 
+          [
+            855, 
+            4149
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 192, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 185, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            4650
+          ], 
+          [
+            855, 
+            4692
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 229, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 222, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            5454
+          ], 
+          [
+            855, 
+            5496
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 259, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 252, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            5931
+          ], 
+          [
+            855, 
+            5973
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 294, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 287, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            6735
+          ], 
+          [
+            855, 
+            6777
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 328, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 321, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            7275
+          ], 
+          [
+            855, 
+            7317
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 358, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 351, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            7752
+          ], 
+          [
+            855, 
+            7794
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 395, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 388, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            8292
+          ], 
+          [
+            855, 
+            8334
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 433, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 426, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            8835
+          ], 
+          [
+            855, 
+            8877
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 470, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 463, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            9375
+          ], 
+          [
+            855, 
+            9417
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 502, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 495, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            9783
+          ], 
+          [
+            855, 
+            9825
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 534, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 527, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            10194
+          ], 
+          [
+            855, 
+            10236
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 566, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 559, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            10668
+          ], 
+          [
+            855, 
+            10710
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 605, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 598, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            11409
+          ], 
+          [
+            855, 
+            11451
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 641, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 634, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            12279
+          ], 
+          [
+            855, 
+            12321
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 675, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 668, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            12753
+          ], 
+          [
+            855, 
+            12795
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 709, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 702, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            13230
+          ], 
+          [
+            855, 
+            13272
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 748, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 741, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            13836
+          ], 
+          [
+            855, 
+            13878
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*39", 
+        "checked": false, 
+        "temp_id": 783, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 776, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            14643
+          ], 
+          [
+            855, 
+            14682
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 817, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 810, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            15249
+          ], 
+          [
+            855, 
+            15291
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 856, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 849, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            16119
+          ], 
+          [
+            855, 
+            16161
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 886, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 879, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            16794
+          ], 
+          [
+            855, 
+            16836
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 921, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 914, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            17532
+          ], 
+          [
+            855, 
+            17574
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 953, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 946, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            18006
+          ], 
+          [
+            855, 
+            18048
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 985, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 978, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            18483
+          ], 
+          [
+            855, 
+            18525
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1017, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1010, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            19023
+          ], 
+          [
+            855, 
+            19065
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1049, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1042, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            19500
+          ], 
+          [
+            855, 
+            19542
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1086, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1079, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            20040
+          ], 
+          [
+            855, 
+            20082
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1118, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1111, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            20646
+          ], 
+          [
+            855, 
+            20688
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1152, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1145, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            21123
+          ], 
+          [
+            855, 
+            21165
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1187, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1180, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            21927
+          ], 
+          [
+            855, 
+            21969
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1217, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1210, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            22470
+          ], 
+          [
+            855, 
+            22512
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1251, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1244, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            23010
+          ], 
+          [
+            855, 
+            23052
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1288, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1281, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            23550
+          ], 
+          [
+            855, 
+            23592
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1327, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1320, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            24225
+          ], 
+          [
+            855, 
+            24267
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1359, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1352, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            24699
+          ], 
+          [
+            855, 
+            24741
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1393, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1386, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            25506
+          ], 
+          [
+            855, 
+            25548
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1423, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1416, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            26046
+          ], 
+          [
+            855, 
+            26088
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1458, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1451, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            26652
+          ], 
+          [
+            855, 
+            26694
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1490, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1483, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            27327
+          ], 
+          [
+            855, 
+            27369
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1529, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1522, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            28065
+          ], 
+          [
+            855, 
+            28107
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1568, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1561, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            28605
+          ], 
+          [
+            855, 
+            28647
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1607, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1600, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            29214
+          ], 
+          [
+            855, 
+            29256
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1646, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1639, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            29754
+          ], 
+          [
+            855, 
+            29796
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1676, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1669, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            30231
+          ], 
+          [
+            855, 
+            30273
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1713, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1706, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            30969
+          ], 
+          [
+            855, 
+            31011
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1747, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1740, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            31641
+          ], 
+          [
+            855, 
+            31683
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "39*42", 
+        "checked": false, 
+        "temp_id": 1781, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 1774, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "530b207ecd02372ede8a7ac86b9344ec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            816, 
+            32184
+          ], 
+          [
+            855, 
+            32226
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "More", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "207*120", 
+        "checked": false, 
+        "temp_id": 1847, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 1846, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "83a4317aba84202b8b6744e5a1d6c04e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            513, 
+            315
+          ], 
+          [
+            720, 
+            435
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Search Wikimedia Commons [alt-f]", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "243*63", 
+        "checked": false, 
+        "temp_id": 1853, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 1852, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "7966acaea37dedab4fd1c6afd1ab3205", 
+        "enabled": true, 
+        "bounds": [
+          [
+            744, 
+            354
+          ], 
+          [
+            987, 
+            417
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b6e07506504b61bb5fb06cea1e866931"
+}

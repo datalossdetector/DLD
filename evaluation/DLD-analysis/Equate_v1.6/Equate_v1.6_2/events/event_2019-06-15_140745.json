@@ -1,0 +1,51 @@
+{
+  "stop_state": "7afaf64634ced25c36add400c84c3d6a", 
+  "event_str": "FillUIEvent(state=20e566ea0416f09cbcdb20cecfaf5a49, views=['f73ed8e55fd3ba04b4530532002d07c7'])", 
+  "tag": "2019-06-15_140745", 
+  "event": {
+    "views_str": [
+      "f73ed8e55fd3ba04b4530532002d07c7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.llamacorp.equate:id/textDisplay", 
+        "text": "21", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1047*162", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.llamacorp.equate", 
+        "long_clickable": true, 
+        "view_str": "f73ed8e55fd3ba04b4530532002d07c7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            6, 
+            762
+          ], 
+          [
+            1053, 
+            924
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay[text]21[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "20e566ea0416f09cbcdb20cecfaf5a49"
+}

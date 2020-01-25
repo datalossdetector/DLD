@@ -1,0 +1,203 @@
+{
+  "stop_state": "25c61404fb973ad799ac96298ec37bee", 
+  "event_str": "FillUIEvent(state=a4d748412a2465b7a651e5ad6de8113d, views=['e871121369aade47c2a34329b8fae601', 'fbb8d3d734515f31081e0686cfaf9161', 'b66c15754b4e9e817ec0bc97cf1bac4d', '7325d4f53db8db53af7992781373ec2b', '84d36b4d8aebac1553f795043ed565ac'])", 
+  "tag": "2019-06-08_011642", 
+  "event": {
+    "views_str": [
+      "e871121369aade47c2a34329b8fae601", 
+      "fbb8d3d734515f31081e0686cfaf9161", 
+      "b66c15754b4e9e817ec0bc97cf1bac4d", 
+      "7325d4f53db8db53af7992781373ec2b", 
+      "84d36b4d8aebac1553f795043ed565ac"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/title", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/title", 
+        "is_password": false, 
+        "parent": 30, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "e871121369aade47c2a34329b8fae601", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            648
+          ], 
+          [
+            1050, 
+            766
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/title[text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/format", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "876*118", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/format", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "fbb8d3d734515f31081e0686cfaf9161", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1024
+          ], 
+          [
+            906, 
+            1142
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/format[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/genre", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/genre", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "b66c15754b4e9e817ec0bc97cf1bac4d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1199
+          ], 
+          [
+            1050, 
+            1317
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/genre[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/language", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/language", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "7325d4f53db8db53af7992781373ec2b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1374
+          ], 
+          [
+            1050, 
+            1492
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/language[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/anthology", 
+        "text": "Bu kitap bir se\u00e7kide var m\u0131?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "677*96", 
+        "checked": true, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/anthology", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": false, 
+        "view_str": "84d36b4d8aebac1553f795043ed565ac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            1492
+          ], 
+          [
+            707, 
+            1588
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.eleybourn.bookcatalogue:id/anthology[text]Bu kitap bir se\u00e7kide var m\u0131?[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "a4d748412a2465b7a651e5ad6de8113d"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "7b7c9da243d5445eba5c4e41b3935c5e", 
+  "event_str": "FillUIEvent(state=32d130d6ea08640c359fb4dc06230e19, views=['9d0567c874ef10b6ebfe5cd3fa50e45c'])", 
+  "tag": "2019-06-14_131134", 
+  "event": {
+    "views_str": [
+      "9d0567c874ef10b6ebfe5cd3fa50e45c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.tap.easy_xkcd:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.tap.easy_xkcd:id/checkbox", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.tap.easy_xkcd", 
+        "long_clickable": false, 
+        "view_str": "9d0567c874ef10b6ebfe5cd3fa50e45c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            924, 
+            1116
+          ], 
+          [
+            1020, 
+            1212
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.tap.easy_xkcd:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "32d130d6ea08640c359fb4dc06230e19"
+}

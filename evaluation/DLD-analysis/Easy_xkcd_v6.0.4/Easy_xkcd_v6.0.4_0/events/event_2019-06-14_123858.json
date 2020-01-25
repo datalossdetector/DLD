@@ -1,0 +1,50 @@
+{
+  "stop_state": "d6d5c48353c5234eb8ccffb924bb0fae", 
+  "event_str": "SetTextEvent(state=c57a4a7ccd9cadd8931114eaaa6c43c9, view=6a547982a27a5c082b7d5f73a8edd8de, text=HelloWorld)", 
+  "tag": "2019-06-14_123858", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 13, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "Search a Comic", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "408*108", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.tap.easy_xkcd", 
+      "long_clickable": true, 
+      "view_str": "6a547982a27a5c082b7d5f73a8edd8de", 
+      "enabled": true, 
+      "bounds": [
+        [
+          360, 
+          100
+        ], 
+        [
+          768, 
+          208
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]Search a Comic[enabled,,]"
+    }
+  }, 
+  "start_state": "c57a4a7ccd9cadd8931114eaaa6c43c9"
+}

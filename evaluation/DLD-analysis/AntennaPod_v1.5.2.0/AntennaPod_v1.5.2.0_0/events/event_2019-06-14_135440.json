@@ -1,0 +1,51 @@
+{
+  "stop_state": "5146d33a441e59fb9d64748f5d68195c", 
+  "event_str": "FillUIEvent(state=4a25daa9133adc0a7e273976ecdeaa47, views=['2022d84e8411df777e1852acecb75eee'])", 
+  "tag": "2019-06-14_135440", 
+  "event": {
+    "views_str": [
+      "2022d84e8411df777e1852acecb75eee"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.danoeh.antennapod.debug:id/search_src_text", 
+        "text": "   Search for Feeds or Episodes", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "744*108", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/search_src_text", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.danoeh.antennapod.debug", 
+        "long_clickable": true, 
+        "view_str": "2022d84e8411df777e1852acecb75eee", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            100
+          ], 
+          [
+            936, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/search_src_text[text]   Search for Feeds or Episodes[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4a25daa9133adc0a7e273976ecdeaa47"
+}

@@ -1,0 +1,469 @@
+{
+  "stop_state": "d9cb1b98b2fa574a40d0084d7d654dbe", 
+  "event_str": "FillUIEvent(state=35082957e2866fe78939e3509a170506, views=['9ec46d36753345dbd13c7c6b75a3b79a', '9ec46d36753345dbd13c7c6b75a3b79a', '9ec46d36753345dbd13c7c6b75a3b79a', '9ec46d36753345dbd13c7c6b75a3b79a', '9ec46d36753345dbd13c7c6b75a3b79a', '763b3eb988014c20083d16e4cba918a7', '763b3eb988014c20083d16e4cba918a7', 'eef2f2f48ea842be58a588f031409612', 'eef2f2f48ea842be58a588f031409612', 'efe29fe49d003043c2d1a221c8e75549', 'efe29fe49d003043c2d1a221c8e75549', 'e54de2491014b0ab46d80f0b4fd6f564'])", 
+  "tag": "2019-06-17_080412", 
+  "event": {
+    "views_str": [
+      "9ec46d36753345dbd13c7c6b75a3b79a", 
+      "9ec46d36753345dbd13c7c6b75a3b79a", 
+      "9ec46d36753345dbd13c7c6b75a3b79a", 
+      "9ec46d36753345dbd13c7c6b75a3b79a", 
+      "9ec46d36753345dbd13c7c6b75a3b79a", 
+      "763b3eb988014c20083d16e4cba918a7", 
+      "763b3eb988014c20083d16e4cba918a7", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "eef2f2f48ea842be58a588f031409612", 
+      "efe29fe49d003043c2d1a221c8e75549", 
+      "efe29fe49d003043c2d1a221c8e75549", 
+      "e54de2491014b0ab46d80f0b4fd6f564"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Go to Slide 1", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "24*24", 
+        "checked": false, 
+        "temp_id": 58, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 57, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "9ec46d36753345dbd13c7c6b75a3b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            447, 
+            2571
+          ], 
+          [
+            471, 
+            2595
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Go to Slide 2", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "27*24", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 57, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "9ec46d36753345dbd13c7c6b75a3b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            486, 
+            2571
+          ], 
+          [
+            513, 
+            2595
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Go to Slide 3", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "24*24", 
+        "checked": false, 
+        "temp_id": 60, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 57, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "9ec46d36753345dbd13c7c6b75a3b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            528, 
+            2571
+          ], 
+          [
+            552, 
+            2595
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Go to Slide 4", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "27*24", 
+        "checked": false, 
+        "temp_id": 61, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 57, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "9ec46d36753345dbd13c7c6b75a3b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            567, 
+            2571
+          ], 
+          [
+            594, 
+            2595
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Go to Slide 5", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "24*24", 
+        "checked": false, 
+        "temp_id": 62, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 57, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "9ec46d36753345dbd13c7c6b75a3b79a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            609, 
+            2571
+          ], 
+          [
+            633, 
+            2595
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "City or Airport", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "960*132", 
+        "checked": false, 
+        "temp_id": 73, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 72, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "763b3eb988014c20083d16e4cba918a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1257
+          ], 
+          [
+            1020, 
+            1389
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "City or Airport", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "960*132", 
+        "checked": false, 
+        "temp_id": 77, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 76, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "763b3eb988014c20083d16e4cba918a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1524
+          ], 
+          [
+            1020, 
+            1656
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "DD/MM/YYYY", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "384*102", 
+        "checked": false, 
+        "temp_id": 80, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1791
+          ], 
+          [
+            444, 
+            1893
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "DD/MM/YYYY", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "384*102", 
+        "checked": false, 
+        "temp_id": 82, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "eef2f2f48ea842be58a588f031409612", 
+        "enabled": true, 
+        "bounds": [
+          [
+            504, 
+            1791
+          ], 
+          [
+            888, 
+            1893
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Enter your name here...", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*123", 
+        "checked": false, 
+        "temp_id": 323, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 322, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            69, 
+            18861
+          ], 
+          [
+            1011, 
+            18984
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Enter your email here...", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*123", 
+        "checked": false, 
+        "temp_id": 324, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 322, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "efe29fe49d003043c2d1a221c8e75549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            69, 
+            19011
+          ], 
+          [
+            1011, 
+            19134
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mozilla.klar:id/urlView", 
+        "text": "https://www.helloworld.com.au/flights", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*120", 
+        "checked": false, 
+        "temp_id": 393, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView", 
+        "is_password": false, 
+        "parent": 392, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": true, 
+        "view_str": "e54de2491014b0ab46d80f0b4fd6f564", 
+        "enabled": true, 
+        "bounds": [
+          [
+            24, 
+            99
+          ], 
+          [
+            936, 
+            219
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mozilla.klar:id/urlView[text]https://www.helloworld.com.au/flights[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "35082957e2866fe78939e3509a170506"
+}

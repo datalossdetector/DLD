@@ -1,0 +1,165 @@
+{
+  "stop_state": "8301ebde8d792ca46e0a3d27a5182ce3", 
+  "event_str": "FillUIEvent(state=f9d799b5952493111b164c1ca59bf521, views=['87a9445a0ab902965e7ebd1484aff9d8', '48d892a577556679682dc4ae8090812b', 'd07f1084881ead57b7ea6498cfeb3482', '9d6fd6522f037afa9958aa018d1f4464'])", 
+  "tag": "2019-06-15_000004", 
+  "event": {
+    "views_str": [
+      "87a9445a0ab902965e7ebd1484aff9d8", 
+      "48d892a577556679682dc4ae8090812b", 
+      "d07f1084881ead57b7ea6498cfeb3482", 
+      "9d6fd6522f037afa9958aa018d1f4464"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.knirirr.beecount:id/projectName", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*95", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/projectName", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "87a9445a0ab902965e7ebd1484aff9d8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            356
+          ], 
+          [
+            1050, 
+            451
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/projectName[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.knirirr.beecount:id/projectName", 
+        "text": "Type some notes here\u2026", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*95", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/projectName", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "48d892a577556679682dc4ae8090812b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            582
+          ], 
+          [
+            1050, 
+            677
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/projectName[text]Type some notes here\u2026[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.knirirr.beecount:id/countName", 
+        "text": "HelloWorldHelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "812*150", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/countName", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "d07f1084881ead57b7ea6498cfeb3482", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            722
+          ], 
+          [
+            842, 
+            872
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/countName[text]HelloWorldHelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.knirirr.beecount:id/countName", 
+        "text": "New Count", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "812*150", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/countName", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.knirirr.beecount", 
+        "long_clickable": true, 
+        "view_str": "9d6fd6522f037afa9958aa018d1f4464", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            938
+          ], 
+          [
+            842, 
+            1088
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.knirirr.beecount:id/countName[text]New Count[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f9d799b5952493111b164c1ca59bf521"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "066559b90689e7bfebf07c13a71bcae0", 
+  "event_str": "FillUIEvent(state=09df734a35aa117aa8484860cbc5fe9a, views=['a09b146e5919dd685d36b2c545db2db1'])", 
+  "tag": "2019-06-16_065057", 
+  "event": {
+    "views_str": [
+      "a09b146e5919dd685d36b2c545db2db1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "eu.siacs.conversations:id/textinput", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*145", 
+        "checked": false, 
+        "temp_id": 52, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput", 
+        "is_password": false, 
+        "parent": 51, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "eu.siacs.conversations", 
+        "long_clickable": true, 
+        "view_str": "a09b146e5919dd685d36b2c545db2db1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1631
+          ], 
+          [
+            936, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/textinput[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "09df734a35aa117aa8484860cbc5fe9a"
+}

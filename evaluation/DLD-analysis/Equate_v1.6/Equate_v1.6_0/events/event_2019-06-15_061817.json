@@ -1,0 +1,51 @@
+{
+  "stop_state": "223fab53efc12ec2e36363c1cece4c5b", 
+  "event_str": "FillUIEvent(state=85427f0b598e9e3bf35c9e5cb54e4ae0, views=['a0e6150170d2761ef622e9acb133663d'])", 
+  "tag": "2019-06-15_061817", 
+  "event": {
+    "views_str": [
+      "a0e6150170d2761ef622e9acb133663d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.llamacorp.equate:id/textDisplay", 
+        "text": "Number Too Large", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1047*162", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.llamacorp.equate", 
+        "long_clickable": true, 
+        "view_str": "a0e6150170d2761ef622e9acb133663d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            6, 
+            359
+          ], 
+          [
+            1053, 
+            521
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.llamacorp.equate:id/textDisplay[text]Number Too Large[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "85427f0b598e9e3bf35c9e5cb54e4ae0"
+}

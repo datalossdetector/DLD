@@ -1,0 +1,49 @@
+{
+  "stop_state": "48568c989733fa851ac54551b6be8294", 
+  "event_str": "TouchEvent(state=3f1ded414d8f00f121a5e4c5a775af00, view=833b351e4bc95a7e66816fa839c88502)", 
+  "tag": "2019-06-11_142737", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.fsck.k9:id/preview", 
+      "text": "\u203aAlex Kondratyuk Using `useManualQuery`: ```jsx function UserProfile({ id = null }) { const [getUser, { data, loading }] = useManualQuery(` query getUser($id: Int!) { user(id: $id) { login } } `) useEffect(() => { if (id) { getUser({ variables: { id } }) } }, [id, getUser]) return ( <div> <h1>{id ? (loading ? 'Loading...' : data.login) : 'New User'}</h1> </div> ) } ``` Using `useMutation` ```jsx function UserProfile() { const [data, setData] = useState('') const [savingStarted, setSavingStarted] = useState(false) const [sa\u2026", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "762*104", 
+      "checked": false, 
+      "temp_id": 50, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.fsck.k9:id/preview", 
+      "is_password": false, 
+      "parent": 45, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.fsck.k9", 
+      "long_clickable": false, 
+      "view_str": "833b351e4bc95a7e66816fa839c88502", 
+      "enabled": true, 
+      "bounds": [
+        [
+          195, 
+          890
+        ], 
+        [
+          957, 
+          994
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.fsck.k9:id/preview[text]None[enabled,,]"
+    }, 
+    "id": 71, 
+    "event_type": "touch"
+  }, 
+  "start_state": "3f1ded414d8f00f121a5e4c5a775af00"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "a8425bf51cb1d4882d1c5d218c2f83e5", 
+  "event_str": "SetTextEvent(state=7d672966bc82a0b210fc008f0ff19862, view=8611635ec7aaf085a2b1626d1c9d1015, text=HelloWorld)", 
+  "tag": "2019-06-17_095823", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 18, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "6605", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "768*144", 
+      "checked": false, 
+      "temp_id": 29, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.gateshipone.malp", 
+      "long_clickable": true, 
+      "view_str": "8611635ec7aaf085a2b1626d1c9d1015", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          1089
+        ], 
+        [
+          816, 
+          1233
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]6605[enabled,,]"
+    }
+  }, 
+  "start_state": "7d672966bc82a0b210fc008f0ff19862"
+}

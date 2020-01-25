@@ -1,0 +1,51 @@
+{
+  "stop_state": "f981d0c4e0fbe18303d33e002ef32d31", 
+  "event_str": "FillUIEvent(state=29c6d954db11f9ad69c38d95aca9476e, views=['ba8a75a973dff1550bbf32ecdd6dc637'])", 
+  "tag": "2019-06-08_001346", 
+  "event": {
+    "views_str": [
+      "ba8a75a973dff1550bbf32ecdd6dc637"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.eleybourn.bookcatalogue:id/bookshelf", 
+        "text": "Default", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1020*118", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/bookshelf", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.eleybourn.bookcatalogue", 
+        "long_clickable": true, 
+        "view_str": "ba8a75a973dff1550bbf32ecdd6dc637", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            246
+          ], 
+          [
+            1050, 
+            364
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.eleybourn.bookcatalogue:id/bookshelf[text]Default[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "29c6d954db11f9ad69c38d95aca9476e"
+}

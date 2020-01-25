@@ -1,0 +1,55 @@
+{
+  "stop_state": "200dbad0fae377466fc1d7d0b3c0168b", 
+  "event_str": "ScrollEvent(state=5cca01050cdf2a5044f75fde6838bada, view=ccab33afd8380a040b6ced913bd3c451, direction=UP)", 
+  "tag": "2019-06-15_063350", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 33, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        13, 
+        18, 
+        23
+      ], 
+      "size": "1080*560", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 3, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/list", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": true, 
+      "package": "com.llamacorp.equate", 
+      "long_clickable": false, 
+      "view_str": "ccab33afd8380a040b6ced913bd3c451", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          632
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]android:id/list[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "5cca01050cdf2a5044f75fde6838bada"
+}

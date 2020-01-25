@@ -1,0 +1,50 @@
+{
+  "stop_state": "999f41aed285d0cfb2d19c62babfe54c", 
+  "event_str": "SetTextEvent(state=4c8aab65dbbbad65a5f28524893589e5, view=9a42b3b26de1282671e3f051a01da8e1, text=HelloWorld)", 
+  "tag": "2019-06-16_052802", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "eu.siacs.conversations:id/presence_status_message", 
+      "text": "Status message", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*128", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/presence_status_message", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "eu.siacs.conversations", 
+      "long_clickable": true, 
+      "view_str": "9a42b3b26de1282671e3f051a01da8e1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          312
+        ], 
+        [
+          1008, 
+          440
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]eu.siacs.conversations:id/presence_status_message[text]Status message[enabled,,]"
+    }
+  }, 
+  "start_state": "4c8aab65dbbbad65a5f28524893589e5"
+}

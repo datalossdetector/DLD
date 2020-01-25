@@ -1,0 +1,127 @@
+{
+  "stop_state": "a2e10c75af1a8f1ee33a1a468e2a76c6", 
+  "event_str": "FillUIEvent(state=a2e10c75af1a8f1ee33a1a468e2a76c6, views=['8f230a586a03eed52b4aeadc7eadb746', 'e05fb209127ccc64ebb2e5dea3191d49', 'e05fb209127ccc64ebb2e5dea3191d49'])", 
+  "tag": "2019-06-17_232300", 
+  "event": {
+    "views_str": [
+      "8f230a586a03eed52b4aeadc7eadb746", 
+      "e05fb209127ccc64ebb2e5dea3191d49", 
+      "e05fb209127ccc64ebb2e5dea3191d49"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.aegrel.gadgetbridge", 
+        "long_clickable": false, 
+        "view_str": "8f230a586a03eed52b4aeadc7eadb746", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            380
+          ], 
+          [
+            1032, 
+            476
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.aegrel.gadgetbridge", 
+        "long_clickable": false, 
+        "view_str": "e05fb209127ccc64ebb2e5dea3191d49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            544
+          ], 
+          [
+            1032, 
+            640
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ee.aegrel.gadgetbridge", 
+        "long_clickable": false, 
+        "view_str": "e05fb209127ccc64ebb2e5dea3191d49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            708
+          ], 
+          [
+            1032, 
+            804
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a2e10c75af1a8f1ee33a1a468e2a76c6"
+}

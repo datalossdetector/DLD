@@ -1,0 +1,50 @@
+{
+  "stop_state": "6e6e04be7c06a039cc23a14ce966e3c1", 
+  "event_str": "SetTextEvent(state=22f82b758bcc102ab2865cf68ea33cf0, view=beaac0d4769b015b221716eb761fb6a3, text=HelloWorld)", 
+  "tag": "2019-06-17_075707", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ws.xsoh.etar:id/attendees", 
+      "text": "Guests", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1008*136", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.MultiAutoCompleteTextView[resource_id]ws.xsoh.etar:id/attendees", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.MultiAutoCompleteTextView", 
+      "scrollable": false, 
+      "package": "ws.xsoh.etar", 
+      "long_clickable": true, 
+      "view_str": "beaac0d4769b015b221716eb761fb6a3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          36, 
+          1393
+        ], 
+        [
+          1044, 
+          1529
+        ]
+      ], 
+      "signature": "[class]android.widget.MultiAutoCompleteTextView[resource_id]ws.xsoh.etar:id/attendees[text]Guests[enabled,,]"
+    }
+  }, 
+  "start_state": "22f82b758bcc102ab2865cf68ea33cf0"
+}

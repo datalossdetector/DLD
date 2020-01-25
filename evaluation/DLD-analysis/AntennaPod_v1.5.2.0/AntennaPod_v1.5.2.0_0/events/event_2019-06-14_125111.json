@@ -1,0 +1,50 @@
+{
+  "stop_state": "df1954c39715c8e2261af01a2e038e8f", 
+  "event_str": "LongTouchEvent(state=c73ae78bc07a58cdc6b7d3a6840a038a, view=a00a9e0d7851db466d833ab65f08765f, duration=2000)", 
+  "tag": "2019-06-14_125111", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 19, 
+    "view": {
+      "content_description": "Set sleep timer", 
+      "resource_id": "de.danoeh.antennapod.debug:id/set_sleeptimer_item", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "144*144", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]de.danoeh.antennapod.debug:id/set_sleeptimer_item", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.danoeh.antennapod.debug", 
+      "long_clickable": true, 
+      "view_str": "a00a9e0d7851db466d833ab65f08765f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          672, 
+          84
+        ], 
+        [
+          816, 
+          228
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]de.danoeh.antennapod.debug:id/set_sleeptimer_item[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "c73ae78bc07a58cdc6b7d3a6840a038a"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "a0a89add00abf45cb9dc4dfa4c00a494", 
+  "event_str": "SetTextEvent(state=ffe1459a6f29da7ccd9a3ea8c3b4e04c, view=fb51f1bc987b15bb6f24d40470174f88, text=HelloWorld)", 
+  "tag": "2019-06-14_144939", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.danoeh.antennapod.debug:id/etxtFeedurl", 
+      "text": "test123test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*136", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtFeedurl", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.danoeh.antennapod.debug", 
+      "long_clickable": true, 
+      "view_str": "fb51f1bc987b15bb6f24d40470174f88", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          1161
+        ], 
+        [
+          1032, 
+          1297
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]de.danoeh.antennapod.debug:id/etxtFeedurl[text]test123test123[enabled,,]"
+    }
+  }, 
+  "start_state": "ffe1459a6f29da7ccd9a3ea8c3b4e04c"
+}

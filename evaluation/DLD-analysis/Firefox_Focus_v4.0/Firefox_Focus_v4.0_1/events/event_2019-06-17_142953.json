@@ -1,0 +1,127 @@
+{
+  "stop_state": "aae313648b0c7ed5ad9a3296b6cd7718", 
+  "event_str": "FillUIEvent(state=3ea6d7553cb65e159e24edc5a0b98b60, views=['52c2d2f4cb907ea718a6f15926d2ee77', '883bbc3dd6b4c5039094e6104a389fa3', '883bbc3dd6b4c5039094e6104a389fa3'])", 
+  "tag": "2019-06-17_142953", 
+  "event": {
+    "views_str": [
+      "52c2d2f4cb907ea718a6f15926d2ee77", 
+      "883bbc3dd6b4c5039094e6104a389fa3", 
+      "883bbc3dd6b4c5039094e6104a389fa3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "AKTIF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "52c2d2f4cb907ea718a6f15926d2ee77", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1212
+          ], 
+          [
+            1032, 
+            1293
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]AKTIF[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "MATI", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "883bbc3dd6b4c5039094e6104a389fa3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1506
+          ], 
+          [
+            1032, 
+            1587
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]MATI[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "MATI", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-49", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 48, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "883bbc3dd6b4c5039094e6104a389fa3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1825
+          ], 
+          [
+            1032, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]MATI[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3ea6d7553cb65e159e24edc5a0b98b60"
+}

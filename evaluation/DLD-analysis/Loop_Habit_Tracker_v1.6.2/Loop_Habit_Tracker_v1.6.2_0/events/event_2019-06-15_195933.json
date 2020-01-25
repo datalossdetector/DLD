@@ -1,0 +1,165 @@
+{
+  "stop_state": "e36e2075a1f76dc9621f640f3c4fef47", 
+  "event_str": "FillUIEvent(state=712474d87321b19c848e06cae6329db3, views=['0e6709a8cbd9687a5fe01d82694c8f43', '1d1c06a8b1065697388264c8421e7c27', '7d8f712dd29bf85c3f4f7a6f2fcb7a6f', '208a9654b83d4e5c2ab9e99109c16a77'])", 
+  "tag": "2019-06-15_195933", 
+  "event": {
+    "views_str": [
+      "0e6709a8cbd9687a5fe01d82694c8f43", 
+      "1d1c06a8b1065697388264c8421e7c27", 
+      "7d8f712dd29bf85c3f4f7a6f2fcb7a6f", 
+      "208a9654b83d4e5c2ab9e99109c16a77"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvName", 
+        "text": "HelloWorldHelloWtest123orld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "763*128", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvName", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "0e6709a8cbd9687a5fe01d82694c8f43", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            348
+          ], 
+          [
+            883, 
+            476
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvName[text]HelloWorldHelloWtest123orld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvDescription", 
+        "text": "/home/lta/Desktop/final/Easy_xkcd_v6.0.4_0\n/home/lta/Desktop/final/Easy_xkcd_v6.0.4_1\n/home/lta/Desktop/final/Easy_xkcd_v6.0.4_2\n/home/lta/Desktop/final/Equate_v1.6_0\n/home/lta/Desktop/final/Equate_v1.6_1\n/home/lta/Desktop/final/Equate_v1.6_2HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*755", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "1d1c06a8b1065697388264c8421e7c27", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            476
+          ], 
+          [
+            960, 
+            1231
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvDescription[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvFreqNum", 
+        "text": "3", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "122*128", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvFreqNum", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "7d8f712dd29bf85c3f4f7a6f2fcb7a6f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            390, 
+            1267
+          ], 
+          [
+            512, 
+            1395
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvFreqNum[text]3[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.isoron.uhabits:id/tvFreqDen", 
+        "text": "7", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "122*128", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvFreqDen", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.isoron.uhabits", 
+        "long_clickable": true, 
+        "view_str": "208a9654b83d4e5c2ab9e99109c16a77", 
+        "enabled": true, 
+        "bounds": [
+          [
+            690, 
+            1267
+          ], 
+          [
+            812, 
+            1395
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.isoron.uhabits:id/tvFreqDen[text]7[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "712474d87321b19c848e06cae6329db3"
+}

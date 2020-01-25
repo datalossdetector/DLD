@@ -1,0 +1,51 @@
+{
+  "stop_state": "be7fd5252a9fcd2d23f0052a3b5ea30f", 
+  "event_str": "FillUIEvent(state=d8e7ff282f46e20487cabcadbd7cb2ef, views=['8ac37164c353c0ff2763c9a1ab24993f'])", 
+  "tag": "2019-06-17_130618", 
+  "event": {
+    "views_str": [
+      "8ac37164c353c0ff2763c9a1ab24993f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Block trackers", 
+        "resource_id": "org.mozilla.klar:id/blocking_switch", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "236*144", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]org.mozilla.klar:id/blocking_switch", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "8ac37164c353c0ff2763c9a1ab24993f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            844, 
+            303
+          ], 
+          [
+            1080, 
+            447
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]org.mozilla.klar:id/blocking_switch[text]ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "d8e7ff282f46e20487cabcadbd7cb2ef"
+}

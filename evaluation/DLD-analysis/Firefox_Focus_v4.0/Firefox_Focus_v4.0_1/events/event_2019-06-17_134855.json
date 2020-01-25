@@ -1,0 +1,89 @@
+{
+  "stop_state": "9d615017aa6c33e9d155f612077c6063", 
+  "event_str": "FillUIEvent(state=639a0891a157ccb71e94ed6946164735, views=['883bbc3dd6b4c5039094e6104a389fa3', '52c2d2f4cb907ea718a6f15926d2ee77'])", 
+  "tag": "2019-06-17_134855", 
+  "event": {
+    "views_str": [
+      "883bbc3dd6b4c5039094e6104a389fa3", 
+      "52c2d2f4cb907ea718a6f15926d2ee77"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "MATI", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "883bbc3dd6b4c5039094e6104a389fa3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            506
+          ], 
+          [
+            1032, 
+            587
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]MATI[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "AKTIF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "org.mozilla.klar", 
+        "long_clickable": false, 
+        "view_str": "52c2d2f4cb907ea718a6f15926d2ee77", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            989
+          ], 
+          [
+            1032, 
+            1070
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]AKTIF[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "639a0891a157ccb71e94ed6946164735"
+}

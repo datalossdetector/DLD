@@ -1,0 +1,51 @@
+{
+  "stop_state": "beb6946acf8636a5c3cbdb78531d34b1", 
+  "event_str": "FillUIEvent(state=7ac27fa9757c8e5fff390cd0d1f86985, views=['6a547982a27a5c082b7d5f73a8edd8de'])", 
+  "tag": "2019-06-15_010236", 
+  "event": {
+    "views_str": [
+      "6a547982a27a5c082b7d5f73a8edd8de"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "Search a Comic", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "408*108", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.tap.easy_xkcd", 
+        "long_clickable": true, 
+        "view_str": "6a547982a27a5c082b7d5f73a8edd8de", 
+        "enabled": true, 
+        "bounds": [
+          [
+            360, 
+            100
+          ], 
+          [
+            768, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]Search a Comic[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7ac27fa9757c8e5fff390cd0d1f86985"
+}

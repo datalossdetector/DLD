@@ -1,0 +1,49 @@
+{
+  "stop_state": "4178e187799d93985d4c3cf804976339", 
+  "event_str": "TouchEvent(state=4178e187799d93985d4c3cf804976339, view=039d8c3fcfbc40a2264166a19cf0cb36)", 
+  "tag": "2019-06-10_012622", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/summary", 
+      "text": "Dismiss notification when event is rescheduled via Calendar app\nEvent should be moved by at least 15 minutes for this functionality to work\nEvent should have reminders that are still in the future\n\nNOTE: This functionality depends on Calendar Provider to notify app about calendar change, such notification is usually received with some delay causing some delay between event edit and notification auto-dismissal (up to 60 seconds)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*496", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/summary", 
+      "is_password": false, 
+      "parent": 29, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.github.quarck.calnotify", 
+      "long_clickable": false, 
+      "view_str": "039d8c3fcfbc40a2264166a19cf0cb36", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          864
+        ], 
+        [
+          888, 
+          1360
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/summary[text]None[enabled,,]"
+    }, 
+    "id": 16, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4178e187799d93985d4c3cf804976339"
+}
