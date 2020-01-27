@@ -1,0 +1,393 @@
+{
+  "stop_state": "bcbea8ee10686c99878441c788d1ad29", 
+  "event_str": "FillUIEvent(state=bcbea8ee10686c99878441c788d1ad29, views=['c80fe8c078c5d593baeef6d55ad916bf', 'ff32c09b7746ebe0d5d8100c4749ec8d', 'a3b589923d35d9514f3ec4ec70122fb3', 'f75e45752b78592d341c30ed22a5ab37', 'cdd13621a5760b4cfed0deedc8531dfa', 'a69e1685d1d401b0e5579477ebe65c91', '256d17900d50e12d81b6e3553817ab3e', '5db0c74a67089487a3352056e8b382da', 'd19bdb110483c9570639a0a339636cc0', 'c012d3a2de801439a5fe1bc612c2e463'])", 
+  "tag": "2019-06-19_062157", 
+  "event": {
+    "views_str": [
+      "c80fe8c078c5d593baeef6d55ad916bf", 
+      "ff32c09b7746ebe0d5d8100c4749ec8d", 
+      "a3b589923d35d9514f3ec4ec70122fb3", 
+      "f75e45752b78592d341c30ed22a5ab37", 
+      "cdd13621a5760b4cfed0deedc8531dfa", 
+      "a69e1685d1d401b0e5579477ebe65c91", 
+      "256d17900d50e12d81b6e3553817ab3e", 
+      "5db0c74a67089487a3352056e8b382da", 
+      "d19bdb110483c9570639a0a339636cc0", 
+      "c012d3a2de801439a5fe1bc612c2e463"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_show_completed", 
+        "text": "Show completed tasks", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": true, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_completed", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "c80fe8c078c5d593baeef6d55ad916bf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            384
+          ], 
+          [
+            -47, 
+            480
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_completed[text]Show completed tasks[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_show_future", 
+        "text": "Show tasks with threshold date in future", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_future", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "ff32c09b7746ebe0d5d8100c4749ec8d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            483
+          ], 
+          [
+            -47, 
+            579
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_future[text]Show tasks with threshold date in future[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_show_hidden", 
+        "text": "Show hidden tasks", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_hidden", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "a3b589923d35d9514f3ec4ec70122fb3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            582
+          ], 
+          [
+            -47, 
+            678
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_hidden[text]Show hidden tasks[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_show_lists", 
+        "text": "Show lists in the tasks", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": true, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_lists", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "f75e45752b78592d341c30ed22a5ab37", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            681
+          ], 
+          [
+            -47, 
+            777
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_lists[text]Show lists in the tasks[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_show_tags", 
+        "text": "Show tags in the tasks", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": true, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_tags", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "cdd13621a5760b4cfed0deedc8531dfa", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            780
+          ], 
+          [
+            -47, 
+            876
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_tags[text]Show tags in the tasks[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_show_create_date", 
+        "text": "Show tasks' ages", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": true, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_create_date", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "a69e1685d1d401b0e5579477ebe65c91", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            879
+          ], 
+          [
+            -47, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_show_create_date[text]Show tasks' ages[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_create_is_threshold", 
+        "text": "Create is threshold", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-47*96", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_create_is_threshold", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "256d17900d50e12d81b6e3553817ab3e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            978
+          ], 
+          [
+            -47, 
+            1074
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_create_is_threshold[text]Create is threshold[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/cb_use_script", 
+        "text": "Use script", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-48*96", 
+        "checked": true, 
+        "temp_id": 87, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_use_script", 
+        "is_password": false, 
+        "parent": 86, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "5db0c74a67089487a3352056e8b382da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1128, 
+            384
+          ], 
+          [
+            1080, 
+            480
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/cb_use_script[text]Use script[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/txt_testtask", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-48*136", 
+        "checked": false, 
+        "temp_id": 93, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/txt_testtask", 
+        "is_password": false, 
+        "parent": 92, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": true, 
+        "view_str": "d19bdb110483c9570639a0a339636cc0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1128, 
+            630
+          ], 
+          [
+            1080, 
+            766
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/txt_testtask[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/txt_script", 
+        "text": "test123HelloWorld", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-48*947", 
+        "checked": false, 
+        "temp_id": 95, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/txt_script", 
+        "is_password": false, 
+        "parent": 86, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": true, 
+        "view_str": "c012d3a2de801439a5fe1bc612c2e463", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1128, 
+            829
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/txt_script[text]test123HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "bcbea8ee10686c99878441c788d1ad29"
+}

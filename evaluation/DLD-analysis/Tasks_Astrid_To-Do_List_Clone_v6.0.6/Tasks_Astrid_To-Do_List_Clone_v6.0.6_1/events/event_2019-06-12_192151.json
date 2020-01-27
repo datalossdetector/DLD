@@ -1,0 +1,127 @@
+{
+  "stop_state": "85878d20d398c4727a41c685a7dadf7f", 
+  "event_str": "FillUIEvent(state=7cde0f34ff693449bd91647eaa8fd450, views=['31c8e5c0a04d2b4f8ec8c144ccd717fd', '42a2961d735d9ee476ef2b47f8d41976', '99182deda84cb70bf86f226ddd01a3bb'])", 
+  "tag": "2019-06-12_192151", 
+  "event": {
+    "views_str": [
+      "31c8e5c0a04d2b4f8ec8c144ccd717fd", 
+      "42a2961d735d9ee476ef2b47f8d41976", 
+      "99182deda84cb70bf86f226ddd01a3bb"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/intervalValue", 
+        "text": "1", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "159*124", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/intervalValue", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "31c8e5c0a04d2b4f8ec8c144ccd717fd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            236, 
+            726
+          ], 
+          [
+            395, 
+            850
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/intervalValue[text]1[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/repeat_monthly_same_day", 
+        "text": "on the same day each month", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "634*96", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/repeat_monthly_same_day", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "42a2961d735d9ee476ef2b47f8d41976", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            850
+          ], 
+          [
+            757, 
+            946
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/repeat_monthly_same_day[text]on the same day each month[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/repeat_monthly_day_of_nth_week", 
+        "text": "on every third Friday", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "469*96", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/repeat_monthly_day_of_nth_week", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "99182deda84cb70bf86f226ddd01a3bb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            946
+          ], 
+          [
+            592, 
+            1042
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/repeat_monthly_day_of_nth_week[text]on every third Friday[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7cde0f34ff693449bd91647eaa8fd450"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "8cba48d5eb78a550e99abaf71bab798d", 
+  "event_str": "FillUIEvent(state=bb8dde38049158b5a9a89203b26236cb, views=['bc159588e4413795b84af63f58d6aefb', '6a21209799b5755cfd2157111fa3920c', '4fcaa33a77eb03bfe4e1afe4caa21794', 'd24a535dda1fddd1d7e680bef07b84be'])", 
+  "tag": "2019-06-20_041701", 
+  "event": {
+    "views_str": [
+      "bc159588e4413795b84af63f58d6aefb", 
+      "6a21209799b5755cfd2157111fa3920c", 
+      "4fcaa33a77eb03bfe4e1afe4caa21794", 
+      "d24a535dda1fddd1d7e680bef07b84be"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/id", 
+        "text": "Device ID", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "888*168", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/id", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "bc159588e4413795b84af63f58d6aefb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            264
+          ], 
+          [
+            888, 
+            432
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/id[text]Device ID[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/name", 
+        "text": "Name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/name", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "6a21209799b5755cfd2157111fa3920c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            433
+          ], 
+          [
+            1080, 
+            601
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/name[text]Name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/addresses", 
+        "text": "dynamic", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/addresses", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "4fcaa33a77eb03bfe4e1afe4caa21794", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            602
+          ], 
+          [
+            1080, 
+            770
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/addresses[text]dynamic[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/introducer", 
+        "text": "Introducer OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.nutomic.syncthingandroid:id/introducer", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": false, 
+        "view_str": "d24a535dda1fddd1d7e680bef07b84be", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            940
+          ], 
+          [
+            1080, 
+            1108
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.nutomic.syncthingandroid:id/introducer[text]Introducer OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "bb8dde38049158b5a9a89203b26236cb"
+}

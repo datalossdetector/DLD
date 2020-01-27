@@ -1,0 +1,51 @@
+{
+  "stop_state": "8ad7cd79e2f24ca36db162ad6d2299eb", 
+  "event_str": "FillUIEvent(state=927cc524e8813841352bd078ec8fa5c0, views=['8196f0de7062beec261560c921b16d0a'])", 
+  "tag": "2019-06-12_202818", 
+  "event": {
+    "views_str": [
+      "8196f0de7062beec261560c921b16d0a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/search_src_text", 
+        "text": "test123test123test123test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "432*108", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/search_src_text", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "8196f0de7062beec261560c921b16d0a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            102
+          ], 
+          [
+            672, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/search_src_text[text]test123test123test123test123test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "927cc524e8813841352bd078ec8fa5c0"
+}

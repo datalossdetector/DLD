@@ -1,0 +1,127 @@
+{
+  "stop_state": "6bff74b3390d773ce2438f17189898fc", 
+  "event_str": "FillUIEvent(state=2808a359e7049fbcbd64afabbc8dda5a, views=['02aa6e37fc536083071a89a28e12b237', '543a505c0ad2ed63ec17458a1b119dea', '64073867a85b0514625e122eda7e0d74'])", 
+  "tag": "2019-06-27_014354", 
+  "event": {
+    "views_str": [
+      "02aa6e37fc536083071a89a28e12b237", 
+      "543a505c0ad2ed63ec17458a1b119dea", 
+      "64073867a85b0514625e122eda7e0d74"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/clear_pba", 
+        "text": "Pinned/blocked recent apps", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "730*96", 
+        "checked": false, 
+        "temp_id": 7, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.farmerbb.taskbar:id/clear_pba", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "02aa6e37fc536083071a89a28e12b237", 
+        "enabled": true, 
+        "bounds": [
+          [
+            175, 
+            703
+          ], 
+          [
+            905, 
+            799
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.farmerbb.taskbar:id/clear_pba[text]Pinned/blocked recent apps[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/clear_hidden_apps", 
+        "text": "Start menu \u2013 Hidden apps", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "730*96", 
+        "checked": false, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.farmerbb.taskbar:id/clear_hidden_apps", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "543a505c0ad2ed63ec17458a1b119dea", 
+        "enabled": true, 
+        "bounds": [
+          [
+            175, 
+            823
+          ], 
+          [
+            905, 
+            919
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.farmerbb.taskbar:id/clear_hidden_apps[text]Start menu \u2013 Hidden apps[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/clear_top_apps", 
+        "text": "Start menu \u2013 Top apps", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "730*96", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.farmerbb.taskbar:id/clear_top_apps", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "64073867a85b0514625e122eda7e0d74", 
+        "enabled": true, 
+        "bounds": [
+          [
+            175, 
+            943
+          ], 
+          [
+            905, 
+            1039
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.farmerbb.taskbar:id/clear_top_apps[text]Start menu \u2013 Top apps[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "2808a359e7049fbcbd64afabbc8dda5a"
+}

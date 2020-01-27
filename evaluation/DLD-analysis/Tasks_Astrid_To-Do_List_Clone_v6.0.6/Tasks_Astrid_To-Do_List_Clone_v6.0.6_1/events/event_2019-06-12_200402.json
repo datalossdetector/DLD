@@ -1,0 +1,89 @@
+{
+  "stop_state": "6eff9561a3b58e48a4972028567c499d", 
+  "event_str": "FillUIEvent(state=6714f0ed33890ba5f98ae2b86a110a3a, views=['81bdbbdad686d12336491397fac232c4', '81bdbbdad686d12336491397fac232c4'])", 
+  "tag": "2019-06-12_200402", 
+  "event": {
+    "views_str": [
+      "81bdbbdad686d12336491397fac232c4", 
+      "81bdbbdad686d12336491397fac232c4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 6, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.tasks:id/checkbox", 
+        "is_password": false, 
+        "parent": 3, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "81bdbbdad686d12336491397fac232c4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            924, 
+            108
+          ], 
+          [
+            1020, 
+            204
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.tasks:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.tasks:id/checkbox", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "81bdbbdad686d12336491397fac232c4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            924, 
+            252
+          ], 
+          [
+            1020, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.tasks:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6714f0ed33890ba5f98ae2b86a110a3a"
+}

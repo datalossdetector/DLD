@@ -1,0 +1,49 @@
+{
+  "stop_state": "0d415b759713d58d031dcc390132a7d4", 
+  "event_str": "TouchEvent(state=0d415b759713d58d031dcc390132a7d4, view=ee1d785c4d3d90028030a11cab1526fa)", 
+  "tag": "2019-06-20_040313", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "Android may stop synchronization after some time. To prevent this, turn off battery optimization.\n\nSome devices have additional task-killing apps preinstalled. You should add Syncthing to their whitelist, as well.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*464", 
+      "checked": false, 
+      "temp_id": 10, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.nutomic.syncthingandroid", 
+      "long_clickable": false, 
+      "view_str": "ee1d785c4d3d90028030a11cab1526fa", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          558
+        ], 
+        [
+          1005, 
+          1022
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]"
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "0d415b759713d58d031dcc390132a7d4"
+}

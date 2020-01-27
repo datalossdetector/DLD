@@ -1,0 +1,53 @@
+{
+  "stop_state": "60e3b3afe1cda3909e1cde8b55d542b6", 
+  "event_str": "ScrollEvent(state=d64eb1ab0eba1458d8eb4a58089c9d0a, view=094af1de270d20f9871d67cbd92b88b9, direction=UP)", 
+  "tag": "2019-06-12_161904", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.tasks:id/due_time", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        28
+      ], 
+      "size": "176*77", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 1, 
+      "content_free_signature": "[class]android.widget.Spinner[resource_id]org.tasks:id/due_time", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Spinner", 
+      "scrollable": true, 
+      "package": "org.tasks", 
+      "long_clickable": false, 
+      "view_str": "094af1de270d20f9871d67cbd92b88b9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          479, 
+          532
+        ], 
+        [
+          655, 
+          609
+        ]
+      ], 
+      "signature": "[class]android.widget.Spinner[resource_id]org.tasks:id/due_time[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "d64eb1ab0eba1458d8eb4a58089c9d0a"
+}

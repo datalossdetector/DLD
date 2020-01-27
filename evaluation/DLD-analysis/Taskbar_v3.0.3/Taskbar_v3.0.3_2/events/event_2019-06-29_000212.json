@@ -1,0 +1,241 @@
+{
+  "stop_state": "b142b1dae9675e8c07a8155ea77a03a1", 
+  "event_str": "FillUIEvent(state=00e471e15935a7fda9a0ccd830c45a07, views=['8fd85453989f12459d2caf482c1453d7', 'eb10a1f2dc09475921ee7032230417d0', 'd9a2cc61d21cc652de60180a1740505b', '6d8f8a01cd81586a7e4e36407a69865a', '3d1873b1b5305739bbab8a2be498bbe2', '24c544a65c73786699f0c2be1d1ebcda'])", 
+  "tag": "2019-06-29_000212", 
+  "event": {
+    "views_str": [
+      "8fd85453989f12459d2caf482c1453d7", 
+      "eb10a1f2dc09475921ee7032230417d0", 
+      "d9a2cc61d21cc652de60180a1740505b", 
+      "6d8f8a01cd81586a7e4e36407a69865a", 
+      "3d1873b1b5305739bbab8a2be498bbe2", 
+      "24c544a65c73786699f0c2be1d1ebcda"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/alpha", 
+        "text": "FF", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "60*73", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/alpha", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": true, 
+        "view_str": "8fd85453989f12459d2caf482c1453d7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            450, 
+            333
+          ], 
+          [
+            510, 
+            406
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/alpha[text]FF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/hex", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*73", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/hex", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": true, 
+        "view_str": "eb10a1f2dc09475921ee7032230417d0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            522, 
+            333
+          ], 
+          [
+            522, 
+            406
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/hex[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/a", 
+        "text": "255", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "90*73", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/a", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": true, 
+        "view_str": "d9a2cc61d21cc652de60180a1740505b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            415, 
+            430
+          ], 
+          [
+            505, 
+            503
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/a[text]255[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/r", 
+        "text": "103", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "90*73", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/r", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": true, 
+        "view_str": "6d8f8a01cd81586a7e4e36407a69865a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            517, 
+            430
+          ], 
+          [
+            607, 
+            503
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/r[text]103[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/g", 
+        "text": "58", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "60*73", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/g", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": true, 
+        "view_str": "3d1873b1b5305739bbab8a2be498bbe2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            619, 
+            430
+          ], 
+          [
+            679, 
+            503
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/g[text]58[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/b", 
+        "text": "183", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "90*73", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/b", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": true, 
+        "view_str": "24c544a65c73786699f0c2be1d1ebcda", 
+        "enabled": true, 
+        "bounds": [
+          [
+            691, 
+            430
+          ], 
+          [
+            781, 
+            503
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/b[text]183[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "00e471e15935a7fda9a0ccd830c45a07"
+}

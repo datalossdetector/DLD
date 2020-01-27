@@ -1,0 +1,51 @@
+{
+  "stop_state": "f41aca6acd44d10175b124f9dc45e106", 
+  "event_str": "FillUIEvent(state=1e26014f2a6377b17706609f5faf2309, views=['239ac6abe6f1dac75a4dfb50a7a57d24'])", 
+  "tag": "2019-06-27_075211", 
+  "event": {
+    "views_str": [
+      "239ac6abe6f1dac75a4dfb50a7a57d24"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "900*136", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.zegoggles.smssync", 
+        "long_clickable": true, 
+        "view_str": "239ac6abe6f1dac75a4dfb50a7a57d24", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            839
+          ], 
+          [
+            990, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1e26014f2a6377b17706609f5faf2309"
+}

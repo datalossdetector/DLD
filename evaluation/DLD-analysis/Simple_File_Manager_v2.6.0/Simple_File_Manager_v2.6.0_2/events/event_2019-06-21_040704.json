@@ -1,0 +1,127 @@
+{
+  "stop_state": "82b5d1821a921e39ecc00c00d55462da", 
+  "event_str": "FillUIEvent(state=8acf5114ee10b4a33dacb558349f8207, views=['f44283117249ae5f8e1ddada9d2bcc0a', '0929181c151dbc6d4bbe67a62447473e', '7e71e3190f3b612529c57024c02d30ad'])", 
+  "tag": "2019-06-21_040704", 
+  "event": {
+    "views_str": [
+      "f44283117249ae5f8e1ddada9d2bcc0a", 
+      "0929181c151dbc6d4bbe67a62447473e", 
+      "7e71e3190f3b612529c57024c02d30ad"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/item_name", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*120", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/item_name", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": true, 
+        "view_str": "f44283117249ae5f8e1ddada9d2bcc0a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            724
+          ], 
+          [
+            1005, 
+            844
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/item_name[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/dialog_radio_directory", 
+        "text": "Folder", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*96", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/dialog_radio_directory", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "0929181c151dbc6d4bbe67a62447473e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            892
+          ], 
+          [
+            1005, 
+            988
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/dialog_radio_directory[text]Folder[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/dialog_radio_file", 
+        "text": "File", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*96", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/dialog_radio_file", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "7e71e3190f3b612529c57024c02d30ad", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1012
+          ], 
+          [
+            1005, 
+            1108
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/dialog_radio_file[text]File[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "8acf5114ee10b4a33dacb558349f8207"
+}

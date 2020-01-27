@@ -1,0 +1,49 @@
+{
+  "stop_state": "c07e45781a3de76da316657046a61a53", 
+  "event_str": "TouchEvent(state=c07e45781a3de76da316657046a61a53, view=18ede51a6dff9ce0deb1230e8f8abdb5)", 
+  "tag": "2019-06-27_091223", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "You need to set SMS Backup+ as your default SMS app during the restore operation. After completion you will be prompted to change it back to the original setting. Any incoming SMS messages during restore will get delivered as usual but won't generate notifications.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*464", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 13, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.zegoggles.smssync", 
+      "long_clickable": false, 
+      "view_str": "18ede51a6dff9ce0deb1230e8f8abdb5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          695
+        ], 
+        [
+          1005, 
+          1159
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]"
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "c07e45781a3de76da316657046a61a53"
+}

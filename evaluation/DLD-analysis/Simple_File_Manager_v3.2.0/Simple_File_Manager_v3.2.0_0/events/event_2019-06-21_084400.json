@@ -1,0 +1,51 @@
+{
+  "stop_state": "2f434daff61ac99d5c75198c118338ba", 
+  "event_str": "FillUIEvent(state=451767f93f8b233208c98a17c8d40e4e, views=['b1e58df9946d686b5213703012d25e63'])", 
+  "tag": "2019-06-21_084400", 
+  "event": {
+    "views_str": [
+      "b1e58df9946d686b5213703012d25e63"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/search_src_text", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "624*108", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/search_src_text", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": true, 
+        "view_str": "b1e58df9946d686b5213703012d25e63", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            102
+          ], 
+          [
+            816, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/search_src_text[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "451767f93f8b233208c98a17c8d40e4e"
+}

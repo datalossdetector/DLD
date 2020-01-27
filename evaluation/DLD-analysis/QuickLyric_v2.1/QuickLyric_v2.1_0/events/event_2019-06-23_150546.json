@@ -1,0 +1,127 @@
+{
+  "stop_state": "e04c9e513194c53ee21302676ce2e739", 
+  "event_str": "FillUIEvent(state=43f7817810c6b43344f837b255b3c1ed, views=['1dcc11c177c88daf1a49bfc44417fc15', 'ef2d082ed48040dbd3df34ffa8d0e30e', '1512dad88827757c08f3b3f1017ccb31'])", 
+  "tag": "2019-06-23_150546", 
+  "event": {
+    "views_str": [
+      "1dcc11c177c88daf1a49bfc44417fc15", 
+      "ef2d082ed48040dbd3df34ffa8d0e30e", 
+      "1512dad88827757c08f3b3f1017ccb31"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.geecko.QuickLyric:id/song", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "78*81", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/song", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.geecko.QuickLyric", 
+        "long_clickable": true, 
+        "view_str": "1dcc11c177c88daf1a49bfc44417fc15", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            414
+          ], 
+          [
+            114, 
+            495
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/song[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.geecko.QuickLyric:id/artist", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "78*65", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/artist", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.geecko.QuickLyric", 
+        "long_clickable": true, 
+        "view_str": "ef2d082ed48040dbd3df34ffa8d0e30e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            496
+          ], 
+          [
+            114, 
+            561
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/artist[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.geecko.QuickLyric:id/searchTextView", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/searchTextView", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.geecko.QuickLyric", 
+        "long_clickable": true, 
+        "view_str": "1512dad88827757c08f3b3f1017ccb31", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            72
+          ], 
+          [
+            1080, 
+            240
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/searchTextView[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "43f7817810c6b43344f837b255b3c1ed"
+}

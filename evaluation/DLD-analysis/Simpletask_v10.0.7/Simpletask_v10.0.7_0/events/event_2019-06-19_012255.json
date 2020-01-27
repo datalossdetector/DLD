@@ -1,0 +1,51 @@
+{
+  "stop_state": "4517f201783cfd7fc77aa94bd63b7981", 
+  "event_str": "FillUIEvent(state=eda69fdc3551e03a807dcd6acc25ae86, views=['7e04060c00c3813a02911fd8aa00d723'])", 
+  "tag": "2019-06-19_012255", 
+  "event": {
+    "views_str": [
+      "7e04060c00c3813a02911fd8aa00d723"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/taskText", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*1224", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/taskText", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": true, 
+        "view_str": "7e04060c00c3813a02911fd8aa00d723", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            240
+          ], 
+          [
+            1080, 
+            1464
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/taskText[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "eda69fdc3551e03a807dcd6acc25ae86"
+}

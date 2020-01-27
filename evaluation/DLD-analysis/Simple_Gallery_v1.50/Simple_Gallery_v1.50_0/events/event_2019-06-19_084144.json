@@ -1,0 +1,89 @@
+{
+  "stop_state": "3501ee12201f09388707aa1c3a68a052", 
+  "event_str": "FillUIEvent(state=93a346af9017f8654b1a6d061f1d3219, views=['745b01c9f8c82b773e56d781705996d3', '19dee010b447df61618ffd459520025f'])", 
+  "tag": "2019-06-19_084144", 
+  "event": {
+    "views_str": [
+      "745b01c9f8c82b773e56d781705996d3", 
+      "19dee010b447df61618ffd459520025f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.gallery:id/file_name", 
+        "text": "files_mastodon_social_accounts_h", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "834*120", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.gallery:id/file_name", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.gallery", 
+        "long_clickable": true, 
+        "view_str": "745b01c9f8c82b773e56d781705996d3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            763
+          ], 
+          [
+            957, 
+            883
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.gallery:id/file_name[text]files_mastodon_social_accounts_h[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.gallery:id/file_extension", 
+        "text": "png", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "834*120", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.gallery:id/file_extension", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.gallery", 
+        "long_clickable": true, 
+        "view_str": "19dee010b447df61618ffd459520025f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            988
+          ], 
+          [
+            957, 
+            1108
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.gallery:id/file_extension[text]png[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "93a346af9017f8654b1a6d061f1d3219"
+}

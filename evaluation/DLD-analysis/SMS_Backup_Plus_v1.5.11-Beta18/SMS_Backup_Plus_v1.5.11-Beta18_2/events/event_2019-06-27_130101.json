@@ -1,0 +1,50 @@
+{
+  "stop_state": "e66f9789ffe8b454aac0f1906d10e5ba", 
+  "event_str": "LongTouchEvent(state=e66f9789ffe8b454aac0f1906d10e5ba, view=d524dcf1eaae6bde104f03ded8966e11, duration=2000)", 
+  "tag": "2019-06-27_130101", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 3, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "900*136", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.zegoggles.smssync", 
+      "long_clickable": true, 
+      "view_str": "d524dcf1eaae6bde104f03ded8966e11", 
+      "enabled": true, 
+      "bounds": [
+        [
+          90, 
+          940
+        ], 
+        [
+          990, 
+          1076
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "e66f9789ffe8b454aac0f1906d10e5ba"
+}

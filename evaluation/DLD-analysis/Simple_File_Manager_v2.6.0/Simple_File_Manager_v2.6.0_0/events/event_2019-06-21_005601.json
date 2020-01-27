@@ -1,0 +1,127 @@
+{
+  "stop_state": "f58801384c0e3f17a76e98afe4c795d9", 
+  "event_str": "FillUIEvent(state=4be34fdc8a24b00fdafeb24784902a18, views=['f03c035731272ef68758ca59e289ac0f', '3dead12cb94697779ccdf089aedd3380', '88afc9dc47247daa92977e6aca9765f4'])", 
+  "tag": "2019-06-21_005601", 
+  "event": {
+    "views_str": [
+      "f03c035731272ef68758ca59e289ac0f", 
+      "3dead12cb94697779ccdf089aedd3380", 
+      "88afc9dc47247daa92977e6aca9765f4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/DCIM/.thumbnails", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "f03c035731272ef68758ca59e289ac0f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            722
+          ], 
+          [
+            1005, 
+            875
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0/DCIM/.thumbnails[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/diary hello world hello world", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*202", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "3dead12cb94697779ccdf089aedd3380", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            875
+          ], 
+          [
+            1005, 
+            1077
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0/diary hello world hello world[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/DCIM/Camera", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": true, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "88afc9dc47247daa92977e6aca9765f4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1077
+          ], 
+          [
+            1005, 
+            1230
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0/DCIM/Camera[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "4be34fdc8a24b00fdafeb24784902a18"
+}

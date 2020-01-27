@@ -1,0 +1,127 @@
+{
+  "stop_state": "c1867dc86e3fd03b015aa415a5ca1424", 
+  "event_str": "FillUIEvent(state=617ddfe18e4f74d6c7f716fa02fe939d, views=['03c80314774d6d86cc76e354934d39da', '3c9ec0dcc75919dfe0ba4ae5feec99c0', '432a6058a7eec2b7957eee9f532386cc'])", 
+  "tag": "2019-06-21_074213", 
+  "event": {
+    "views_str": [
+      "03c80314774d6d86cc76e354934d39da", 
+      "3c9ec0dcc75919dfe0ba4ae5feec99c0", 
+      "432a6058a7eec2b7957eee9f532386cc"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/Android/data/com.android.camera2", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*202", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "03c80314774d6d86cc76e354934d39da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            722
+          ], 
+          [
+            1005, 
+            924
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/Android/data", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "3c9ec0dcc75919dfe0ba4ae5feec99c0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            924
+          ], 
+          [
+            1005, 
+            1077
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0/Android/data[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/Android", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "432a6058a7eec2b7957eee9f532386cc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1077
+          ], 
+          [
+            1005, 
+            1230
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0/Android[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "617ddfe18e4f74d6c7f716fa02fe939d"
+}

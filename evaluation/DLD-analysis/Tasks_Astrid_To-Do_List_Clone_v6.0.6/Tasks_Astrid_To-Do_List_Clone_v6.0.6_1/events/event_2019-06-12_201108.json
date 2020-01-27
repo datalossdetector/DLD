@@ -1,0 +1,89 @@
+{
+  "stop_state": "6b40eff2fccb0d8d430934429d7c84b5", 
+  "event_str": "FillUIEvent(state=d32f2ba930223a17e10bfaf113c5d870, views=['55cf4ae92f14b4f58032fb3cbd9e3694', '351cc3948819aea1c61655b7f805b56c'])", 
+  "tag": "2019-06-12_201108", 
+  "event": {
+    "views_str": [
+      "55cf4ae92f14b4f58032fb3cbd9e3694", 
+      "351cc3948819aea1c61655b7f805b56c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/text1", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "762*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/text1", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "55cf4ae92f14b4f58032fb3cbd9e3694", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            714
+          ], 
+          [
+            885, 
+            850
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/text1[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/text1", 
+        "text": "Create new tag", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "762*136", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/text1", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "351cc3948819aea1c61655b7f805b56c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            850
+          ], 
+          [
+            885, 
+            986
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/text1[text]Create new tag[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d32f2ba930223a17e10bfaf113c5d870"
+}

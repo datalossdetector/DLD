@@ -1,0 +1,49 @@
+{
+  "stop_state": "3f7e9e817fff75553c0d95807c5870bc", 
+  "event_str": "TouchEvent(state=4c7192ae88fbb17cb2126a4b3791ab96, view=fff6cba5ce7f225554d8ec0c0eacd45d)", 
+  "tag": "2019-07-08_221714", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "720*144", 
+      "checked": true, 
+      "temp_id": 3, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.CheckedTextView", 
+      "scrollable": false, 
+      "package": "com.iskrembilen.quasseldroid.debug", 
+      "long_clickable": false, 
+      "view_str": "fff6cba5ce7f225554d8ec0c0eacd45d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          501
+        ], 
+        [
+          792, 
+          645
+        ]
+      ], 
+      "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]test123[enabled,checked,]"
+    }, 
+    "id": 2, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4c7192ae88fbb17cb2126a4b3791ab96"
+}

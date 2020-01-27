@@ -1,0 +1,50 @@
+{
+  "stop_state": "3203a7e4d5d47f480c2b87ab97709638", 
+  "event_str": "LongTouchEvent(state=ba5fd2f95daea25c2c0f99c07b265551, view=6f5a88480dc51ea09f60fdb83bd8b684, duration=2000)", 
+  "tag": "2019-06-20_060028", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "2", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*144", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.nutomic.syncthingandroid", 
+      "long_clickable": true, 
+      "view_str": "6f5a88480dc51ea09f60fdb83bd8b684", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          835
+        ], 
+        [
+          1005, 
+          979
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]2[enabled,,]"
+    }
+  }, 
+  "start_state": "ba5fd2f95daea25c2c0f99c07b265551"
+}

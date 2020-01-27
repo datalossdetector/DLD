@@ -1,0 +1,50 @@
+{
+  "stop_state": "778d78728c437449c2474131c3b9c027", 
+  "event_str": "LongTouchEvent(state=778d78728c437449c2474131c3b9c027, view=28eda29aac52fe9f2997d5516e76bb79, duration=2000)", 
+  "tag": "2019-06-20_070513", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.nutomic.syncthingandroid:id/log", 
+      "text": "--------- beginning of main\n--------- beginning of crash\n[DNQJP] 01:30:22 INFO: Ready to synchronize \"HelloWorldHelloWHelloWorldorld\" (HelloWorldHelloWorld) (readonly)\n[DNQJP] 01:30:22 INFO: Using discovery server https://discovery-v4-2.syncthing.net/v2/?id=DVU36WY-H3LVZHW-E6LLFRE-YAFN5EL-HILWRYP-OC2M47J-Z4PE62Y-ADIBDQC\n[DNQJP] 01:30:22 INFO: TCP listener ([::]:22000) starting\n[DNQJP] 01:30:22 INFO: Using discovery server https://discovery-v4-3.syncthing.net/v2/?id=VK6HNJ3-VVMM66S-HRVWSCR-IXEHL2H-U4AQ4MW-UCPQBWX-J2L2UBK-NVZRDQZ\n[DNQJP] 01:30:22 INFO: Using discovery server https://discovery-v4-4.syncthing.net/v2/?id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW\n[DNQJP] 01:30:22 INFO: Using discovery server https://discovery-v6-2.syncthing.net/v2/?id=DVU36WY-H3LVZHW-E6LLFRE-YAFN5EL-HILWRYP-OC2M47J-Z4PE62Y-ADIBDQC\n[DNQJP] 01:30:22 INFO: Using discovery server https://discovery-v6-3.syncthing.net/v2/?id=VK6HNJ3-VVMM66S-HRVWSCR-IXEHL2H-U4AQ4MW-UCPQBWX-J2L2UBK-NVZRDQZ\n[DNQJP] 01:30:22 INFO: Using discovery server https://discovery-v6-4.syncthing.net/v2/?id=LYXKCHX-VI3NYZR-ALCJBHF-WMZYSPK-QG6QJA3-MPFYMSO-U56GTUK-NA2MIAW\nUsing DNS servers: [8.8.8.8:53 8.8.4.4:53 4.2.2.1:53]\n[DNQJP] 01:30:22 INFO: c.S.listenerSupervisor: Failed service 'dynamic+https://relays.syncthing.net/endpoint' (1.000000 failures of 2.000000), restarting: true, error: \"{dynamic+https://relays.syncthing.net/endpoint dynamic+https://relays.syncthing.net/endpoint} returned unexpectedly\", stacktrace: [unknown stack trace]\n[DNQJP] 01:30:22 INFO: c.S.listenerSupervisor: Failed service 'dynamic+https://relays.syncthing.net/endpoint' (1.999976 failures of 2.000000), restarting: true, error: \"{dynamic+https://relays.syncthing.net/endpoint dynamic+https://relays.syncthing.net/endpoint} returned unexpectedly\", stacktrace: [unknown stack trace]\n[DNQJP] 01:30:22 INFO: Completed initial scan (ro) of \"HelloWorldHelloWHelloWorldorld\" (HelloWorldHelloWorld)\n[DNQJP] 01:30:22 INFO: Entering the backoff state.\n[DNQJP] 01:30:22 INFO: c.S.listenerSupervisor: Failed service 'dynamic+https://relays.syncthing.net/endpoint' (2.999675 failures of 2.000000), restarting: false, error: \"{dynamic+https://relays.syncthing.net/endpoint dynamic+https://relays.syncthing.net/endpoint} returned unexpectedly\", stacktrace: [unknown stack trace]\n[DNQJP] 01:30:22 INFO: Device DNQJPH4-LIPHMNA-EAGIBDV-WAEEZ5B-FA24ZYO-2HIFBWH-2FBJLRW-HRL3PAX is \"Google Nexus 5\" at [dynamic]\n[DNQJP] 01:30:22 INFO: GUI and API listening on 127.0.0.1:8384\n[DNQJP] 01:30:22 INFO: Access the GUI via the following URL: https://127.0.0.1:8384/\nFailed to set priority (Operation not permitted)\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1536", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.nutomic.syncthingandroid:id/log", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.nutomic.syncthingandroid", 
+      "long_clickable": true, 
+      "view_str": "28eda29aac52fe9f2997d5516e76bb79", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          240
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.nutomic.syncthingandroid:id/log[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "778d78728c437449c2474131c3b9c027"
+}

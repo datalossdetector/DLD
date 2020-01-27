@@ -1,0 +1,50 @@
+{
+  "stop_state": "66943e9ac969d7144d354cd90b85db39", 
+  "event_str": "SetTextEvent(state=faf66fd98c4784ea82cf73c6a5f90b66, view=077987399954b889f17550a3b2936064, text=HelloWorld)", 
+  "tag": "2019-06-23_143819", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.geecko.QuickLyric:id/searchTextView", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*168", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/searchTextView", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.geecko.QuickLyric", 
+      "long_clickable": true, 
+      "view_str": "077987399954b889f17550a3b2936064", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          72
+        ], 
+        [
+          1080, 
+          240
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.geecko.QuickLyric:id/searchTextView[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "faf66fd98c4784ea82cf73c6a5f90b66"
+}

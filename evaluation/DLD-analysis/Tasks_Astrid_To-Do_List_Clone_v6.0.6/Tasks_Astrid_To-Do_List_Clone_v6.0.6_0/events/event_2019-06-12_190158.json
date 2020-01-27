@@ -1,0 +1,279 @@
+{
+  "stop_state": "47a851414aa7ea27128bf1af9c2fe426", 
+  "event_str": "FillUIEvent(state=47a851414aa7ea27128bf1af9c2fe426, views=['8cdc9bdef3033363897409266634750e', '523901d98a8f627f811c1597f16dc4e3', 'f86971296335aee1d662938de2ad0640', 'da2f17f13c0aa1d5c50d0572cc882e73', 'd1009e33454228eda7f9e6fe4c2d050b', '8bd9bebfe82da01b44e9efcd4823b4a7', '88b2a4f6855eb2294ee4b02b2da7fd00'])", 
+  "tag": "2019-06-12_190158", 
+  "event": {
+    "views_str": [
+      "8cdc9bdef3033363897409266634750e", 
+      "523901d98a8f627f811c1597f16dc4e3", 
+      "f86971296335aee1d662938de2ad0640", 
+      "da2f17f13c0aa1d5c50d0572cc882e73", 
+      "d1009e33454228eda7f9e6fe4c2d050b", 
+      "8bd9bebfe82da01b44e9efcd4823b4a7", 
+      "88b2a4f6855eb2294ee4b02b2da7fd00"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/title", 
+        "text": "test123test123testest123test123test123test123testest123HelloWorldtest123test12HelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldtest123HelloWorldtest123test1233test123test123test123test123t123test123t123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "864*514", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/title", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "8cdc9bdef3033363897409266634750e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            216, 
+            291
+          ], 
+          [
+            1080, 
+            805
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/title[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/priority_none", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "118*-21", 
+        "checked": true, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_none", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "523901d98a8f627f811c1597f16dc4e3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            560, 
+            1390
+          ], 
+          [
+            678, 
+            1369
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_none[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/priority_low", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "118*-21", 
+        "checked": false, 
+        "temp_id": 48, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_low", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "f86971296335aee1d662938de2ad0640", 
+        "enabled": true, 
+        "bounds": [
+          [
+            678, 
+            1390
+          ], 
+          [
+            796, 
+            1369
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_low[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/priority_medium", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "118*-21", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_medium", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "da2f17f13c0aa1d5c50d0572cc882e73", 
+        "enabled": true, 
+        "bounds": [
+          [
+            796, 
+            1390
+          ], 
+          [
+            914, 
+            1369
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_medium[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/priority_high", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "118*-21", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_high", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "d1009e33454228eda7f9e6fe4c2d050b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            914, 
+            1390
+          ], 
+          [
+            1032, 
+            1369
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]org.tasks:id/priority_high[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/notes", 
+        "text": "test123test123testtest123test123test123test123test123test123123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "816*-1430", 
+        "checked": false, 
+        "temp_id": 81, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/notes", 
+        "is_password": false, 
+        "parent": 79, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "8bd9bebfe82da01b44e9efcd4823b4a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            216, 
+            2799
+          ], 
+          [
+            1032, 
+            1369
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/notes[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/commentField", 
+        "text": "/home/sal/Desktop/2250events/k9_0ep_reports_VM/k900.html\n/home/sal/Desktop/2250events/k9_0ep_reports_VM/k901.html\n/home/sal/Desktop/2250events/k9_0ep_reports_VM/k902.html", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "789*407", 
+        "checked": false, 
+        "temp_id": 119, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/commentField", 
+        "is_password": false, 
+        "parent": 117, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "88b2a4f6855eb2294ee4b02b2da7fd00", 
+        "enabled": true, 
+        "bounds": [
+          [
+            119, 
+            1369
+          ], 
+          [
+            908, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/commentField[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "47a851414aa7ea27128bf1af9c2fe426"
+}

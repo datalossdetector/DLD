@@ -1,0 +1,203 @@
+{
+  "stop_state": "5af1606ad5af24d88d16be2fa2936bea", 
+  "event_str": "FillUIEvent(state=93cc3dca7994977588dbd0af94f15864, views=['a8ad712475a7d32aa5bc3dd7fea563ac', '14afd85b22160bbbfd72cfa4ea698b0e', '2281c136ec83d77da5d24a8589704ade', '79208d014a07685df97b7eb467903b90', '48581e7696f295e4c1b249ae18fe7d98'])", 
+  "tag": "2019-06-16_113803", 
+  "event": {
+    "views_str": [
+      "a8ad712475a7d32aa5bc3dd7fea563ac", 
+      "14afd85b22160bbbfd72cfa4ea698b0e", 
+      "2281c136ec83d77da5d24a8589704ade", 
+      "79208d014a07685df97b7eb467903b90", 
+      "48581e7696f295e4c1b249ae18fe7d98"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Light", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "a8ad712475a7d32aa5bc3dd7fea563ac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            559
+          ], 
+          [
+            1005, 
+            712
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Light[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Dark", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": true, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "14afd85b22160bbbfd72cfa4ea698b0e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            712
+          ], 
+          [
+            1005, 
+            865
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Dark[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Dark red", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "2281c136ec83d77da5d24a8589704ade", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            865
+          ], 
+          [
+            1005, 
+            1018
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Dark red[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Black & White", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "79208d014a07685df97b7eb467903b90", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1018
+          ], 
+          [
+            1005, 
+            1171
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Black & White[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Custom", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "48581e7696f295e4c1b249ae18fe7d98", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1171
+          ], 
+          [
+            1005, 
+            1324
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Custom[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "93cc3dca7994977588dbd0af94f15864"
+}

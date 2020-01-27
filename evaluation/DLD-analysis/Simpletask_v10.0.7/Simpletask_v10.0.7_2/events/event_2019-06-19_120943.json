@@ -1,0 +1,50 @@
+{
+  "stop_state": "e84cce89a94d9a63696367827d678b97", 
+  "event_str": "SetTextEvent(state=2e95ed22dd269650df03a2caaf4a2286, view=48a7324a05a4f608254eeecbc0126df9, text=HelloWorld)", 
+  "tag": "2019-06-19_120943", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": " +background", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*136", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "nl.mpcjanssen.simpletask.debug", 
+      "long_clickable": true, 
+      "view_str": "48a7324a05a4f608254eeecbc0126df9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          839
+        ], 
+        [
+          945, 
+          975
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text] +background[enabled,,]"
+    }
+  }, 
+  "start_state": "2e95ed22dd269650df03a2caaf4a2286"
+}

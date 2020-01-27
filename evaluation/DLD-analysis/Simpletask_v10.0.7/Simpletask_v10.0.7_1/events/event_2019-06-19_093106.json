@@ -1,0 +1,50 @@
+{
+  "stop_state": "4693e3cff8e2abcded401d0f13ffece9", 
+  "event_str": "SetTextEvent(state=d5c0a7ffa27f3b3c4d14a3ec89cb2016, view=5557b0fa4d7adfa586fa053301e02f3e, text=HelloWorld)", 
+  "tag": "2019-06-19_093106", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "nl.mpcjanssen.simpletask.debug:id/taskText", 
+      "text": " t:2019-06-19", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*1224", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/taskText", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "nl.mpcjanssen.simpletask.debug", 
+      "long_clickable": true, 
+      "view_str": "5557b0fa4d7adfa586fa053301e02f3e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          240
+        ], 
+        [
+          1080, 
+          1464
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/taskText[text] t:2019-06-19[enabled,,]"
+    }
+  }, 
+  "start_state": "d5c0a7ffa27f3b3c4d14a3ec89cb2016"
+}

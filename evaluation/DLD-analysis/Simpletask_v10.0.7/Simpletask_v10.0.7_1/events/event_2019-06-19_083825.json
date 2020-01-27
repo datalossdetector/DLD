@@ -1,0 +1,51 @@
+{
+  "stop_state": "4accd30d883bb65da2c45ce23e61e8fa", 
+  "event_str": "FillUIEvent(state=3c4ed0f736bc1ac7ed66ed99bcdf86f9, views=['d68a4233a8adbed2e3e4e0ae4d775eb6'])", 
+  "tag": "2019-06-19_083825", 
+  "event": {
+    "views_str": [
+      "d68a4233a8adbed2e3e4e0ae4d775eb6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/taskText", 
+        "text": "2019-06-19 content://nl.mpcjanssen.simpletask.debug.provider.cloudless/TodoFiles_v1.db  +background", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*1224", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/taskText", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": true, 
+        "view_str": "d68a4233a8adbed2e3e4e0ae4d775eb6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            240
+          ], 
+          [
+            1080, 
+            1464
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]nl.mpcjanssen.simpletask.debug:id/taskText[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3c4ed0f736bc1ac7ed66ed99bcdf86f9"
+}

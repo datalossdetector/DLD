@@ -1,0 +1,51 @@
+{
+  "stop_state": "281b537a6d60b6d5b2344e63cc22e552", 
+  "event_str": "FillUIEvent(state=a7ae02d4cae09d0dbccd0b45b625eba9, views=['9912d0c57d012516db8e3306241904a6'])", 
+  "tag": "2019-06-19_152725", 
+  "event": {
+    "views_str": [
+      "9912d0c57d012516db8e3306241904a6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/checkBox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "9912d0c57d012516db8e3306241904a6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            462
+          ], 
+          [
+            96, 
+            558
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/checkBox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "a7ae02d4cae09d0dbccd0b45b625eba9"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "d4388befb569cd2ce688e2ba6f4025a5", 
+  "event_str": "SetTextEvent(state=0e7ea6635172449c2cfecaa8a454e49a, view=e071d1d58ad3485db9880c2ccba1dc75, text=HelloWorld)", 
+  "tag": "2019-06-12_210103", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 44, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.tasks:id/title", 
+      "text": "(No title)test123test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "864*73", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/title", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.tasks", 
+      "long_clickable": true, 
+      "view_str": "e071d1d58ad3485db9880c2ccba1dc75", 
+      "enabled": true, 
+      "bounds": [
+        [
+          216, 
+          291
+        ], 
+        [
+          1080, 
+          364
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/title[text](No title)test123test123[enabled,,]"
+    }
+  }, 
+  "start_state": "0e7ea6635172449c2cfecaa8a454e49a"
+}

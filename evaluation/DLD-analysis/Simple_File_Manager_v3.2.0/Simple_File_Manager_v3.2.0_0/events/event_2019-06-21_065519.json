@@ -1,0 +1,203 @@
+{
+  "stop_state": "7bbd96231f3edb94d673db890a2fa0b7", 
+  "event_str": "FillUIEvent(state=bba72f3e346adf30b79961240f0835e1, views=['6485c903b087aeb88ea0e78b7e9c264c', '03cee7866605dc0e26b6a411d6d281d7', 'f154316e1c42fe2299e8b9c9b50ae81f', '45427514b5ca69730a15ef1f310bf401', '0af1b47c067de32a869c2701dad4161c'])", 
+  "tag": "2019-06-21_065519", 
+  "event": {
+    "views_str": [
+      "6485c903b087aeb88ea0e78b7e9c264c", 
+      "03cee7866605dc0e26b6a411d6d281d7", 
+      "f154316e1c42fe2299e8b9c9b50ae81f", 
+      "45427514b5ca69730a15ef1f310bf401", 
+      "0af1b47c067de32a869c2701dad4161c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/settings_show_hidden", 
+        "text": "Show hidden items OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*81", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_show_hidden", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "6485c903b087aeb88ea0e78b7e9c264c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            666
+          ], 
+          [
+            1032, 
+            747
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_show_hidden[text]Show hidden items OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/settings_password_protection", 
+        "text": "Password protect hidden item visibility OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*81", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_password_protection", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "03cee7866605dc0e26b6a411d6d281d7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            867
+          ], 
+          [
+            1032, 
+            948
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_password_protection[text]Password protect hidden item visibility OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/settings_keep_last_modified", 
+        "text": "Keep old last-modified value at file copy/move/rename ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*106", 
+        "checked": true, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_keep_last_modified", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "f154316e1c42fe2299e8b9c9b50ae81f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1068
+          ], 
+          [
+            1032, 
+            1174
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_keep_last_modified[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/settings_show_info_bubble", 
+        "text": "Show an info bubble at scrolling items by scrollbar dragging ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*106", 
+        "checked": true, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_show_info_bubble", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "45427514b5ca69730a15ef1f310bf401", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1294
+          ], 
+          [
+            1032, 
+            1400
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_show_info_bubble[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/settings_enable_root_access", 
+        "text": "Enable root access OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "984*81", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_enable_root_access", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "0af1b47c067de32a869c2701dad4161c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1520
+          ], 
+          [
+            1032, 
+            1601
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.filemanager:id/settings_enable_root_access[text]Enable root access OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "bba72f3e346adf30b79961240f0835e1"
+}

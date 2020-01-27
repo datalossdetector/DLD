@@ -1,0 +1,51 @@
+{
+  "stop_state": "062fa7390bd5b4f33583d350f0feb370", 
+  "event_str": "FillUIEvent(state=062fa7390bd5b4f33583d350f0feb370, views=['0fa57a8b61613926877f73a5a1ba4eed'])", 
+  "tag": "2019-06-19_231126", 
+  "event": {
+    "views_str": [
+      "0fa57a8b61613926877f73a5a1ba4eed"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "5", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*144", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "0fa57a8b61613926877f73a5a1ba4eed", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            835
+          ], 
+          [
+            1005, 
+            979
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]5[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "062fa7390bd5b4f33583d350f0feb370"
+}

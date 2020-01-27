@@ -1,0 +1,49 @@
+{
+  "stop_state": "06d76f1a3809cd607261eb6a1e64bdea", 
+  "event_str": "TouchEvent(state=06d76f1a3809cd607261eb6a1e64bdea, view=037c4361600d512886cd712351cb281d)", 
+  "tag": "2019-06-19_044415", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "[string \"test123HelloWorld\"]:1: syntax error", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "929*122", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "nl.mpcjanssen.simpletask.debug", 
+      "long_clickable": false, 
+      "view_str": "037c4361600d512886cd712351cb281d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          847
+        ], 
+        [
+          1004, 
+          969
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text][string \"test123HelloWorld\"]:1: syntax error[enabled,,]"
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "06d76f1a3809cd607261eb6a1e64bdea"
+}

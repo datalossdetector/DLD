@@ -1,0 +1,51 @@
+{
+  "stop_state": "d33542ed2f2f7b71e586c86cdd4aa83b", 
+  "event_str": "FillUIEvent(state=2e95ed22dd269650df03a2caaf4a2286, views=['48a7324a05a4f608254eeecbc0126df9'])", 
+  "tag": "2019-06-19_045056", 
+  "event": {
+    "views_str": [
+      "48a7324a05a4f608254eeecbc0126df9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": " +background", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": true, 
+        "view_str": "48a7324a05a4f608254eeecbc0126df9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            839
+          ], 
+          [
+            945, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text] +background[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "2e95ed22dd269650df03a2caaf4a2286"
+}

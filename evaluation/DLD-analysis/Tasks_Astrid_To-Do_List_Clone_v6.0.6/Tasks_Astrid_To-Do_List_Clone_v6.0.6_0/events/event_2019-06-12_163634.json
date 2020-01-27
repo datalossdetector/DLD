@@ -1,0 +1,51 @@
+{
+  "stop_state": "3e21f17dc6b8fe45ce90bb47517df66f", 
+  "event_str": "FillUIEvent(state=ff49b8cdac8358bf7b326e3b7878fdf3, views=['57922398743458f4871f51058fa723c3'])", 
+  "tag": "2019-06-12_163634", 
+  "event": {
+    "views_str": [
+      "57922398743458f4871f51058fa723c3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/search_src_text", 
+        "text": "Search\u2026", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "552*108", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/search_src_text", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "57922398743458f4871f51058fa723c3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            102
+          ], 
+          [
+            792, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/search_src_text[text]Search\u2026[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ff49b8cdac8358bf7b326e3b7878fdf3"
+}

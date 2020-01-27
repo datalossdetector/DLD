@@ -1,0 +1,279 @@
+{
+  "stop_state": "f0939b297f732932b35e90d197a64599", 
+  "event_str": "FillUIEvent(state=0f4d5af7af8401c31b173eeee3849ae5, views=['a048c93b7e31f2d815ffe3da1aaef3e7', '9c4290d4617ea70587a323f5d833d098', '8263a071f15f774609b415b40aa17c22', '18209ace2d18a5c1d1e46c3ff4f7d554', 'feb790b32dea80f3837e0dd1080147b9', '59ab67dec5f6f9a5db9b832f449df8fb', 'f69e64e96b01b71c57eaf37f26cdc3a7'])", 
+  "tag": "2019-06-21_095513", 
+  "event": {
+    "views_str": [
+      "a048c93b7e31f2d815ffe3da1aaef3e7", 
+      "9c4290d4617ea70587a323f5d833d098", 
+      "8263a071f15f774609b415b40aa17c22", 
+      "18209ace2d18a5c1d1e46c3ff4f7d554", 
+      "feb790b32dea80f3837e0dd1080147b9", 
+      "59ab67dec5f6f9a5db9b832f449df8fb", 
+      "f69e64e96b01b71c57eaf37f26cdc3a7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_radio_name", 
+        "text": "Name", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_name", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "a048c93b7e31f2d815ffe3da1aaef3e7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            488
+          ], 
+          [
+            1005, 
+            593
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_name[text]Name[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_radio_size", 
+        "text": "Size", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_size", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "9c4290d4617ea70587a323f5d833d098", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            593
+          ], 
+          [
+            1005, 
+            698
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_size[text]Size[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_radio_last_modified", 
+        "text": "Last modified", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_last_modified", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "8263a071f15f774609b415b40aa17c22", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            698
+          ], 
+          [
+            1005, 
+            803
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_last_modified[text]Last modified[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_radio_extension", 
+        "text": "Extension", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_extension", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "18209ace2d18a5c1d1e46c3ff4f7d554", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            803
+          ], 
+          [
+            1005, 
+            908
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_extension[text]Extension[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_radio_ascending", 
+        "text": "Ascending", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": true, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_ascending", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "feb790b32dea80f3837e0dd1080147b9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            957
+          ], 
+          [
+            1005, 
+            1062
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_ascending[text]Ascending[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_radio_descending", 
+        "text": "Descending", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_descending", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "59ab67dec5f6f9a5db9b832f449df8fb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1062
+          ], 
+          [
+            1005, 
+            1167
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_radio_descending[text]Descending[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/sorting_dialog_use_for_this_folder", 
+        "text": "Use for this folder only", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_use_for_this_folder", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "f69e64e96b01b71c57eaf37f26cdc3a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1192
+          ], 
+          [
+            1005, 
+            1345
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.simplemobiletools.filemanager:id/sorting_dialog_use_for_this_folder[text]Use for this folder only[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "0f4d5af7af8401c31b173eeee3849ae5"
+}

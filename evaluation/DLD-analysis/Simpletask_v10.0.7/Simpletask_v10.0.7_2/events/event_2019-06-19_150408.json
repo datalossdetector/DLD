@@ -1,0 +1,50 @@
+{
+  "stop_state": "9634d90545a86b5e6fb42302bd21aa7b", 
+  "event_str": "LongTouchEvent(state=9634d90545a86b5e6fb42302bd21aa7b, view=d7f14280aa9f247b81ea4d179e64d002, duration=2000)", 
+  "tag": "2019-06-19_150408", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "312*108", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "nl.mpcjanssen.simpletask.debug", 
+      "long_clickable": true, 
+      "view_str": "d7f14280aa9f247b81ea4d179e64d002", 
+      "enabled": true, 
+      "bounds": [
+        [
+          360, 
+          100
+        ], 
+        [
+          672, 
+          208
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "9634d90545a86b5e6fb42302bd21aa7b"
+}

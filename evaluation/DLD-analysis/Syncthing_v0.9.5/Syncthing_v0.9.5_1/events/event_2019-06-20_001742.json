@@ -1,0 +1,50 @@
+{
+  "stop_state": "fd71310f3172466047fdfea8fced1b1d", 
+  "event_str": "SetTextEvent(state=ed45beceda1017535774744a06da9024, view=51ee09b093327dd6d8af2f98454d3787, text=HelloWorld)", 
+  "tag": "2019-06-20_001742", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.nutomic.syncthingandroid:id/id", 
+      "text": "Folder ID", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*168", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/id", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.nutomic.syncthingandroid", 
+      "long_clickable": true, 
+      "view_str": "51ee09b093327dd6d8af2f98454d3787", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          433
+        ], 
+        [
+          1080, 
+          601
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/id[text]Folder ID[enabled,,]"
+    }
+  }, 
+  "start_state": "ed45beceda1017535774744a06da9024"
+}

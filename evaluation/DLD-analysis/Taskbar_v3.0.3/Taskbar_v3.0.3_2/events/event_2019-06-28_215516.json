@@ -1,0 +1,165 @@
+{
+  "stop_state": "fbf1ee3aa7332fd48181eae4627eab0b", 
+  "event_str": "FillUIEvent(state=dbba7705c77aff8da7c887ff1c90ab6c, views=['1095500c153ee24a74346bf5a36ed654', '43791466464cd1ad26a837fe5bd788b6', 'd3e488b631fc54f1b9aa89138c27d33c', '43791466464cd1ad26a837fe5bd788b6'])", 
+  "tag": "2019-06-28_215516", 
+  "event": {
+    "views_str": [
+      "1095500c153ee24a74346bf5a36ed654", 
+      "43791466464cd1ad26a837fe5bd788b6", 
+      "d3e488b631fc54f1b9aa89138c27d33c", 
+      "43791466464cd1ad26a837fe5bd788b6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.farmerbb.taskbar:id/the_switch", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.farmerbb.taskbar:id/the_switch", 
+        "is_password": false, 
+        "parent": 5, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "1095500c153ee24a74346bf5a36ed654", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            115
+          ], 
+          [
+            1032, 
+            196
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.farmerbb.taskbar:id/the_switch[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "43791466464cd1ad26a837fe5bd788b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            1193
+          ], 
+          [
+            1032, 
+            1289
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 39, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "d3e488b631fc54f1b9aa89138c27d33c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            1354
+          ], 
+          [
+            1032, 
+            1450
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 45, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.farmerbb.taskbar", 
+        "long_clickable": false, 
+        "view_str": "43791466464cd1ad26a837fe5bd788b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            1544
+          ], 
+          [
+            1032, 
+            1640
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "dbba7705c77aff8da7c887ff1c90ab6c"
+}

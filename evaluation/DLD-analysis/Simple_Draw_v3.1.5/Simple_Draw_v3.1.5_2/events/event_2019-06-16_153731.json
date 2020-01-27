@@ -1,0 +1,127 @@
+{
+  "stop_state": "b5836477eb9295f3d075421a5ee06a50", 
+  "event_str": "FillUIEvent(state=15c7e093aa42ee447ffff6b71e8fdacf, views=['aeb8a04dc25720cc4334cfa00734253d', '79ec44993cde4666986de54deb5a3531', '0f652ce8b3d4fba6691bb6e23c6bfb94'])", 
+  "tag": "2019-06-16_153731", 
+  "event": {
+    "views_str": [
+      "aeb8a04dc25720cc4334cfa00734253d", 
+      "79ec44993cde4666986de54deb5a3531", 
+      "0f652ce8b3d4fba6691bb6e23c6bfb94"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/settings_avoid_whats_new", 
+        "text": "Avoid showing What's New on startup OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1008*81", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.draw:id/settings_avoid_whats_new", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "aeb8a04dc25720cc4334cfa00734253d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            489
+          ], 
+          [
+            1044, 
+            570
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.draw:id/settings_avoid_whats_new[text]Avoid showing What's New on startup OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/settings_prevent_phone_from_sleeping", 
+        "text": "Prevent phone from sleeping while the app is in foreground ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1008*106", 
+        "checked": true, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.draw:id/settings_prevent_phone_from_sleeping", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "79ec44993cde4666986de54deb5a3531", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            690
+          ], 
+          [
+            1044, 
+            796
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.draw:id/settings_prevent_phone_from_sleeping[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/settings_show_brush_size", 
+        "text": "Show brush size tool OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1008*81", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.draw:id/settings_show_brush_size", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "0f652ce8b3d4fba6691bb6e23c6bfb94", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            916
+          ], 
+          [
+            1044, 
+            997
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.simplemobiletools.draw:id/settings_show_brush_size[text]Show brush size tool OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "15c7e093aa42ee447ffff6b71e8fdacf"
+}

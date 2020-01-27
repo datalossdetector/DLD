@@ -1,0 +1,50 @@
+{
+  "stop_state": "dc4ed53d31d4946e05a55bcef8fd24b5", 
+  "event_str": "SetTextEvent(state=7f084c16e7fccf03f83d0bdb1e7a2909, view=54c2d8926072d219d7b9f6df0af5d9c0, text=HelloWorld)", 
+  "tag": "2019-06-12_211320", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 45, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.tasks:id/commentField", 
+      "text": "Add a comment\u2026", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "912*65", 
+      "checked": false, 
+      "temp_id": 117, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/commentField", 
+      "is_password": false, 
+      "parent": 115, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.tasks", 
+      "long_clickable": true, 
+      "view_str": "54c2d8926072d219d7b9f6df0af5d9c0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          120, 
+          1668
+        ], 
+        [
+          1032, 
+          1733
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/commentField[text]Add a comment\u2026[enabled,,]"
+    }
+  }, 
+  "start_state": "7f084c16e7fccf03f83d0bdb1e7a2909"
+}

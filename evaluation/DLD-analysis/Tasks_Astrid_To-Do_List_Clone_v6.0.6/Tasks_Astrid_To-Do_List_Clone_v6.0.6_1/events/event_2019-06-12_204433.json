@@ -1,0 +1,51 @@
+{
+  "stop_state": "198e6d3f674608d6ff722bbdb2401c2a", 
+  "event_str": "FillUIEvent(state=129a1971dd2c9ee2ff81ab90f16aa6c4, views=['351cc3948819aea1c61655b7f805b56c'])", 
+  "tag": "2019-06-12_204433", 
+  "event": {
+    "views_str": [
+      "351cc3948819aea1c61655b7f805b56c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/text1", 
+        "text": "Create new tag", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "762*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/text1", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "351cc3948819aea1c61655b7f805b56c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            120
+          ], 
+          [
+            885, 
+            256
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/text1[text]Create new tag[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "129a1971dd2c9ee2ff81ab90f16aa6c4"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "6a3cc300b34207ac203473e51d7019f8", 
+  "event_str": "SetTextEvent(state=6a3cc300b34207ac203473e51d7019f8, view=76a99fdc2b6a068c1e690b17b0afec53, text=HelloWorld)", 
+  "tag": "2019-06-20_045937", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 12, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "4", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*144", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.nutomic.syncthingandroid", 
+      "long_clickable": true, 
+      "view_str": "76a99fdc2b6a068c1e690b17b0afec53", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          835
+        ], 
+        [
+          1005, 
+          979
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]4[enabled,,]"
+    }
+  }, 
+  "start_state": "6a3cc300b34207ac203473e51d7019f8"
+}

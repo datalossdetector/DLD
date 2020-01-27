@@ -1,0 +1,50 @@
+{
+  "stop_state": "3c7774e0e2f72564585eac203fd41336", 
+  "event_str": "LongTouchEvent(state=4828273ddc2e9fd6a93f381e9ea189bd, view=01a87c3ff8ac18b9d039d7e0e9b385fe, duration=2000)", 
+  "tag": "2019-06-19_102802", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "888*144", 
+      "checked": false, 
+      "temp_id": 23, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.CheckedTextView", 
+      "scrollable": false, 
+      "package": "nl.mpcjanssen.simpletask.debug", 
+      "long_clickable": true, 
+      "view_str": "01a87c3ff8ac18b9d039d7e0e9b385fe", 
+      "enabled": true, 
+      "bounds": [
+        [
+          192, 
+          240
+        ], 
+        [
+          1080, 
+          384
+        ]
+      ], 
+      "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "4828273ddc2e9fd6a93f381e9ea189bd"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "90741273962a8810702b98fb396bfc1e", 
+  "event_str": "FillUIEvent(state=90741273962a8810702b98fb396bfc1e, views=['ce2ccc8b3d483d307b1a209c2820f989'])", 
+  "tag": "2019-06-19_234639", 
+  "event": {
+    "views_str": [
+      "ce2ccc8b3d483d307b1a209c2820f989"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*37", 
+        "checked": true, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.tobiasbielefeld.solitaire", 
+        "long_clickable": false, 
+        "view_str": "ce2ccc8b3d483d307b1a209c2820f989", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1650, 
+            1043
+          ], 
+          [
+            1746, 
+            1080
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "90741273962a8810702b98fb396bfc1e"
+}

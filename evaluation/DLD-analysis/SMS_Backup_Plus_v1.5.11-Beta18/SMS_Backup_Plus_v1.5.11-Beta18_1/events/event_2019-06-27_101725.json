@@ -1,0 +1,51 @@
+{
+  "stop_state": "e01a77e7b50d018372b9da38c49f0205", 
+  "event_str": "FillUIEvent(state=e01a77e7b50d018372b9da38c49f0205, views=['63ca64d754e85da3a529c0d0e8c4f2aa'])", 
+  "tag": "2019-06-27_101725", 
+  "event": {
+    "views_str": [
+      "63ca64d754e85da3a529c0d0e8c4f2aa"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 41, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.zegoggles.smssync", 
+        "long_clickable": false, 
+        "view_str": "63ca64d754e85da3a529c0d0e8c4f2aa", 
+        "enabled": false, 
+        "bounds": [
+          [
+            906, 
+            1378
+          ], 
+          [
+            1002, 
+            1474
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[,,]"
+      }
+    ]
+  }, 
+  "start_state": "e01a77e7b50d018372b9da38c49f0205"
+}

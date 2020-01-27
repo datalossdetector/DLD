@@ -1,0 +1,317 @@
+{
+  "stop_state": "5751f0299c1b7a6037f9a0727a1ec84f", 
+  "event_str": "FillUIEvent(state=4e4bbc65c1ac47316c80748595c8e901, views=['31c8e5c0a04d2b4f8ec8c144ccd717fd', '4f0b47d95dc2ae59b5788a66d5022e4c', '7010fcb708c6713bc098137986b3ab0b', 'a72ce0a7689e9ac68562251cd1a5bbec', '593906bb4f84524ff866f035e2c119a6', 'df8a0ed30e4fe388b1545d59e0c8cbc0', '119960d6658f243a7cbddc1e735be88b', '222946de30cc6235ab6dddb9f8976e44'])", 
+  "tag": "2019-06-12_170532", 
+  "event": {
+    "views_str": [
+      "31c8e5c0a04d2b4f8ec8c144ccd717fd", 
+      "4f0b47d95dc2ae59b5788a66d5022e4c", 
+      "7010fcb708c6713bc098137986b3ab0b", 
+      "a72ce0a7689e9ac68562251cd1a5bbec", 
+      "593906bb4f84524ff866f035e2c119a6", 
+      "df8a0ed30e4fe388b1545d59e0c8cbc0", 
+      "119960d6658f243a7cbddc1e735be88b", 
+      "222946de30cc6235ab6dddb9f8976e44"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/intervalValue", 
+        "text": "1", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "159*124", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/intervalValue", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "31c8e5c0a04d2b4f8ec8c144ccd717fd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            236, 
+            642
+          ], 
+          [
+            395, 
+            766
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/intervalValue[text]1[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_1", 
+        "text": "Sun", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_1", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "4f0b47d95dc2ae59b5788a66d5022e4c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            180, 
+            766
+          ], 
+          [
+            360, 
+            946
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_1[text]Sun[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_2", 
+        "text": "Mon", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_2", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "7010fcb708c6713bc098137986b3ab0b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            360, 
+            766
+          ], 
+          [
+            540, 
+            946
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_2[text]Mon[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_3", 
+        "text": "Tue", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_3", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "a72ce0a7689e9ac68562251cd1a5bbec", 
+        "enabled": true, 
+        "bounds": [
+          [
+            540, 
+            766
+          ], 
+          [
+            720, 
+            946
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_3[text]Tue[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_4", 
+        "text": "Wed", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": true, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_4", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "593906bb4f84524ff866f035e2c119a6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            720, 
+            766
+          ], 
+          [
+            900, 
+            946
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_4[text]Wed[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_5", 
+        "text": "Thu", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_5", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "df8a0ed30e4fe388b1545d59e0c8cbc0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            180, 
+            946
+          ], 
+          [
+            360, 
+            1126
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_5[text]Thu[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_6", 
+        "text": "Fri", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_6", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "119960d6658f243a7cbddc1e735be88b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            360, 
+            946
+          ], 
+          [
+            540, 
+            1126
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_6[text]Fri[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/week_day_7", 
+        "text": "Sat", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "180*180", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_7", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": false, 
+        "view_str": "222946de30cc6235ab6dddb9f8976e44", 
+        "enabled": true, 
+        "bounds": [
+          [
+            540, 
+            946
+          ], 
+          [
+            720, 
+            1126
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]org.tasks:id/week_day_7[text]Sat[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4e4bbc65c1ac47316c80748595c8e901"
+}

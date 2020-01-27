@@ -1,0 +1,49 @@
+{
+  "stop_state": "c0f9ec4c5cc510dfe34d9feb8a2db993", 
+  "event_str": "TouchEvent(state=4fa171d6f372cefd56d8a6148e14b0ea, view=271cfffdabb33096ea68ccdb4d14fb6c)", 
+  "tag": "2019-07-08_194407", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": true, 
+      "children": [], 
+      "size": "720*144", 
+      "checked": true, 
+      "temp_id": 4, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 2, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.CheckedTextView", 
+      "scrollable": false, 
+      "package": "com.iskrembilen.quasseldroid.debug", 
+      "long_clickable": false, 
+      "view_str": "271cfffdabb33096ea68ccdb4d14fb6c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          645
+        ], 
+        [
+          792, 
+          789
+        ]
+      ], 
+      "signature": "[class]android.widget.CheckedTextView[resource_id]android:id/text1[text]HelloWorld[enabled,checked,]"
+    }, 
+    "id": 3, 
+    "event_type": "touch"
+  }, 
+  "start_state": "4fa171d6f372cefd56d8a6148e14b0ea"
+}

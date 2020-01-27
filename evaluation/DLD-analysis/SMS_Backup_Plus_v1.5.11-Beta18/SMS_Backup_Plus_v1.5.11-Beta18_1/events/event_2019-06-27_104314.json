@@ -1,0 +1,50 @@
+{
+  "stop_state": "edc9b6eda0225733f7401ccf18258c92", 
+  "event_str": "SetTextEvent(state=85f89156876b577b1bb658d2254e1a19, view=db5ceb3b8a40bc50b6d9999d5fe64f97, text=HelloWorld)", 
+  "tag": "2019-06-27_104314", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "SMS", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "900*136", 
+      "checked": false, 
+      "temp_id": 14, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.zegoggles.smssync", 
+      "long_clickable": true, 
+      "view_str": "db5ceb3b8a40bc50b6d9999d5fe64f97", 
+      "enabled": true, 
+      "bounds": [
+        [
+          90, 
+          964
+        ], 
+        [
+          990, 
+          1100
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]SMS[enabled,,]"
+    }
+  }, 
+  "start_state": "85f89156876b577b1bb658d2254e1a19"
+}

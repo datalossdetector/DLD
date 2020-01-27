@@ -1,0 +1,89 @@
+{
+  "stop_state": "f46ef517ae9ad9905e23b2715842e0af", 
+  "event_str": "FillUIEvent(state=04fd66af609d1dcc20233630dc8fe4df, views=['a5298169cc23564775e9c0cde53d487d', 'cfebec4d80293523b377ef19521cac4b'])", 
+  "tag": "2019-06-21_032624", 
+  "event": {
+    "views_str": [
+      "a5298169cc23564775e9c0cde53d487d", 
+      "cfebec4d80293523b377ef19521cac4b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/rename_item_name", 
+        "text": "17", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*120", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/rename_item_name", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": true, 
+        "view_str": "a5298169cc23564775e9c0cde53d487d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            724
+          ], 
+          [
+            1005, 
+            844
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/rename_item_name[text]17[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/rename_item_extension", 
+        "text": "txt", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*120", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/rename_item_extension", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": true, 
+        "view_str": "cfebec4d80293523b377ef19521cac4b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            949
+          ], 
+          [
+            1005, 
+            1069
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/rename_item_extension[text]txt[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "04fd66af609d1dcc20233630dc8fe4df"
+}

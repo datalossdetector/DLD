@@ -1,0 +1,51 @@
+{
+  "stop_state": "7c23fae3b8f70cb2e5a80cf82dc32bae", 
+  "event_str": "FillUIEvent(state=f8b74a526d69a2909d43f0fe62785a36, views=['7ff27bfe05c0b86ff04e0290a83d076b'])", 
+  "tag": "2019-06-20_011954", 
+  "event": {
+    "views_str": [
+      "7ff27bfe05c0b86ff04e0290a83d076b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "default", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "7ff27bfe05c0b86ff04e0290a83d076b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            839
+          ], 
+          [
+            945, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]default[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f8b74a526d69a2909d43f0fe62785a36"
+}

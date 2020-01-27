@@ -1,0 +1,89 @@
+{
+  "stop_state": "7d2e516dead716f8264efdc523f71968", 
+  "event_str": "FillUIEvent(state=becf7a580ec08edc6e420a785d37b75f, views=['4127341e55be5e4ba29492bd9622b6f4', '2a5513be23c0d9bdf7477b02bbba2f21'])", 
+  "tag": "2019-06-12_200716", 
+  "event": {
+    "views_str": [
+      "4127341e55be5e4ba29492bd9622b6f4", 
+      "2a5513be23c0d9bdf7477b02bbba2f21"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/timepicker_input", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "234*121", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/timepicker_input", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "4127341e55be5e4ba29492bd9622b6f4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            288, 
+            842
+          ], 
+          [
+            522, 
+            963
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/timepicker_input[text]0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/timepicker_input", 
+        "text": "00", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "234*121", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/timepicker_input", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "2a5513be23c0d9bdf7477b02bbba2f21", 
+        "enabled": true, 
+        "bounds": [
+          [
+            557, 
+            842
+          ], 
+          [
+            791, 
+            963
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/timepicker_input[text]00[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "becf7a580ec08edc6e420a785d37b75f"
+}

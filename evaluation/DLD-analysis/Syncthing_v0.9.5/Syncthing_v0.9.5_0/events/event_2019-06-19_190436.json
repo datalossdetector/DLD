@@ -1,0 +1,127 @@
+{
+  "stop_state": "f4858b8d4e79988a259677cde741fcd6", 
+  "event_str": "FillUIEvent(state=5dbc45090f8fd92935c9c08d91047c60, views=['8d3f2de957a0a0da4fba0995d410fa33', 'a74daef79a273003c41bb76bd94b8e5b', 'b1c7bf787267b90d031709f9c1644376'])", 
+  "tag": "2019-06-19_190436", 
+  "event": {
+    "views_str": [
+      "8d3f2de957a0a0da4fba0995d410fa33", 
+      "a74daef79a273003c41bb76bd94b8e5b", 
+      "b1c7bf787267b90d031709f9c1644376"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/label", 
+        "text": "Cameratest123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/label", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "8d3f2de957a0a0da4fba0995d410fa33", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            264
+          ], 
+          [
+            1080, 
+            432
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/label[text]Cameratest123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/id", 
+        "text": "google_nexus_5-photos", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/id", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": false, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": true, 
+        "view_str": "a74daef79a273003c41bb76bd94b8e5b", 
+        "enabled": false, 
+        "bounds": [
+          [
+            0, 
+            433
+          ], 
+          [
+            1080, 
+            601
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.nutomic.syncthingandroid:id/id[text]google_nexus_5-photos[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.nutomic.syncthingandroid:id/master", 
+        "text": "Folder Master ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1080*168", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.nutomic.syncthingandroid:id/master", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.nutomic.syncthingandroid", 
+        "long_clickable": false, 
+        "view_str": "b1c7bf787267b90d031709f9c1644376", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            916
+          ], 
+          [
+            1080, 
+            1084
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.nutomic.syncthingandroid:id/master[text]Folder Master ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "5dbc45090f8fd92935c9c08d91047c60"
+}

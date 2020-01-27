@@ -1,0 +1,127 @@
+{
+  "stop_state": "438e40dad73a1b4fa7658e975687ee46", 
+  "event_str": "FillUIEvent(state=a3e4f253989cae863a243c81536c1c17, views=['abeb9336d47fbd381f203bd0a454bc8b', 'c8cdf32e51137c079e88bcf6cec3a167', 'c8cdf32e51137c079e88bcf6cec3a167'])", 
+  "tag": "2019-06-19_154700", 
+  "event": {
+    "views_str": [
+      "abeb9336d47fbd381f203bd0a454bc8b", 
+      "c8cdf32e51137c079e88bcf6cec3a167", 
+      "c8cdf32e51137c079e88bcf6cec3a167"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "Search\u2026", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "432*108", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": true, 
+        "view_str": "abeb9336d47fbd381f203bd0a454bc8b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            360, 
+            100
+          ], 
+          [
+            792, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]Search\u2026[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/checkBox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "c8cdf32e51137c079e88bcf6cec3a167", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            336
+          ], 
+          [
+            96, 
+            432
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "nl.mpcjanssen.simpletask.debug:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/checkBox", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "nl.mpcjanssen.simpletask.debug", 
+        "long_clickable": false, 
+        "view_str": "c8cdf32e51137c079e88bcf6cec3a167", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            503
+          ], 
+          [
+            96, 
+            599
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]nl.mpcjanssen.simpletask.debug:id/checkBox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a3e4f253989cae863a243c81536c1c17"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "e72f12190c3ecadc0bbb8ba1c6aec344", 
+  "event_str": "FillUIEvent(state=07962680ec7f869d2619a79324ccbdb6, views=['48d01084c0e59123de5a90ede5ff6913'])", 
+  "tag": "2019-06-21_055518", 
+  "event": {
+    "views_str": [
+      "48d01084c0e59123de5a90ede5ff6913"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/rename_item_name", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*120", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/rename_item_name", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": true, 
+        "view_str": "48d01084c0e59123de5a90ede5ff6913", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            837
+          ], 
+          [
+            1005, 
+            957
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/rename_item_name[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "07962680ec7f869d2619a79324ccbdb6"
+}

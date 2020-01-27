@@ -1,0 +1,50 @@
+{
+  "stop_state": "516b2fc86c54f924d82618f5b40f9216", 
+  "event_str": "SetTextEvent(state=be49fa8c7ae48b5407277fdff8876c05, view=e6d55b8bf283c4fc46e47b000cea8ea6, text=HelloWorld)", 
+  "tag": "2019-07-08_202707", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.iskrembilen.quasseldroid.debug:id/dialog_address_field", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "834*136", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.iskrembilen.quasseldroid.debug:id/dialog_address_field", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.iskrembilen.quasseldroid.debug", 
+      "long_clickable": true, 
+      "view_str": "e6d55b8bf283c4fc46e47b000cea8ea6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          123, 
+          839
+        ], 
+        [
+          957, 
+          975
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.iskrembilen.quasseldroid.debug:id/dialog_address_field[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "be49fa8c7ae48b5407277fdff8876c05"
+}

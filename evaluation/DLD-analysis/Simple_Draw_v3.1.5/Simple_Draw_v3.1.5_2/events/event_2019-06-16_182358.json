@@ -1,0 +1,89 @@
+{
+  "stop_state": "5cac5bc5737d743a570ce1c29258c060", 
+  "event_str": "FillUIEvent(state=0e06273af3072a1c52221d0576dae581, views=['58383087e09b4ea6c5d9f20cfe897824', '4e4250d96d92e87d8314c8b4d7a288c6'])", 
+  "tag": "2019-06-16_182358", 
+  "event": {
+    "views_str": [
+      "58383087e09b4ea6c5d9f20cfe897824", 
+      "4e4250d96d92e87d8314c8b4d7a288c6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Internal", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": true, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "58383087e09b4ea6c5d9f20cfe897824", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            841
+          ], 
+          [
+            1005, 
+            994
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Internal[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "Root", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "4e4250d96d92e87d8314c8b4d7a288c6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            994
+          ], 
+          [
+            1005, 
+            1147
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]Root[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "0e06273af3072a1c52221d0576dae581"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "71bf2caab1897bc0b16cf2a354438805", 
+  "event_str": "FillUIEvent(state=a9dbbeef7b574025ba550c6098a6f319, views=['31c8e5c0a04d2b4f8ec8c144ccd717fd'])", 
+  "tag": "2019-06-12_204802", 
+  "event": {
+    "views_str": [
+      "31c8e5c0a04d2b4f8ec8c144ccd717fd"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.tasks:id/intervalValue", 
+        "text": "1", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "159*124", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.tasks:id/intervalValue", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.tasks", 
+        "long_clickable": true, 
+        "view_str": "31c8e5c0a04d2b4f8ec8c144ccd717fd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            236, 
+            822
+          ], 
+          [
+            395, 
+            946
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.tasks:id/intervalValue[text]1[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a9dbbeef7b574025ba550c6098a6f319"
+}

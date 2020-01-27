@@ -1,0 +1,127 @@
+{
+  "stop_state": "81b1e3ad28a7cc7bba0f3ce1b687375b", 
+  "event_str": "FillUIEvent(state=a14999d263462afd83060488dd18cbcc, views=['c52661587ec723360ea8115ca9756c4f', '918248f7166e3c5c9cb0661628cc1b99', '03c80314774d6d86cc76e354934d39da'])", 
+  "tag": "2019-06-21_115809", 
+  "event": {
+    "views_str": [
+      "c52661587ec723360ea8115ca9756c4f", 
+      "918248f7166e3c5c9cb0661628cc1b99", 
+      "03c80314774d6d86cc76e354934d39da"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/DCIM/MTGFamiliar", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "c52661587ec723360ea8115ca9756c4f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            722
+          ], 
+          [
+            1005, 
+            875
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0/DCIM/MTGFamiliar[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*153", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "918248f7166e3c5c9cb0661628cc1b99", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            875
+          ], 
+          [
+            1005, 
+            1028
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]/storage/emulated/0[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/storage/emulated/0/diary hello worldHelloWorld hello world/2019/06", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*202", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": false, 
+        "view_str": "03c80314774d6d86cc76e354934d39da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1028
+          ], 
+          [
+            1005, 
+            1230
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a14999d263462afd83060488dd18cbcc"
+}

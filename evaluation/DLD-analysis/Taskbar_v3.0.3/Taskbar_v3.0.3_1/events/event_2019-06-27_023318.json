@@ -1,0 +1,50 @@
+{
+  "stop_state": "0ae9804bd37fb59a5f0209c1267cd86c", 
+  "event_str": "SetTextEvent(state=aeb0350a949161d6d004b0248bf9a264, view=5ca9f016f3157f6912d7afa454ad4d79, text=HelloWorld)", 
+  "tag": "2019-06-27_023318", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 35, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.farmerbb.taskbar:id/g", 
+      "text": "123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "90*73", 
+      "checked": false, 
+      "temp_id": 18, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/g", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.farmerbb.taskbar", 
+      "long_clickable": true, 
+      "view_str": "5ca9f016f3157f6912d7afa454ad4d79", 
+      "enabled": true, 
+      "bounds": [
+        [
+          619, 
+          430
+        ], 
+        [
+          709, 
+          503
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.farmerbb.taskbar:id/g[text]123[enabled,,]"
+    }
+  }, 
+  "start_state": "aeb0350a949161d6d004b0248bf9a264"
+}

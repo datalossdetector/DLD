@@ -1,0 +1,165 @@
+{
+  "stop_state": "65eeacb0e937e685744c11eedfd69766", 
+  "event_str": "FillUIEvent(state=98247576bb05525a8052f084230ab476, views=['9a9f4bb4549dd4ac679e9a5c16cdb271', '8aad47a7834432fa7402513670e669ea', '9443197269d29af100a68a200feba3ca', '084d72c25f5a1cff0101feb43f06de1b'])", 
+  "tag": "2019-06-16_002422", 
+  "event": {
+    "views_str": [
+      "9a9f4bb4549dd4ac679e9a5c16cdb271", 
+      "8aad47a7834432fa7402513670e669ea", 
+      "9443197269d29af100a68a200feba3ca", 
+      "084d72c25f5a1cff0101feb43f06de1b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/save_image_filename", 
+        "text": "image_2019-06-15_17-53", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*120", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.draw:id/save_image_filename", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": true, 
+        "view_str": "9a9f4bb4549dd4ac679e9a5c16cdb271", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            782
+          ], 
+          [
+            1005, 
+            902
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.draw:id/save_image_filename[text]image_2019-06-15_17-53[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/save_image_radio_png", 
+        "text": ".png", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": true, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.draw:id/save_image_radio_png", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "8aad47a7834432fa7402513670e669ea", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            950
+          ], 
+          [
+            1005, 
+            1055
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.draw:id/save_image_radio_png[text].png[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/save_image_radio_svg", 
+        "text": ".svg", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.draw:id/save_image_radio_svg", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "9443197269d29af100a68a200feba3ca", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1055
+          ], 
+          [
+            1005, 
+            1160
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.draw:id/save_image_radio_svg[text].svg[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.draw:id/save_image_radio_jpg", 
+        "text": ".jpg", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "930*105", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.draw:id/save_image_radio_jpg", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.draw", 
+        "long_clickable": false, 
+        "view_str": "084d72c25f5a1cff0101feb43f06de1b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1160
+          ], 
+          [
+            1005, 
+            1265
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.simplemobiletools.draw:id/save_image_radio_jpg[text].jpg[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "98247576bb05525a8052f084230ab476"
+}

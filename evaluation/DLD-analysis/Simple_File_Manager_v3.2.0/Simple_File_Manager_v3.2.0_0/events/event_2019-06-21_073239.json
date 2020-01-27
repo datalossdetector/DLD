@@ -1,0 +1,51 @@
+{
+  "stop_state": "f5a3fd6fd3faa27fe7533a0e47790404", 
+  "event_str": "FillUIEvent(state=552ac323e0aba4eca87ea09ac8a4a8c3, views=['0c53081998eb37d7a79325374afa78d8'])", 
+  "tag": "2019-06-21_073239", 
+  "event": {
+    "views_str": [
+      "0c53081998eb37d7a79325374afa78d8"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.simplemobiletools.filemanager:id/search_src_text", 
+        "text": "Search folder", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "744*108", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/search_src_text", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.simplemobiletools.filemanager", 
+        "long_clickable": true, 
+        "view_str": "0c53081998eb37d7a79325374afa78d8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            102
+          ], 
+          [
+            936, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.simplemobiletools.filemanager:id/search_src_text[text]Search folder[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "552ac323e0aba4eca87ea09ac8a4a8c3"
+}
