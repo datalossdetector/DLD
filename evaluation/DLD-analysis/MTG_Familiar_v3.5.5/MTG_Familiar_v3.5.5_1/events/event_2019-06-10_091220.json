@@ -1,0 +1,50 @@
+{
+  "stop_state": "d1a58838bbb04d9d8fbd98af093060d3", 
+  "event_str": "SetTextEvent(state=4bb27256d1f6ea08c9795ad0cc7986b2, view=2f9cf136eb6c6c4756e8d990554c98ce, text=HelloWorld)", 
+  "tag": "2019-06-10_091220", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 5, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gelakinetic.mtgfam:id/text_entry", 
+      "text": "Player 2", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "816*136", 
+      "checked": false, 
+      "temp_id": 8, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/text_entry", 
+      "is_password": false, 
+      "parent": 7, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.gelakinetic.mtgfam", 
+      "long_clickable": true, 
+      "view_str": "2f9cf136eb6c6c4756e8d990554c98ce", 
+      "enabled": true, 
+      "bounds": [
+        [
+          84, 
+          854
+        ], 
+        [
+          900, 
+          990
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/text_entry[text]Player 2[enabled,,]"
+    }
+  }, 
+  "start_state": "4bb27256d1f6ea08c9795ad0cc7986b2"
+}

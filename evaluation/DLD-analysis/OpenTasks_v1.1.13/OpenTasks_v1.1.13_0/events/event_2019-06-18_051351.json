@@ -1,0 +1,89 @@
+{
+  "stop_state": "e75b2f34bc53fe307e75c26952134d62", 
+  "event_str": "FillUIEvent(state=4ddedd791f91d8d6cf10f81891c806c3, views=['4a5d4fd8d1ad5f3a0d01e97b787173a7', '8cdbf57a401ecdf71d70b89b7dac826a'])", 
+  "tag": "2019-06-18_051351", 
+  "event": {
+    "views_str": [
+      "4a5d4fd8d1ad5f3a0d01e97b787173a7", 
+      "8cdbf57a401ecdf71d70b89b7dac826a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "109*120", 
+        "checked": true, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "4a5d4fd8d1ad5f3a0d01e97b787173a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            945
+          ], 
+          [
+            265, 
+            1065
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/title", 
+        "text": "test123HelloWotest123rld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "683*65", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/title", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "8cdbf57a401ecdf71d70b89b7dac826a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            265, 
+            972
+          ], 
+          [
+            948, 
+            1037
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/title[text]test123HelloWotest123rld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "4ddedd791f91d8d6cf10f81891c806c3"
+}

@@ -1,0 +1,2863 @@
+{
+  "stop_state": "185b5133929b8ecd452ca5947dcdd9fb", 
+  "event_str": "FillUIEvent(state=185b5133929b8ecd452ca5947dcdd9fb, views=['b93b398a20ceb13a0b04ee61bbedeacc', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', '3a2b8b2d3bfee513f30e342444a39834', '62b26c6b34debee160da277693b805b3', '3a2b8b2d3bfee513f30e342444a39834', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3', '94a2573376734f24909cbb8bd3e5bee7', '62b26c6b34debee160da277693b805b3', '94a2573376734f24909cbb8bd3e5bee7', '62b26c6b34debee160da277693b805b3'])", 
+  "tag": "2019-06-20_020945", 
+  "event": {
+    "views_str": [
+      "b93b398a20ceb13a0b04ee61bbedeacc", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "3a2b8b2d3bfee513f30e342444a39834", 
+      "62b26c6b34debee160da277693b805b3", 
+      "3a2b8b2d3bfee513f30e342444a39834", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3", 
+      "94a2573376734f24909cbb8bd3e5bee7", 
+      "62b26c6b34debee160da277693b805b3", 
+      "94a2573376734f24909cbb8bd3e5bee7", 
+      "62b26c6b34debee160da277693b805b3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/passTitle", 
+        "text": "custoHelloWtestest123t1test123test123test123test123test123test123test123tetest123test123test123test123test123test123test123test123st12323orldm Pass", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "816*370", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "b93b398a20ceb13a0b04ee61bbedeacc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            529
+          ], 
+          [
+            852, 
+            899
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123test123tetest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 150, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 149, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 153, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 152, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123test123tetest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 161, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 160, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 164, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 163, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123test123tetest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 172, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 171, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 175, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 174, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 183, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 182, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 186, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 185, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 194, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 193, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 197, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 196, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test1test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 205, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 204, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 208, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 207, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test1test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 216, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 215, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 219, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 218, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 227, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 226, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 230, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 229, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 238, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 237, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 241, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 240, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 249, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 248, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 252, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 251, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123test123estest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 260, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 259, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 263, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 262, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 271, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 270, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 274, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 273, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est12ttest123etest123st1233test123test123ttest1ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 282, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 281, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 285, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 284, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest1ttest123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 293, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 292, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 296, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 295, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest1ttest123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 304, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 303, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 307, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 306, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest1test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 315, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 314, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 318, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 317, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest1test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 326, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 325, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 329, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 328, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest123est123test1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 337, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 336, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 340, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 339, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest123est123test1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 348, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 347, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 351, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 350, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest123est123test123test123test1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 359, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 358, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 362, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 361, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest123est123test123test123test1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 370, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 369, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 373, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 372, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest123est123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 381, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 380, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 384, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 383, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123ttest123est123ttest123est123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 392, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 391, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 395, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 394, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 403, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 402, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 406, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 405, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123tttest123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 414, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 413, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 417, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 416, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 425, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 424, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 428, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 427, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123tettest123etest123st123sttest123123231test12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 436, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 435, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 439, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 438, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123test123231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 447, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 446, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 450, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 449, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test1233est1ttest123etest1test123test12323st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est1ttest123etest123st1232test1233ttest123est1test123test123test123test123test123test123test123test123test123test123test123test123231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 458, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 457, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 461, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 460, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest123est123ttest123est1231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 469, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 468, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "3a2b8b2d3bfee513f30e342444a39834", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]testtest123ttest123est123ttest123est1231test12323[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 472, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 471, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest123est123ttest123est1231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 480, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 479, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "3a2b8b2d3bfee513f30e342444a39834", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]testtest123ttest123est123ttest123est1231test12323[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 483, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 482, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest123est123ttest123est123ttest12test123test123test123test123test123test1233est123ttest123est1231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 491, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 490, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 494, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 493, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest123est123ttest123est123ttest12test123test123test123test123test123test1233est123ttest123est1231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 502, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 501, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 505, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 504, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test1233est1ttest123etest123st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est123ttest123est1231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 513, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 512, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 516, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 515, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test1233est1ttest123etest123st1232test1233ttest123est1test123test12323ttest12test123testttest123test123test123test123est123test123123test123test123test123test1233est123ttest123est1231test12323", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*136", 
+        "checked": false, 
+        "temp_id": 524, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 523, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*136", 
+        "checked": false, 
+        "temp_id": 527, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 526, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            1628
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "207*136", 
+        "checked": false, 
+        "temp_id": 535, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 534, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "94a2573376734f24909cbb8bd3e5bee7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            363, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "207*136", 
+        "checked": false, 
+        "temp_id": 538, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 537, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            363, 
+            1628
+          ], 
+          [
+            570, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "207*136", 
+        "checked": false, 
+        "temp_id": 546, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 545, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "94a2573376734f24909cbb8bd3e5bee7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1628
+          ], 
+          [
+            363, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "207*136", 
+        "checked": false, 
+        "temp_id": 549, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 548, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            363, 
+            1628
+          ], 
+          [
+            570, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "185b5133929b8ecd452ca5947dcdd9fb"
+}

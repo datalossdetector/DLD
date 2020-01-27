@@ -1,0 +1,89 @@
+{
+  "stop_state": "d2672bdbbb1814c21db0caae3e9485d2", 
+  "event_str": "FillUIEvent(state=51a3833aeb05e626a4c73ff66aa99e17, views=['cfc1af3801f6a235293a22538a0ff519', 'cfc1af3801f6a235293a22538a0ff519'])", 
+  "tag": "2019-06-15_211720", 
+  "event": {
+    "views_str": [
+      "cfc1af3801f6a235293a22538a0ff519", 
+      "cfc1af3801f6a235293a22538a0ff519"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "AUS", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "cfc1af3801f6a235293a22538a0ff519", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            552
+          ], 
+          [
+            1032, 
+            633
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]AUS[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "AUS", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "cfc1af3801f6a235293a22538a0ff519", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1425
+          ], 
+          [
+            1032, 
+            1506
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]AUS[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "51a3833aeb05e626a4c73ff66aa99e17"
+}

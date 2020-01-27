@@ -1,0 +1,203 @@
+{
+  "stop_state": "e04cb5ce6b9970606d12f3368f79c0cf", 
+  "event_str": "FillUIEvent(state=45e9ff60562ee49b3e3be4ee0ea65212, views=['88eaa936012c0fe470f7e66dabdba4c5', 'ae7573d2c37e0da9ab41439c0d6f6745', '9ef53cc3699ab42113146ec8be0ef98b', '46d7efcfd05eb316ef720373ee04dcd0', 'f3809b438b9c4c7fcc2359af2446522f'])", 
+  "tag": "2019-06-10_212635", 
+  "event": {
+    "views_str": [
+      "88eaa936012c0fe470f7e66dabdba4c5", 
+      "ae7573d2c37e0da9ab41439c0d6f6745", 
+      "9ef53cc3699ab42113146ec8be0ef98b", 
+      "46d7efcfd05eb316ef720373ee04dcd0", 
+      "f3809b438b9c4c7fcc2359af2446522f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/timer_pref_fifteen", 
+        "text": "15-Minute Warning", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "816*144", 
+        "checked": false, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_fifteen", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": false, 
+        "view_str": "88eaa936012c0fe470f7e66dabdba4c5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            562
+          ], 
+          [
+            948, 
+            706
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_fifteen[text]15-Minute Warning[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/timer_pref_ten", 
+        "text": "10-Minute Warning", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "816*144", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_ten", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": false, 
+        "view_str": "ae7573d2c37e0da9ab41439c0d6f6745", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            706
+          ], 
+          [
+            948, 
+            850
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_ten[text]10-Minute Warning[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/timer_pref_five", 
+        "text": "5-Minute Warning", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "816*144", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_five", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": false, 
+        "view_str": "9ef53cc3699ab42113146ec8be0ef98b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            850
+          ], 
+          [
+            948, 
+            994
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_five[text]5-Minute Warning[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/timer_pref_two", 
+        "text": "2-Minute Warning", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "816*144", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_two", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": false, 
+        "view_str": "46d7efcfd05eb316ef720373ee04dcd0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            994
+          ], 
+          [
+            948, 
+            1138
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_pref_two[text]2-Minute Warning[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/timer_use_sound_instead_of_tts", 
+        "text": "Use sound instead of TTS", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "816*144", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_use_sound_instead_of_tts", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": false, 
+        "view_str": "f3809b438b9c4c7fcc2359af2446522f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            1138
+          ], 
+          [
+            948, 
+            1282
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/timer_use_sound_instead_of_tts[text]Use sound instead of TTS[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "45e9ff60562ee49b3e3be4ee0ea65212"
+}

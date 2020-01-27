@@ -1,0 +1,50 @@
+{
+  "stop_state": "185b5133929b8ecd452ca5947dcdd9fb", 
+  "event_str": "SetTextEvent(state=185b5133929b8ecd452ca5947dcdd9fb, view=654b3def253d63a5cee1329669a95b62, text=HelloWorld)", 
+  "tag": "2019-06-19_184336", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 112, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "207*136", 
+      "checked": false, 
+      "temp_id": 376, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+      "is_password": false, 
+      "parent": 375, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.ligi.passandroid", 
+      "long_clickable": true, 
+      "view_str": "654b3def253d63a5cee1329669a95b62", 
+      "enabled": true, 
+      "bounds": [
+        [
+          156, 
+          252
+        ], 
+        [
+          363, 
+          388
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "185b5133929b8ecd452ca5947dcdd9fb"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "6f573557db8ef9922ec527e5450a107a", 
+  "event_str": "LongTouchEvent(state=6f573557db8ef9922ec527e5450a107a, view=be4f7fd470f29e0e79ea379217155bf3, duration=2000)", 
+  "tag": "2019-06-24_044555", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 16, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/tv_message", 
+      "text": "* [ci] Don't use offline cache anymore\r\n\r\nNetwork problems should be resolved\r\n\r\n* [ci] CI user *-browsers docker image instead of apt install\r\n\r\n* [ci] Move docs:api to test_build\r\n\r\n- moves docs/ related tasks together\r\n- reduces build time for test_browser which is currently\r\n  the bottleneck to test_regressions\r\n\r\n* [ci] Use 2.1 commands\r\n\r\n* [ci] Use most recent yarn cache if lockfile changed\r\n\r\nCo-Authored-By: eps1lon <silbermann.sebastian@gmail.com>\r\n\r\n* [ci] Lint without cache in CI\r\n\r\nIt'll be invalidated on every run anyway since it looks at mtime and that changes with every checkout", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*995", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/tv_message", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "be4f7fd470f29e0e79ea379217155bf3", 
+      "enabled": true, 
+      "bounds": [
+        [
+          72, 
+          781
+        ], 
+        [
+          1008, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/tv_message[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "6f573557db8ef9922ec527e5450a107a"
+}

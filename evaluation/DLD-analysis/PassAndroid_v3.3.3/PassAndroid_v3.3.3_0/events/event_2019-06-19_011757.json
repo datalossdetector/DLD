@@ -1,0 +1,431 @@
+{
+  "stop_state": "440365d2c83cddf37319031478d78fb2", 
+  "event_str": "FillUIEvent(state=440365d2c83cddf37319031478d78fb2, views=['b93b398a20ceb13a0b04ee61bbedeacc', '5e35599cecb49f27b57385158cec5f86', '1fca45c327e407f4ae715cb545dbeea2', '5e35599cecb49f27b57385158cec5f86', '1fca45c327e407f4ae715cb545dbeea2', '5e35599cecb49f27b57385158cec5f86', '1fca45c327e407f4ae715cb545dbeea2', '5e35599cecb49f27b57385158cec5f86', '1fca45c327e407f4ae715cb545dbeea2', 'd446459b8de350dc73b51bfacf071e19', '62b26c6b34debee160da277693b805b3'])", 
+  "tag": "2019-06-19_011757", 
+  "event": {
+    "views_str": [
+      "b93b398a20ceb13a0b04ee61bbedeacc", 
+      "5e35599cecb49f27b57385158cec5f86", 
+      "1fca45c327e407f4ae715cb545dbeea2", 
+      "5e35599cecb49f27b57385158cec5f86", 
+      "1fca45c327e407f4ae715cb545dbeea2", 
+      "5e35599cecb49f27b57385158cec5f86", 
+      "1fca45c327e407f4ae715cb545dbeea2", 
+      "5e35599cecb49f27b57385158cec5f86", 
+      "1fca45c327e407f4ae715cb545dbeea2", 
+      "d446459b8de350dc73b51bfacf071e19", 
+      "62b26c6b34debee160da277693b805b3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/passTitle", 
+        "text": "est123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123test123custotest1testest123t12323m Passtest123testtest123test123test123test123tetest123test123test123test123tetest123test123test123test123tetest123test123test123test123tetest123test123test123test123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st123test123test123test123test123st123test123test123test123st123test123test123test123test123st123test123123test123test123test123test123test123test123test12test123test1233test123test123ttest123test123est123test123testest123test123t123test123test1test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12test123test1233test123test123ttest123test123est123test123testest123test123t123test123test1test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test1test12323ttesttest123123est123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "816*-27185", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "b93b398a20ceb13a0b04ee61bbedeacc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            28949
+          ], 
+          [
+            852, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-30518", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5e35599cecb49f27b57385158cec5f86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            32282
+          ], 
+          [
+            348, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-30518", 
+        "checked": false, 
+        "temp_id": 38, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "1fca45c327e407f4ae715cb545dbeea2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            348, 
+            32282
+          ], 
+          [
+            540, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-30687", 
+        "checked": false, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5e35599cecb49f27b57385158cec5f86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            32451
+          ], 
+          [
+            348, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-30687", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 45, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "1fca45c327e407f4ae715cb545dbeea2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            348, 
+            32451
+          ], 
+          [
+            540, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-30856", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 50, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5e35599cecb49f27b57385158cec5f86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            32620
+          ], 
+          [
+            348, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-30856", 
+        "checked": false, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "1fca45c327e407f4ae715cb545dbeea2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            348, 
+            32620
+          ], 
+          [
+            540, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-31025", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 58, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5e35599cecb49f27b57385158cec5f86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            32789
+          ], 
+          [
+            348, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*-31025", 
+        "checked": false, 
+        "temp_id": 62, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 61, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "1fca45c327e407f4ae715cb545dbeea2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            348, 
+            32789
+          ], 
+          [
+            540, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": "testtest123ttest12test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1233est123ttest123est123ttest12test123test123test123test1233est12test123test123test123test123test123test1233ttest123est123ttest12test123test123test123ttest123est123ttest123est123test123test123test123test123test1test1test12323testtest12312323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test1test12323testtest12312323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test12test12332testtest1231233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test1test12323ttesttest123123est123test1tetest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st12test12332testtest1231233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12test12332testtest12312333est123ttesttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test1test12323testtest12312323test123ttestest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t1test1test12323testtest12312323est123etesttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est1test12323ttestest123t123123st1231testest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123ttest123est1231test1232test123testttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123123test123testttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323test123tettttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123etest123st123sttest123123test123tetest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st1ttest123etest123st1232test1233test123tttesttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231ttest123etest123st1232test1233etest123stestest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t123ttest123est123ttest123123etest123stest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t1ttest123etest123st1232test1233test123ttestttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test1231test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231ttest123etest123st1232test1233test123testtttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123est123ttest123est1231test12323test123testest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123t1test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123testtest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test1231test123ttest123est123test12323test123tttettest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est123test123st123etest123st123etest123st123test123ttest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123est1ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123ttest123est123ttest123est123estest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323ttest123est123ttest123123test123ttetest123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123st1ttest123etest123st1232test1233est123ttest1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123est123test12323est123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123ttest123etest123st1232test1233test123test1test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test12323test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123test123323", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*-31611", 
+        "checked": false, 
+        "temp_id": 74, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 73, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "d446459b8de350dc73b51bfacf071e19", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            33375
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "0*-31611", 
+        "checked": false, 
+        "temp_id": 77, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 76, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "62b26c6b34debee160da277693b805b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1068, 
+            33375
+          ], 
+          [
+            1068, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "440365d2c83cddf37319031478d78fb2"
+}

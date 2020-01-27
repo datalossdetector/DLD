@@ -1,0 +1,241 @@
+{
+  "stop_state": "efb3ea4a842bceb006feeeac5133e423", 
+  "event_str": "FillUIEvent(state=147e27930286f9b0af3838b1c2353b4c, views=['d43149d46a38e5620b107e0639f23e76', '1c50003f2a2992e7b2faa157f3beb545', '4a5d4fd8d1ad5f3a0d01e97b787173a7', '438a28fe7d0557aad61fb1095f9e4549', '4a5d4fd8d1ad5f3a0d01e97b787173a7', '7b1b25c1ff482e3f474ff777c607569a'])", 
+  "tag": "2019-06-18_081203", 
+  "event": {
+    "views_str": [
+      "d43149d46a38e5620b107e0639f23e76", 
+      "1c50003f2a2992e7b2faa157f3beb545", 
+      "4a5d4fd8d1ad5f3a0d01e97b787173a7", 
+      "438a28fe7d0557aad61fb1095f9e4549", 
+      "4a5d4fd8d1ad5f3a0d01e97b787173a7", 
+      "7b1b25c1ff482e3f474ff777c607569a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "109*120", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "d43149d46a38e5620b107e0639f23e76", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            999
+          ], 
+          [
+            265, 
+            1119
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/title", 
+        "text": "test123test123ttest123esHelloWorldt123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "683*122", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/title", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "1c50003f2a2992e7b2faa157f3beb545", 
+        "enabled": true, 
+        "bounds": [
+          [
+            265, 
+            999
+          ], 
+          [
+            948, 
+            1121
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/title[text]test123test123ttest123esHelloWorldt123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "109*120", 
+        "checked": true, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "4a5d4fd8d1ad5f3a0d01e97b787173a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1121
+          ], 
+          [
+            265, 
+            1241
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/title", 
+        "text": "test123test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "683*65", 
+        "checked": false, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/title", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "438a28fe7d0557aad61fb1095f9e4549", 
+        "enabled": true, 
+        "bounds": [
+          [
+            265, 
+            1148
+          ], 
+          [
+            948, 
+            1213
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/title[text]test123test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "109*120", 
+        "checked": true, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "4a5d4fd8d1ad5f3a0d01e97b787173a7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            1241
+          ], 
+          [
+            265, 
+            1361
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/title", 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "683*65", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/title", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "7b1b25c1ff482e3f474ff777c607569a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            265, 
+            1268
+          ], 
+          [
+            948, 
+            1333
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/title[text]test123test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "147e27930286f9b0af3838b1c2353b4c"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "d7a92cb5b14407cc1a36406aa29007bd", 
+  "event_str": "SetTextEvent(state=d199fdeb3096667efd38fe4e68de9736, view=ff027bcf70bcd27f1c5bb78e3523e80d, text=HelloWorld)", 
+  "tag": "2019-06-15_064613", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": "Search query", 
+      "resource_id": "com.frozendevs.periodictable:id/search_src_text", 
+      "text": "   Name, symbol or Z", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "710*108", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.frozendevs.periodictable:id/search_src_text", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.frozendevs.periodictable", 
+      "long_clickable": true, 
+      "view_str": "ff027bcf70bcd27f1c5bb78e3523e80d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          174, 
+          87
+        ], 
+        [
+          884, 
+          195
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.frozendevs.periodictable:id/search_src_text[text]   Name, symbol or Z[enabled,,]"
+    }
+  }, 
+  "start_state": "d199fdeb3096667efd38fe4e68de9736"
+}

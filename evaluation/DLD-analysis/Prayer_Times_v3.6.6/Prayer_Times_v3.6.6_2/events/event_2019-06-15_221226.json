@@ -1,0 +1,51 @@
+{
+  "stop_state": "6ac705a997fb11f84d1f4272624b5e5f", 
+  "event_str": "FillUIEvent(state=2b63b149430a2ee3f1440191e2f84017, views=['3f7bf1643f9de151339a9004afd484d1'])", 
+  "tag": "2019-06-15_221226", 
+  "event": {
+    "views_str": [
+      "3f7bf1643f9de151339a9004afd484d1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/volumeCB", 
+        "text": "Choose Volume", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "390*96", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.metinkale.prayer:id/volumeCB", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "3f7bf1643f9de151339a9004afd484d1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1464
+          ], 
+          [
+            465, 
+            1560
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.metinkale.prayer:id/volumeCB[text]Choose Volume[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "2b63b149430a2ee3f1440191e2f84017"
+}

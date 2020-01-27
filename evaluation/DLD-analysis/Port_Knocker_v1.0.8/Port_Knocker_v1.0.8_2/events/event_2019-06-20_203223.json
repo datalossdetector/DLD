@@ -1,0 +1,241 @@
+{
+  "stop_state": "aa2ea151571659f3eeecf12b7e2b55b7", 
+  "event_str": "FillUIEvent(state=15ec99e6d8db86bec5b9e4007c2c53c2, views=['02546f5c3cb994283ba8269342e071da', '3aca7f8c0d80ee12aef23ca5fa279ef3', 'f514f71f1734b22107e882cc18aaba43', 'f514f71f1734b22107e882cc18aaba43', 'f514f71f1734b22107e882cc18aaba43', 'f514f71f1734b22107e882cc18aaba43'])", 
+  "tag": "2019-06-20_203223", 
+  "event": {
+    "views_str": [
+      "02546f5c3cb994283ba8269342e071da", 
+      "3aca7f8c0d80ee12aef23ca5fa279ef3", 
+      "f514f71f1734b22107e882cc18aaba43", 
+      "f514f71f1734b22107e882cc18aaba43", 
+      "f514f71f1734b22107e882cc18aaba43", 
+      "f514f71f1734b22107e882cc18aaba43"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.xargsgrep.portknocker:id/host_label_edit", 
+        "text": "HelloWorld17HelloWorld2634", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*136", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/host_label_edit", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.xargsgrep.portknocker", 
+        "long_clickable": true, 
+        "view_str": "02546f5c3cb994283ba8269342e071da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            415
+          ], 
+          [
+            1080, 
+            551
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/host_label_edit[text]HelloWorld17HelloWorld2634[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.xargsgrep.portknocker:id/host_name_edit", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*136", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/host_name_edit", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.xargsgrep.portknocker", 
+        "long_clickable": true, 
+        "view_str": "3aca7f8c0d80ee12aef23ca5fa279ef3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            630
+          ], 
+          [
+            1080, 
+            766
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/host_name_edit[text]HelloWorld[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.xargsgrep.portknocker:id/port_row_port", 
+        "text": "123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-24*136", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.xargsgrep.portknocker", 
+        "long_clickable": true, 
+        "view_str": "f514f71f1734b22107e882cc18aaba43", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1104, 
+            473
+          ], 
+          [
+            1080, 
+            609
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port[text]123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.xargsgrep.portknocker:id/port_row_port", 
+        "text": "123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-24*136", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.xargsgrep.portknocker", 
+        "long_clickable": true, 
+        "view_str": "f514f71f1734b22107e882cc18aaba43", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1104, 
+            663
+          ], 
+          [
+            1080, 
+            799
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port[text]123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.xargsgrep.portknocker:id/port_row_port", 
+        "text": "123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-24*136", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port", 
+        "is_password": false, 
+        "parent": 45, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.xargsgrep.portknocker", 
+        "long_clickable": true, 
+        "view_str": "f514f71f1734b22107e882cc18aaba43", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1104, 
+            853
+          ], 
+          [
+            1080, 
+            989
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port[text]123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.xargsgrep.portknocker:id/port_row_port", 
+        "text": "123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-24*136", 
+        "checked": false, 
+        "temp_id": 53, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port", 
+        "is_password": false, 
+        "parent": 52, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.xargsgrep.portknocker", 
+        "long_clickable": true, 
+        "view_str": "f514f71f1734b22107e882cc18aaba43", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1104, 
+            1043
+          ], 
+          [
+            1080, 
+            1179
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.xargsgrep.portknocker:id/port_row_port[text]123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "15ec99e6d8db86bec5b9e4007c2c53c2"
+}

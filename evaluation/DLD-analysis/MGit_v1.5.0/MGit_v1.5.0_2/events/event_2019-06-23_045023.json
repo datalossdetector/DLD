@@ -1,0 +1,89 @@
+{
+  "stop_state": "25ebae9fcde841b0fdc660a095339fb9", 
+  "event_str": "FillUIEvent(state=fe045450e1cffb88260b10b66dc03a6c, views=['5b0946a18eba3c32f8d652078b653571', 'fb5232d8a4f7cefe89d03c7ebf26441f'])", 
+  "tag": "2019-06-23_045023", 
+  "event": {
+    "views_str": [
+      "5b0946a18eba3c32f8d652078b653571", 
+      "fb5232d8a4f7cefe89d03c7ebf26441f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/pushAll", 
+        "text": "Push all?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "900*96", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/pushAll", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "5b0946a18eba3c32f8d652078b653571", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            782
+          ], 
+          [
+            990, 
+            878
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/pushAll[text]Push all?[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/forcePush", 
+        "text": "Force push?", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "900*96", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/forcePush", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "fb5232d8a4f7cefe89d03c7ebf26441f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            878
+          ], 
+          [
+            990, 
+            974
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/forcePush[text]Force push?[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "fe045450e1cffb88260b10b66dc03a6c"
+}

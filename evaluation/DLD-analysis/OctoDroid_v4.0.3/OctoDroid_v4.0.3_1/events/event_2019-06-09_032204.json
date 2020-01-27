@@ -1,0 +1,51 @@
+{
+  "stop_state": "018aeaa436c24abe361bb59ee00683f4", 
+  "event_str": "FillUIEvent(state=013b5ee6676bf4201ccbb91122d033aa, views=['8a63f746fe42a9b4e6878eac35fa7863'])", 
+  "tag": "2019-06-09_032204", 
+  "event": {
+    "views_str": [
+      "8a63f746fe42a9b4e6878eac35fa7863"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gh4a:id/et_comment", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*121", 
+        "checked": false, 
+        "temp_id": 43, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_comment", 
+        "is_password": false, 
+        "parent": 42, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "8a63f746fe42a9b4e6878eac35fa7863", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1643
+          ], 
+          [
+            936, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_comment[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "013b5ee6676bf4201ccbb91122d033aa"
+}

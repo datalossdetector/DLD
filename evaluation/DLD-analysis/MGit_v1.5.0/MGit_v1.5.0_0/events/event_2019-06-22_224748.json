@@ -1,0 +1,50 @@
+{
+  "stop_state": "14003e081abcbe8a168aa5cbe20a1b26", 
+  "event_str": "SetTextEvent(state=e18e0d99a629ed01612e07a20901eda3, view=7ccf16087211defdbfeed2fc531c42a0, text=HelloWorld)", 
+  "tag": "2019-06-22_224748", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 8, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "   ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "711*108", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.manichord.mgit", 
+      "long_clickable": true, 
+      "view_str": "7ccf16087211defdbfeed2fc531c42a0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          173, 
+          88
+        ], 
+        [
+          884, 
+          196
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]   [enabled,,]"
+    }
+  }, 
+  "start_state": "e18e0d99a629ed01612e07a20901eda3"
+}

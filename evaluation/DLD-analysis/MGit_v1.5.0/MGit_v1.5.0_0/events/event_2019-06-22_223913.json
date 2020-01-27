@@ -1,0 +1,50 @@
+{
+  "stop_state": "0325300fea91cdc7b93d39154567aa7c", 
+  "event_str": "SetTextEvent(state=8be3e3b2246ed4dccab863916c3bb4ce, view=88a6cff65ce0b6d9f6950e541616f088, text=HelloWorld)", 
+  "tag": "2019-06-22_223913", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.manichord.mgit:id/editText", 
+      "text": "Commit Hash (copy from commit list)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "870*110", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/editText", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.manichord.mgit", 
+      "long_clickable": true, 
+      "view_str": "88a6cff65ce0b6d9f6950e541616f088", 
+      "enabled": true, 
+      "bounds": [
+        [
+          105, 
+          884
+        ], 
+        [
+          975, 
+          994
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/editText[text]Commit Hash (copy from commit list)[enabled,,]"
+    }
+  }, 
+  "start_state": "8be3e3b2246ed4dccab863916c3bb4ce"
+}

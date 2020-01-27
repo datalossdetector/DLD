@@ -1,0 +1,50 @@
+{
+  "stop_state": "0182a23a2741df1e042b9ce592d3b795", 
+  "event_str": "LongTouchEvent(state=0182a23a2741df1e042b9ce592d3b795, view=ea9adb05acca2a35532d495038319a8d, duration=2000)", 
+  "tag": "2019-06-23_231432", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/readme", 
+      "text": "korean-string\n\nSplit Korean characters to individual compontents, join components together to create characters.\n\nYou could use it to make some weird conjugation rules. Go wild.\n\nMethods\n\nString.split_ko\n\nReturn an array of arrays of Korean character components\n\nrequire 'korean-string'\n'\uc77d\uc5b4\uc2f6'.split_ko\n=> [[\"\u3147\", \"\u3163\", \"\u313a\"], [\"\u3147\", \"\u3153\"], [\"\u3145\", \"\u3163\", \"\u314d\"]] \n\nArray.join_ko\n\nAccepts an array of character pieces\n\nrequire 'korean-string'\n[[\"\u3147\", \"\u3163\", \"\u313a\"], [\"\u3147\", \"\u3153\"], [\"\u3145\", \"\u3163\", \"\u314d\"]].join_ko\n=> '\uc77d\uc5b4\uc2f6' \n\nTodo\n\nCome up with other useful methods?\n\nCopyright\n\nCopyright \u00a9 2010 Ben Humphreys. See LICENSE for details.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*559", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "ea9adb05acca2a35532d495038319a8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          1217
+        ], 
+        [
+          1056, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "0182a23a2741df1e042b9ce592d3b795"
+}

@@ -1,0 +1,49 @@
+{
+  "stop_state": "2de7d2a7b7bc1f5dc142d7b79170d13a", 
+  "event_str": "TouchEvent(state=2de7d2a7b7bc1f5dc142d7b79170d13a, view=ea9adb05acca2a35532d495038319a8d)", 
+  "tag": "2019-06-23_215307", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/readme", 
+      "text": "Encrypt\\Decrypt file(s) with AES 256-bit\n\nDescription\n\nThis is a personal tool i just made for a specific purpose (encrypt multiple files at once to securely backup them on a cloud service) then i decided to add some features and improve the UI(actualy create the UI) to make it used for general purposes.\n\nI'm using the C# implementation of a well-known open source AES encryption library called AES Crypt which means you can use their cross platform tools to decrypt the files you just encrypted with this tool.\n\nScreenshot :\n\n\ufffc\n\nDownload Now (For Testing Or Personal Use Only, Not Production Ready !)\n\n(.NET Framework 4.5 required)\n\nDisclaimer\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n\nTHE AUTHOR IS NOT RESPONSIBLE FOR ANY USAGE ABUSE OR REUSING/EMBEDING ANY PARTS OF THE CODE IN ANY OTHER ILLEGITIMATE SOFTWARES", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*510", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "ea9adb05acca2a35532d495038319a8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          1266
+        ], 
+        [
+          1056, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme[text]None[enabled,,]"
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "2de7d2a7b7bc1f5dc142d7b79170d13a"
+}

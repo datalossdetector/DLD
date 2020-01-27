@@ -1,0 +1,50 @@
+{
+  "stop_state": "b5c23e3443784c2c687db10815bc0c4b", 
+  "event_str": "SetTextEvent(state=1b1612b7d27f0db471b78d872ae852af, view=f04d68145ebedef65faffc27cd376083, text=HelloWorld)", 
+  "tag": "2019-06-18_030814", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 34, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/numberpicker_input", 
+      "text": "Feb", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "192*144", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+      "is_password": false, 
+      "parent": 9, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "it.feio.android.omninotes", 
+      "long_clickable": true, 
+      "view_str": "f04d68145ebedef65faffc27cd376083", 
+      "enabled": true, 
+      "bounds": [
+        [
+          192, 
+          779
+        ], 
+        [
+          384, 
+          923
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]Feb[enabled,,]"
+    }
+  }, 
+  "start_state": "1b1612b7d27f0db471b78d872ae852af"
+}

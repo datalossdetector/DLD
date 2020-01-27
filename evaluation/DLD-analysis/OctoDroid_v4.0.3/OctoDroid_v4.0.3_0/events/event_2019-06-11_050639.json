@@ -1,0 +1,50 @@
+{
+  "stop_state": "0b6e3ba3c0f16afd0d0554313c74813d", 
+  "event_str": "SetTextEvent(state=b74d97d5655359aeffe09f614a849ed9, view=4ffb6307e5e2e9ef987aea11eec298e5, text=HelloWorld)", 
+  "tag": "2019-06-11_050639", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 14, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/et_comment", 
+      "text": "Comment on this commit", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "936*121", 
+      "checked": false, 
+      "temp_id": 53, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_comment", 
+      "is_password": false, 
+      "parent": 52, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "4ffb6307e5e2e9ef987aea11eec298e5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1643
+        ], 
+        [
+          936, 
+          1764
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_comment[text]Comment on this commit[enabled,,]"
+    }
+  }, 
+  "start_state": "b74d97d5655359aeffe09f614a849ed9"
+}

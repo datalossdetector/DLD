@@ -1,0 +1,51 @@
+{
+  "stop_state": "cd77297436fb35ea609810a859235f32", 
+  "event_str": "FillUIEvent(state=5fdcbc594c93d08458d90a1cd6351e8b, views=['325edbbcc5252e058b59bc92c7e305fe'])", 
+  "tag": "2019-06-18_105721", 
+  "event": {
+    "views_str": [
+      "325edbbcc5252e058b59bc92c7e305fe"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "blinkt.de", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "810*136", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "325edbbcc5252e058b59bc92c7e305fe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            135, 
+            839
+          ], 
+          [
+            945, 
+            975
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]blinkt.de[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5fdcbc594c93d08458d90a1cd6351e8b"
+}

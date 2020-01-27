@@ -1,0 +1,51 @@
+{
+  "stop_state": "6239c4bb876553b7aa5e037da508c6be", 
+  "event_str": "FillUIEvent(state=c9b443dba3d0d2754c585f9c6f4415da, views=['6bcbe03e120cd5e408664120deffbbdf'])", 
+  "tag": "2019-06-19_120654", 
+  "event": {
+    "views_str": [
+      "6bcbe03e120cd5e408664120deffbbdf"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/passTitle", 
+        "text": "custotest1testest123t12323m Pass", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "816*181", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "6bcbe03e120cd5e408664120deffbbdf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            320
+          ], 
+          [
+            852, 
+            501
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle[text]custotest1testest123t12323m Pass[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c9b443dba3d0d2754c585f9c6f4415da"
+}

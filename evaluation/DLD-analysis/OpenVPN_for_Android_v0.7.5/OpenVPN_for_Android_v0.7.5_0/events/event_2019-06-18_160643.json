@@ -1,0 +1,50 @@
+{
+  "stop_state": "cf43fd08afa6ee7f4a61f09a60e073c9", 
+  "event_str": "SetTextEvent(state=cf43fd08afa6ee7f4a61f09a60e073c9, view=f570a46d2246d25a1cbb24b9d68f5ca0, text=HelloWorld)", 
+  "tag": "2019-06-18_160643", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 43, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.blinkt.openvpn:id/portnumber", 
+      "text": "1194", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "144*136", 
+      "checked": false, 
+      "temp_id": 55, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/portnumber", 
+      "is_password": false, 
+      "parent": 51, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": true, 
+      "view_str": "f570a46d2246d25a1cbb24b9d68f5ca0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          849, 
+          720
+        ], 
+        [
+          993, 
+          856
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/portnumber[text]1194[enabled,,]"
+    }
+  }, 
+  "start_state": "cf43fd08afa6ee7f4a61f09a60e073c9"
+}

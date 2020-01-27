@@ -1,0 +1,50 @@
+{
+  "stop_state": "089c16887a2aa5ad6abbdcc8c48c10fa", 
+  "event_str": "SetTextEvent(state=9d2168753fc75c7110bad0af06f24ffa, view=cc5e49908009a204e134d8b72e2b1fce, text=HelloWorld)", 
+  "tag": "2019-06-17_135143", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 18, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "it.feio.android.omninotes:id/detail_content", 
+      "text": "test123test123HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "966*66", 
+      "checked": false, 
+      "temp_id": 31, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]it.feio.android.omninotes:id/detail_content", 
+      "is_password": false, 
+      "parent": 30, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "it.feio.android.omninotes", 
+      "long_clickable": true, 
+      "view_str": "cc5e49908009a204e134d8b72e2b1fce", 
+      "enabled": true, 
+      "bounds": [
+        [
+          66, 
+          417
+        ], 
+        [
+          1032, 
+          483
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]it.feio.android.omninotes:id/detail_content[text]test123test123HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "9d2168753fc75c7110bad0af06f24ffa"
+}

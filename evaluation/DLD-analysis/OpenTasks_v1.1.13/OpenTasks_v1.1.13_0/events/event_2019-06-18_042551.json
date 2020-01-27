@@ -1,0 +1,51 @@
+{
+  "stop_state": "f8565ffb467f16622f1e3a2f9a8d6694", 
+  "event_str": "FillUIEvent(state=11e0f006cc0f25c2e30b13d95b2717ed, views=['77b366bb78350163a9cce5a41209bde4'])", 
+  "tag": "2019-06-18_042551", 
+  "event": {
+    "views_str": [
+      "77b366bb78350163a9cce5a41209bde4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.dmfs.tasks:id/visible_task_list_checked", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "72*72", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.dmfs.tasks:id/visible_task_list_checked", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "77b366bb78350163a9cce5a41209bde4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            300
+          ], 
+          [
+            132, 
+            372
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.dmfs.tasks:id/visible_task_list_checked[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "11e0f006cc0f25c2e30b13d95b2717ed"
+}

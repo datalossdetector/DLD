@@ -1,0 +1,50 @@
+{
+  "stop_state": "b0fb075a2f90a0a2fa91746dfc7de033", 
+  "event_str": "LongTouchEvent(state=b0fb075a2f90a0a2fa91746dfc7de033, view=ea9adb05acca2a35532d495038319a8d, duration=2000)", 
+  "tag": "2019-06-24_054443", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/readme", 
+      "text": "React POC\n\nA sample React application with potential Renaissance use cases covered.\n\nProject Setup\n\nThis project was set up with the latest version of create-react-app and then extended/modified to come up with a more suitable started application\n\nChanges made to base app\n\nCSS Related\n\n1. \n\nTurned on CSS modules by changing the css file names from file.css to file.module.css\n\n2. \n\nEnabled SCSS by changing file.module.css to file.module.scss\n\n3. \n\nInstalled node-sass to support SCSS\n\n4. \n\nCreate variables and mixins in shared/scss/mixins(or)variables, consume by using absolute imports in other scss files\n\nFiles and Folders Structure\n\nbuild : The final folder which contains the static files to serve coverage : The folder containing the LCOV report of the tests that ran node_modules : Folder with external dependencies public : Contains files to be merged for creating build src: Source code for the application\n\ncomponents : Contains all stand alone components\nhoc : Contains all HOCs\nroutes : Can also be thought of as pages, essentially the containers which are loaded based on the URL\nshared : All code that is shared between all potential things (components/routes/hocs/etc) \n\ninterfaces: All interfaces used within the application\nscss: All SCSS mixins and variables under their own folders and then imported into a common file for easy consumption\nservices: Any and all data communication services reside in here\n\nstore: Redux related files and folders \n\nsagas: Redux Sagas for async operations\n\nPackage Scripts\n\nApart from the default, few more scripts have been added\n\n1. npm run build:prod generates the build folder without source maps\n2. npm run lint run linting rules and error out if there are any\n3. npm run test to run test\n4. npm run test:ci to run test in CI mode\n\nLinting\n\n1. Extended config available in package.json eslintConfig\n\nTests\n\n1. Added Enzyme to standard test setup\n2. Created mock.store(.tsx) for easier testing\n\nexports\n\n1. No default exports, always use named imports\n2. File heirarchy is as shown below lazy (imports) index (imports) container (imports) component\n\nOther - General\n\n1. File extensions should be .tsx only when React is imported into the file\n2. All file names should be small letters.\n3. Camel case filenames to be replaced with . instead\n\nHelp Needed\n\n1. \n\nEnable service worker to make apps installable on desktops, enhanced caching\n\n2. \n\nMake starter app", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*721", 
+      "checked": false, 
+      "temp_id": 58, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme", 
+      "is_password": false, 
+      "parent": 56, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "ea9adb05acca2a35532d495038319a8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          1055
+        ], 
+        [
+          1056, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "b0fb075a2f90a0a2fa91746dfc7de033"
+}

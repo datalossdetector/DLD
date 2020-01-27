@@ -1,0 +1,50 @@
+{
+  "stop_state": "7d874b95f985128dbb132c1ec17ba74a", 
+  "event_str": "SetTextEvent(state=253e728b6c2a98a6e3ef201324a3dd4a, view=a6cccf33ea434c4da4b309e7930e595d, text=HelloWorld)", 
+  "tag": "2019-06-18_062251", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 41, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/title", 
+      "text": "HelloWorldtest1test12323", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "683*65", 
+      "checked": false, 
+      "temp_id": 40, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/title", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.dmfs.tasks", 
+      "long_clickable": true, 
+      "view_str": "a6cccf33ea434c4da4b309e7930e595d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          265, 
+          1208
+        ], 
+        [
+          948, 
+          1273
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/title[text]HelloWorldtest1test12323[enabled,,]"
+    }
+  }, 
+  "start_state": "253e728b6c2a98a6e3ef201324a3dd4a"
+}

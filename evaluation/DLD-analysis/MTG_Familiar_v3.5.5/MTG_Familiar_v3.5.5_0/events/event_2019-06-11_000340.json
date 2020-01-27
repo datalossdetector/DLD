@@ -1,0 +1,50 @@
+{
+  "stop_state": "46e30bd34cc93e6ddcc813ec7d1f2b84", 
+  "event_str": "SetTextEvent(state=c00ca95ffeba3de00dc88f0961d83e0a, view=6366e9e7e615c58b83a4393d54b5f756, text=HelloWorld)", 
+  "tag": "2019-06-11_000340", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 60, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gelakinetic.mtgfam:id/name_search", 
+      "text": "Name", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*136", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/name_search", 
+      "is_password": false, 
+      "parent": 19, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.gelakinetic.mtgfam", 
+      "long_clickable": true, 
+      "view_str": "6366e9e7e615c58b83a4393d54b5f756", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          252
+        ], 
+        [
+          1032, 
+          388
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/name_search[text]Name[enabled,,]"
+    }
+  }, 
+  "start_state": "c00ca95ffeba3de00dc88f0961d83e0a"
+}

@@ -1,0 +1,127 @@
+{
+  "stop_state": "6b94efefa27c0b852e8e85b3430f5d9f", 
+  "event_str": "FillUIEvent(state=002340b215d2cc771b97ab96129cb008, views=['5083c99783b5fdf48becc1a832ff9713', '5e35599cecb49f27b57385158cec5f86', '1fca45c327e407f4ae715cb545dbeea2'])", 
+  "tag": "2019-06-20_093457", 
+  "event": {
+    "views_str": [
+      "5083c99783b5fdf48becc1a832ff9713", 
+      "5e35599cecb49f27b57385158cec5f86", 
+      "1fca45c327e407f4ae715cb545dbeea2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/passTitle", 
+        "text": "custom Pass", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "337*118", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5083c99783b5fdf48becc1a832ff9713", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            352
+          ], 
+          [
+            373, 
+            470
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle[text]custom Pass[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/label_field_edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*136", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5e35599cecb49f27b57385158cec5f86", 
+        "enabled": true, 
+        "bounds": [
+          [
+            156, 
+            858
+          ], 
+          [
+            348, 
+            994
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/label_field_edit[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/value_field_edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*136", 
+        "checked": false, 
+        "temp_id": 37, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "1fca45c327e407f4ae715cb545dbeea2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            348, 
+            858
+          ], 
+          [
+            540, 
+            994
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/value_field_edit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "002340b215d2cc771b97ab96129cb008"
+}

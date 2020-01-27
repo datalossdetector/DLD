@@ -1,0 +1,50 @@
+{
+  "stop_state": "0955657b594319e2677ccd85d2e18ead", 
+  "event_str": "LongTouchEvent(state=da2d18109fee50b5701c058df6b8abf2, view=b04032856c7534cdd5f0501741be6da8, duration=2000)", 
+  "tag": "2019-06-18_161856", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 26, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/title", 
+      "text": "test123test123HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "683*65", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/title", 
+      "is_password": false, 
+      "parent": 43, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.dmfs.tasks", 
+      "long_clickable": true, 
+      "view_str": "b04032856c7534cdd5f0501741be6da8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          265, 
+          1407
+        ], 
+        [
+          948, 
+          1472
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/title[text]test123test123HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "da2d18109fee50b5701c058df6b8abf2"
+}

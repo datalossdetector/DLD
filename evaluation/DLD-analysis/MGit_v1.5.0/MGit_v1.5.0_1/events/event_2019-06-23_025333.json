@@ -1,0 +1,49 @@
+{
+  "stop_state": "f74db62bdaecf735af438172916c7aca", 
+  "event_str": "TouchEvent(state=f74db62bdaecf735af438172916c7aca, view=8df96a6bf287c7d73b38d597bbd0c53c)", 
+  "tag": "2019-06-23_025333", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "1\nimport subprocess\n2\n\u200b\n3\ndef main():\n4\n    cmd = \"adb shell uiautomator dump\"\n5\n    subprocess.check_output(cmd.split(' '))\n6\n    cmd = \"adb shell cat /sdcard/window_dump.xml\"\n7\n    result = subprocess.check_output(cmd.split(\" \"))\n8\n    print(result)\n9\n    '''\n10\n    f = open(\"prova.txt\", \"w\")\n11\n    f.write(result)\n12\n    print(\"ok\")\n13\n    '''\n14\n\u200b\n15\nif __name__ == \"__main__\":\n16\n    main()\n", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*855", 
+      "checked": false, 
+      "temp_id": 25, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 24, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "com.manichord.mgit", 
+      "long_clickable": false, 
+      "view_str": "8df96a6bf287c7d73b38d597bbd0c53c", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          317
+        ], 
+        [
+          1080, 
+          1172
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f74db62bdaecf735af438172916c7aca"
+}

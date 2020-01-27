@@ -1,0 +1,50 @@
+{
+  "stop_state": "c1553d925ec2669ad763433aa98d09be", 
+  "event_str": "LongTouchEvent(state=c1553d925ec2669ad763433aa98d09be, view=ea9adb05acca2a35532d495038319a8d, duration=2000)", 
+  "tag": "2019-06-09_055259", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/readme", 
+      "text": "Multi Url Picker for Umbraco 7\n\n\n\ufffc \ufffc\n\nAllows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.\n\nInstallation\n\n\nInstall the NuGet package.\n\nor\n\nInstall the package from the Umbraco package repository.\n\nUsage\n\n\nAdd a new property to your document type and select the Multi Url Picker property editor in the pickers category.\n\nIf you're using the models builder, you can access the property on your model e.g. Model.Links if your property alias is links.\n\n\n@{\u00a0var\u00a0links\u00a0=\u00a0Model.Links.ToList();\u00a0}\n\n@if\u00a0(links.Count\u00a0>\u00a00)\n{\n\u00a0\u00a0<ul>\n\u00a0\u00a0\u00a0\u00a0@foreach\u00a0(var\u00a0item\u00a0in\u00a0links)\n\u00a0\u00a0\u00a0\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0<li><a\u00a0href=\"@item.Url\"\u00a0target=\"@item.Target\">@item.Name</a></li>\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0</ul>\n}\n\n\nIf Max number of items is configured to 1\n\n\n@if(Model.Link\u00a0!=\u00a0null)\n{\n\u00a0\u00a0<a\u00a0href=\"@Model.Link.Url\"\u00a0target=\"@Model.Link.Target\">@Model.Link.Name</a>\n}\n\nChangelog\n\n\nSee the changelog here", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*615", 
+      "checked": false, 
+      "temp_id": 57, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme", 
+      "is_password": false, 
+      "parent": 55, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "ea9adb05acca2a35532d495038319a8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          1161
+        ], 
+        [
+          1056, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "c1553d925ec2669ad763433aa98d09be"
+}

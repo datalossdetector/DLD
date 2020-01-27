@@ -1,0 +1,50 @@
+{
+  "stop_state": "6f008e6d5523af53c37600efd09d782c", 
+  "event_str": "SetTextEvent(state=c02c42b084a8855ff9df9fe97bff1e45, view=be6266540a82bca090abd1b327924860, text=HelloWorld)", 
+  "tag": "2019-06-18_173031", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "2", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*136", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": true, 
+      "view_str": "be6266540a82bca090abd1b327924860", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          960
+        ], 
+        [
+          945, 
+          1096
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]2[enabled,,]"
+    }
+  }, 
+  "start_state": "c02c42b084a8855ff9df9fe97bff1e45"
+}

@@ -1,0 +1,127 @@
+{
+  "stop_state": "429887ecb7023308f0ab1a346e4a39da", 
+  "event_str": "FillUIEvent(state=48b8644cdaf200ccf60449476ae376a9, views=['ebad7966e0e743a8dacc8df1d9dc74b5', '31ab74aa4068b38252474e5ee51aa944', 'a5c6153901b9c1e552d387819a92dedc'])", 
+  "tag": "2019-06-15_003429", 
+  "event": {
+    "views_str": [
+      "ebad7966e0e743a8dacc8df1d9dc74b5", 
+      "31ab74aa4068b38252474e5ee51aa944", 
+      "a5c6153901b9c1e552d387819a92dedc"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "30", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*144", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": true, 
+        "view_str": "ebad7966e0e743a8dacc8df1d9dc74b5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            444, 
+            672
+          ], 
+          [
+            636, 
+            816
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]30[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/beforeGunes", 
+        "text": "Prije izlaska sunca", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "442*96", 
+        "checked": true, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.metinkale.prayer:id/beforeGunes", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "31ab74aa4068b38252474e5ee51aa944", 
+        "enabled": true, 
+        "bounds": [
+          [
+            319, 
+            1014
+          ], 
+          [
+            761, 
+            1110
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.metinkale.prayer:id/beforeGunes[text]Prije izlaska sunca[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/afterImsak", 
+        "text": "Poslje sabaha", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "359*96", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.metinkale.prayer:id/afterImsak", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "a5c6153901b9c1e552d387819a92dedc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            319, 
+            1110
+          ], 
+          [
+            678, 
+            1206
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.metinkale.prayer:id/afterImsak[text]Poslje sabaha[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "48b8644cdaf200ccf60449476ae376a9"
+}

@@ -1,0 +1,583 @@
+{
+  "stop_state": "7851118425777b659ab04042adec60fc", 
+  "event_str": "FillUIEvent(state=5b4a88d983bd127c659fc9404c74a9c9, views=['d0571c171c615a83684db309e0c02379', '24b672f74595ae31305134f3e7c75851', 'f1fc4d9cf4d35bf900278a8d734f0a08', 'fb3d1bf4abcc1503d52f4359752b43a5', '82c6849f4f221db9212cddc3f9176c4c', '1a2d00c01a701e1255fc7e162f5c65ad', 'd11953526f2068edfe2563a1e869adf0', 'fa9c0a9b88b33732396d4ae62c8d1c49', 'e40a8c9a60026795babcaaff31f2f329', 'f109170a0df1b46ccedbe95352e75c3c', '8604e90baa305dbb7f007855379c3272', '0efe0534e62e66dc3785f33a4691a739', '63e975d69a84c535ff74c3806bcc1ca8', '8c022298db3493da0c2101149dca9ab4', '29407e2a9dae596ca2f47175836f0a9d'])", 
+  "tag": "2019-06-15_105804", 
+  "event": {
+    "views_str": [
+      "d0571c171c615a83684db309e0c02379", 
+      "24b672f74595ae31305134f3e7c75851", 
+      "f1fc4d9cf4d35bf900278a8d734f0a08", 
+      "fb3d1bf4abcc1503d52f4359752b43a5", 
+      "82c6849f4f221db9212cddc3f9176c4c", 
+      "1a2d00c01a701e1255fc7e162f5c65ad", 
+      "d11953526f2068edfe2563a1e869adf0", 
+      "fa9c0a9b88b33732396d4ae62c8d1c49", 
+      "e40a8c9a60026795babcaaff31f2f329", 
+      "f109170a0df1b46ccedbe95352e75c3c", 
+      "8604e90baa305dbb7f007855379c3272", 
+      "0efe0534e62e66dc3785f33a4691a739", 
+      "63e975d69a84c535ff74c3806bcc1ca8", 
+      "8c022298db3493da0c2101149dca9ab4", 
+      "29407e2a9dae596ca2f47175836f0a9d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/ongoing", 
+        "text": "\u0648\u064a\u062f\u062c\u064a\u062a \u0627\u0644\u062a\u0646\u0628\u064a\u0647 \u062a\u0634\u063a\u064a\u0644", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "1020*147", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/ongoing", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "d0571c171c615a83684db309e0c02379", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            270
+          ], 
+          [
+            1050, 
+            417
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/ongoing[text]\u0648\u064a\u062f\u062c\u064a\u062a \u0627\u0644\u062a\u0646\u0628\u064a\u0647 \u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/fajr", 
+        "text": "\u062a\u0634\u063a\u064a\u0644", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/fajr", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "24b672f74595ae31305134f3e7c75851", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            613
+          ], 
+          [
+            215, 
+            694
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/fajr[text]\u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/sabah", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/sabah", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "f1fc4d9cf4d35bf900278a8d734f0a08", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            787
+          ], 
+          [
+            215, 
+            868
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/sabah[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/sun", 
+        "text": "\u062a\u0634\u063a\u064a\u0644", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/sun", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "fb3d1bf4abcc1503d52f4359752b43a5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            961
+          ], 
+          [
+            215, 
+            1042
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/sun[text]\u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/zuhr", 
+        "text": "\u062a\u0634\u063a\u064a\u0644", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 31, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/zuhr", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "82c6849f4f221db9212cddc3f9176c4c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1135
+          ], 
+          [
+            215, 
+            1216
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/zuhr[text]\u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/asr", 
+        "text": "\u062a\u0634\u063a\u064a\u0644", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/asr", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "1a2d00c01a701e1255fc7e162f5c65ad", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1549
+          ], 
+          [
+            215, 
+            1630
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/asr[text]\u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/maghrib", 
+        "text": "\u062a\u0634\u063a\u064a\u0644", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*53", 
+        "checked": true, 
+        "temp_id": 42, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/maghrib", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "d11953526f2068edfe2563a1e869adf0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1723
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/maghrib[text]\u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/ishaa", 
+        "text": "\u062a\u0634\u063a\u064a\u0644", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-121", 
+        "checked": true, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/ishaa", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "fa9c0a9b88b33732396d4ae62c8d1c49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1897
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/ishaa[text]\u062a\u0634\u063a\u064a\u0644[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/eimsak", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-413", 
+        "checked": false, 
+        "temp_id": 49, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eimsak", 
+        "is_password": false, 
+        "parent": 47, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "e40a8c9a60026795babcaaff31f2f329", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            2189
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eimsak[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/egunes", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-587", 
+        "checked": false, 
+        "temp_id": 52, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/egunes", 
+        "is_password": false, 
+        "parent": 50, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "f109170a0df1b46ccedbe95352e75c3c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            2363
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/egunes[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/eogle", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-761", 
+        "checked": false, 
+        "temp_id": 55, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eogle", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "8604e90baa305dbb7f007855379c3272", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            2537
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eogle[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/ecuma", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-935", 
+        "checked": false, 
+        "temp_id": 58, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/ecuma", 
+        "is_password": false, 
+        "parent": 56, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "0efe0534e62e66dc3785f33a4691a739", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            2711
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/ecuma[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/eikindi", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-1109", 
+        "checked": false, 
+        "temp_id": 61, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eikindi", 
+        "is_password": false, 
+        "parent": 59, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "63e975d69a84c535ff74c3806bcc1ca8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            2885
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eikindi[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/eaksam", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-1283", 
+        "checked": false, 
+        "temp_id": 64, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eaksam", 
+        "is_password": false, 
+        "parent": 62, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "8c022298db3493da0c2101149dca9ab4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            3059
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eaksam[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/eyatsi", 
+        "text": "\u0625\u064a\u0642\u0627\u0641", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*-1457", 
+        "checked": false, 
+        "temp_id": 67, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eyatsi", 
+        "is_password": false, 
+        "parent": 65, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "29407e2a9dae596ca2f47175836f0a9d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            3233
+          ], 
+          [
+            215, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.metinkale.prayer:id/eyatsi[text]\u0625\u064a\u0642\u0627\u0641[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5b4a88d983bd127c659fc9404c74a9c9"
+}

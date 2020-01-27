@@ -1,0 +1,49 @@
+{
+  "stop_state": "f954340ddd5f0198b789ad26df29b8cf", 
+  "event_str": "TouchEvent(state=f954340ddd5f0198b789ad26df29b8cf, view=a24c62f08fccb0f5350ccdbc09451052)", 
+  "tag": "2019-06-19_053804", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.blinkt.openvpn:id/dialogHeader", 
+      "text": "Specify the check used to verify the remote certificate DN (e.g. C=DE, L=Paderborn, OU=Avian IP Carriers, CN=openvpn.blinkt.de)\n\nSpecify the complete DN or the RDN (openvpn.blinkt.de in the example) or an RDN prefix for verification.\n\nWhen using RDN prefix \"Server\" matches \"Server-1\" and \"Server-2\"\n\nLeaving the text field empty will check the RDN against the server hostname.\n\nFor more details see the OpenVPN 2.3.1+ manpage under \u2014verify-x509-name", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "882*792", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]de.blinkt.openvpn:id/dialogHeader", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": false, 
+      "view_str": "a24c62f08fccb0f5350ccdbc09451052", 
+      "enabled": true, 
+      "bounds": [
+        [
+          99, 
+          377
+        ], 
+        [
+          981, 
+          1169
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]de.blinkt.openvpn:id/dialogHeader[text]None[enabled,,]"
+    }, 
+    "id": 11, 
+    "event_type": "touch"
+  }, 
+  "start_state": "f954340ddd5f0198b789ad26df29b8cf"
+}

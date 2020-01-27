@@ -1,0 +1,50 @@
+{
+  "stop_state": "6f5338bb3d3f0a723bcf19cb8726fa20", 
+  "event_str": "SetTextEvent(state=800ae1e4ffc00a4615c85884c2d9dec6, view=f8da7a26a49f93f906e2066860704e41, text=HelloWorld)", 
+  "tag": "2019-06-24_010734", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/edit", 
+      "text": "HelloWorldHelloWorldtest123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "546*136", 
+      "checked": false, 
+      "temp_id": 76, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+      "is_password": false, 
+      "parent": 75, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "f8da7a26a49f93f906e2066860704e41", 
+      "enabled": true, 
+      "bounds": [
+        [
+          216, 
+          88
+        ], 
+        [
+          762, 
+          224
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]HelloWorldHelloWorldtest123[enabled,,]"
+    }
+  }, 
+  "start_state": "800ae1e4ffc00a4615c85884c2d9dec6"
+}

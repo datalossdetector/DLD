@@ -1,0 +1,51 @@
+{
+  "stop_state": "14c47ab8dee10505c2e033244f7e7756", 
+  "event_str": "FillUIEvent(state=d27a56e059157c4c2f084e11ebc23226, views=['d738d4d5613a137b079549016c19182b'])", 
+  "tag": "2019-06-09_030051", 
+  "event": {
+    "views_str": [
+      "d738d4d5613a137b079549016c19182b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gh4a:id/et_label", 
+        "text": "invalid", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*136", 
+        "checked": false, 
+        "temp_id": 44, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_label", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "d738d4d5613a137b079549016c19182b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1458
+          ], 
+          [
+            1032, 
+            1594
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_label[text]invalid[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d27a56e059157c4c2f084e11ebc23226"
+}

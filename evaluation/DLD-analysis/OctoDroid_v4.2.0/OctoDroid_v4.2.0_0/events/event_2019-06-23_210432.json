@@ -1,0 +1,50 @@
+{
+  "stop_state": "557cd8e95e754c214618db89905a682e", 
+  "event_str": "LongTouchEvent(state=557cd8e95e754c214618db89905a682e, view=ea9adb05acca2a35532d495038319a8d, duration=2000)", 
+  "tag": "2019-06-23_210432", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 13, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/readme", 
+      "text": "Libplanet\n\n\ufffc \ufffc \ufffc \ufffc \ufffc\n\nLibplanet is a .NET library for creating multiplayer online game in decentralized fashion, which means the whole gameplay occurs on a peer-to-peer network among equal nodes rather than an authorized central server. Under the hood, it incorporates many features (e.g., digital signature, BFT consensus, data replication) of a blockchain.\n\nNuGet\n\nFor every stable release, we pack Libplanet into a .nupkg and upload it to NuGet and GitHub releases page. (You can find changelog for versions from releases page.) To use Libplanet in your game, your project needs to add a dependency to Libplanet package. On Visual Studio IDE, run the following command in Package Manager Console:\n\nInstall-Package Libplanet\n\nIf you prefer dotnet CLI run the following command instead:\n\ndotnet add package Libplanet\n\nSee also Microsoft's docs on different ways to install NuGet package.\n\nIn addition to stable releases, we also provide pre-release packages. For everyday and every merge commit, it is packed into a .nupkg and uploaded to NuGet with a hyphen-suffixed version name.\n\nFor a merge commit build, a version name is like 0.1.0-dev.123+20181231 where 123 is a build number in our CI system and 20181231 is a date of the build. For a daily build, a version name is like 0.1.0-nightly.20181231.\n\nUnfortuneatly, Unity currently does not support NuGet. There are some Unity plug-ins to deal with NuGet package system, and these seem immature at present. To use Libplanet on Unity, you need to manually extract Libplanet.dll from Libplanet.*.nupkg file and place it inside of your Unity project. We are acknowledging the fact Libplanet is currently not very usable together with Unity, and promise to make it better in next few minor releases. In the near future, we are going to submit it to Unity Asset Store too.\n\nBuild\n\nYou could build a Libplanet.dll assembly from the source code.\n\nThe following command installs dependencies (required library packages) and builds the whole Libplanet solution:\n\nmsbuild -r\n\nNote that msbuild is distributed together with Mono framework or Visual Studio.\n\nIf you'd like to contribute code to the Libplanet project in earnest, please read our contributor guide.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*1560", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "ea9adb05acca2a35532d495038319a8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          216
+        ], 
+        [
+          1056, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "557cd8e95e754c214618db89905a682e"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "f6110e14655f05b381b3018d2545122a", 
+  "event_str": "FillUIEvent(state=453a898de42590c02c4b53914ffa15db, views=['f43abbb6ad6bbd3f8c505183de259454'])", 
+  "tag": "2019-06-18_174403", 
+  "event": {
+    "views_str": [
+      "f43abbb6ad6bbd3f8c505183de259454"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/input", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "792*136", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "f43abbb6ad6bbd3f8c505183de259454", 
+        "enabled": true, 
+        "bounds": [
+          [
+            144, 
+            871
+          ], 
+          [
+            936, 
+            1007
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/input[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "453a898de42590c02c4b53914ffa15db"
+}

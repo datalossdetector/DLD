@@ -1,0 +1,735 @@
+{
+  "stop_state": "fc3b4345d81941e9246160e600ebddcc", 
+  "event_str": "FillUIEvent(state=5453979b8fc1f98953e78df51de07438, views=['c0512cd496bcc0eb8d1a859d739cb0da', '89918d769e151d0e262009268ffc4138', 'c6e14e68767dc68234537bab781cf4f2', '6326e5f832f03a0c825f54ab6a4ff41e', '2c39829e6d451037ba224606c0b54ed1', 'ccf8682ed4e33465118035652079b764', 'f570a46d2246d25a1cbb24b9d68f5ca0', '2ea14542515f5fb4b8bd35af47e96fbc', '1a167debd6c39fe80e511d6abc6b81d6', '9a08a06bc3cb86b32d17cf20e5075e1f', '76507a06f300573fd8f5246a9e4dd63d', '96470938e9e1c938e665a0e9404aa1c9', '20a1705bc3c31306c04398a2744176d0', 'be5a0bcdbbb1ad4dc310566d0e6c2548', '0e7d2a3935658fb20d185b80726fa629', '8b28d4c4c213fa65bf1bdd3a34e2e6d0', '4a379b5ba05a8077f9e2ed24c046d997', '7523556710ed82aa382b1e063455d125', '7523556710ed82aa382b1e063455d125'])", 
+  "tag": "2019-06-19_003158", 
+  "event": {
+    "views_str": [
+      "c0512cd496bcc0eb8d1a859d739cb0da", 
+      "89918d769e151d0e262009268ffc4138", 
+      "c6e14e68767dc68234537bab781cf4f2", 
+      "6326e5f832f03a0c825f54ab6a4ff41e", 
+      "2c39829e6d451037ba224606c0b54ed1", 
+      "ccf8682ed4e33465118035652079b764", 
+      "f570a46d2246d25a1cbb24b9d68f5ca0", 
+      "2ea14542515f5fb4b8bd35af47e96fbc", 
+      "1a167debd6c39fe80e511d6abc6b81d6", 
+      "9a08a06bc3cb86b32d17cf20e5075e1f", 
+      "76507a06f300573fd8f5246a9e4dd63d", 
+      "96470938e9e1c938e665a0e9404aa1c9", 
+      "20a1705bc3c31306c04398a2744176d0", 
+      "be5a0bcdbbb1ad4dc310566d0e6c2548", 
+      "0e7d2a3935658fb20d185b80726fa629", 
+      "8b28d4c4c213fa65bf1bdd3a34e2e6d0", 
+      "4a379b5ba05a8077f9e2ed24c046d997", 
+      "7523556710ed82aa382b1e063455d125", 
+      "7523556710ed82aa382b1e063455d125"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/profilename", 
+        "text": "test123test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-59*136", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/profilename", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "c0512cd496bcc0eb8d1a859d739cb0da", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            525
+          ], 
+          [
+            -59, 
+            661
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/profilename[text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/lzo", 
+        "text": "LZO Compression", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-59*96", 
+        "checked": true, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/lzo", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "89918d769e151d0e262009268ffc4138", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            661
+          ], 
+          [
+            -59, 
+            757
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/lzo[text]LZO Compression[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/auth_username", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-83*136", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/auth_username", 
+        "is_password": false, 
+        "parent": 49, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "c6e14e68767dc68234537bab781cf4f2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1600
+          ], 
+          [
+            -83, 
+            1736
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/auth_username[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/auth_password", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "-83*-17", 
+        "checked": false, 
+        "temp_id": 53, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/auth_password", 
+        "is_password": true, 
+        "parent": 49, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "6326e5f832f03a0c825f54ab6a4ff41e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1793
+          ], 
+          [
+            -83, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/auth_password[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/remote_random", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 66, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]de.blinkt.openvpn:id/remote_random", 
+        "is_password": false, 
+        "parent": 64, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "2c39829e6d451037ba224606c0b54ed1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            451
+          ], 
+          [
+            1032, 
+            532
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]de.blinkt.openvpn:id/remote_random[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/servername", 
+        "text": "openvpn.example.com", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "762*136", 
+        "checked": false, 
+        "temp_id": 73, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/servername", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "ccf8682ed4e33465118035652079b764", 
+        "enabled": true, 
+        "bounds": [
+          [
+            87, 
+            720
+          ], 
+          [
+            849, 
+            856
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/servername[text]openvpn.example.com[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/portnumber", 
+        "text": "1194", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "144*136", 
+        "checked": false, 
+        "temp_id": 74, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/portnumber", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "f570a46d2246d25a1cbb24b9d68f5ca0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            849, 
+            720
+          ], 
+          [
+            993, 
+            856
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/portnumber[text]1194[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/remoteSwitch", 
+        "text": "Enabled ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "290*81", 
+        "checked": true, 
+        "temp_id": 76, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]de.blinkt.openvpn:id/remoteSwitch", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "2ea14542515f5fb4b8bd35af47e96fbc", 
+        "enabled": true, 
+        "bounds": [
+          [
+            703, 
+            856
+          ], 
+          [
+            993, 
+            937
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]de.blinkt.openvpn:id/remoteSwitch[text]Enabled ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/udp_proto", 
+        "text": "UDP", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "178*96", 
+        "checked": true, 
+        "temp_id": 78, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/udp_proto", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "1a167debd6c39fe80e511d6abc6b81d6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            943
+          ], 
+          [
+            325, 
+            1039
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/udp_proto[text]UDP[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/tcp_proto", 
+        "text": "TCP", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "174*96", 
+        "checked": false, 
+        "temp_id": 79, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/tcp_proto", 
+        "is_password": false, 
+        "parent": 77, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "9a08a06bc3cb86b32d17cf20e5075e1f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            385, 
+            943
+          ], 
+          [
+            559, 
+            1039
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/tcp_proto[text]TCP[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/proxy_none", 
+        "text": "None", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "195*96", 
+        "checked": true, 
+        "temp_id": 83, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_none", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "76507a06f300573fd8f5246a9e4dd63d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            1096
+          ], 
+          [
+            342, 
+            1192
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_none[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/proxy_http", 
+        "text": "HTTP", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "202*96", 
+        "checked": false, 
+        "temp_id": 84, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_http", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "96470938e9e1c938e665a0e9404aa1c9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            372, 
+            1096
+          ], 
+          [
+            574, 
+            1192
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_http[text]HTTP[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/proxy_socks", 
+        "text": "Socksv5", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "254*96", 
+        "checked": false, 
+        "temp_id": 85, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_socks", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "20a1705bc3c31306c04398a2744176d0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            604, 
+            1096
+          ], 
+          [
+            858, 
+            1192
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_socks[text]Socksv5[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/proxy_orbot", 
+        "text": "Tor (Orbot)", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "45*528", 
+        "checked": false, 
+        "temp_id": 86, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_orbot", 
+        "is_password": false, 
+        "parent": 82, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "be5a0bcdbbb1ad4dc310566d0e6c2548", 
+        "enabled": true, 
+        "bounds": [
+          [
+            888, 
+            1115
+          ], 
+          [
+            933, 
+            1643
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blinkt.openvpn:id/proxy_orbot[text]Tor (Orbot)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/connect_timeout", 
+        "text": "120", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "189*-2", 
+        "checked": false, 
+        "temp_id": 90, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/connect_timeout", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": true, 
+        "view_str": "0e7d2a3935658fb20d185b80726fa629", 
+        "enabled": true, 
+        "bounds": [
+          [
+            804, 
+            1730
+          ], 
+          [
+            993, 
+            1728
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/connect_timeout[text]120[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/use_customoptions", 
+        "text": "Custom Options", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*-138", 
+        "checked": false, 
+        "temp_id": 91, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/use_customoptions", 
+        "is_password": false, 
+        "parent": 70, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "8b28d4c4c213fa65bf1bdd3a34e2e6d0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            87, 
+            1866
+          ], 
+          [
+            486, 
+            1728
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/use_customoptions[text]Custom Options[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-892*81", 
+        "checked": true, 
+        "temp_id": 100, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 99, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "4a379b5ba05a8077f9e2ed24c046d997", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1972, 
+            501
+          ], 
+          [
+            1080, 
+            582
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-936*96", 
+        "checked": false, 
+        "temp_id": 113, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 112, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "7523556710ed82aa382b1e063455d125", 
+        "enabled": true, 
+        "bounds": [
+          [
+            2016, 
+            1175
+          ], 
+          [
+            1080, 
+            1271
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-936*96", 
+        "checked": false, 
+        "temp_id": 120, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 119, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "7523556710ed82aa382b1e063455d125", 
+        "enabled": true, 
+        "bounds": [
+          [
+            2016, 
+            1504
+          ], 
+          [
+            1080, 
+            1600
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5453979b8fc1f98953e78df51de07438"
+}

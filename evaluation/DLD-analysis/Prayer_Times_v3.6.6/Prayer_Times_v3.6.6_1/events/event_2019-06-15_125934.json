@@ -1,0 +1,203 @@
+{
+  "stop_state": "66dfad6f16177a5d0fbe9195b58715ea", 
+  "event_str": "FillUIEvent(state=b4c756d3bf0d08e260d03e74893fae59, views=['7129f941d1f5f55fd4454afef9d0336d', '2d197cf72930fbb86d97f455896ac729', '9cf9ce3dd2f9de64c847583d3da6fe7c', '9cf9ce3dd2f9de64c847583d3da6fe7c', '7129f941d1f5f55fd4454afef9d0336d'])", 
+  "tag": "2019-06-15_125934", 
+  "event": {
+    "views_str": [
+      "7129f941d1f5f55fd4454afef9d0336d", 
+      "2d197cf72930fbb86d97f455896ac729", 
+      "9cf9ce3dd2f9de64c847583d3da6fe7c", 
+      "9cf9ce3dd2f9de64c847583d3da6fe7c", 
+      "7129f941d1f5f55fd4454afef9d0336d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "7129f941d1f5f55fd4454afef9d0336d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            750
+          ], 
+          [
+            1032, 
+            831
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "2d197cf72930fbb86d97f455896ac729", 
+        "enabled": false, 
+        "bounds": [
+          [
+            892, 
+            914
+          ], 
+          [
+            1032, 
+            995
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "9cf9ce3dd2f9de64c847583d3da6fe7c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1078
+          ], 
+          [
+            1032, 
+            1159
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 49, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "9cf9ce3dd2f9de64c847583d3da6fe7c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1570
+          ], 
+          [
+            1032, 
+            1651
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*42", 
+        "checked": false, 
+        "temp_id": 55, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget", 
+        "is_password": false, 
+        "parent": 54, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": false, 
+        "view_str": "7129f941d1f5f55fd4454afef9d0336d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            892, 
+            1734
+          ], 
+          [
+            1032, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/switchWidget[text]OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b4c756d3bf0d08e260d03e74893fae59"
+}

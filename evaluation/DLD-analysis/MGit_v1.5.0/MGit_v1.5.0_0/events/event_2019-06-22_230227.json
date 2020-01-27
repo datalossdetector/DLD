@@ -1,0 +1,51 @@
+{
+  "stop_state": "2fbe1ffb65b2a998d3a8320520f9e8d1", 
+  "event_str": "FillUIEvent(state=5a0854ee62b9dc06043bf24e230fbcfb, views=['5d9afac6d40a7d4decd2e35c64ea6baa'])", 
+  "tag": "2019-06-22_230227", 
+  "event": {
+    "views_str": [
+      "5d9afac6d40a7d4decd2e35c64ea6baa"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "900*118", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "5d9afac6d40a7d4decd2e35c64ea6baa", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            869
+          ], 
+          [
+            990, 
+            987
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5a0854ee62b9dc06043bf24e230fbcfb"
+}

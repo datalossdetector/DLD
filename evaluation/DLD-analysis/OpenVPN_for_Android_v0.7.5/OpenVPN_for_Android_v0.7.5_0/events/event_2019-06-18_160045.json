@@ -1,0 +1,49 @@
+{
+  "stop_state": "6a6d71f5eb63dcef7db319c2297fb69e", 
+  "event_str": "TouchEvent(state=6a6d71f5eb63dcef7db319c2297fb69e, view=c8d550bcf8ea5bcfdf370cd1cb090a21)", 
+  "tag": "2019-06-18_160045", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/summary", 
+      "text": "Networks directly connected to the local interfaces will not be routed over the VPN. Deselecting this option will redirect all traffic intented for local networks to the VPN.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*204", 
+      "checked": false, 
+      "temp_id": 64, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/summary", 
+      "is_password": false, 
+      "parent": 62, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": false, 
+      "view_str": "c8d550bcf8ea5bcfdf370cd1cb090a21", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          742
+        ], 
+        [
+          888, 
+          946
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/summary[text]None[enabled,,]"
+    }, 
+    "id": 30, 
+    "event_type": "touch"
+  }, 
+  "start_state": "6a6d71f5eb63dcef7db319c2297fb69e"
+}

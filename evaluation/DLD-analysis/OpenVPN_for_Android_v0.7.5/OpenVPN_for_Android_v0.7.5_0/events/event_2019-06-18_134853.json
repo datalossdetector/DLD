@@ -1,0 +1,49 @@
+{
+  "stop_state": "5ba9ae2d3318c371461d158821d70822", 
+  "event_str": "TouchEvent(state=5ba9ae2d3318c371461d158821d70822, view=5351f5b9b1d4976716e1a0629bc1f1d5)", 
+  "tag": "2019-06-18_134853", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "Announce to TCP sessions running over the tunnel that they should limit their send packet sizes such that after OpenVPN has encapsulated them, the resulting UDP packet size that OpenVPN sends to its peer will not exceed this number of bytes. (default is 1450)", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*351", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": false, 
+      "view_str": "5351f5b9b1d4976716e1a0629bc1f1d5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          592
+        ], 
+        [
+          945, 
+          943
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]"
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "5ba9ae2d3318c371461d158821d70822"
+}

@@ -1,0 +1,49 @@
+{
+  "stop_state": "16d237c5069b2da1e8241fa9e6a2f416", 
+  "event_str": "TouchEvent(state=16d237c5069b2da1e8241fa9e6a2f416, view=c61b8d8d6e35af097af385a48d29d0f4)", 
+  "tag": "2019-06-18_195441", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.blinkt.openvpn:id/faq_body", 
+      "text": "Get a working config (tested on your computer or download from your provider/organisation)\n\nIf it is a single file with no extra pem/pkcs12 files you can email the file yourself and open the attachment. If you have multiple files put them on your sd card.\n\nClick on the email attachment/Use the folder icon in the vpn list to import the config file\n\nIf there are errors about missing files put the missing files on your sd card.\n\nClick on the save symbol to add the imported VPN to your VPN list\n\nConnect the VPN by clicking on the name of the VPN\n\nIf there are error or warnings in the log try to understand the warnings/error and try to fix them\n\n", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "972*1205", 
+      "checked": false, 
+      "temp_id": 46, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]de.blinkt.openvpn:id/faq_body", 
+      "is_password": false, 
+      "parent": 44, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": true, 
+      "view_str": "c61b8d8d6e35af097af385a48d29d0f4", 
+      "enabled": true, 
+      "bounds": [
+        [
+          54, 
+          571
+        ], 
+        [
+          1026, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]de.blinkt.openvpn:id/faq_body[text]None[enabled,,]"
+    }, 
+    "id": 0, 
+    "event_type": "touch"
+  }, 
+  "start_state": "16d237c5069b2da1e8241fa9e6a2f416"
+}

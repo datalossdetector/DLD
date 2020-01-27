@@ -1,0 +1,50 @@
+{
+  "stop_state": "7996fa5181ed4945e6297f43961c7318", 
+  "event_str": "SetTextEvent(state=004d78c573f1423ac337e63a8ea27c1f, view=ec91829a60d6f4bf5ac5b630fb1b1139, text=HelloWorld)", 
+  "tag": "2019-06-18_170039", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 4, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/input", 
+      "text": "My tasks", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "720*136", 
+      "checked": false, 
+      "temp_id": 5, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input", 
+      "is_password": false, 
+      "parent": 3, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.dmfs.tasks", 
+      "long_clickable": true, 
+      "view_str": "ec91829a60d6f4bf5ac5b630fb1b1139", 
+      "enabled": true, 
+      "bounds": [
+        [
+          180, 
+          862
+        ], 
+        [
+          900, 
+          998
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/input[text]My tasks[enabled,,]"
+    }
+  }, 
+  "start_state": "004d78c573f1423ac337e63a8ea27c1f"
+}

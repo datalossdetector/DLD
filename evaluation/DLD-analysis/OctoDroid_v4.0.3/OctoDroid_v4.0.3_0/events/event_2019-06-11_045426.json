@@ -1,0 +1,89 @@
+{
+  "stop_state": "a46c0694f2e7822bfbe53704795b68f6", 
+  "event_str": "FillUIEvent(state=9cd8afb3dc96a8e03737438b13b205d7, views=['a0a08a8dbcd2aa1f25920593d1c78f60', '480ebe15d77e48c1a8e06b95c33a312e'])", 
+  "tag": "2019-06-11_045426", 
+  "event": {
+    "views_str": [
+      "a0a08a8dbcd2aa1f25920593d1c78f60", 
+      "480ebe15d77e48c1a8e06b95c33a312e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gh4a:id/et_title", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*120", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_title", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "a0a08a8dbcd2aa1f25920593d1c78f60", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            321
+          ], 
+          [
+            1032, 
+            441
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_title[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gh4a:id/et_desc", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*218", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_desc", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "480ebe15d77e48c1a8e06b95c33a312e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            510
+          ], 
+          [
+            1032, 
+            728
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_desc[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9cd8afb3dc96a8e03737438b13b205d7"
+}

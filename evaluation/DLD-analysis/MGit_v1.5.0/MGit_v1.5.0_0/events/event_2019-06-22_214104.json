@@ -1,0 +1,241 @@
+{
+  "stop_state": "cd36277d6ef3223b77e0625d5dda239f", 
+  "event_str": "FillUIEvent(state=d97dfa281ddffb406982e5872880f0df, views=['5d7ac19e877872c226c4358ce57df188', '101c22f917b5b4c284a0f52e284326ce', 'f0a32cee8ef3230beab19bfd79fd20cd', '59864bde272aef48303eeaebd646100b', 'a7ac3d03be943bdc0af376ba8855f0be', 'cae7d36f6e61ff550eb13c9e9b8525c8'])", 
+  "tag": "2019-06-22_214104", 
+  "event": {
+    "views_str": [
+      "5d7ac19e877872c226c4358ce57df188", 
+      "101c22f917b5b4c284a0f52e284326ce", 
+      "f0a32cee8ef3230beab19bfd79fd20cd", 
+      "59864bde272aef48303eeaebd646100b", 
+      "a7ac3d03be943bdc0af376ba8855f0be", 
+      "cae7d36f6e61ff550eb13c9e9b8525c8"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/remoteURL", 
+        "text": "https://github.com/stagedataloss4/test.git", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/remoteURL", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "5d7ac19e877872c226c4358ce57df188", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            589
+          ], 
+          [
+            975, 
+            699
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/remoteURL[text]https://github.com/stagedataloss4/test.git[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/localPath", 
+        "text": "test", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/localPath", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "101c22f917b5b4c284a0f52e284326ce", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            729
+          ], 
+          [
+            975, 
+            839
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/localPath[text]test[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/username", 
+        "text": "stagedataloss4", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/username", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "f0a32cee8ef3230beab19bfd79fd20cd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            869
+          ], 
+          [
+            975, 
+            979
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/username[text]stagedataloss4[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/password", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/password", 
+        "is_password": true, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "59864bde272aef48303eeaebd646100b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            1009
+          ], 
+          [
+            975, 
+            1119
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/password[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/savePassword", 
+        "text": "Save username and password", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "900*96", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/savePassword", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "a7ac3d03be943bdc0af376ba8855f0be", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            1134
+          ], 
+          [
+            990, 
+            1230
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/savePassword[text]Save username and password[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/cloneRecursive", 
+        "text": "Clone recursively", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "900*96", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/cloneRecursive", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "cae7d36f6e61ff550eb13c9e9b8525c8", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            1230
+          ], 
+          [
+            990, 
+            1326
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/cloneRecursive[text]Clone recursively[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d97dfa281ddffb406982e5872880f0df"
+}

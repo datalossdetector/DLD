@@ -1,0 +1,49 @@
+{
+  "stop_state": "620a67178771d1944795e4f0c82fc0e7", 
+  "event_str": "TouchEvent(state=d10a01ec2a4a14bb62aebf4393b970a9, view=915035acda81eca2639205affe00b4f6)", 
+  "tag": "2019-06-19_032426", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/summary", 
+      "text": "OpenVPN will connect the specified VPN if it was active on system boot. Please read the connection warning FAQ before using this option on Android < 5.0.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "840*204", 
+      "checked": false, 
+      "temp_id": 49, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/summary", 
+      "is_password": false, 
+      "parent": 47, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": false, 
+      "view_str": "915035acda81eca2639205affe00b4f6", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          1537
+        ], 
+        [
+          888, 
+          1741
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/summary[text]None[enabled,,]"
+    }, 
+    "id": 27, 
+    "event_type": "touch"
+  }, 
+  "start_state": "d10a01ec2a4a14bb62aebf4393b970a9"
+}

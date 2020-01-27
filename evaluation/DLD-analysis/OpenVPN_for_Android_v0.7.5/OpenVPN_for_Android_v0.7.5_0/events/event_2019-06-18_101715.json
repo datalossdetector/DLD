@@ -1,0 +1,50 @@
+{
+  "stop_state": "d0ab2eb3981ccbc8cd00f5ec82be743a", 
+  "event_str": "SetTextEvent(state=ebbcdb3a1488f2710c7e296ac725ea96, view=d2f1a6a588e74b62cecb13abdd8891c1, text=HelloWorld)", 
+  "tag": "2019-06-18_101715", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 42, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.blinkt.openvpn:id/profilename", 
+      "text": "test123test123test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "960*136", 
+      "checked": false, 
+      "temp_id": 24, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/profilename", 
+      "is_password": false, 
+      "parent": 22, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": true, 
+      "view_str": "d2f1a6a588e74b62cecb13abdd8891c1", 
+      "enabled": true, 
+      "bounds": [
+        [
+          60, 
+          525
+        ], 
+        [
+          1020, 
+          661
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]de.blinkt.openvpn:id/profilename[text]test123test123test123[enabled,,]"
+    }
+  }, 
+  "start_state": "ebbcdb3a1488f2710c7e296ac725ea96"
+}

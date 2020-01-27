@@ -1,0 +1,127 @@
+{
+  "stop_state": "f3d1bc8beb9871817588e767cb17b64f", 
+  "event_str": "FillUIEvent(state=40bb83ef2e1edf5d90ac05390f67a148, views=['22fa2d921e6802104f4798ff9b27c13c', 'a9f4e99c56db09f71889c8e103ba00b3', '3d9e6623afd086891c14303171936b1d'])", 
+  "tag": "2019-06-10_091606", 
+  "event": {
+    "views_str": [
+      "22fa2d921e6802104f4798ff9b27c13c", 
+      "a9f4e99c56db09f71889c8e103ba00b3", 
+      "3d9e6623afd086891c14303171936b1d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/number_input", 
+        "text": "1", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "144*120", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/number_input", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": true, 
+        "view_str": "22fa2d921e6802104f4798ff9b27c13c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            252
+          ], 
+          [
+            192, 
+            372
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/number_input[text]1[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/name_search", 
+        "text": "Name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "696*120", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/name_search", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": true, 
+        "view_str": "a9f4e99c56db09f71889c8e103ba00b3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            252
+          ], 
+          [
+            888, 
+            372
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/name_search[text]Name[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/list_foil", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*120", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/list_foil", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": true, 
+        "view_str": "3d9e6623afd086891c14303171936b1d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            912, 
+            252
+          ], 
+          [
+            1008, 
+            372
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.gelakinetic.mtgfam:id/list_foil[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "40bb83ef2e1edf5d90ac05390f67a148"
+}

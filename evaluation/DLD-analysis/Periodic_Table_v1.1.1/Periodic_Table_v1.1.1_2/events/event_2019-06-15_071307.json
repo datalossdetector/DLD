@@ -1,0 +1,51 @@
+{
+  "stop_state": "f1ecc3f56ee82d637aedfe4e601e49a1", 
+  "event_str": "FillUIEvent(state=f1ecc3f56ee82d637aedfe4e601e49a1, views=['02fe09dd38839256254a705c651bab08'])", 
+  "tag": "2019-06-15_071307", 
+  "event": {
+    "views_str": [
+      "02fe09dd38839256254a705c651bab08"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.android.browser:id/url", 
+        "text": "https://en.m.wikipedia.org/wiki/Lithium", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "604*156", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.android.browser", 
+        "long_clickable": true, 
+        "view_str": "02fe09dd38839256254a705c651bab08", 
+        "enabled": true, 
+        "bounds": [
+          [
+            161, 
+            72
+          ], 
+          [
+            765, 
+            228
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url[text]https://en.m.wikipedia.org/wiki/Lithium[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "f1ecc3f56ee82d637aedfe4e601e49a1"
+}

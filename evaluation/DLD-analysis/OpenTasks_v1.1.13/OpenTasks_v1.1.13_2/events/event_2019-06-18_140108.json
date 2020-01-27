@@ -1,0 +1,279 @@
+{
+  "stop_state": "2765fc384f7c24967a95c6422c39519a", 
+  "event_str": "FillUIEvent(state=2765fc384f7c24967a95c6422c39519a, views=['09b6e546da802632eda5dd8ecad0c409', 'c7f758c8d96e21fbdfa09ad21a1be701', 'eefc3ebb6de9738fa4c5d8df4e5290f4', '595df105831b155b21015c08ed2e5243', '0aa9fd2873a0dd205f650638feffd428', 'f820b0d59ea0c54704a9e4da9a28b384', 'd88715e620f2ef49404b76984998050e'])", 
+  "tag": "2019-06-18_140108", 
+  "event": {
+    "views_str": [
+      "09b6e546da802632eda5dd8ecad0c409", 
+      "c7f758c8d96e21fbdfa09ad21a1be701", 
+      "eefc3ebb6de9738fa4c5d8df4e5290f4", 
+      "595df105831b155b21015c08ed2e5243", 
+      "0aa9fd2873a0dd205f650638feffd428", 
+      "f820b0d59ea0c54704a9e4da9a28b384", 
+      "d88715e620f2ef49404b76984998050e"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/text1", 
+        "text": "Title", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*-976", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/text1", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "09b6e546da802632eda5dd8ecad0c409", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            72
+          ], 
+          [
+            1044, 
+            -904
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/text1[text]Title[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/text1", 
+        "text": "Location", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*-520", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/text1", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "c7f758c8d96e21fbdfa09ad21a1be701", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            72
+          ], 
+          [
+            1044, 
+            -448
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/text1[text]Location[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/text1", 
+        "text": "Description", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*-300", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/text1", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "eefc3ebb6de9738fa4c5d8df4e5290f4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            72
+          ], 
+          [
+            1044, 
+            -228
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/text1[text]Description[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*-43", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "595df105831b155b21015c08ed2e5243", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            72
+          ], 
+          [
+            132, 
+            29
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/text1", 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "912*-23", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/text1", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "0aa9fd2873a0dd205f650638feffd428", 
+        "enabled": true, 
+        "bounds": [
+          [
+            132, 
+            72
+          ], 
+          [
+            1044, 
+            49
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/text1[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 47, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": false, 
+        "view_str": "f820b0d59ea0c54704a9e4da9a28b384", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            657
+          ], 
+          [
+            132, 
+            753
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.dmfs.tasks:id/text", 
+        "text": "URL", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1008*-281", 
+        "checked": false, 
+        "temp_id": 76, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.dmfs.tasks:id/text", 
+        "is_password": false, 
+        "parent": 75, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "d88715e620f2ef49404b76984998050e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            2057
+          ], 
+          [
+            1044, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.dmfs.tasks:id/text[text]URL[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "2765fc384f7c24967a95c6422c39519a"
+}

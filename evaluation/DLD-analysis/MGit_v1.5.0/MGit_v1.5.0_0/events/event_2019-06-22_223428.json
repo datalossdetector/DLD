@@ -1,0 +1,51 @@
+{
+  "stop_state": "ee3d3655a1737526b9c0a62cb671ef3b", 
+  "event_str": "FillUIEvent(state=c14401ad1e6dcf8582d6b0154f5e8a75, views=['7a14bc8171fd707cbcb8cb662b8b62ac'])", 
+  "tag": "2019-06-22_223428", 
+  "event": {
+    "views_str": [
+      "7a14bc8171fd707cbcb8cb662b8b62ac"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/newBranchName", 
+        "text": "New Branch", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/newBranchName", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "7a14bc8171fd707cbcb8cb662b8b62ac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            884
+          ], 
+          [
+            975, 
+            994
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/newBranchName[text]New Branch[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "c14401ad1e6dcf8582d6b0154f5e8a75"
+}

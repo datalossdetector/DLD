@@ -1,0 +1,51 @@
+{
+  "stop_state": "0a54637a22267190342957fb9471f0d9", 
+  "event_str": "FillUIEvent(state=0305aa91d0574aa9bc8aec0371ae2806, views=['7ccf16087211defdbfeed2fc531c42a0'])", 
+  "tag": "2019-06-23_011901", 
+  "event": {
+    "views_str": [
+      "7ccf16087211defdbfeed2fc531c42a0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "   ", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "711*108", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "7ccf16087211defdbfeed2fc531c42a0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            173, 
+            88
+          ], 
+          [
+            884, 
+            196
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]   [enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "0305aa91d0574aa9bc8aec0371ae2806"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "dca0cca12c7b19330778cd905e63e83d", 
+  "event_str": "FillUIEvent(state=731f65182a3d83af94181f332ea26276, views=['33cf59717d0f6585c446e695a07185b6'])", 
+  "tag": "2019-06-10_224030", 
+  "event": {
+    "views_str": [
+      "33cf59717d0f6585c446e695a07185b6"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gelakinetic.mtgfam:id/search_src_text", 
+        "text": "test", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "696*108", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/search_src_text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gelakinetic.mtgfam", 
+        "long_clickable": true, 
+        "view_str": "33cf59717d0f6585c446e695a07185b6", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            100
+          ], 
+          [
+            936, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gelakinetic.mtgfam:id/search_src_text[text]test[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "731f65182a3d83af94181f332ea26276"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "94b82ca2365e453ce099d271b1744de6", 
+  "event_str": "FillUIEvent(state=ca0d234aa2a56547a475cc2e39cead0e, views=['20c555e8045e41071456a5abaebc4c26'])", 
+  "tag": "2019-06-15_103613", 
+  "event": {
+    "views_str": [
+      "20c555e8045e41071456a5abaebc4c26"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.metinkale.prayer:id/search_src_text", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "288*108", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.metinkale.prayer:id/search_src_text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": true, 
+        "view_str": "20c555e8045e41071456a5abaebc4c26", 
+        "enabled": true, 
+        "bounds": [
+          [
+            552, 
+            102
+          ], 
+          [
+            840, 
+            210
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.metinkale.prayer:id/search_src_text[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ca0d234aa2a56547a475cc2e39cead0e"
+}

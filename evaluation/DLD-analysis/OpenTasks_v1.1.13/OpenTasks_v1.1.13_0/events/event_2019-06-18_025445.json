@@ -1,0 +1,50 @@
+{
+  "stop_state": "60d5ccbeaac7572ad4a26da275cec1b6", 
+  "event_str": "LongTouchEvent(state=60d5ccbeaac7572ad4a26da275cec1b6, view=b7e094423c7b897bf60e093688201f4e, duration=2000)", 
+  "tag": "2019-06-18_025445", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 25, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/text1", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "912*90", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/text1", 
+      "is_password": false, 
+      "parent": 37, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "org.dmfs.tasks", 
+      "long_clickable": true, 
+      "view_str": "b7e094423c7b897bf60e093688201f4e", 
+      "enabled": true, 
+      "bounds": [
+        [
+          132, 
+          1686
+        ], 
+        [
+          1044, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/text1[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "60d5ccbeaac7572ad4a26da275cec1b6"
+}

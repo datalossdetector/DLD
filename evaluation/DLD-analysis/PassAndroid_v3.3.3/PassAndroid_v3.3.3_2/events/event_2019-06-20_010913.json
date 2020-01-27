@@ -1,0 +1,89 @@
+{
+  "stop_state": "ff2b70a6d1cb51d89607d048526dbb56", 
+  "event_str": "FillUIEvent(state=ff2b70a6d1cb51d89607d048526dbb56, views=['1d8d63ad4d4bd734695c5dec5e835c60', '880ba02a4aafc155e0f682f45a9a447c'])", 
+  "tag": "2019-06-20_010913", 
+  "event": {
+    "views_str": [
+      "1d8d63ad4d4bd734695c5dec5e835c60", 
+      "880ba02a4aafc155e0f682f45a9a447c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "1d8d63ad4d4bd734695c5dec5e835c60", 
+        "enabled": true, 
+        "bounds": [
+          [
+            906, 
+            307
+          ], 
+          [
+            1002, 
+            403
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "880ba02a4aafc155e0f682f45a9a447c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            906, 
+            540
+          ], 
+          [
+            1002, 
+            636
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "ff2b70a6d1cb51d89607d048526dbb56"
+}

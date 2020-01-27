@@ -1,0 +1,51 @@
+{
+  "stop_state": "d7004c351fb5a86e4751fcd33e00a0ec", 
+  "event_str": "FillUIEvent(state=3b6da165ba7ef5ba8a048716e0a969d4, views=['b51ba98ccc34d00614004b0b2c76ffda'])", 
+  "tag": "2019-06-15_040602", 
+  "event": {
+    "views_str": [
+      "b51ba98ccc34d00614004b0b2c76ffda"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.android.browser:id/url", 
+        "text": "https://github.com/mikepenz/AboutLibraries", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "604*156", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.android.browser", 
+        "long_clickable": true, 
+        "view_str": "b51ba98ccc34d00614004b0b2c76ffda", 
+        "enabled": true, 
+        "bounds": [
+          [
+            161, 
+            72
+          ], 
+          [
+            765, 
+            228
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url[text]https://github.com/mikepenz/AboutLibraries[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3b6da165ba7ef5ba8a048716e0a969d4"
+}

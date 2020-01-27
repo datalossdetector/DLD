@@ -1,0 +1,51 @@
+{
+  "stop_state": "c71270295a7b337cdb1e2476327bfa94", 
+  "event_str": "FillUIEvent(state=57e6eb82eae65b07727f6d466357d993, views=['4a340e4218fb1e34ea10e3e01a65325b'])", 
+  "tag": "2019-06-14_160216", 
+  "event": {
+    "views_str": [
+      "4a340e4218fb1e34ea10e3e01a65325b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.android.browser:id/url", 
+        "text": "https://en.m.wikipedia.org/wiki/Beryllium", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "604*156", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.android.browser", 
+        "long_clickable": true, 
+        "view_str": "4a340e4218fb1e34ea10e3e01a65325b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            161, 
+            72
+          ], 
+          [
+            765, 
+            228
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url[text]https://en.m.wikipedia.org/wiki/Beryllium[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "57e6eb82eae65b07727f6d466357d993"
+}

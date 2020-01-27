@@ -1,0 +1,355 @@
+{
+  "stop_state": "7a88b71e310e73c1edd59d5c69e3b0e8", 
+  "event_str": "FillUIEvent(state=7aeb3e1f2401ada780c85ca8a45eaecc, views=['1cc6877a9cb80fa308d82caffcd3f23c', '5e9b70ac0615c12f12be418aeb6f2279', '4fe9bac3a953f8a4659efc2822afe8c1', '3ca9281653481d478b668383203755c5', '7c23c9f0086a33bf9a420f7dc1d3d3fe', '5e9b70ac0615c12f12be418aeb6f2279', 'b4f3cefd765fd7a3d830a9d8e952d632', '3c4f2608ad9ff991ed2447d9c9a54e2a', 'e8a596bdbbbddf9e8362cb444bb23348'])", 
+  "tag": "2019-06-17_151459", 
+  "event": {
+    "views_str": [
+      "1cc6877a9cb80fa308d82caffcd3f23c", 
+      "5e9b70ac0615c12f12be418aeb6f2279", 
+      "4fe9bac3a953f8a4659efc2822afe8c1", 
+      "3ca9281653481d478b668383203755c5", 
+      "7c23c9f0086a33bf9a420f7dc1d3d3fe", 
+      "5e9b70ac0615c12f12be418aeb6f2279", 
+      "b4f3cefd765fd7a3d830a9d8e952d632", 
+      "3c4f2608ad9ff991ed2447d9c9a54e2a", 
+      "e8a596bdbbbddf9e8362cb444bb23348"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "it.feio.android.omninotes:id/detail_title", 
+        "text": "hello workstest123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1011*102", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]it.feio.android.omninotes:id/detail_title", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": true, 
+        "view_str": "1cc6877a9cb80fa308d82caffcd3f23c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            45, 
+            267
+          ], 
+          [
+            1056, 
+            369
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]it.feio.android.omninotes:id/detail_title[text]hello workstest123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": false, 
+        "view_str": "5e9b70ac0615c12f12be418aeb6f2279", 
+        "enabled": true, 
+        "bounds": [
+          [
+            162, 
+            434
+          ], 
+          [
+            258, 
+            530
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "HelloWorldtestest123t123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "678*129", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": true, 
+        "view_str": "4fe9bac3a953f8a4659efc2822afe8c1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            258, 
+            417
+          ], 
+          [
+            936, 
+            546
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]HelloWorldtestest123t123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 40, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": false, 
+        "view_str": "3ca9281653481d478b668383203755c5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            162, 
+            563
+          ], 
+          [
+            258, 
+            659
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "678*129", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 38, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": true, 
+        "view_str": "7c23c9f0086a33bf9a420f7dc1d3d3fe", 
+        "enabled": true, 
+        "bounds": [
+          [
+            258, 
+            546
+          ], 
+          [
+            936, 
+            675
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": false, 
+        "view_str": "5e9b70ac0615c12f12be418aeb6f2279", 
+        "enabled": true, 
+        "bounds": [
+          [
+            162, 
+            692
+          ], 
+          [
+            258, 
+            788
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "678*129", 
+        "checked": false, 
+        "temp_id": 46, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 43, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": true, 
+        "view_str": "b4f3cefd765fd7a3d830a9d8e952d632", 
+        "enabled": true, 
+        "bounds": [
+          [
+            258, 
+            675
+          ], 
+          [
+            936, 
+            804
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 50, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 48, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": false, 
+        "view_str": "3c4f2608ad9ff991ed2447d9c9a54e2a", 
+        "enabled": false, 
+        "bounds": [
+          [
+            162, 
+            821
+          ], 
+          [
+            258, 
+            917
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "New item", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "678*129", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 48, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": true, 
+        "view_str": "e8a596bdbbbddf9e8362cb444bb23348", 
+        "enabled": true, 
+        "bounds": [
+          [
+            258, 
+            804
+          ], 
+          [
+            936, 
+            933
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]New item[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7aeb3e1f2401ada780c85ca8a45eaecc"
+}

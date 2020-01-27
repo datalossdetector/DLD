@@ -1,0 +1,51 @@
+{
+  "stop_state": "4e9b5dd8df3d6daa45c2fb0e3b3b210c", 
+  "event_str": "FillUIEvent(state=4e9b5dd8df3d6daa45c2fb0e3b3b210c, views=['88c6ee3326d5d6272b917a9407fe7ba7'])", 
+  "tag": "2019-06-18_173504", 
+  "event": {
+    "views_str": [
+      "88c6ee3326d5d6272b917a9407fe7ba7"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/useLogScale", 
+        "text": "Use logarithmic scale", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "0*96", 
+        "checked": true, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/useLogScale", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "88c6ee3326d5d6272b917a9407fe7ba7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1080, 
+            1623
+          ], 
+          [
+            1080, 
+            1719
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/useLogScale[text]Use logarithmic scale[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "4e9b5dd8df3d6daa45c2fb0e3b3b210c"
+}

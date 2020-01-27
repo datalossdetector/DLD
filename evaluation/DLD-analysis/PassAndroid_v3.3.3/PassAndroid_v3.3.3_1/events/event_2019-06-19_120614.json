@@ -1,0 +1,51 @@
+{
+  "stop_state": "8bfe78a7f13e671ecb33d6bbbe7db4be", 
+  "event_str": "FillUIEvent(state=69c4a64882039322ba604934819fe232, views=['5083c99783b5fdf48becc1a832ff9713'])", 
+  "tag": "2019-06-19_120614", 
+  "event": {
+    "views_str": [
+      "5083c99783b5fdf48becc1a832ff9713"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/passTitle", 
+        "text": "custom Pass", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "337*118", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "5083c99783b5fdf48becc1a832ff9713", 
+        "enabled": true, 
+        "bounds": [
+          [
+            36, 
+            352
+          ], 
+          [
+            373, 
+            470
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/passTitle[text]custom Pass[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "69c4a64882039322ba604934819fe232"
+}

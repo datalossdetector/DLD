@@ -1,0 +1,57 @@
+{
+  "stop_state": "e20c23680b2d2f35856bfd20cad7d5d8", 
+  "event_str": "ScrollEvent(state=a43d3ab2071e667b3e2a9777fc6d07a1, view=9bb4ca3445b0cd55855a856d0bf8387b, direction=UP)", 
+  "tag": "2019-06-18_163758", 
+  "event": {
+    "direction": "UP", 
+    "event_type": "scroll", 
+    "y_full_down": 1750, 
+    "y": null, 
+    "x": null, 
+    "id": 10, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/list", 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [
+        29, 
+        30, 
+        36, 
+        42, 
+        48
+      ], 
+      "size": "1080*1368", 
+      "checked": false, 
+      "temp_id": 28, 
+      "selected": false, 
+      "child_count": 5, 
+      "content_free_signature": "[class]android.widget.ListView[resource_id]android:id/list", 
+      "is_password": false, 
+      "parent": 27, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.ListView", 
+      "scrollable": true, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": false, 
+      "view_str": "9bb4ca3445b0cd55855a856d0bf8387b", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          408
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.ListView[resource_id]android:id/list[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "a43d3ab2071e667b3e2a9777fc6d07a1"
+}

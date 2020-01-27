@@ -1,0 +1,51 @@
+{
+  "stop_state": "bdc0fefe102d42b6792ed706f05b974a", 
+  "event_str": "FillUIEvent(state=b201074f6408c7707e8ef6a2213ae8f9, views=['de455964487837a34d65cd8def29a9ef'])", 
+  "tag": "2019-06-14_122401", 
+  "event": {
+    "views_str": [
+      "de455964487837a34d65cd8def29a9ef"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.android.browser:id/url", 
+        "text": "https://en.m.wikipedia.org/wiki/Chlorine", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "604*156", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.android.browser", 
+        "long_clickable": true, 
+        "view_str": "de455964487837a34d65cd8def29a9ef", 
+        "enabled": true, 
+        "bounds": [
+          [
+            161, 
+            72
+          ], 
+          [
+            765, 
+            228
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.android.browser:id/url[text]https://en.m.wikipedia.org/wiki/Chlorine[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b201074f6408c7707e8ef6a2213ae8f9"
+}

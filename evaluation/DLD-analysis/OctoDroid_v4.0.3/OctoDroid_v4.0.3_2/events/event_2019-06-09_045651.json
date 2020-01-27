@@ -1,0 +1,51 @@
+{
+  "stop_state": "b0422e414de9113e8c4566e6a0e2567b", 
+  "event_str": "FillUIEvent(state=47d7795e687b943bf1ca1ee0b296ea99, views=['ded5e77fb767ae9871c930b7fcc1d4ba'])", 
+  "tag": "2019-06-09_045651", 
+  "event": {
+    "views_str": [
+      "ded5e77fb767ae9871c930b7fcc1d4ba"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "594*136", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "ded5e77fb767ae9871c930b7fcc1d4ba", 
+        "enabled": true, 
+        "bounds": [
+          [
+            168, 
+            88
+          ], 
+          [
+            762, 
+            224
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "47d7795e687b943bf1ca1ee0b296ea99"
+}

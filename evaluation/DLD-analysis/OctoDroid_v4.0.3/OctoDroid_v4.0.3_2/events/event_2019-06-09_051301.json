@@ -1,0 +1,50 @@
+{
+  "stop_state": "7984b0418b12203ee020558d72567b92", 
+  "event_str": "LongTouchEvent(state=7984b0418b12203ee020558d72567b92, view=16dac8455e8c98bcaff2cbdbfc5aefeb, duration=2000)", 
+  "tag": "2019-06-09_051301", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 22, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/tv_desc", 
+      "text": "Codecov Report\n\n\nMerging #16 into master will increase coverage by 0.09%.\nThe diff coverage is 100%.\n\n\n\ufffc\n\n\n@@\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Coverage\u00a0Diff\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0@@\n##\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0master\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0#16\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0+/-\u00a0\u00a0\u00a0##\n==========================================\n+\u00a0Coverage\u00a0\u00a0\u00a092.67%\u00a0\u00a0\u00a092.77%\u00a0\u00a0\u00a0+0.09%\u00a0\u00a0\u00a0\u00a0\u00a0\n==========================================\n\u00a0\u00a0Files\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a06\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a06\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0Lines\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0915\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0927\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0+12\u00a0\u00a0\u00a0\u00a0\u00a0\n==========================================\n+\u00a0Hits\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0848\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0860\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0+12\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0Misses\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a046\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a046\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0Partials\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a021\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a021\n\nImpacted FilesCoverage \u0394datagen/generators/collinfo.go98.47% <100%> (+0.05%)\u2b06\ufe0f \nContinue to review full report at Codecov.\n\n\nLegend - Click here to learn more\n\u0394 = absolute <relative> (impact), \u00f8 = not affected, ? = missing data\nPowered by Codecov. Last update 2e78170...a98ec62. Read the comment docs.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "864*389", 
+      "checked": false, 
+      "temp_id": 45, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/tv_desc", 
+      "is_password": false, 
+      "parent": 41, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "16dac8455e8c98bcaff2cbdbfc5aefeb", 
+      "enabled": true, 
+      "bounds": [
+        [
+          168, 
+          1234
+        ], 
+        [
+          1032, 
+          1623
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/tv_desc[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "7984b0418b12203ee020558d72567b92"
+}

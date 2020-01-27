@@ -1,0 +1,49 @@
+{
+  "stop_state": "13b4004a0e1a71f3d23b3ae2dd14f7ea", 
+  "event_str": "TouchEvent(state=13b4004a0e1a71f3d23b3ae2dd14f7ea, view=1116052591f7225c90a1a955cb661c79)", 
+  "tag": "2019-06-15_022826", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "This map is displayed with the MapBox Api, which does not support Geodesic Polylines, so the direction on the map might not be accurate (especially at lower latitudes), because it does not take the earth curvature into account.\n\nTherefore this Map is not suggested to use for an accurate determination of the prayer direction!\n\nIn the Play Store Version of this Prayer App, Google Maps is used instead, which support Geodesic Lines, and is accurate due to that.\n\nSince F-Droid permits the usage of the Google Maps Api, this Map will not be updated anymore!", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "930*1148", 
+      "checked": false, 
+      "temp_id": 13, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 12, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.metinkale.prayer", 
+      "long_clickable": false, 
+      "view_str": "1116052591f7225c90a1a955cb661c79", 
+      "enabled": true, 
+      "bounds": [
+        [
+          75, 
+          345
+        ], 
+        [
+          1005, 
+          1493
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]"
+    }, 
+    "id": 1, 
+    "event_type": "touch"
+  }, 
+  "start_state": "13b4004a0e1a71f3d23b3ae2dd14f7ea"
+}

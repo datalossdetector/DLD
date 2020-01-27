@@ -1,0 +1,165 @@
+{
+  "stop_state": "58c2166d55b584c8bf0a2320d6f7bc54", 
+  "event_str": "FillUIEvent(state=3c0d8d95bdd98a6f3022e0c9fb8049b9, views=['5d165414ef166d29220c27825de4dcd4', '611cc7adc02da528193802d1113340aa', '60bcc0eec538807da14d426ff3acba1a', '44f00cc4142d0bcbed7dda91a5d9aa0a'])", 
+  "tag": "2019-06-23_041738", 
+  "event": {
+    "views_str": [
+      "5d165414ef166d29220c27825de4dcd4", 
+      "611cc7adc02da528193802d1113340aa", 
+      "60bcc0eec538807da14d426ff3acba1a", 
+      "44f00cc4142d0bcbed7dda91a5d9aa0a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/newFilename", 
+        "text": "New Filename", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "906*118", 
+        "checked": false, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/newFilename", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "5d165414ef166d29220c27825de4dcd4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            87, 
+            709
+          ], 
+          [
+            993, 
+            827
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/newFilename[text]New Filename[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/key_size", 
+        "text": "4096", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "906*118", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/key_size", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "611cc7adc02da528193802d1113340aa", 
+        "enabled": true, 
+        "bounds": [
+          [
+            87, 
+            851
+          ], 
+          [
+            993, 
+            969
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/key_size[text]4096[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/radio_rsa", 
+        "text": "RSA", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "185*96", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.manichord.mgit:id/radio_rsa", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "60bcc0eec538807da14d426ff3acba1a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1017
+          ], 
+          [
+            260, 
+            1113
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.manichord.mgit:id/radio_rsa[text]RSA[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/radio_dsa", 
+        "text": "DSA", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "186*96", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.manichord.mgit:id/radio_dsa", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "44f00cc4142d0bcbed7dda91a5d9aa0a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            1113
+          ], 
+          [
+            261, 
+            1209
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.manichord.mgit:id/radio_dsa[text]DSA[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3c0d8d95bdd98a6f3022e0c9fb8049b9"
+}

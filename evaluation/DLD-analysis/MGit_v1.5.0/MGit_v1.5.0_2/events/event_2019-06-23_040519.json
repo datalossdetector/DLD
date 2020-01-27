@@ -1,0 +1,50 @@
+{
+  "stop_state": "fa0415831b663286795d723bf673dce8", 
+  "event_str": "SetTextEvent(state=7ea192a1192c58381c0e948a0581c327, view=1b834fe2ac860742facbf4c313fd6365, text=HelloWorld)", 
+  "tag": "2019-06-23_040519", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 17, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.manichord.mgit:id/localPath", 
+      "text": "HelloWorldtest", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "870*110", 
+      "checked": false, 
+      "temp_id": 12, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/localPath", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.manichord.mgit", 
+      "long_clickable": true, 
+      "view_str": "1b834fe2ac860742facbf4c313fd6365", 
+      "enabled": true, 
+      "bounds": [
+        [
+          105, 
+          729
+        ], 
+        [
+          975, 
+          839
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/localPath[text]HelloWorldtest[enabled,,]"
+    }
+  }, 
+  "start_state": "7ea192a1192c58381c0e948a0581c327"
+}

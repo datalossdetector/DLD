@@ -1,0 +1,50 @@
+{
+  "stop_state": "7d164ad6e07a7efc0b337f7e32f2a5e8", 
+  "event_str": "LongTouchEvent(state=7d164ad6e07a7efc0b337f7e32f2a5e8, view=ea9adb05acca2a35532d495038319a8d, duration=2000)", 
+  "tag": "2019-06-24_044907", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 23, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/readme", 
+      "text": "\ufffc\n\nMaterial-UI\n\nReact components that implement Google's Material Design.\n\n\ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc \ufffc\n\nInstallation\n\nMaterial-UI is available as an npm package.\n\nStable channel v3\n\n// with npm\nnpm install @material-ui/core\n\n// with yarn\nyarn add @material-ui/core\n\nNext channel v4.0.0-alpha\n\n// with npm\nnpm install @material-ui/core@next\n\n// with yarn\nyarn add @material-ui/core@next\n\nv0.x (Migration to v1)\n\n// with npm\nnpm install material-ui\n\n// with yarn\nyarn add material-ui\n\nPlease note that @next will only point to pre-releases; to get the latest stable release use @latest instead.\n\nSupporting Material-UI\n\nMaterial-UI is an MIT-licensed open source project. It's an independent project with ongoing development made possible thanks to the support of these awesome backers. If you'd like to join them, please consider:\n\nBecome a backer or sponsor on Patreon.\nBecome a backer or sponsor on OpenCollective.\n\nWhat's the difference between Patreon and OpenCollective?\n\nFunds donated via Patreon directly support Olivier Tassinari's work on Material-UI. Funds donated via OpenCollective are managed transparently and will be used for compensating work and expenses for core team members. Your name/logo will receive proper recognition and exposure by donating on either platform.\n\nGold Sponsors\n\nGold Sponsors are those who have pledged $500/month and more to Material-UI.\n\nvia Patreon\n\n\ufffc \ufffc \ufffc \n\nvia OpenCollective\n\n\ufffc \ufffc \ufffc \ufffc \n\nThere is more!\n\nSee the full list of our backers.\n\nUsage\n\nHere is a quick example to get you started, it's all you need:\n\nimport React from 'react';\nimport ReactDOM from 'react-dom';\nimport Button from '@material-ui/core/Button';\n\nfunction App() {\n  return (\n    <Button variant=\"contained\" color=\"primary\">\n      Hello World\n    </Button>\n  );\n}\n\nReactDOM.render(<App />, document.querySelector('#app'));\n\nYes, it's really all you need to get started as you can see in this live and interactive demo:\n\n\ufffc\n\nQuestions\n\nFor how-to questions and other non-issues, please use StackOverflow instead of Github issues. There is a StackOverflow tag called \"material-ui\" that you can use to tag your questions.\n\nExamples\n\nAre you looking for an example project to get started? We host some.\n\nDocumentation\n\nCheck out our documentation website.\n\nContributing\n\nWe'd greatly appreciate any contribution you make. :)\n\nChangelog\n\nRecently Updated? Please read the changelog.\n\nRoadmap\n\nThe future plans and high priority features and enhancements can be found in the ROADMAP.md file.\n\nThanks\n\nMaterial-UI is only made possible thanks to these great services that sponsor our core infrastructure:\n\n\ufffc\n\nGitHub allows us to host the Git repository.\n\n\ufffc\n\nCircleCI allows us to run the test suite.\n\n\ufffc\n\nNetlify allows us to distribute the documentation.\n\n\ufffc\n\nCrowdIn allows us to translate the documentation.\n\n\ufffc\n\nBrowserStack allows us to test in real browsers.\n\n\ufffc\n\nCodeCov allows us to monitor the test coverage.\n\nLicense\n\nThis project is licensed under the terms of the MIT license.\n\nSecurity\n\nTo report a security vulnerability, please use the Tidelift security contact. Tidelift will coordinate the fix and disclosure.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*461", 
+      "checked": false, 
+      "temp_id": 56, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme", 
+      "is_password": false, 
+      "parent": 54, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "ea9adb05acca2a35532d495038319a8d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          1315
+        ], 
+        [
+          1056, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]com.gh4a:id/readme[text]None[enabled,,]"
+    }
+  }, 
+  "start_state": "7d164ad6e07a7efc0b337f7e32f2a5e8"
+}

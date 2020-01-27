@@ -1,0 +1,50 @@
+{
+  "stop_state": "3ec023ca4f7f66a9ceff3ff4db0bd88a", 
+  "event_str": "SetTextEvent(state=9fbc3ed535b7ca355a2a8045433364b6, view=625e9ebbf27303d2a866dc27da5b86dc, text=HelloWorld)", 
+  "tag": "2019-06-24_000003", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 21, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/editor", 
+      "text": "# ## 1. ", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*996", 
+      "checked": false, 
+      "temp_id": 27, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.MultiAutoCompleteTextView[resource_id]com.gh4a:id/editor", 
+      "is_password": false, 
+      "parent": 26, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.MultiAutoCompleteTextView", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "625e9ebbf27303d2a866dc27da5b86dc", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          600
+        ], 
+        [
+          1056, 
+          1596
+        ]
+      ], 
+      "signature": "[class]android.widget.MultiAutoCompleteTextView[resource_id]com.gh4a:id/editor[text]# ## 1. [enabled,,]"
+    }
+  }, 
+  "start_state": "9fbc3ed535b7ca355a2a8045433364b6"
+}

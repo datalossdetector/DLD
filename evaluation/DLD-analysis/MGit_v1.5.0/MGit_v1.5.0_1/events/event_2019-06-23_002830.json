@@ -1,0 +1,165 @@
+{
+  "stop_state": "09b62a59bc30fddc36bdb84257d66a90", 
+  "event_str": "FillUIEvent(state=6bcb32cf913ab6f9b89330228823845f, views=['6fb08546b360ac4736d79ca14cc652e5', 'fc91cff0148d513c305688b1883222b2', '94b456b02376bec5554a83c13ba37643', 'b1832e08b0b38e8c233abad9247adbac'])", 
+  "tag": "2019-06-23_002830", 
+  "event": {
+    "views_str": [
+      "6fb08546b360ac4736d79ca14cc652e5", 
+      "fc91cff0148d513c305688b1883222b2", 
+      "94b456b02376bec5554a83c13ba37643", 
+      "b1832e08b0b38e8c233abad9247adbac"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/commitMsg", 
+        "text": "Commit message", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/commitMsg", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "6fb08546b360ac4736d79ca14cc652e5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            729
+          ], 
+          [
+            975, 
+            839
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/commitMsg[text]Commit message[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/commitAuthor", 
+        "text": "Commit author (optional)", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "870*110", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/commitAuthor", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": true, 
+        "view_str": "fc91cff0148d513c305688b1883222b2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            105, 
+            869
+          ], 
+          [
+            975, 
+            979
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.manichord.mgit:id/commitAuthor[text]Commit author (optional)[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/autoStage", 
+        "text": "Auto stage modified files", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "900*96", 
+        "checked": true, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/autoStage", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "94b456b02376bec5554a83c13ba37643", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            994
+          ], 
+          [
+            990, 
+            1090
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/autoStage[text]Auto stage modified files[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.manichord.mgit:id/isAmend", 
+        "text": "Amend previous commit", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "900*96", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/isAmend", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.manichord.mgit", 
+        "long_clickable": false, 
+        "view_str": "b1832e08b0b38e8c233abad9247adbac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            1090
+          ], 
+          [
+            990, 
+            1186
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.manichord.mgit:id/isAmend[text]Amend previous commit[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6bcb32cf913ab6f9b89330228823845f"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "04cebb6ccd07d9e099f8a3224bbdc2a6", 
+  "event_str": "FillUIEvent(state=b8172b03933a677a4e310388c0b9e0c0, views=['e22bba52ca422afa643718bbf93b5d3d'])", 
+  "tag": "2019-06-09_020817", 
+  "event": {
+    "views_str": [
+      "e22bba52ca422afa643718bbf93b5d3d"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gh4a:id/search_src_text", 
+        "text": "   Search for repositories", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "672*108", 
+        "checked": false, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/search_src_text", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "e22bba52ca422afa643718bbf93b5d3d", 
+        "enabled": true, 
+        "bounds": [
+          [
+            384, 
+            100
+          ], 
+          [
+            1056, 
+            208
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/search_src_text[text]   Search for repositories[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "b8172b03933a677a4e310388c0b9e0c0"
+}

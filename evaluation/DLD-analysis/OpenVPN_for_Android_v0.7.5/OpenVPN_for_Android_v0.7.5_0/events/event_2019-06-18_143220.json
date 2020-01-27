@@ -1,0 +1,887 @@
+{
+  "stop_state": "349cc55b12f517952411da3d3de41fd0", 
+  "event_str": "FillUIEvent(state=349cc55b12f517952411da3d3de41fd0, views=['a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', '6b41fcb83766d995a8cdf9ec28ffb74f', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', 'a4432cc8f6f84d477312e81ca9c3d35a', '6b41fcb83766d995a8cdf9ec28ffb74f', '6b41fcb83766d995a8cdf9ec28ffb74f'])", 
+  "tag": "2019-06-18_143220", 
+  "event": {
+    "views_str": [
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "a4432cc8f6f84d477312e81ca9c3d35a", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f", 
+      "6b41fcb83766d995a8cdf9ec28ffb74f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 55, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 100, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 98, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 143, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 141, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 186, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 184, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 229, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 227, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 272, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 270, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 315, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 313, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 358, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 356, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 401, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 399, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 444, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 442, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 487, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 485, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 530, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 528, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 573, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 571, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 616, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 614, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 659, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 657, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 702, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 700, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 745, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 743, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 788, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 786, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 831, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 829, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 874, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 872, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": false, 
+        "temp_id": 917, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 915, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "a4432cc8f6f84d477312e81ca9c3d35a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 960, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 958, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blinkt.openvpn:id/doinline", 
+        "text": "Copy into profile", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*96", 
+        "checked": true, 
+        "temp_id": 976, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline", 
+        "is_password": false, 
+        "parent": 974, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blinkt.openvpn", 
+        "long_clickable": false, 
+        "view_str": "6b41fcb83766d995a8cdf9ec28ffb74f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            264, 
+            1656
+          ], 
+          [
+            663, 
+            1752
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blinkt.openvpn:id/doinline[text]Copy into profile[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "349cc55b12f517952411da3d3de41fd0"
+}

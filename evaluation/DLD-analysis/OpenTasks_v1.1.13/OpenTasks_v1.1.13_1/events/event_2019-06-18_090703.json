@@ -1,0 +1,51 @@
+{
+  "stop_state": "31e240487895b8be969db4596dfa0a29", 
+  "event_str": "FillUIEvent(state=af5b37a62c4135f6b4e86a9e95cf3ddf, views=['aaa612a861719671a98dd1bf9bc3dee2'])", 
+  "tag": "2019-06-18_090703", 
+  "event": {
+    "views_str": [
+      "aaa612a861719671a98dd1bf9bc3dee2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/input", 
+        "text": "list name", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "744*136", 
+        "checked": false, 
+        "temp_id": 6, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/input", 
+        "is_password": false, 
+        "parent": 3, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.dmfs.tasks", 
+        "long_clickable": true, 
+        "view_str": "aaa612a861719671a98dd1bf9bc3dee2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            168, 
+            915
+          ], 
+          [
+            912, 
+            1051
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/input[text]list name[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "af5b37a62c4135f6b4e86a9e95cf3ddf"
+}

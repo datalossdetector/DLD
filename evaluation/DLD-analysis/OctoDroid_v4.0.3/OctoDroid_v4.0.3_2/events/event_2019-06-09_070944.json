@@ -1,0 +1,50 @@
+{
+  "stop_state": "5a56c27ba70e985fd0f05d689c06fe51", 
+  "event_str": "SetTextEvent(state=7f7a8133e0ce92614dbbc5c718a28da4, view=e16d23619c6f75ceab1fb9ced797e53a, text=HelloWorld)", 
+  "tag": "2019-06-09_070944", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 7, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.gh4a:id/et_title", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*120", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_title", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.gh4a", 
+      "long_clickable": true, 
+      "view_str": "e16d23619c6f75ceab1fb9ced797e53a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          321
+        ], 
+        [
+          1032, 
+          441
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_title[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "7f7a8133e0ce92614dbbc5c718a28da4"
+}

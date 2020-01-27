@@ -1,0 +1,50 @@
+{
+  "stop_state": "cf34181ed8ecc55941dc451a6ba360e6", 
+  "event_str": "SetTextEvent(state=7de30632013c4d77aa243d12c0ad933c, view=fc22151a5e1265807b16aca66ce3b252, text=HelloWorld)", 
+  "tag": "2019-06-15_100939", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 46, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.metinkale.prayer:id/nr", 
+      "text": "123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "225*56", 
+      "checked": false, 
+      "temp_id": 80, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.metinkale.prayer:id/nr", 
+      "is_password": false, 
+      "parent": 78, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.metinkale.prayer", 
+      "long_clickable": true, 
+      "view_str": "fc22151a5e1265807b16aca66ce3b252", 
+      "enabled": true, 
+      "bounds": [
+        [
+          690, 
+          1012
+        ], 
+        [
+          915, 
+          1068
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.metinkale.prayer:id/nr[text]123[enabled,,]"
+    }
+  }, 
+  "start_state": "7de30632013c4d77aa243d12c0ad933c"
+}

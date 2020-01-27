@@ -1,0 +1,51 @@
+{
+  "stop_state": "db11726c823bbe1498084f90e3d76577", 
+  "event_str": "FillUIEvent(state=db11726c823bbe1498084f90e3d76577, views=['fc4866c6dc1bdba104f1a9e3dee24bb2'])", 
+  "tag": "2019-06-16_000330", 
+  "event": {
+    "views_str": [
+      "fc4866c6dc1bdba104f1a9e3dee24bb2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "0", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "192*144", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.metinkale.prayer", 
+        "long_clickable": true, 
+        "view_str": "fc4866c6dc1bdba104f1a9e3dee24bb2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            444, 
+            835
+          ], 
+          [
+            636, 
+            979
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]0[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "db11726c823bbe1498084f90e3d76577"
+}

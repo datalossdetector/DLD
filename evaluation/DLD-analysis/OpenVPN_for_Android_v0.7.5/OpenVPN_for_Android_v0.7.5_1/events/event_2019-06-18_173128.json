@@ -1,0 +1,49 @@
+{
+  "stop_state": "bd58e8f7a896b8b4c10d0aac488edd38", 
+  "event_str": "TouchEvent(state=bd58e8f7a896b8b4c10d0aac488edd38, view=5351f5b9b1d4976716e1a0629bc1f1d5)", 
+  "tag": "2019-06-18_173128", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/message", 
+      "text": "Enter the maximum time between connection attempts. OpenVPN will slowly raise its waiting time after an unsuccessful connection attempt up to this value. Defaults to 300s.", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "810*253", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]android:id/message", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": false, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "de.blinkt.openvpn", 
+      "long_clickable": false, 
+      "view_str": "5351f5b9b1d4976716e1a0629bc1f1d5", 
+      "enabled": true, 
+      "bounds": [
+        [
+          135, 
+          668
+        ], 
+        [
+          945, 
+          921
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]android:id/message[text]None[enabled,,]"
+    }, 
+    "id": 5, 
+    "event_type": "touch"
+  }, 
+  "start_state": "bd58e8f7a896b8b4c10d0aac488edd38"
+}

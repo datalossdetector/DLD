@@ -1,0 +1,317 @@
+{
+  "stop_state": "013c502babfbf46846e072f4daa55f97", 
+  "event_str": "FillUIEvent(state=083c35ba968e1751e0ac6a1fe098852f, views=['749ac7d16f47d4d12c497fbe739257ab', 'f700a9fa1c313f644dc1a1ef40eb37e1', 'eaab983168567508c48ae733897bd90e', 'b1e76f5a9c1e136e77feae92b41d1d65', '9e411e557e1dfd3735ab1eda068924ac', '621f8d25d6b5aa21c2808f07e6193fc4', '15a75135b5ba9625ce4507d35e30ffbd', '26f55c70e9912f61d56e9263e627ec37'])", 
+  "tag": "2019-06-20_093428", 
+  "event": {
+    "views_str": [
+      "749ac7d16f47d4d12c497fbe739257ab", 
+      "f700a9fa1c313f644dc1a1ef40eb37e1", 
+      "eaab983168567508c48ae733897bd90e", 
+      "b1e76f5a9c1e136e77feae92b41d1d65", 
+      "9e411e557e1dfd3735ab1eda068924ac", 
+      "621f8d25d6b5aa21c2808f07e6193fc4", 
+      "15a75135b5ba9625ce4507d35e30ffbd", 
+      "26f55c70e9912f61d56e9263e627ec37"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/messageInput", 
+        "text": "D9FA7B77-F743-48DA-B34D-B953E92FE32E", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "593*199", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/messageInput", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "749ac7d16f47d4d12c497fbe739257ab", 
+        "enabled": true, 
+        "bounds": [
+          [
+            99, 
+            398
+          ], 
+          [
+            692, 
+            597
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/messageInput[text]D9FA7B77-F743-48DA-B34D-B953E92FE32E[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.ligi.passandroid:id/alternativeMessageInput", 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "881*136", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/alternativeMessageInput", 
+        "is_password": false, 
+        "parent": 19, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": true, 
+        "view_str": "f700a9fa1c313f644dc1a1ef40eb37e1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            99, 
+            630
+          ], 
+          [
+            980, 
+            766
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.ligi.passandroid:id/alternativeMessageInput[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "PDF_417", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "265*96", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "eaab983168567508c48ae733897bd90e", 
+        "enabled": true, 
+        "bounds": [
+          [
+            99, 
+            766
+          ], 
+          [
+            364, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]PDF_417[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "AZTEC", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "224*96", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "b1e76f5a9c1e136e77feae92b41d1d65", 
+        "enabled": true, 
+        "bounds": [
+          [
+            364, 
+            766
+          ], 
+          [
+            588, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]AZTEC[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "CODE_39", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "271*96", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "9e411e557e1dfd3735ab1eda068924ac", 
+        "enabled": true, 
+        "bounds": [
+          [
+            588, 
+            766
+          ], 
+          [
+            859, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]CODE_39[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "CODE_128", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "121*96", 
+        "checked": false, 
+        "temp_id": 26, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "621f8d25d6b5aa21c2808f07e6193fc4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            859, 
+            766
+          ], 
+          [
+            980, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]CODE_128[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "QR_CODE", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-174*96", 
+        "checked": true, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "15a75135b5ba9625ce4507d35e30ffbd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1154, 
+            766
+          ], 
+          [
+            980, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]QR_CODE[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "EAN_13", 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "-452*96", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]None", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "org.ligi.passandroid", 
+        "long_clickable": false, 
+        "view_str": "26f55c70e9912f61d56e9263e627ec37", 
+        "enabled": true, 
+        "bounds": [
+          [
+            1432, 
+            766
+          ], 
+          [
+            980, 
+            862
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]None[text]EAN_13[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "083c35ba968e1751e0ac6a1fe098852f"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "55c67a909a9f76c623b0010a5279dce7", 
+  "event_str": "FillUIEvent(state=34c53d3a4fd9d1b6c0ed2ce8b7be8293, views=['4ffb6307e5e2e9ef987aea11eec298e5'])", 
+  "tag": "2019-06-09_052838", 
+  "event": {
+    "views_str": [
+      "4ffb6307e5e2e9ef987aea11eec298e5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.gh4a:id/et_comment", 
+        "text": "Comment on this commit", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "936*121", 
+        "checked": false, 
+        "temp_id": 54, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_comment", 
+        "is_password": false, 
+        "parent": 53, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.gh4a", 
+        "long_clickable": true, 
+        "view_str": "4ffb6307e5e2e9ef987aea11eec298e5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1643
+          ], 
+          [
+            936, 
+            1764
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.gh4a:id/et_comment[text]Comment on this commit[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "34c53d3a4fd9d1b6c0ed2ce8b7be8293"
+}

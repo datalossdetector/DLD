@@ -1,0 +1,89 @@
+{
+  "stop_state": "86768ea8b90341873e27cad32e00f485", 
+  "event_str": "FillUIEvent(state=38dfdf463c8fcfc47f8c7b9afc1098b9, views=['c44ef8f9769f1c9061a9ff2d488e0f84', 'b2fea267b0a01afdfdebbe8db38277a3'])", 
+  "tag": "2019-06-17_145049", 
+  "event": {
+    "views_str": [
+      "c44ef8f9769f1c9061a9ff2d488e0f84", 
+      "b2fea267b0a01afdfdebbe8db38277a3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "it.feio.android.omninotes:id/checklist_keep_checked", 
+        "text": "Keep checked items", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "523*96", 
+        "checked": true, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]it.feio.android.omninotes:id/checklist_keep_checked", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": false, 
+        "view_str": "c44ef8f9769f1c9061a9ff2d488e0f84", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            708
+          ], 
+          [
+            646, 
+            804
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]it.feio.android.omninotes:id/checklist_keep_checked[text]Keep checked items[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "it.feio.android.omninotes:id/checklist_keep_checkmarks", 
+        "text": "Keep check marks", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "484*96", 
+        "checked": true, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]it.feio.android.omninotes:id/checklist_keep_checkmarks", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "it.feio.android.omninotes", 
+        "long_clickable": false, 
+        "view_str": "b2fea267b0a01afdfdebbe8db38277a3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            852
+          ], 
+          [
+            607, 
+            948
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]it.feio.android.omninotes:id/checklist_keep_checkmarks[text]Keep check marks[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "38dfdf463c8fcfc47f8c7b9afc1098b9"
+}

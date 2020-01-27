@@ -1,0 +1,51 @@
+{
+  "stop_state": "37dff9bbc0d4fe66a25e7baee83ba688", 
+  "event_str": "FillUIEvent(state=37dff9bbc0d4fe66a25e7baee83ba688, views=['0451e5765ae01d0ef62fe9a9fb0312d4'])", 
+  "tag": "2019-06-18_051118", 
+  "event": {
+    "views_str": [
+      "0451e5765ae01d0ef62fe9a9fb0312d4"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/toggle", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]android:id/toggle", 
+        "is_password": false, 
+        "parent": 37, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.android.systemui", 
+        "long_clickable": false, 
+        "view_str": "0451e5765ae01d0ef62fe9a9fb0312d4", 
+        "enabled": true, 
+        "bounds": [
+          [
+            868, 
+            219
+          ], 
+          [
+            1008, 
+            300
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]android:id/toggle[text]ON[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "37dff9bbc0d4fe66a25e7baee83ba688"
+}
