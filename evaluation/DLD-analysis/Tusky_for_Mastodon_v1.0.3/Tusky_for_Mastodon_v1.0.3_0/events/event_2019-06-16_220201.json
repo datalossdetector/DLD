@@ -1,0 +1,51 @@
+{
+  "stop_state": "ab1cd86853fbd794071f340fcbac4234", 
+  "event_str": "FillUIEvent(state=1fbe5cd1c209e36f7c0c31583a72a3af, views=['b49fc104e21228b92e3ae0fb182d58b9'])", 
+  "tag": "2019-06-16_220201", 
+  "event": {
+    "views_str": [
+      "b49fc104e21228b92e3ae0fb182d58b9"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/search_bar_text", 
+        "text": "test123test123tetest1test12test1233test123test1232test12test1233test1233test123test123test123test123test123test123test123test123test123test123st123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "812*144", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/search_bar_text", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "b49fc104e21228b92e3ae0fb182d58b9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            242, 
+            95
+          ], 
+          [
+            1054, 
+            239
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/search_bar_text[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1fbe5cd1c209e36f7c0c31583a72a3af"
+}

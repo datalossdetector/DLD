@@ -1,0 +1,51 @@
+{
+  "stop_state": "db3654e37b2cb3da571cbb782bb438d3", 
+  "event_str": "FillUIEvent(state=6d8f7cce56cdaa22e2fce7702e292a5d, views=['b293bc02a0a6d172ec0a45451dc1db62'])", 
+  "tag": "2019-06-07_203402", 
+  "event": {
+    "views_str": [
+      "b293bc02a0a6d172ec0a45451dc1db62"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/searchQuery", 
+        "text": "Search tweets or users", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "672*144", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/searchQuery", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": true, 
+        "view_str": "b293bc02a0a6d172ec0a45451dc1db62", 
+        "enabled": true, 
+        "bounds": [
+          [
+            240, 
+            96
+          ], 
+          [
+            912, 
+            240
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/searchQuery[text]Search tweets or users[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "6d8f7cce56cdaa22e2fce7702e292a5d"
+}

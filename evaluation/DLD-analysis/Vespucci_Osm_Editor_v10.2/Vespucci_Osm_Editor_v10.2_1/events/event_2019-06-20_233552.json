@@ -1,0 +1,127 @@
+{
+  "stop_state": "1d9946abddcc0c1bc95da73f01ad84e6", 
+  "event_str": "FillUIEvent(state=a2a9e00fce7b5f15f8bc04fd110fec54, views=['e7944ee29150c5406c5f9f3f86797234', '827a2270c9b65f0402d5bb1abe0916bd', 'bffef55b0a926e8e8d9255883bdd11f0'])", 
+  "tag": "2019-06-20_233552", 
+  "event": {
+    "views_str": [
+      "e7944ee29150c5406c5f9f3f86797234", 
+      "827a2270c9b65f0402d5bb1abe0916bd", 
+      "bffef55b0a926e8e8d9255883bdd11f0"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/upload_comment", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/upload_comment", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": true, 
+        "view_str": "e7944ee29150c5406c5f9f3f86797234", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            495
+          ], 
+          [
+            932, 
+            631
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/upload_comment[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/upload_source", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/upload_source", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": true, 
+        "view_str": "827a2270c9b65f0402d5bb1abe0916bd", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            739
+          ], 
+          [
+            932, 
+            875
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/upload_source[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/upload_close_changeset", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*108", 
+        "checked": false, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blau.android:id/upload_close_changeset", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "bffef55b0a926e8e8d9255883bdd11f0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            836, 
+            875
+          ], 
+          [
+            932, 
+            983
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blau.android:id/upload_close_changeset[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "a2a9e00fce7b5f15f8bc04fd110fec54"
+}

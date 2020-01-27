@@ -1,0 +1,89 @@
+{
+  "stop_state": "c6c7352324757c36c728d1a10009c49d", 
+  "event_str": "FillUIEvent(state=1e8b2fd25ef215fa009bc10d0838c084, views=['dcbf7926b97c438b7b27f9ab4e7fdd31', '7f472c9886438fdbfe7e5c05566501c1'])", 
+  "tag": "2019-06-17_062852", 
+  "event": {
+    "views_str": [
+      "dcbf7926b97c438b7b27f9ab4e7fdd31", 
+      "7f472c9886438fdbfe7e5c05566501c1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/field_content_warning", 
+        "text": "Content warning", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*73", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/field_content_warning", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": true, 
+        "view_str": "dcbf7926b97c438b7b27f9ab4e7fdd31", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            264
+          ], 
+          [
+            1080, 
+            337
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/field_content_warning[text]Content warning[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": null, 
+        "text": "/home/lta/Desktop/final/MALP_3d31062_0\r\n/home/lta/Desktop/final/MALP_3d31062_1\r\n/home/lta/Desktop/final/MALP_3d31062_2", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*1196", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": true, 
+        "view_str": "7f472c9886438fdbfe7e5c05566501c1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            388
+          ], 
+          [
+            1032, 
+            1584
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1e8b2fd25ef215fa009bc10d0838c084"
+}

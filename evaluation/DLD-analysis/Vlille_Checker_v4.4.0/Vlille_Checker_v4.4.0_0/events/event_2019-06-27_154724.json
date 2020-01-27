@@ -1,0 +1,165 @@
+{
+  "stop_state": "38f86683acef67c18e7acb19d3fdf560", 
+  "event_str": "FillUIEvent(state=51b1b344cfd3c5b0df1ec5dc284f8dfd, views=['b2b7f046a4f3e2fd0fbc92d5464f1532', 'b2b7f046a4f3e2fd0fbc92d5464f1532', 'fe4377cc20fb1c9e973a711c0d2296e0', 'b2b7f046a4f3e2fd0fbc92d5464f1532'])", 
+  "tag": "2019-06-27_154724", 
+  "event": {
+    "views_str": [
+      "b2b7f046a4f3e2fd0fbc92d5464f1532", 
+      "b2b7f046a4f3e2fd0fbc92d5464f1532", 
+      "fe4377cc20fb1c9e973a711c0d2296e0", 
+      "b2b7f046a4f3e2fd0fbc92d5464f1532"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.vlille.checker:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.vlille.checker", 
+        "long_clickable": false, 
+        "view_str": "b2b7f046a4f3e2fd0fbc92d5464f1532", 
+        "enabled": true, 
+        "bounds": [
+          [
+            862, 
+            400
+          ], 
+          [
+            1002, 
+            481
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vlille.checker:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget", 
+        "is_password": false, 
+        "parent": 23, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.vlille.checker", 
+        "long_clickable": false, 
+        "view_str": "b2b7f046a4f3e2fd0fbc92d5464f1532", 
+        "enabled": true, 
+        "bounds": [
+          [
+            862, 
+            595
+          ], 
+          [
+            1002, 
+            676
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget[text]OFF[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vlille.checker:id/switchWidget", 
+        "text": "ON", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.vlille.checker", 
+        "long_clickable": false, 
+        "view_str": "fe4377cc20fb1c9e973a711c0d2296e0", 
+        "enabled": true, 
+        "bounds": [
+          [
+            862, 
+            790
+          ], 
+          [
+            1002, 
+            871
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget[text]ON[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.vlille.checker:id/switchWidget", 
+        "text": "OFF", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "140*81", 
+        "checked": false, 
+        "temp_id": 36, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget", 
+        "is_password": false, 
+        "parent": 35, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.Switch", 
+        "scrollable": false, 
+        "package": "com.vlille.checker", 
+        "long_clickable": false, 
+        "view_str": "b2b7f046a4f3e2fd0fbc92d5464f1532", 
+        "enabled": true, 
+        "bounds": [
+          [
+            862, 
+            1090
+          ], 
+          [
+            1002, 
+            1171
+          ]
+        ], 
+        "signature": "[class]android.widget.Switch[resource_id]com.vlille.checker:id/switchWidget[text]OFF[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "51b1b344cfd3c5b0df1ec5dc284f8dfd"
+}

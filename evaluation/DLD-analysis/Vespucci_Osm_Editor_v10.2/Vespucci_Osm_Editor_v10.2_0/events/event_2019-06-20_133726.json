@@ -1,0 +1,127 @@
+{
+  "stop_state": "700d5044ee3e58390605e90a0814caf1", 
+  "event_str": "FillUIEvent(state=95564fdd72a3930a368f71684148417b, views=['2c150974084626708a37aa1c3200ea25', '2c150974084626708a37aa1c3200ea25', 'e8ba78716493be8027f344705f74d34c'])", 
+  "tag": "2019-06-20_133726", 
+  "event": {
+    "views_str": [
+      "2c150974084626708a37aa1c3200ea25", 
+      "2c150974084626708a37aa1c3200ea25", 
+      "e8ba78716493be8027f344705f74d34c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "PHONE", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "420*135", 
+        "checked": true, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "2c150974084626708a37aa1c3200ea25", 
+        "enabled": true, 
+        "bounds": [
+          [
+            120, 
+            396
+          ], 
+          [
+            540, 
+            531
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "EMAIL", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "420*135", 
+        "checked": true, 
+        "temp_id": 17, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "2c150974084626708a37aa1c3200ea25", 
+        "enabled": true, 
+        "bounds": [
+          [
+            540, 
+            396
+          ], 
+          [
+            960, 
+            531
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "Mobile Number", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "618*114", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8ba78716493be8027f344705f74d34c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            315, 
+            630
+          ], 
+          [
+            933, 
+            744
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "95564fdd72a3930a368f71684148417b"
+}

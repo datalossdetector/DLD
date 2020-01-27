@@ -1,0 +1,51 @@
+{
+  "stop_state": "bd055d90825c82eeaebd3e248b1ad0b1", 
+  "event_str": "FillUIEvent(state=44def16464badb95dcc108de8843c541, views=['6c02a0ebf4d1fa003c05f9a2c6e4d0e5'])", 
+  "tag": "2019-06-21_153156", 
+  "event": {
+    "views_str": [
+      "6c02a0ebf4d1fa003c05f9a2c6e4d0e5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Search query", 
+        "resource_id": "ch.corten.aha.worldclock:id/abs__search_src_text", 
+        "text": "   ", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "877*108", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/abs__search_src_text", 
+        "is_password": false, 
+        "parent": 12, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": true, 
+        "view_str": "6c02a0ebf4d1fa003c05f9a2c6e4d0e5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            174, 
+            87
+          ], 
+          [
+            1051, 
+            195
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/abs__search_src_text[text]   [enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "44def16464badb95dcc108de8843c541"
+}

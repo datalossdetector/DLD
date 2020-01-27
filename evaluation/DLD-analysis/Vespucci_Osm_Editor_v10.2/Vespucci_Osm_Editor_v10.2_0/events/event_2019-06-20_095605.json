@@ -1,0 +1,203 @@
+{
+  "stop_state": "54a2d9a1bdd03bda7f15dc768183c584", 
+  "event_str": "FillUIEvent(state=54a2d9a1bdd03bda7f15dc768183c584, views=['e8ba78716493be8027f344705f74d34c', 'e8ba78716493be8027f344705f74d34c', '3aed6838ec064ca7f849ec9eb60932e7', 'e8ba78716493be8027f344705f74d34c', 'e8ba78716493be8027f344705f74d34c'])", 
+  "tag": "2019-06-20_095605", 
+  "event": {
+    "views_str": [
+      "e8ba78716493be8027f344705f74d34c", 
+      "e8ba78716493be8027f344705f74d34c", 
+      "3aed6838ec064ca7f849ec9eb60932e7", 
+      "e8ba78716493be8027f344705f74d34c", 
+      "e8ba78716493be8027f344705f74d34c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "test123", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1698*105", 
+        "checked": false, 
+        "temp_id": 24, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8ba78716493be8027f344705f74d34c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            903
+          ], 
+          [
+            1746, 
+            1008
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "OpenStreetMap:Bureaucrtest123ats", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1698*105", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8ba78716493be8027f344705f74d34c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1074
+          ], 
+          [
+            1746, 
+            1179
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Search titles starting with this text", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "666*66", 
+        "checked": true, 
+        "temp_id": 29, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "3aed6838ec064ca7f849ec9eb60932e7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1176
+          ], 
+          [
+            714, 
+            1242
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": "From year (and earlier):", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "642*105", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8ba78716493be8027f344705f74d34c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            489, 
+            1263
+          ], 
+          [
+            1131, 
+            1368
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "639*105", 
+        "checked": false, 
+        "temp_id": 41, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8ba78716493be8027f344705f74d34c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            234, 
+            1476
+          ], 
+          [
+            873, 
+            1581
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "54a2d9a1bdd03bda7f15dc768183c584"
+}

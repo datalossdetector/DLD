@@ -1,0 +1,165 @@
+{
+  "stop_state": "8885b8abb58490e0fa6fa968b15eafdf", 
+  "event_str": "FillUIEvent(state=e5fedbc5d7cac70d6af9e67f5c90b1d3, views=['58b046f4f130d88773a525f0e4e6d193', '9cc10dbef8157b7d5814e96dce6dd7d2', '58b046f4f130d88773a525f0e4e6d193', '9cc10dbef8157b7d5814e96dce6dd7d2'])", 
+  "tag": "2019-06-21_021205", 
+  "event": {
+    "views_str": [
+      "58b046f4f130d88773a525f0e4e6d193", 
+      "9cc10dbef8157b7d5814e96dce6dd7d2", 
+      "58b046f4f130d88773a525f0e4e6d193", 
+      "9cc10dbef8157b7d5814e96dce6dd7d2"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Include marker", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "333*48", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "58b046f4f130d88773a525f0e4e6d193", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            474
+          ], 
+          [
+            393, 
+            522
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "https://www.openstreetmap.org/#map=5/42.082/28.037", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "960*63", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 24, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "9cc10dbef8157b7d5814e96dce6dd7d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            666
+          ], 
+          [
+            1020, 
+            729
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Set custom dimensions", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "495*48", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "58b046f4f130d88773a525f0e4e6d193", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1104
+          ], 
+          [
+            555, 
+            1152
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "13240585", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "303*78", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 36, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "9cc10dbef8157b7d5814e96dce6dd7d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            255, 
+            1296
+          ], 
+          [
+            558, 
+            1374
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "e5fedbc5d7cac70d6af9e67f5c90b1d3"
+}

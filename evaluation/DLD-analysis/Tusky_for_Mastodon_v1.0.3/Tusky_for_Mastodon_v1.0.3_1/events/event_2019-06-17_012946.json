@@ -1,0 +1,49 @@
+{
+  "stop_state": "a310c31360bc1514a5b0243dced75f45", 
+  "event_str": "TouchEvent(state=dd9252d91205de978b78e9319e195e4f, view=02495ecdb7fafa231a68fe512ba2bbdd)", 
+  "tag": "2019-06-17_012946", 
+  "event": {
+    "event_type": "touch", 
+    "y": null, 
+    "x": null, 
+    "id": 0, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.keylesspalace.tusky:id/button_login", 
+      "text": "Login with Mastodon", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "750*144", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.Button[resource_id]com.keylesspalace.tusky:id/button_login", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.Button", 
+      "scrollable": false, 
+      "package": "com.keylesspalace.tusky", 
+      "long_clickable": false, 
+      "view_str": "02495ecdb7fafa231a68fe512ba2bbdd", 
+      "enabled": true, 
+      "bounds": [
+        [
+          165, 
+          1229
+        ], 
+        [
+          915, 
+          1373
+        ]
+      ], 
+      "signature": "[class]android.widget.Button[resource_id]com.keylesspalace.tusky:id/button_login[text]Login with Mastodon[enabled,,]"
+    }
+  }, 
+  "start_state": "dd9252d91205de978b78e9319e195e4f"
+}

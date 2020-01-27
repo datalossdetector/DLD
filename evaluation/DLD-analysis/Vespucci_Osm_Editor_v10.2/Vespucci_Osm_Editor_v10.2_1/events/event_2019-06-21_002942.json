@@ -1,0 +1,89 @@
+{
+  "stop_state": "c10830fd8136b657b99e7e123c3849a7", 
+  "event_str": "FillUIEvent(state=803b9391fe72ab24e47be34d1b5f4e67, views=['7aa60a4994152dce3843ecd901d91cfb', 'e8c88a7f02d3478b1b9855666b94c66c'])", 
+  "tag": "2019-06-21_002942", 
+  "event": {
+    "views_str": [
+      "7aa60a4994152dce3843ecd901d91cfb", 
+      "e8c88a7f02d3478b1b9855666b94c66c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Email Address", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*84", 
+        "checked": false, 
+        "temp_id": 153, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 151, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "7aa60a4994152dce3843ecd901d91cfb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            45, 
+            19710
+          ], 
+          [
+            987, 
+            19794
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "846*111", 
+        "checked": false, 
+        "temp_id": 714, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 713, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8c88a7f02d3478b1b9855666b94c66c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            45, 
+            24120
+          ], 
+          [
+            891, 
+            24231
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "803b9391fe72ab24e47be34d1b5f4e67"
+}

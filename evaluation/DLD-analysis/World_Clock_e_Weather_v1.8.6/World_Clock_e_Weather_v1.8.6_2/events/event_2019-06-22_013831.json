@@ -1,0 +1,50 @@
+{
+  "stop_state": "4b956eff1252a4c89971e92c06561284", 
+  "event_str": "LongTouchEvent(state=5f5c632e72d48f9ab03e6454a2faa8ec, view=c627f92272e64c0ec40bb919d41969cf, duration=2000)", 
+  "tag": "2019-06-22_013831", 
+  "event": {
+    "event_type": "long_touch", 
+    "duration": 2000, 
+    "y": null, 
+    "x": null, 
+    "id": 2, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.corten.aha.worldclock:id/openweather_signup", 
+      "text": "open weather api key link", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "900*57", 
+      "checked": false, 
+      "temp_id": 15, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.TextView[resource_id]ch.corten.aha.worldclock:id/openweather_signup", 
+      "is_password": false, 
+      "parent": 11, 
+      "focusable": true, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.TextView", 
+      "scrollable": false, 
+      "package": "ch.corten.aha.worldclock", 
+      "long_clickable": true, 
+      "view_str": "c627f92272e64c0ec40bb919d41969cf", 
+      "enabled": true, 
+      "bounds": [
+        [
+          90, 
+          1075
+        ], 
+        [
+          990, 
+          1132
+        ]
+      ], 
+      "signature": "[class]android.widget.TextView[resource_id]ch.corten.aha.worldclock:id/openweather_signup[text]open weather api key link[enabled,,]"
+    }
+  }, 
+  "start_state": "5f5c632e72d48f9ab03e6454a2faa8ec"
+}

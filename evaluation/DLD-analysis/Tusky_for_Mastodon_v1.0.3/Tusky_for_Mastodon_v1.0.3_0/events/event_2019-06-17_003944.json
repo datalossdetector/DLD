@@ -1,0 +1,50 @@
+{
+  "stop_state": "d1df51ed2df534b2d8d235c8d92ba7e9", 
+  "event_str": "SetTextEvent(state=49ec965cfc076ef2f7924d558c62eb68, view=19fecedf7e6b3338269637bd97e76c6d, text=HelloWorld)", 
+  "tag": "2019-06-17_003944", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 11, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "com.keylesspalace.tusky:id/report_comment", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1080*512", 
+      "checked": false, 
+      "temp_id": 22, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/report_comment", 
+      "is_password": false, 
+      "parent": 6, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.keylesspalace.tusky", 
+      "long_clickable": true, 
+      "view_str": "19fecedf7e6b3338269637bd97e76c6d", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1264
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/report_comment[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "49ec965cfc076ef2f7924d558c62eb68"
+}

@@ -1,0 +1,51 @@
+{
+  "stop_state": "6288e6e2f5641d749ee719c12be703e9", 
+  "event_str": "FillUIEvent(state=61a8252addff7269bf66a3ca4ec774ac, views=['d5f2c27fe9a538bf1abbdc2abac34e83'])", 
+  "tag": "2019-06-16_232158", 
+  "event": {
+    "views_str": [
+      "d5f2c27fe9a538bf1abbdc2abac34e83"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/status_content_warning_button", 
+        "text": "Show Less", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "215*1", 
+        "checked": true, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.ToggleButton[resource_id]com.keylesspalace.tusky:id/status_content_warning_button", 
+        "is_password": false, 
+        "parent": 20, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.ToggleButton", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "d5f2c27fe9a538bf1abbdc2abac34e83", 
+        "enabled": true, 
+        "bounds": [
+          [
+            495, 
+            240
+          ], 
+          [
+            710, 
+            241
+          ]
+        ], 
+        "signature": "[class]android.widget.ToggleButton[resource_id]com.keylesspalace.tusky:id/status_content_warning_button[text]Show Less[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "61a8252addff7269bf66a3ca4ec774ac"
+}

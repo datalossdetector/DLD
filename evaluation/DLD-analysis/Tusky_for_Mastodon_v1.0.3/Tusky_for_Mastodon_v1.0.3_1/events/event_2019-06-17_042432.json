@@ -1,0 +1,50 @@
+{
+  "stop_state": "0c1f004f6e5c675c59cbe3e1dbe89d4b", 
+  "event_str": "SetTextEvent(state=e9076eda63cd3200f170db91c17c46dd, view=568ea5ea47ce1ef1f8ca0ae0c9df8ca7, text=HelloWorld)", 
+  "tag": "2019-06-17_042432", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 6, 
+    "view": {
+      "content_description": null, 
+      "resource_id": null, 
+      "text": "What's happening?", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*1320", 
+      "checked": false, 
+      "temp_id": 11, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+      "is_password": false, 
+      "parent": 10, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.keylesspalace.tusky", 
+      "long_clickable": true, 
+      "view_str": "568ea5ea47ce1ef1f8ca0ae0c9df8ca7", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          264
+        ], 
+        [
+          1032, 
+          1584
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]None[text]What's happening?[enabled,,]"
+    }
+  }, 
+  "start_state": "e9076eda63cd3200f170db91c17c46dd"
+}

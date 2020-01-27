@@ -1,0 +1,165 @@
+{
+  "stop_state": "61a6a8e26a9674a27c4e6002798f6469", 
+  "event_str": "FillUIEvent(state=7fb1ae8ad8cc4c10443f2c0909eb8e26, views=['cb0cccf9143fd386cb3189a632b9b244', '7f4373b41a5dbb4d4a10c3aaf64d323b', '872aeedb567548ee58db30dcc65ee0be', '715532782b992fb2f2556b4e63a445c5'])", 
+  "tag": "2019-06-16_222928", 
+  "event": {
+    "views_str": [
+      "cb0cccf9143fd386cb3189a632b9b244", 
+      "7f4373b41a5dbb4d4a10c3aaf64d323b", 
+      "872aeedb567548ee58db30dcc65ee0be", 
+      "715532782b992fb2f2556b4e63a445c5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/radio_public", 
+        "text": "Everyone can see", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "418*96", 
+        "checked": true, 
+        "temp_id": 10, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.keylesspalace.tusky:id/radio_public", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "cb0cccf9143fd386cb3189a632b9b244", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            1272
+          ], 
+          [
+            490, 
+            1368
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.keylesspalace.tusky:id/radio_public[text]Everyone can see[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/radio_unlisted", 
+        "text": "Everyone can see, but not on public timelines", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "928*96", 
+        "checked": false, 
+        "temp_id": 11, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.keylesspalace.tusky:id/radio_unlisted", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "7f4373b41a5dbb4d4a10c3aaf64d323b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            1368
+          ], 
+          [
+            1000, 
+            1464
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.keylesspalace.tusky:id/radio_unlisted[text]Everyone can see, but not on public timelines[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/radio_private", 
+        "text": "Only followers and mentions can see", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "780*96", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]com.keylesspalace.tusky:id/radio_private", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "872aeedb567548ee58db30dcc65ee0be", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            1464
+          ], 
+          [
+            852, 
+            1560
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]com.keylesspalace.tusky:id/radio_private[text]Only followers and mentions can see[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/compose_hide_text", 
+        "text": "Hide text behind warning", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "558*96", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.keylesspalace.tusky:id/compose_hide_text", 
+        "is_password": false, 
+        "parent": 8, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "715532782b992fb2f2556b4e63a445c5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            1608
+          ], 
+          [
+            630, 
+            1704
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.keylesspalace.tusky:id/compose_hide_text[text]Hide text behind warning[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "7fb1ae8ad8cc4c10443f2c0909eb8e26"
+}

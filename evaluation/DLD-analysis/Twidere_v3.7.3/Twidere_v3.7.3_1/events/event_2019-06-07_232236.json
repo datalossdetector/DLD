@@ -1,0 +1,89 @@
+{
+  "stop_state": "5d348119009fc0886bf3ab6e18ae77b2", 
+  "event_str": "FillUIEvent(state=16cbe6a987a5abfbfcdb936013c5d8e2, views=['9993ba2ddbd5dbca70f5b30a00d2808b', '6829ace07fc7bd7bdd945a28afc35585'])", 
+  "tag": "2019-06-07_232236", 
+  "event": {
+    "views_str": [
+      "9993ba2ddbd5dbca70f5b30a00d2808b", 
+      "6829ace07fc7bd7bdd945a28afc35585"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/editName", 
+        "text": "unimibtest", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1032*223", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/editName", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": true, 
+        "view_str": "9993ba2ddbd5dbca70f5b30a00d2808b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            24, 
+            768
+          ], 
+          [
+            1056, 
+            991
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/editName[text]unimibtest[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/editDescription", 
+        "text": "HelloWorld", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1032*412", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/editDescription", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": true, 
+        "view_str": "6829ace07fc7bd7bdd945a28afc35585", 
+        "enabled": true, 
+        "bounds": [
+          [
+            24, 
+            991
+          ], 
+          [
+            1056, 
+            1403
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/editDescription[text]HelloWorld[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "16cbe6a987a5abfbfcdb936013c5d8e2"
+}

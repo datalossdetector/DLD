@@ -1,0 +1,89 @@
+{
+  "stop_state": "7dae6d67dde084e2d889566a59d0b83e", 
+  "event_str": "FillUIEvent(state=3465c46ed667dd468c22167d95255546, views=['9cc10dbef8157b7d5814e96dce6dd7d2', '3348a1b60e67e999b274edeabad3f880'])", 
+  "tag": "2019-06-20_120550", 
+  "event": {
+    "views_str": [
+      "9cc10dbef8157b7d5814e96dce6dd7d2", 
+      "3348a1b60e67e999b274edeabad3f880"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "test123testest123t123", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "639*129", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 21, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "9cc10dbef8157b7d5814e96dce6dd7d2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            249
+          ], 
+          [
+            639, 
+            378
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Search by Creator", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "432*87", 
+        "checked": false, 
+        "temp_id": 32, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 31, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "3348a1b60e67e999b274edeabad3f880", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            933
+          ], 
+          [
+            462, 
+            1020
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3465c46ed667dd468c22167d95255546"
+}

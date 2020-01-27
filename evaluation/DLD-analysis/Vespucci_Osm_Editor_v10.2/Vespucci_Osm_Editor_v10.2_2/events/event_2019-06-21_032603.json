@@ -1,0 +1,165 @@
+{
+  "stop_state": "8995730acd3827c904fe4dc62b81bd7a", 
+  "event_str": "FillUIEvent(state=aa963679770ac6ccbda5857a44528de2, views=['d3914c437217956692012c6d80fbf245', 'd80b1be59cc45f12755a1495fe9dabe7', '0cb79fde3ca70072785b91fa5d214ec3', '414a917e24b671dcbd75b4be67f0a5d5'])", 
+  "tag": "2019-06-21_032603", 
+  "event": {
+    "views_str": [
+      "d3914c437217956692012c6d80fbf245", 
+      "d80b1be59cc45f12755a1495fe9dabe7", 
+      "0cb79fde3ca70072785b91fa5d214ec3", 
+      "414a917e24b671dcbd75b4be67f0a5d5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/location_last", 
+        "text": "Last known location: \nLat 0.00000, Lon 0.00000\n (Accuracy  0 meter, gps) 1 minutes ago", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "831*155", 
+        "checked": true, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blau.android:id/location_last", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "d3914c437217956692012c6d80fbf245", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            312
+          ], 
+          [
+            903, 
+            467
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blau.android:id/location_last[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/location_current", 
+        "text": "Current location:", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "403*96", 
+        "checked": false, 
+        "temp_id": 13, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blau.android:id/location_current", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "d80b1be59cc45f12755a1495fe9dabe7", 
+        "enabled": false, 
+        "bounds": [
+          [
+            72, 
+            467
+          ], 
+          [
+            475, 
+            563
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blau.android:id/location_current[text]Current location:[,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/location_coordinates", 
+        "text": "From coordinates:", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "435*96", 
+        "checked": false, 
+        "temp_id": 14, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.RadioButton[resource_id]de.blau.android:id/location_coordinates", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.RadioButton", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "0cb79fde3ca70072785b91fa5d214ec3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            72, 
+            563
+          ], 
+          [
+            507, 
+            659
+          ]
+        ], 
+        "signature": "[class]android.widget.RadioButton[resource_id]de.blau.android:id/location_coordinates[text]From coordinates:[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/location_search_edit", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "797*-397", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/location_search_edit", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": true, 
+        "view_str": "414a917e24b671dcbd75b4be67f0a5d5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            211, 
+            659
+          ], 
+          [
+            1008, 
+            262
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/location_search_edit[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "aa963679770ac6ccbda5857a44528de2"
+}

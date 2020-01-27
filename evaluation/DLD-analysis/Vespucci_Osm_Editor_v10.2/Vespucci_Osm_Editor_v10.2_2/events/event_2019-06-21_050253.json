@@ -1,0 +1,50 @@
+{
+  "stop_state": "b83f7ff93d132d9e56013421c4f48ae0", 
+  "event_str": "SetTextEvent(state=0f2243e8dfb2d794b9f3b5119c9813fa, view=6e07d914534cfba08543906ff1cc50c0, text=HelloWorld)", 
+  "tag": "2019-06-21_050253", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 9, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.blau.android:id/location_search_edit", 
+      "text": "HelloWorld", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "785*136", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/location_search_edit", 
+      "is_password": false, 
+      "parent": 15, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": true, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.blau.android", 
+      "long_clickable": true, 
+      "view_str": "6e07d914534cfba08543906ff1cc50c0", 
+      "enabled": true, 
+      "bounds": [
+        [
+          147, 
+          875
+        ], 
+        [
+          932, 
+          1011
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/location_search_edit[text]HelloWorld[enabled,,]"
+    }
+  }, 
+  "start_state": "0f2243e8dfb2d794b9f3b5119c9813fa"
+}

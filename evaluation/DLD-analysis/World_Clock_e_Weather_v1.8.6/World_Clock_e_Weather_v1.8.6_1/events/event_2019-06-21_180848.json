@@ -1,0 +1,51 @@
+{
+  "stop_state": "b587fdc46ad4aacd146bf6419de3c5aa", 
+  "event_str": "FillUIEvent(state=5b5eb98a356815a705289edfc76c0793, views=['8f8ab059421544c2b1faee52c001c092'])", 
+  "tag": "2019-06-21_180848", 
+  "event": {
+    "views_str": [
+      "8f8ab059421544c2b1faee52c001c092"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/edit", 
+        "text": "Please enter new open weather map API", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "900*118", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/edit", 
+        "is_password": false, 
+        "parent": 11, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": true, 
+        "view_str": "8f8ab059421544c2b1faee52c001c092", 
+        "enabled": true, 
+        "bounds": [
+          [
+            90, 
+            869
+          ], 
+          [
+            990, 
+            987
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/edit[text]Please enter new open weather map API[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "5b5eb98a356815a705289edfc76c0793"
+}

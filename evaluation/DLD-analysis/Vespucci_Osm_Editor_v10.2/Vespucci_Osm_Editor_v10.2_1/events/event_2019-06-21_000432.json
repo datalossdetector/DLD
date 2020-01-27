@@ -1,0 +1,127 @@
+{
+  "stop_state": "d7ff27be544c8f65feb9065564fdb5a6", 
+  "event_str": "FillUIEvent(state=d7ff27be544c8f65feb9065564fdb5a6, views=['6504175dd1d4dc4b9da7fb66703470ef', '6504175dd1d4dc4b9da7fb66703470ef', '2c150974084626708a37aa1c3200ea25'])", 
+  "tag": "2019-06-21_000432", 
+  "event": {
+    "views_str": [
+      "6504175dd1d4dc4b9da7fb66703470ef", 
+      "6504175dd1d4dc4b9da7fb66703470ef", 
+      "2c150974084626708a37aa1c3200ea25"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*120", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "6504175dd1d4dc4b9da7fb66703470ef", 
+        "enabled": true, 
+        "bounds": [
+          [
+            -201, 
+            2355
+          ], 
+          [
+            639, 
+            2475
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Limited to 200 characters", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "840*240", 
+        "checked": false, 
+        "temp_id": 25, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 17, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "6504175dd1d4dc4b9da7fb66703470ef", 
+        "enabled": true, 
+        "bounds": [
+          [
+            -201, 
+            2706
+          ], 
+          [
+            639, 
+            2946
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "List my name on the public donor list.", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "657*42", 
+        "checked": true, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 26, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "2c150974084626708a37aa1c3200ea25", 
+        "enabled": true, 
+        "bounds": [
+          [
+            -189, 
+            2985
+          ], 
+          [
+            468, 
+            3027
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "d7ff27be544c8f65feb9065564fdb5a6"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "f7b59900a2f4636a1af380f3a980d75e", 
+  "event_str": "SetTextEvent(state=834ab27116ecf85c69c1d861edbb6740, view=52f5144fdf6f663989a5a728547c1914, text=HelloWorld)", 
+  "tag": "2019-06-22_001244", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 15, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "ch.corten.aha.worldclock:id/city_edittext", 
+      "text": "Mariehamn", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "984*118", 
+      "checked": false, 
+      "temp_id": 16, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/city_edittext", 
+      "is_password": false, 
+      "parent": 14, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "ch.corten.aha.worldclock", 
+      "long_clickable": true, 
+      "view_str": "52f5144fdf6f663989a5a728547c1914", 
+      "enabled": true, 
+      "bounds": [
+        [
+          48, 
+          329
+        ], 
+        [
+          1032, 
+          447
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/city_edittext[text]Mariehamn[enabled,,]"
+    }
+  }, 
+  "start_state": "834ab27116ecf85c69c1d861edbb6740"
+}

@@ -1,0 +1,165 @@
+{
+  "stop_state": "f0b23c3a2515bda12bcf78f1c65e4372", 
+  "event_str": "FillUIEvent(state=f0b23c3a2515bda12bcf78f1c65e4372, views=['a21d056beb19ff1a3990b6c411c87729', '658c410f8288d610f0b7e5399c2724b6', '658c410f8288d610f0b7e5399c2724b6', 'a5f1424b7c6076feadfb0fbc2f8cfc4b'])", 
+  "tag": "2019-06-20_140814", 
+  "event": {
+    "views_str": [
+      "a21d056beb19ff1a3990b6c411c87729", 
+      "658c410f8288d610f0b7e5399c2724b6", 
+      "658c410f8288d610f0b7e5399c2724b6", 
+      "a5f1424b7c6076feadfb0fbc2f8cfc4b"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Search", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "771*90", 
+        "checked": false, 
+        "temp_id": 19, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 18, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "a21d056beb19ff1a3990b6c411c87729", 
+        "enabled": true, 
+        "bounds": [
+          [
+            30, 
+            276
+          ], 
+          [
+            801, 
+            366
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Map Notes", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "261*51", 
+        "checked": false, 
+        "temp_id": 57, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 56, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "658c410f8288d610f0b7e5399c2724b6", 
+        "enabled": false, 
+        "bounds": [
+          [
+            60, 
+            1296
+          ], 
+          [
+            321, 
+            1347
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": "Map Data", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "237*51", 
+        "checked": false, 
+        "temp_id": 59, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 58, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "658c410f8288d610f0b7e5399c2724b6", 
+        "enabled": false, 
+        "bounds": [
+          [
+            60, 
+            1365
+          ], 
+          [
+            297, 
+            1416
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": "Public GPS Traces", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*51", 
+        "checked": true, 
+        "temp_id": 61, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 60, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "a5f1424b7c6076feadfb0fbc2f8cfc4b", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1434
+          ], 
+          [
+            459, 
+            1485
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "f0b23c3a2515bda12bcf78f1c65e4372"
+}

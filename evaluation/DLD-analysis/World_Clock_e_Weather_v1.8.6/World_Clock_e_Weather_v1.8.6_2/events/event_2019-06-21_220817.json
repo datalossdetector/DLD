@@ -1,0 +1,203 @@
+{
+  "stop_state": "0acdffb5d398bf7fe7b5ef9b4c869f54", 
+  "event_str": "FillUIEvent(state=cbf3bcb9db3de06d500ffdb99aeed54f, views=['e49f80f03f397f0b8b54e974daf59818', '143adab7c1d06c5f1b3bfffd0a733965', '002df189263c12ca336153095a4e26e9', '8299a374ccc0ddd52888f8ab8ea67534', '1ca162f296126ed19cf48c2df293b6cf'])", 
+  "tag": "2019-06-21_220817", 
+  "event": {
+    "views_str": [
+      "e49f80f03f397f0b8b54e974daf59818", 
+      "143adab7c1d06c5f1b3bfffd0a733965", 
+      "002df189263c12ca336153095a4e26e9", 
+      "8299a374ccc0ddd52888f8ab8ea67534", 
+      "1ca162f296126ed19cf48c2df293b6cf"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "ch.corten.aha.worldclock:id/city_edittext", 
+        "text": "Ghazni", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*118", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/city_edittext", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": true, 
+        "view_str": "e49f80f03f397f0b8b54e974daf59818", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            329
+          ], 
+          [
+            1032, 
+            447
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/city_edittext[text]Ghazni[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.corten.aha.worldclock:id/description_edittext", 
+        "text": "Afghanistan", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*118", 
+        "checked": false, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/description_edittext", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": true, 
+        "view_str": "143adab7c1d06c5f1b3bfffd0a733965", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            536
+          ], 
+          [
+            1032, 
+            654
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/description_edittext[text]Afghanistan[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.corten.aha.worldclock:id/latitude_edittext", 
+        "text": "33.55391", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*118", 
+        "checked": false, 
+        "temp_id": 20, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/latitude_edittext", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": true, 
+        "view_str": "002df189263c12ca336153095a4e26e9", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            743
+          ], 
+          [
+            1032, 
+            861
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/latitude_edittext[text]33.55391[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.corten.aha.worldclock:id/longitude_edittext", 
+        "text": "68.42096", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "984*118", 
+        "checked": false, 
+        "temp_id": 22, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/longitude_edittext", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": true, 
+        "view_str": "8299a374ccc0ddd52888f8ab8ea67534", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            950
+          ], 
+          [
+            1032, 
+            1068
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]ch.corten.aha.worldclock:id/longitude_edittext[text]68.42096[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "ch.corten.aha.worldclock:id/use_in_widget_checkbox", 
+        "text": "Display in widget", 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "529*96", 
+        "checked": true, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]ch.corten.aha.worldclock:id/use_in_widget_checkbox", 
+        "is_password": false, 
+        "parent": 14, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": false, 
+        "view_str": "1ca162f296126ed19cf48c2df293b6cf", 
+        "enabled": true, 
+        "bounds": [
+          [
+            48, 
+            1092
+          ], 
+          [
+            577, 
+            1188
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]ch.corten.aha.worldclock:id/use_in_widget_checkbox[text]Display in widget[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "cbf3bcb9db3de06d500ffdb99aeed54f"
+}

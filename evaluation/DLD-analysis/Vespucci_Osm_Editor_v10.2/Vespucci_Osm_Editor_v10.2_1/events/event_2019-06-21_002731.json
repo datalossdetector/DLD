@@ -1,0 +1,203 @@
+{
+  "stop_state": "d30e3942f1643ed72b7133abc71c5bb8", 
+  "event_str": "FillUIEvent(state=d30e3942f1643ed72b7133abc71c5bb8, views=['cc510759645d0a987d2bf8550e22ff9a', '87a804b54bdbf0fc8ae5cdc14742b418', 'f74befd0092d39ce1226d237a70c35f7', '7aa60a4994152dce3843ecd901d91cfb', 'e8c88a7f02d3478b1b9855666b94c66c'])", 
+  "tag": "2019-06-21_002731", 
+  "event": {
+    "views_str": [
+      "cc510759645d0a987d2bf8550e22ff9a", 
+      "87a804b54bdbf0fc8ae5cdc14742b418", 
+      "f74befd0092d39ce1226d237a70c35f7", 
+      "7aa60a4994152dce3843ecd901d91cfb", 
+      "e8c88a7f02d3478b1b9855666b94c66c"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Search", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "45*90", 
+        "checked": false, 
+        "temp_id": 56, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 55, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "cc510759645d0a987d2bf8550e22ff9a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            930, 
+            231
+          ], 
+          [
+            975, 
+            321
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Join the discussion\u2026", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "852*216", 
+        "checked": false, 
+        "temp_id": 188, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 186, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "87a804b54bdbf0fc8ae5cdc14742b418", 
+        "enabled": true, 
+        "bounds": [
+          [
+            177, 
+            13491
+          ], 
+          [
+            1029, 
+            13707
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "name", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "987*96", 
+        "checked": false, 
+        "temp_id": 204, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 203, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "f74befd0092d39ce1226d237a70c35f7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            45, 
+            14040
+          ], 
+          [
+            1032, 
+            14136
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Email Address", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "942*84", 
+        "checked": false, 
+        "temp_id": 323, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 321, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "7aa60a4994152dce3843ecd901d91cfb", 
+        "enabled": true, 
+        "bounds": [
+          [
+            45, 
+            20046
+          ], 
+          [
+            987, 
+            20130
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "846*111", 
+        "checked": false, 
+        "temp_id": 934, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 933, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "e8c88a7f02d3478b1b9855666b94c66c", 
+        "enabled": true, 
+        "bounds": [
+          [
+            45, 
+            24456
+          ], 
+          [
+            891, 
+            24567
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d30e3942f1643ed72b7133abc71c5bb8"
+}

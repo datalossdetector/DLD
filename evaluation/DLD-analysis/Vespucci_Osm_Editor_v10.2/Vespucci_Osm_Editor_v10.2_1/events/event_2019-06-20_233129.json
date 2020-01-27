@@ -1,0 +1,51 @@
+{
+  "stop_state": "509b17a772aa9c7ce6f76da7aba6e561", 
+  "event_str": "FillUIEvent(state=b472d8a8cfd43cd00455ef970e17df11, views=['3f18c950e11ed76f89733e5059967ab3'])", 
+  "tag": "2019-06-20_233129", 
+  "event": {
+    "views_str": [
+      "3f18c950e11ed76f89733e5059967ab3"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 18, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]de.blau.android:id/checkbox", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "3f18c950e11ed76f89733e5059967ab3", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            1356
+          ], 
+          [
+            1032, 
+            1452
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]de.blau.android:id/checkbox[text]None[enabled,checked,]"
+      }
+    ]
+  }, 
+  "start_state": "b472d8a8cfd43cd00455ef970e17df11"
+}

@@ -1,0 +1,50 @@
+{
+  "stop_state": "50e31b34e96de0e6777de18764d71910", 
+  "event_str": "SetTextEvent(state=bff341b6278f1c1b58d40670738987fb, view=1dd0052537417366a0aec7886bc431ce, text=HelloWorld)", 
+  "tag": "2019-06-21_111033", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 61, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "android:id/search_src_text", 
+      "text": "00:0C:41 CISCO", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "816*108", 
+      "checked": false, 
+      "temp_id": 39, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+      "is_password": false, 
+      "parent": 38, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "com.vrem.wifianalyzer", 
+      "long_clickable": true, 
+      "view_str": "1dd0052537417366a0aec7886bc431ce", 
+      "enabled": true, 
+      "bounds": [
+        [
+          192, 
+          471
+        ], 
+        [
+          1008, 
+          579
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]00:0C:41 CISCO[enabled,,]"
+    }
+  }, 
+  "start_state": "bff341b6278f1c1b58d40670738987fb"
+}

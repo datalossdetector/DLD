@@ -1,0 +1,89 @@
+{
+  "stop_state": "9e23670030eb3d2e04ed715355499683", 
+  "event_str": "FillUIEvent(state=9e23670030eb3d2e04ed715355499683, views=['3348a1b60e67e999b274edeabad3f880', 'a21d056beb19ff1a3990b6c411c87729'])", 
+  "tag": "2019-06-21_014841", 
+  "event": {
+    "views_str": [
+      "3348a1b60e67e999b274edeabad3f880", 
+      "a21d056beb19ff1a3990b6c411c87729"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "More", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "186*57", 
+        "checked": false, 
+        "temp_id": 116, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 115, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "3348a1b60e67e999b274edeabad3f880", 
+        "enabled": true, 
+        "bounds": [
+          [
+            528, 
+            14463
+          ], 
+          [
+            714, 
+            14520
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": "Search OpenStreetMap Foundation [alt-f]", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "462*81", 
+        "checked": false, 
+        "temp_id": 122, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]None", 
+        "is_password": false, 
+        "parent": 121, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "a21d056beb19ff1a3990b6c411c87729", 
+        "enabled": true, 
+        "bounds": [
+          [
+            549, 
+            14610
+          ], 
+          [
+            1011, 
+            14691
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9e23670030eb3d2e04ed715355499683"
+}

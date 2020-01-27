@@ -1,0 +1,89 @@
+{
+  "stop_state": "4b6654cda1033bbd1ba3a07977f9b3e5", 
+  "event_str": "FillUIEvent(state=9f9165039027168c1712f2207a5adff0, views=['cc989201a26a1cb24eb0b0e40602be54', 'b395e955005229b468cbc2580d1d11c1'])", 
+  "tag": "2019-06-17_035010", 
+  "event": {
+    "views_str": [
+      "cc989201a26a1cb24eb0b0e40602be54", 
+      "b395e955005229b468cbc2580d1d11c1"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/report_status_check_box", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]com.keylesspalace.tusky:id/report_status_check_box", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": false, 
+        "view_str": "cc989201a26a1cb24eb0b0e40602be54", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            318
+          ], 
+          [
+            1032, 
+            414
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]com.keylesspalace.tusky:id/report_status_check_box[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "com.keylesspalace.tusky:id/report_comment", 
+        "text": "Additional comments?", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*512", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/report_comment", 
+        "is_password": false, 
+        "parent": 6, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.keylesspalace.tusky", 
+        "long_clickable": true, 
+        "view_str": "b395e955005229b468cbc2580d1d11c1", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            1264
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.keylesspalace.tusky:id/report_comment[text]Additional comments?[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "9f9165039027168c1712f2207a5adff0"
+}

@@ -1,0 +1,49 @@
+{
+  "stop_state": "486d6b5de142adb672b7f6e300329833", 
+  "event_str": "TouchEvent(state=486d6b5de142adb672b7f6e300329833, view=706df4d8fe2164c3bb1c89aa8863b5c9)", 
+  "tag": "2019-06-21_045445", 
+  "event": {
+    "y": null, 
+    "x": null, 
+    "view": {
+      "content_description": "Release 0.9.9 no longer supports Android 2.2. Google has removed 2.2 support from the libraries we use to provide backwards compatible support and there doesn't seem to be a way that we can replace them in any reasonable fashion. Even as is, we cannot use the latest version of these libraries that would match the Android version we are building against.", 
+      "resource_id": null, 
+      "text": null, 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "1032*255", 
+      "checked": false, 
+      "temp_id": 20, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.view.View[resource_id]None", 
+      "is_password": false, 
+      "parent": 16, 
+      "focusable": false, 
+      "editable": false, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.view.View", 
+      "scrollable": false, 
+      "package": "de.blau.android", 
+      "long_clickable": false, 
+      "view_str": "706df4d8fe2164c3bb1c89aa8863b5c9", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          783
+        ], 
+        [
+          1056, 
+          1038
+        ]
+      ], 
+      "signature": "[class]android.view.View[resource_id]None[text]None[enabled,,]"
+    }, 
+    "id": 10, 
+    "event_type": "touch"
+  }, 
+  "start_state": "486d6b5de142adb672b7f6e300329833"
+}

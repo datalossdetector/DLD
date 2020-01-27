@@ -1,0 +1,51 @@
+{
+  "stop_state": "28fa699171db8a18f58b6e5d3af9ea21", 
+  "event_str": "FillUIEvent(state=99e0bc7ebdf1852c43ce0dc05c510a5a, views=['bea0ae372b57bdcc911b10f06a6f8f22'])", 
+  "tag": "2019-06-20_233933", 
+  "event": {
+    "views_str": [
+      "bea0ae372b57bdcc911b10f06a6f8f22"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/openstreetbug_comment", 
+        "text": "test123", 
+        "visible": false, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/openstreetbug_comment", 
+        "is_password": false, 
+        "parent": 9, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": true, 
+        "view_str": "bea0ae372b57bdcc911b10f06a6f8f22", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            1296
+          ], 
+          [
+            932, 
+            1432
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/openstreetbug_comment[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "99e0bc7ebdf1852c43ce0dc05c510a5a"
+}

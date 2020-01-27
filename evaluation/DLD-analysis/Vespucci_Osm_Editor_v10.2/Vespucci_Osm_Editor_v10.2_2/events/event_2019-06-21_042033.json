@@ -1,0 +1,50 @@
+{
+  "stop_state": "c17368dddbf615c4bf52d1054122e36b", 
+  "event_str": "SetTextEvent(state=e9553d979c3b1c2f194932be7dbc38f0, view=c9b70b6026f02e793992930d0e86b2b8, text=HelloWorld)", 
+  "tag": "2019-06-21_042033", 
+  "event": {
+    "event_type": "set_text", 
+    "text": "HelloWorld", 
+    "y": null, 
+    "x": null, 
+    "id": 42, 
+    "view": {
+      "content_description": null, 
+      "resource_id": "de.blau.android:id/key", 
+      "text": "test123", 
+      "visible": true, 
+      "checkable": false, 
+      "children": [], 
+      "size": "516*96", 
+      "checked": false, 
+      "temp_id": 32, 
+      "selected": false, 
+      "child_count": 0, 
+      "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/key", 
+      "is_password": false, 
+      "parent": 31, 
+      "focusable": true, 
+      "editable": true, 
+      "focused": false, 
+      "clickable": true, 
+      "class": "android.widget.EditText", 
+      "scrollable": false, 
+      "package": "de.blau.android", 
+      "long_clickable": true, 
+      "view_str": "c9b70b6026f02e793992930d0e86b2b8", 
+      "enabled": true, 
+      "bounds": [
+        [
+          24, 
+          543
+        ], 
+        [
+          540, 
+          639
+        ]
+      ], 
+      "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/key[text]test123[enabled,,]"
+    }
+  }, 
+  "start_state": "e9553d979c3b1c2f194932be7dbc38f0"
+}

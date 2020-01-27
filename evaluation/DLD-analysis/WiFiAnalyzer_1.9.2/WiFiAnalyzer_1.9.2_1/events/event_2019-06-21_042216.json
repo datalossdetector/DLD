@@ -1,0 +1,89 @@
+{
+  "stop_state": "91d165294d805f13326828743b768e9b", 
+  "event_str": "FillUIEvent(state=1b8692c642b9b2a069ed44fc1403f278, views=['4cfd8bad4c177f54a26bc3e788dc2f71', '4cfd8bad4c177f54a26bc3e788dc2f71'])", 
+  "tag": "2019-06-21_042216", 
+  "event": {
+    "views_str": [
+      "4cfd8bad4c177f54a26bc3e788dc2f71", 
+      "4cfd8bad4c177f54a26bc3e788dc2f71"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.vrem.wifianalyzer", 
+        "long_clickable": false, 
+        "view_str": "4cfd8bad4c177f54a26bc3e788dc2f71", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            820
+          ], 
+          [
+            1032, 
+            916
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 35, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "com.vrem.wifianalyzer", 
+        "long_clickable": false, 
+        "view_str": "4cfd8bad4c177f54a26bc3e788dc2f71", 
+        "enabled": true, 
+        "bounds": [
+          [
+            936, 
+            984
+          ], 
+          [
+            1032, 
+            1080
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1b8692c642b9b2a069ed44fc1403f278"
+}

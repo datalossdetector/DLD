@@ -1,0 +1,51 @@
+{
+  "stop_state": "1e1dc6f6b128bd7568f0651b86bd18de", 
+  "event_str": "FillUIEvent(state=1e1dc6f6b128bd7568f0651b86bd18de, views=['175000b61e0a9447b4ece042ff505398'])", 
+  "tag": "2019-06-20_235741", 
+  "event": {
+    "views_str": [
+      "175000b61e0a9447b4ece042ff505398"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/numberpicker_input", 
+        "text": "5", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "930*144", 
+        "checked": false, 
+        "temp_id": 12, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.vrem.wifianalyzer", 
+        "long_clickable": true, 
+        "view_str": "175000b61e0a9447b4ece042ff505398", 
+        "enabled": true, 
+        "bounds": [
+          [
+            75, 
+            835
+          ], 
+          [
+            1005, 
+            979
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/numberpicker_input[text]5[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "1e1dc6f6b128bd7568f0651b86bd18de"
+}

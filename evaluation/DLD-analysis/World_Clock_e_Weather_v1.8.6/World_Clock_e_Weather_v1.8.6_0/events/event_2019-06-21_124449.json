@@ -1,0 +1,89 @@
+{
+  "stop_state": "31236437d863b30e0cbf6fd7243dc4fe", 
+  "event_str": "FillUIEvent(state=31236437d863b30e0cbf6fd7243dc4fe, views=['369f13e03968b43d814f87807b7561c7', '77299e7055d7d1d03637348b0bbdda1f'])", 
+  "tag": "2019-06-21_124449", 
+  "event": {
+    "views_str": [
+      "369f13e03968b43d814f87807b7561c7", 
+      "77299e7055d7d1d03637348b0bbdda1f"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": true, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 32, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": false, 
+        "view_str": "369f13e03968b43d814f87807b7561c7", 
+        "enabled": true, 
+        "bounds": [
+          [
+            882, 
+            796
+          ], 
+          [
+            978, 
+            892
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,checked,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "android:id/checkbox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox", 
+        "is_password": false, 
+        "parent": 50, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "ch.corten.aha.worldclock", 
+        "long_clickable": false, 
+        "view_str": "77299e7055d7d1d03637348b0bbdda1f", 
+        "enabled": true, 
+        "bounds": [
+          [
+            882, 
+            1487
+          ], 
+          [
+            978, 
+            1583
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]android:id/checkbox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "31236437d863b30e0cbf6fd7243dc4fe"
+}

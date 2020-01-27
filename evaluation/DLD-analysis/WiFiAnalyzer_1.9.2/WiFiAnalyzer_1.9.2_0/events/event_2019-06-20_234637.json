@@ -1,0 +1,51 @@
+{
+  "stop_state": "ea457dec9f84e3337dd6de39b2fce93f", 
+  "event_str": "FillUIEvent(state=d11dcb479994703d83b361f3b4156cc8, views=['d6a2d745fdb5feafc04f1adfd5c071f5'])", 
+  "tag": "2019-06-20_234637", 
+  "event": {
+    "views_str": [
+      "d6a2d745fdb5feafc04f1adfd5c071f5"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "android:id/search_src_text", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "696*108", 
+        "checked": false, 
+        "temp_id": 23, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.vrem.wifianalyzer", 
+        "long_clickable": true, 
+        "view_str": "d6a2d745fdb5feafc04f1adfd5c071f5", 
+        "enabled": true, 
+        "bounds": [
+          [
+            192, 
+            300
+          ], 
+          [
+            888, 
+            408
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]android:id/search_src_text[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d11dcb479994703d83b361f3b4156cc8"
+}

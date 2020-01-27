@@ -1,0 +1,51 @@
+{
+  "stop_state": "7799659b499447457ecbd4b1c93c6fd8", 
+  "event_str": "FillUIEvent(state=d57b3aa0a42a99528bfb809c12a51eab, views=['29287fe9ed143e40523d3d53ffada002'])", 
+  "tag": "2019-06-20_232533", 
+  "event": {
+    "views_str": [
+      "29287fe9ed143e40523d3d53ffada002"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "com.vrem.wifianalyzer:id/filterSSIDtext", 
+        "text": "ssid SSID", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "834*136", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]com.vrem.wifianalyzer:id/filterSSIDtext", 
+        "is_password": false, 
+        "parent": 13, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "com.vrem.wifianalyzer", 
+        "long_clickable": true, 
+        "view_str": "29287fe9ed143e40523d3d53ffada002", 
+        "enabled": true, 
+        "bounds": [
+          [
+            123, 
+            662
+          ], 
+          [
+            957, 
+            798
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]com.vrem.wifianalyzer:id/filterSSIDtext[text]ssid SSID[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "d57b3aa0a42a99528bfb809c12a51eab"
+}

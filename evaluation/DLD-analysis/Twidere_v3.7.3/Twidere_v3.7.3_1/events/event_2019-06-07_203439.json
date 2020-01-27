@@ -1,0 +1,355 @@
+{
+  "stop_state": "7d291377ba52579afe764979b6df560f", 
+  "event_str": "FillUIEvent(state=aa088653632a85dd2fda3dd7580e622f, views=['9e5e011b8f787e1e592bc96750c52a9a', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49', 'b407ff0211d9294de8dc1b81e104ff49'])", 
+  "tag": "2019-06-07_203439", 
+  "event": {
+    "views_str": [
+      "9e5e011b8f787e1e592bc96750c52a9a", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49", 
+      "b407ff0211d9294de8dc1b81e104ff49"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/editParticipants", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1032*136", 
+        "checked": false, 
+        "temp_id": 8, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/editParticipants", 
+        "is_password": false, 
+        "parent": 7, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": true, 
+        "view_str": "9e5e011b8f787e1e592bc96750c52a9a", 
+        "enabled": true, 
+        "bounds": [
+          [
+            24, 
+            264
+          ], 
+          [
+            1056, 
+            400
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]org.mariotaku.twidere:id/editParticipants[text]test123[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 15, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 10, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            472
+          ], 
+          [
+            1056, 
+            568
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 21, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 16, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            664
+          ], 
+          [
+            1056, 
+            760
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 27, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 22, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            856
+          ], 
+          [
+            1056, 
+            952
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 33, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 28, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            1048
+          ], 
+          [
+            1056, 
+            1144
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 39, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 34, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            1240
+          ], 
+          [
+            1056, 
+            1336
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 45, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 40, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            1432
+          ], 
+          [
+            1056, 
+            1528
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*96", 
+        "checked": false, 
+        "temp_id": 51, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 46, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            1624
+          ], 
+          [
+            1056, 
+            1720
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "org.mariotaku.twidere:id/checkBox", 
+        "text": null, 
+        "visible": false, 
+        "checkable": true, 
+        "children": [], 
+        "size": "96*-40", 
+        "checked": false, 
+        "temp_id": 57, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox", 
+        "is_password": false, 
+        "parent": 52, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": false, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "org.mariotaku.twidere", 
+        "long_clickable": false, 
+        "view_str": "b407ff0211d9294de8dc1b81e104ff49", 
+        "enabled": true, 
+        "bounds": [
+          [
+            960, 
+            1816
+          ], 
+          [
+            1056, 
+            1776
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]org.mariotaku.twidere:id/checkBox[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "aa088653632a85dd2fda3dd7580e622f"
+}

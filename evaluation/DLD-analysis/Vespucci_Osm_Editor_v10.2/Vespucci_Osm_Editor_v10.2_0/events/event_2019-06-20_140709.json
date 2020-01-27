@@ -1,0 +1,127 @@
+{
+  "stop_state": "bc169f4eb7a84eeeedc44671c09a3693", 
+  "event_str": "FillUIEvent(state=3c7be5ead80083f8d04e87f30263cabe, views=['658c410f8288d610f0b7e5399c2724b6', '658c410f8288d610f0b7e5399c2724b6', '75242d7757286a37c8945eaff1b82306'])", 
+  "tag": "2019-06-20_140709", 
+  "event": {
+    "views_str": [
+      "658c410f8288d610f0b7e5399c2724b6", 
+      "658c410f8288d610f0b7e5399c2724b6", 
+      "75242d7757286a37c8945eaff1b82306"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": "Map Notes", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "261*51", 
+        "checked": false, 
+        "temp_id": 28, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 27, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "658c410f8288d610f0b7e5399c2724b6", 
+        "enabled": false, 
+        "bounds": [
+          [
+            60, 
+            1296
+          ], 
+          [
+            321, 
+            1347
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": "Map Data", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "237*51", 
+        "checked": false, 
+        "temp_id": 30, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 29, 
+        "focusable": false, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "658c410f8288d610f0b7e5399c2724b6", 
+        "enabled": false, 
+        "bounds": [
+          [
+            60, 
+            1365
+          ], 
+          [
+            297, 
+            1416
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[,,]"
+      }, 
+      {
+        "content_description": "Public GPS Traces", 
+        "resource_id": null, 
+        "text": null, 
+        "visible": true, 
+        "checkable": true, 
+        "children": [], 
+        "size": "399*51", 
+        "checked": false, 
+        "temp_id": 34, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.CheckBox[resource_id]None", 
+        "is_password": false, 
+        "parent": 33, 
+        "focusable": true, 
+        "editable": false, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.CheckBox", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": false, 
+        "view_str": "75242d7757286a37c8945eaff1b82306", 
+        "enabled": true, 
+        "bounds": [
+          [
+            60, 
+            1434
+          ], 
+          [
+            459, 
+            1485
+          ]
+        ], 
+        "signature": "[class]android.widget.CheckBox[resource_id]None[text]None[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "3c7be5ead80083f8d04e87f30263cabe"
+}

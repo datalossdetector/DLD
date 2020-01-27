@@ -1,0 +1,51 @@
+{
+  "stop_state": "df6b1b36b45b243aa70764613e63b162", 
+  "event_str": "FillUIEvent(state=41dc5d204c896561ee4c3afdf2dfd091, views=['0d9ec26f1ed0b98ff49ef3e75f2b3214'])", 
+  "tag": "2019-06-20_230340", 
+  "event": {
+    "views_str": [
+      "0d9ec26f1ed0b98ff49ef3e75f2b3214"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "de.blau.android:id/location_search_edit", 
+        "text": "test123", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "785*136", 
+        "checked": false, 
+        "temp_id": 16, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/location_search_edit", 
+        "is_password": false, 
+        "parent": 15, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "de.blau.android", 
+        "long_clickable": true, 
+        "view_str": "0d9ec26f1ed0b98ff49ef3e75f2b3214", 
+        "enabled": true, 
+        "bounds": [
+          [
+            147, 
+            875
+          ], 
+          [
+            932, 
+            1011
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]de.blau.android:id/location_search_edit[text]test123[enabled,,]"
+      }
+    ]
+  }, 
+  "start_state": "41dc5d204c896561ee4c3afdf2dfd091"
+}
