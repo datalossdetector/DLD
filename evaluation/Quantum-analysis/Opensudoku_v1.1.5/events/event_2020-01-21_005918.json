@@ -1,0 +1,89 @@
+{
+  "stop_state": "c6230a10b8457339480c2021c13cdb23", 
+  "event_str": "FillUIEvent", 
+  "tag": "2020-01-21_005918", 
+  "event": {
+    "views_str": [
+      "d63bf11351bce4c14c2f3013ff765e08", 
+      "ea4f80f4e1d27ae867621ea1de2a107a"
+    ], 
+    "event_type": "fill_UI", 
+    "views": [
+      {
+        "content_description": null, 
+        "resource_id": "cz.romario.opensudoku:id/filename", 
+        "text": "HardHelloWorld-2020-01-20", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 7, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]cz.romario.opensudoku:id/filename", 
+        "is_password": false, 
+        "parent": 5, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": true, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "cz.romario.opensudoku", 
+        "long_clickable": true, 
+        "view_str": "d63bf11351bce4c14c2f3013ff765e08", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            204
+          ], 
+          [
+            1080, 
+            348
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]cz.romario.opensudoku:id/filename[text]HardHelloWorld-2020-01-20[enabled,,]"
+      }, 
+      {
+        "content_description": null, 
+        "resource_id": "cz.romario.opensudoku:id/directory", 
+        "text": "/sdcard/opensudoku", 
+        "visible": true, 
+        "checkable": false, 
+        "children": [], 
+        "size": "1080*144", 
+        "checked": false, 
+        "temp_id": 9, 
+        "selected": false, 
+        "child_count": 0, 
+        "content_free_signature": "[class]android.widget.EditText[resource_id]cz.romario.opensudoku:id/directory", 
+        "is_password": false, 
+        "parent": 5, 
+        "focusable": true, 
+        "editable": true, 
+        "focused": false, 
+        "clickable": true, 
+        "class": "android.widget.EditText", 
+        "scrollable": false, 
+        "package": "cz.romario.opensudoku", 
+        "long_clickable": true, 
+        "view_str": "ea4f80f4e1d27ae867621ea1de2a107a", 
+        "enabled": false, 
+        "bounds": [
+          [
+            0, 
+            405
+          ], 
+          [
+            1080, 
+            549
+          ]
+        ], 
+        "signature": "[class]android.widget.EditText[resource_id]cz.romario.opensudoku:id/directory[text]/sdcard/opensudoku[,,]"
+      }
+    ]
+  }, 
+  "start_state": "b6201417eeda8b4c6b45b783a2d76ed9"
+}
