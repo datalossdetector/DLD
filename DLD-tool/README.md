@@ -1,7 +1,7 @@
 # Data Loss Detector: Automatically Revealing Data Loss Bugs in Android Apps
 Data Loss Detector (DLD) is a fully automatic tool able to detect Data Loss failures while exploring the app under test. 
 It works via command line, both on Windows OS and on Linux OS. 
-DLD exloits [Droidbot](https://github.com/honeynet/droidbot), a state-of-the-art test input generation tool for Android apps, to send to the connected Android device event sequences through which it explores the app under test, searching for Data Loss problems that may affect the app. 
+DLD exploits [Droidbot](https://github.com/honeynet/droidbot), a state-of-the-art test input generation tool for Android apps, to send to the connected Android device event sequences through which it explores the app under test, searching for Data Loss problems that may affect the app. 
 Finally, it produces a detailed report containing information about the exploration performed and the 
 Data Loss failures detected, also providing the possibility to reproduce them.
 
