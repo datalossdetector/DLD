@@ -1021,9 +1021,9 @@ class DataLossPolicy(InputPolicy):
         if out_dir is None:
             return
         import os
-        dir = out_dir + "/dataloss/%s" % DataLossPolicy.current_activity
-        if not os.path.isdir(DataLossPolicy.current_activity):
-            os.makedirs(out_dir + DataLossPolicy.current_activity)
+        dir = out_dir + "/dataloss/" + self.current_activity
+        if not os.path.isdir(dir):
+            os.makedirs(dir)
         file_state = open(dir + "/" + data_time + "_views.txt", "w")
         file_state.write("BEFORE: " + self.last_state.views.__str__() + "\nAFTER : " + self.current_state.views.__str__())
         file_state.close()
