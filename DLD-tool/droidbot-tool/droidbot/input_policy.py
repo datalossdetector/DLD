@@ -1021,18 +1021,9 @@ class DataLossPolicy(InputPolicy):
         if out_dir is None:
             return
         import os
-        dir = out_dir + "/dataloss"
-        if not os.path.isdir(dir):
-            os.makedirs(out_dir + "/dataloss")
-            os.makedirs(out_dir + "/dataloss/views")
-            os.makedirs(out_dir + "/dataloss/screenshots")
-            os.makedirs(out_dir + "/dataloss/views_and_screenshots")
-        if self.oracle_failed == "Views":
-            dir = out_dir + "/dataloss/views"
-        elif self.oracle_failed == "Screenshots":
-            dir = out_dir + "/dataloss/screenshots"
-        elif self.oracle_failed == "ViewsAndScreenshots":
-            dir = out_dir + "/dataloss/views_and_screenshots"
+        dir = out_dir + "/dataloss/%s" % DataLossPolicy.current_activity
+        if not os.path.isdir(DataLossPolicy.current_activity):
+            os.makedirs(out_dir + DataLossPolicy.current_activity)
         file_state = open(dir + "/" + data_time + "_views.txt", "w")
         file_state.write("BEFORE: " + self.last_state.views.__str__() + "\nAFTER : " + self.current_state.views.__str__())
         file_state.close()
