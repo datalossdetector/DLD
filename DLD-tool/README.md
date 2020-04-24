@@ -43,12 +43,12 @@ Data Loss failures detected, also providing the possibility to reproduce them.
       - **pip install -e .**
       - **cd ..**
       - **pip install -e .**
-3) Check whether it is correctly installed typing **dld -h** (different options should appear)
+3) Check whether it is correctly installed by typing **dld -h** (different options should appear)
 
 ## How to use the tool
 DLD works via command line and requires only the apk file of the app to be tested. It is not necessary to be inside the DLD folder to start the tool. It is possible to set the execution time in terms of either time in seconds or number of events to be generated. 
 1) Make sure you have an Android device opened and connected via ADB (check it out by typing **adb devices**)
-2) Launch DLD typing **dld -a <appname.apk> -o <output_folder>**. This is the most basic command to start DLD using the default settings. 
+2) Launch DLD by typing **dld -a <appname.apk> -o <output_folder>**. This is the most basic command to start DLD using the default settings. 
 You can add one or more customized settings:
    - **-is_emulator**: add this option if you are using an Android Virtual Device
    - **-scroll_full_down_y \<number\>**: the y coordinate on the screen from which DLD starts to swipe up (1600 by default)
