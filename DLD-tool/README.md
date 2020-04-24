@@ -65,7 +65,7 @@ As a result, DLD will not be able to start the app. If this happens, specify the
    - type **dld --help** or **dld -h** for more details
 
 ## How to read the results
-DLD reports all the information into the *output_folder* (specified with the *-o* option). In this folder, DLD creates the *report.html* file that contains detailed information about the exploration. In addition, DLD provides the *dataloss* folder, which contains all the Data Loss failures detected during the execution. They are divided into three folders, each of which corresponds to a specific oracle.  Here, each Data Loss failure is reported by 3 files:
+DLD reports all the information into the *output_folder* (specified with the *-o* option). In this folder, DLD creates the *report.html* file that contains detailed information about the exploration. In addition, DLD provides the *dataloss* folder, which contains all the Data Loss failures detected during the execution divided by activity. Each Data Loss failure is reported by 3 files:
 - year_month_day_hour_minute_second before.png, which is the screenshot taken before the double orientation change
 - year_month_day_hour_minute_second after.png, which is the screenshot taken after the double orientation change
 - year_month_day_hour_minute_second views.txt, which contains the descriptions of the views both before and after the double orientation change
