@@ -36,19 +36,18 @@ Data Loss failures detected, also providing the possibility to reproduce them.
         - It should be *C:/Program Files/Java/jdk1.8.0_191/bin* 
 
 ## How to install
-1) **git clone https://gitlab.com/learnERC/datalosstestingtool.git**
-2) **cd DLD-tool**
-3) **python installer.py -install** (to uninstall DLD, use the **-uninstall** option)
+1) **cd DLD-tool**
+2) **python installer.py -install** (to uninstall DLD, use the **-uninstall** option)
    - If installer.py does not work, then install DLD manually:
       - **cd droidbot-tool**
       - **pip install -e .**
       - **cd ..**
       - **pip install -e .**
-4) Check whether it is correctly installed typing **dld -h**
+3) Check whether it is correctly installed typing **dld -h** (different options should appear)
 
 ## How to use the tool
 DLD works via command line and requires only the apk file of the app to be tested. It is not necessary to be inside the DLD folder to start the tool. It is possible to set the execution time in terms of either time in seconds or number of events to be generated. 
-1) Make sure you have an Android device opened and connected via ADB (check it out typing **adb devices**)
+1) Make sure you have an Android device opened and connected via ADB (check it out by typing **adb devices**)
 2) Launch DLD typing **dld -a <appname.apk> -o <output_folder>**. This is the most basic command to start DLD using the default settings. 
 You can add one or more customized settings:
    - **-is_emulator**: add this option if you are using an Android Virtual Device
@@ -63,15 +62,15 @@ As a result, DLD will not be able to start the app. If this happens, specify the
    - **-script <your_script.json>**: specify the json script to force DLD to execute specific actions. It is useful if the app requires, for example, a login
    - **-grant_perm**: it grants all the permissions the app requires (recommanded)
    - **-keep_app**: it does not uninstall the app after the execution of DLD
-   - type **dld --help** for more details
+   - type **dld --help** or **dld -h** for more details
 
 ## How to read the results
 DLD reports all the information into the *output_folder* (specified with the *-o* option). In this folder, DLD creates the *report.html* file that contains detailed information about the exploration. In addition, DLD provides the *dataloss* folder, which contains all the Data Loss failures detected during the execution. They are divided into three folders, each of which corresponds to a specific oracle.  Here, each Data Loss failure is reported by 3 files:
-- year_month_day_hour_minute_second_before.png, which is the screenshot taken before the double orientation change
-- year_month_day_hour_minute_second_after.png, which is the screenshot taken after the double orientation change
-- year_month_day_hour_minute_second_views.txt, which contains the descriptions of the views both before and after the double orientation change
+- year_month_day_hour_minute_second before.png, which is the screenshot taken before the double orientation change
+- year_month_day_hour_minute_second after.png, which is the screenshot taken after the double orientation change
+- year_month_day_hour_minute_second views.txt, which contains the descriptions of the views both before and after the double orientation change
 
-Note that it exists a corrispondence between the discovery date of a specific Data Loss failure inside the *report.html* and the name of the files that represent such failure. 
+Note that there is a corrispondence between the discovery date of a specific Data Loss failure inside the *report.html* and the name of the files that represent such failure. 
 
 ## How to replay the Data Loss failures detected in a previous exploration
 DLD allows to reproduce the exact event sequence generated in a previous execution, in order to reproduce the Data Loss failures detected.
