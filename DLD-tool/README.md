@@ -49,7 +49,7 @@ Data Loss failures detected, also providing the possibility to reproduce them.
 DLD works via command line and requires only the apk file of the app to be tested. It is not necessary to be inside the DLD folder to start the tool. It is possible to set the execution time in terms of either time in seconds or number of events to be generated. 
 1) Make sure you have an Android device opened and connected via ADB (check it out by typing **adb devices**)
 2) Launch DLD by typing **dld -a <appname.apk> -o <output_folder>**. This is the most basic command to start DLD using the default settings. 
-You can add one or more customized settings:
+It is possible to add one or more customized settings:
    - **-is_emulator**: add this option if you are using an Android Virtual Device
    - **-scroll_full_down_y \<number\>**: the y coordinate on the screen from which DLD starts to swipe up (1600 by default)
    - **-main_activity <activity_name>**: the activity used by DLD to start the app. Sometimes, DLD fails to get the correct main activity from the manifest.xml of the app. For example, in the "Bee Count" app, it uses *com.knirirr.beecount..WelcomeActivity* (with two dots) instead of *com.knirirr.beecount.WelcomeActivity* (with one dot).
